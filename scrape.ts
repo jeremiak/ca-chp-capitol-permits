@@ -46,7 +46,7 @@ async function scrapePermitsForRange(
       const permit = {
         status,
         number,
-        url: `https://capitolpermits.chp.ca.gov/${href}`,
+        url: `https://capitolpermits.chp.ca.gov${href}`,
         eventSponsor,
         locationOnCapitolGrounds,
         startDateTime,
