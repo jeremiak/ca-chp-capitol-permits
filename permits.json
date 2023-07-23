@@ -1,6 +1,18 @@
 [
   {
     "status": "approved",
+    "number": "2022-890",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9381",
+    "eventSponsor": "Community Gathering for California Indian Day",
+    "locationOnCapitolGrounds": "Area 27, Area 34",
+    "startDateTime": "9/22/2023 6:00 PM",
+    "setUpDateTime": "9/22/2023 5:00 PM",
+    "endDateTime": "9/22/2023 9:00 PM",
+    "participants": 50,
+    "details": "A group of community people will gather at the Oak tree and Grinding Rock to pay respect to past, present and future generations of Californias first inhabitants. A California Dance group will dance a set of dances."
+  },
+  {
+    "status": "approved",
     "number": "2022-907",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9418",
     "eventSponsor": "Sweet 16 ",
@@ -229,6 +241,18 @@
   },
   {
     "status": "approved",
+    "number": "2023-531",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9892",
+    "eventSponsor": "Rehearsal  ",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "9/22/2023 7:15 PM",
+    "setUpDateTime": "9/22/2023 7:15 PM",
+    "endDateTime": "9/22/2023 9:15 PM",
+    "participants": 30,
+    "details": "Rehearsal for wedding in same spot the next day"
+  },
+  {
+    "status": "approved",
     "number": "2023-539",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9901",
     "eventSponsor": "Mexico Independence Day Celebration by the Mexican Cultural Center of Northern California ",
@@ -370,6 +394,18 @@
     "endDateTime": "8/26/2023 12:00 PM",
     "participants": 150,
     "details": "Eagle Scout Court of Honor"
+  },
+  {
+    "status": "approved",
+    "number": "2023-62",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9379",
+    "eventSponsor": "Native American Day",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/22/2023 10:00 AM",
+    "setUpDateTime": "9/22/2023 6:00 AM",
+    "endDateTime": "9/22/2023 7:00 PM",
+    "participants": 1000,
+    "details": "To celebrate the first peoples of California"
   },
   {
     "status": "approved",
