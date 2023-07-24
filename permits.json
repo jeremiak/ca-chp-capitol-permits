@@ -72,6 +72,18 @@
     "details": "Chanting, feast and music and chariot festivals, meditation"
   },
   {
+    "status": "pending",
+    "number": "2023-318",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9674",
+    "eventSponsor": "Women Who Pray Ministries",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/23/2023 9:00 AM",
+    "setUpDateTime": "9/23/2023 9:00 AM",
+    "endDateTime": "9/23/2023 5:00 PM",
+    "participants": 100,
+    "details": "Prayer Rally with a speaker, and worship music (similar to church). Will need electrical access."
+  },
+  {
     "status": "approved",
     "number": "2023-34",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9251",
@@ -109,6 +121,18 @@
   },
   {
     "status": "approved",
+    "number": "2023-40",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9304",
+    "eventSponsor": "Romero Ballard Wedding",
+    "locationOnCapitolGrounds": "Area 1, Area 5",
+    "startDateTime": "9/23/2023 12:30 PM",
+    "setUpDateTime": "9/23/2023 9:30 AM",
+    "endDateTime": "9/23/2023 2:30 PM",
+    "participants": 200,
+    "details": "We hope to use this space to host our wedding ceremony."
+  },
+  {
+    "status": "approved",
     "number": "2023-409",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9766",
     "eventSponsor": "She Leads California",
@@ -118,6 +142,18 @@
     "endDateTime": "9/9/2023 1:30 PM",
     "participants": 250,
     "details": "A gathering of women leaders in various spheres of influence to pray over California."
+  },
+  {
+    "status": "approved",
+    "number": "2023-412",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9769",
+    "eventSponsor": "Rossi wedding ceremony ",
+    "locationOnCapitolGrounds": "Area 1, Area 5",
+    "startDateTime": "9/23/2023 5:00 PM",
+    "setUpDateTime": "9/23/2023 3:00 PM",
+    "endDateTime": "9/23/2023 7:30 PM",
+    "participants": 130,
+    "details": "This is for a wedding ceremony only after there will be only pictures and we will leave to go to a restaurant downtown for the reception."
   },
   {
     "status": "approved",
@@ -850,6 +886,18 @@
     "endDateTime": "8/19/2023 4:00 PM",
     "participants": 6,
     "details": "Our Youth Entrepreneur Program will be out with shaved ice and information about our program and services that our non-profit organization contributes to communities."
+  },
+  {
+    "status": "pending",
+    "number": "2023-738",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10129",
+    "eventSponsor": "Ukrainian Community Culture Center",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/26/2023 5:00 PM",
+    "setUpDateTime": "8/26/2023 4:30 PM",
+    "endDateTime": "8/26/2023 9:00 PM",
+    "participants": 150,
+    "details": "Prayer for Ukraine"
   },
   {
     "status": "approved",
