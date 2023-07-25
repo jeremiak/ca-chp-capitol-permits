@@ -25,6 +25,18 @@
   },
   {
     "status": "approved",
+    "number": "2023-160",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9516",
+    "eventSponsor": "Walk for PKD",
+    "locationOnCapitolGrounds": "West Side, Area 1, Area 5, Area 22, Area 27, Area 33, Area 34",
+    "startDateTime": "9/24/2023 9:00 AM",
+    "setUpDateTime": "9/24/2023 7:00 AM",
+    "endDateTime": "9/24/2023 12:00 PM",
+    "participants": 100,
+    "details": "Walk to raise funds and awareness for PKD (Polycystic Kidney Disease)."
+  },
+  {
+    "status": "approved",
     "number": "2023-204",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9560",
     "eventSponsor": "Legends of Wine",
@@ -864,7 +876,7 @@
     "details": "Wedding Ceramony"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-733",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10124",
     "eventSponsor": "Promotion Ceremony",
@@ -888,16 +900,88 @@
     "details": "Our Youth Entrepreneur Program will be out with shaved ice and information about our program and services that our non-profit organization contributes to communities."
   },
   {
-    "status": "pending",
+    "status": "approved",
+    "number": "2023-736",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10127",
+    "eventSponsor": "Candlelight Vigil in Support of Ukraine Sunflower Society",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/24/2023 7:00 PM",
+    "setUpDateTime": "9/24/2023 6:00 PM",
+    "endDateTime": "9/24/2023 9:45 PM",
+    "participants": 200,
+    "details": "Rally in support of Ukraine"
+  },
+  {
+    "status": "approved",
     "number": "2023-738",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10129",
-    "eventSponsor": "Ukrainian Community Culture Center",
+    "eventSponsor": "Pray for Ukraine- Ukrainian Community Culture Center",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "8/26/2023 5:00 PM",
     "setUpDateTime": "8/26/2023 4:30 PM",
     "endDateTime": "8/26/2023 9:00 PM",
     "participants": 150,
     "details": "Prayer for Ukraine"
+  },
+  {
+    "status": "pending",
+    "number": "2023-739",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10130",
+    "eventSponsor": "Video Shoot for DPR Onboarding Class",
+    "locationOnCapitolGrounds": "West Side, Area 22, Area 27",
+    "startDateTime": "7/28/2023 8:00 AM",
+    "setUpDateTime": "7/28/2023 7:00 AM",
+    "endDateTime": "7/28/2023 9:30 AM",
+    "participants": 4,
+    "details": "Video shoot for the California Department of Parks and Recreation's upcoming online onboarding class"
+  },
+  {
+    "status": "pending",
+    "number": "2023-740",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10131",
+    "eventSponsor": " SB 94 Judicial Review press conference",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "7/27/2023 10:15 AM",
+    "setUpDateTime": "7/27/2023 10:00 AM",
+    "endDateTime": "7/27/2023 10:45 AM",
+    "participants": 30,
+    "details": "A press conference and rally supporting SB 94, a criminal justice reform bill."
+  },
+  {
+    "status": "pending",
+    "number": "2023-741",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10132",
+    "eventSponsor": "Press conference for SB 553 to prevent workplace violence",
+    "locationOnCapitolGrounds": "Area 27, Area 34",
+    "startDateTime": "7/27/2023 10:00 AM",
+    "setUpDateTime": "7/27/2023 9:30 AM",
+    "endDateTime": "7/27/2023 10:45 AM",
+    "participants": 20,
+    "details": "Senator Cortese would host a press conference for his SB 553 to prevent workplace violence with new workplace safeguards."
+  },
+  {
+    "status": "pending",
+    "number": "2023-742",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10133",
+    "eventSponsor": "Press conference for SB 553 to prevent workplace violence",
+    "locationOnCapitolGrounds": "Area 27, Area 34",
+    "startDateTime": "8/29/2023 10:00 AM",
+    "setUpDateTime": "8/29/2023 9:30 AM",
+    "endDateTime": "8/29/2023 11:00 AM",
+    "participants": 20,
+    "details": "Press conference for SB 553 to prevent workplace violence."
+  },
+  {
+    "status": "pending",
+    "number": "2023-743",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10134",
+    "eventSponsor": "Press conference for SB 94 judicial review",
+    "locationOnCapitolGrounds": "Area 22",
+    "startDateTime": "8/23/2023 10:00 AM",
+    "setUpDateTime": "8/23/2023 9:30 AM",
+    "endDateTime": "8/23/2023 11:00 AM",
+    "participants": 20,
+    "details": "Press conference for SB 94, a criminal justice reform bill."
   },
   {
     "status": "approved",
