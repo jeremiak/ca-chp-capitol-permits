@@ -343,7 +343,7 @@
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "8/16/2023 9:00 AM",
     "setUpDateTime": "8/16/2023 6:00 AM",
-    "endDateTime": "8/16/2023 6:00 PM",
+    "endDateTime": "8/16/2023 3:00 PM",
     "participants": 100,
     "details": "Lawmakers, agency leaders, public safety officials, and media will tour AT&T's emergency communications vehicles and other disaster relief assets."
   },
@@ -641,11 +641,11 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10080",
     "eventSponsor": "Zum Electric School Bus Press Conference",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "8/1/2023 10:00 AM",
-    "setUpDateTime": "8/1/2023 8:00 AM",
-    "endDateTime": "8/1/2023 11:00 AM",
+    "startDateTime": "8/16/2023 10:00 AM",
+    "setUpDateTime": "8/16/2023 9:00 AM",
+    "endDateTime": "8/16/2023 11:30 AM",
     "participants": 50,
-    "details": "press conference about their company, Governor possible to speak"
+    "details": "Press conference about Zum Electric School Bus and the future of providing safe transportation to students while limiting the carbon footprint."
   },
   {
     "status": "pending",
@@ -924,7 +924,7 @@
     "details": "Prayer for Ukraine"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-739",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10130",
     "eventSponsor": "Video Shoot for DPR Onboarding Class",
@@ -982,6 +982,42 @@
     "endDateTime": "8/23/2023 11:00 AM",
     "participants": 20,
     "details": "Press conference for SB 94, a criminal justice reform bill."
+  },
+  {
+    "status": "approved",
+    "number": "2023-744",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10135",
+    "eventSponsor": "Tea Gathering",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "8/6/2023 9:00 AM",
+    "setUpDateTime": "8/6/2023 7:30 AM",
+    "endDateTime": "8/6/2023 1:00 PM",
+    "participants": 14,
+    "details": "Birthday Tea gathering with Friends"
+  },
+  {
+    "status": "pending",
+    "number": "2023-745",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10136",
+    "eventSponsor": "SB 10 fentanyl press conference ",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "9/19/2023 10:00 AM",
+    "setUpDateTime": "9/19/2023 9:30 AM",
+    "endDateTime": "9/19/2023 10:45 AM",
+    "participants": 20,
+    "details": "A press event for SB 10 to prevent student fentanyl overdoses in schools."
+  },
+  {
+    "status": "pending",
+    "number": "2023-746",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10137",
+    "eventSponsor": "Small Business Owners Gathering",
+    "locationOnCapitolGrounds": "Area 33",
+    "startDateTime": "8/23/2023 8:00 AM",
+    "setUpDateTime": "8/23/2023 8:00 AM",
+    "endDateTime": "8/23/2023 12:00 PM",
+    "participants": 80,
+    "details": "Gathering of small business owners from California."
   },
   {
     "status": "approved",
