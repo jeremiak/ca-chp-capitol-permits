@@ -49,6 +49,18 @@
   },
   {
     "status": "approved",
+    "number": "2023-206",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9562",
+    "eventSponsor": "Elevate Youth California Youth Rally",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/26/2023 9:00 AM",
+    "setUpDateTime": "9/26/2023 6:00 AM",
+    "endDateTime": "9/26/2023 4:00 PM",
+    "participants": 1000,
+    "details": "This will be part of a two-day convening of Elevate Youth California funded partners, youth and young adults."
+  },
+  {
+    "status": "approved",
     "number": "2023-257",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9613",
     "eventSponsor": "Livival and The Gospel Show",
@@ -960,19 +972,19 @@
     "details": "Senator Cortese would host a press conference for his SB 553 to prevent workplace violence with new workplace safeguards."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-742",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10133",
     "eventSponsor": "Press conference for SB 553 to prevent workplace violence",
-    "locationOnCapitolGrounds": "Area 27, Area 34",
+    "locationOnCapitolGrounds": "West Side",
     "startDateTime": "8/29/2023 10:00 AM",
     "setUpDateTime": "8/29/2023 9:30 AM",
     "endDateTime": "8/29/2023 11:00 AM",
     "participants": 20,
-    "details": "Press conference for SB 553 to prevent workplace violence."
+    "details": "Press conference for SB 553 to prevent workplace violence.  This will be close to 10th and L on the North portion of the West side of the Capitol."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-743",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10134",
     "eventSponsor": "Press conference for SB 94 judicial review",
@@ -996,19 +1008,19 @@
     "details": "Birthday Tea gathering with Friends"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-745",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10136",
     "eventSponsor": "SB 10 fentanyl press conference ",
-    "locationOnCapitolGrounds": "Other",
+    "locationOnCapitolGrounds": "West Side",
     "startDateTime": "9/19/2023 10:00 AM",
     "setUpDateTime": "9/19/2023 9:30 AM",
     "endDateTime": "9/19/2023 10:45 AM",
     "participants": 20,
-    "details": "A press event for SB 10 to prevent student fentanyl overdoses in schools."
+    "details": "A press event for SB 10 to prevent student fentanyl overdoses in schools.  This will be closer to N and 10th on the South side of the West side of the Capitol."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-746",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10137",
     "eventSponsor": "Small Business Owners Gathering",
@@ -1018,6 +1030,42 @@
     "endDateTime": "8/23/2023 12:00 PM",
     "participants": 80,
     "details": "Gathering of small business owners from California."
+  },
+  {
+    "status": "approved",
+    "number": "2023-747",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10138",
+    "eventSponsor": "Strategy 6",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/6/2023 7:30 PM",
+    "setUpDateTime": "8/6/2023 7:00 PM",
+    "endDateTime": "8/6/2023 9:30 PM",
+    "participants": 50,
+    "details": "The rally is an action in support of political prisoners in Russia and the CIS countries"
+  },
+  {
+    "status": "approved",
+    "number": "2023-748",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10139",
+    "eventSponsor": " Rally Against Putin's Regime of War and Violence! Sanction Warmongers Now!",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/20/2023 7:00 PM",
+    "setUpDateTime": "8/20/2023 6:45 PM",
+    "endDateTime": "8/20/2023 9:45 PM",
+    "participants": 500,
+    "details": "In a display of unity and determination, citizens of Russia and activists from around the world are joining forces to denounce Vladimir Putin. For over 2 decades, Russia has endured the iron grip of an informational autocracy, concentrating power in the hands of one person and suppressing dissent through total censorship and repression. We, the citizens of Russia refuse to be silent. We stand with Ukraine! Putin's ruthless persuit of power has led to the suffering and deaths of countless innocent lives. It's time for the global community to take a stand against this bloodthirsty dictator! Stop Putin! Sanction warmongers!"
+  },
+  {
+    "status": "pending",
+    "number": "2023-749",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10140",
+    "eventSponsor": "Stop spraying bible reading",
+    "locationOnCapitolGrounds": "Area 5",
+    "startDateTime": "7/29/2023 12:00 PM",
+    "setUpDateTime": "7/29/2023 6:00 AM",
+    "endDateTime": "7/29/2023 8:00 PM",
+    "participants": 2,
+    "details": "Stop spraying our sky bible reading"
   },
   {
     "status": "approved",
