@@ -1056,16 +1056,52 @@
     "details": "In a display of unity and determination, citizens of Russia and activists from around the world are joining forces to denounce Vladimir Putin. For over 2 decades, Russia has endured the iron grip of an informational autocracy, concentrating power in the hands of one person and suppressing dissent through total censorship and repression. We, the citizens of Russia refuse to be silent. We stand with Ukraine! Putin's ruthless persuit of power has led to the suffering and deaths of countless innocent lives. It's time for the global community to take a stand against this bloodthirsty dictator! Stop Putin! Sanction warmongers!"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-749",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10140",
     "eventSponsor": "Stop spraying bible reading",
-    "locationOnCapitolGrounds": "Area 5",
-    "startDateTime": "7/29/2023 12:00 PM",
-    "setUpDateTime": "7/29/2023 6:00 AM",
-    "endDateTime": "7/29/2023 8:00 PM",
+    "locationOnCapitolGrounds": "Area 34",
+    "startDateTime": "7/31/2023 5:00 PM",
+    "setUpDateTime": "7/31/2023 4:30 PM",
+    "endDateTime": "7/31/2023 8:00 PM",
     "participants": 2,
     "details": "Stop spraying our sky bible reading"
+  },
+  {
+    "status": "approved",
+    "number": "2023-750",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10141",
+    "eventSponsor": "Reading of the Book of Ruth Chapters 1-2",
+    "locationOnCapitolGrounds": "Area 22, Area 33",
+    "startDateTime": "8/3/2023 6:00 PM",
+    "setUpDateTime": "8/3/2023 5:45 PM",
+    "endDateTime": "8/3/2023 7:45 PM",
+    "participants": 20,
+    "details": "The reading of the Book of Esther. We will learn about this historical account of a woman who was slave and became queen. We learn about how God is always with us. Obedience over sacrifice. There will be refreshments. Bring a chair or a blanket and enjoy the Spanish guitar playing in the background. Look for us by the roses."
+  },
+  {
+    "status": "pending",
+    "number": "2023-751",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10142",
+    "eventSponsor": "Promotion Ceremony from Lieutenant to Captain",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "7/30/2023 11:00 AM",
+    "setUpDateTime": "7/30/2023 11:00 AM",
+    "endDateTime": "7/30/2023 11:30 AM",
+    "participants": 15,
+    "details": "Very small promotion ceremony for Lt Santos to promote to Captain in the USAF.  No equipment, just the promotee, oath official, and family.  Anticipate it only being 15-20 minutes maximum."
+  },
+  {
+    "status": "pending",
+    "number": "2023-752",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10143",
+    "eventSponsor": "Save Our Capitol West Steps Event",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "7/30/2023 9:00 AM",
+    "setUpDateTime": "7/30/2023 8:00 AM",
+    "endDateTime": "7/30/2023 10:30 AM",
+    "participants": 20,
+    "details": "Tentative on details at the moment. Potentially West Steps mourning event, potentially a press conference regarding recent events."
   },
   {
     "status": "approved",
