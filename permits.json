@@ -25,6 +25,18 @@
   },
   {
     "status": "approved",
+    "number": "2023-154",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9510",
+    "eventSponsor": "California Association of the Deaf event- ASL Celebration",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/28/2023 10:00 AM",
+    "setUpDateTime": "9/28/2023 7:00 AM",
+    "endDateTime": "9/28/2023 5:00 PM",
+    "participants": 500,
+    "details": "Recognize our ASL as Language and celebrating Deaf Awarness."
+  },
+  {
+    "status": "approved",
     "number": "2023-160",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9516",
     "eventSponsor": "Walk for PKD",
@@ -346,6 +358,18 @@
     "endDateTime": "9/2/2023 2:00 PM",
     "participants": 50,
     "details": "wedding ceremony"
+  },
+  {
+    "status": "approved",
+    "number": "2023-573",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9944",
+    "eventSponsor": "2023 National EMS Memorial Bike Ride Day 4 Opening Ceremony",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/28/2023 9:00 AM",
+    "setUpDateTime": "9/28/2023 7:00 AM",
+    "endDateTime": "9/28/2023 10:00 AM",
+    "participants": 55,
+    "details": "This annual event is the Opening Day cermeony for Day 5 of the National EMS Memorial Bike Ride (NEMSMBR) - West Coast. The NEMSMBR is a six day ride from Reno, NV. to San Francisco, CA to honor fallen EMS personnel who have died and dedicated thier lives to servicing their communities as EMS personnel."
   },
   {
     "status": "approved",
@@ -1060,10 +1084,10 @@
     "number": "2023-749",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10140",
     "eventSponsor": "Stop spraying bible reading",
-    "locationOnCapitolGrounds": "Area 34",
-    "startDateTime": "7/31/2023 5:00 PM",
-    "setUpDateTime": "7/31/2023 4:30 PM",
-    "endDateTime": "7/31/2023 8:00 PM",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "7/31/2023 1:00 PM",
+    "setUpDateTime": "7/31/2023 1:00 PM",
+    "endDateTime": "7/31/2023 6:00 PM",
     "participants": 2,
     "details": "Stop spraying our sky bible reading"
   },
@@ -1085,9 +1109,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10142",
     "eventSponsor": "Promotion Ceremony from Lieutenant to Captain",
     "locationOnCapitolGrounds": "Area 1",
-    "startDateTime": "7/30/2023 11:00 AM",
-    "setUpDateTime": "7/30/2023 11:00 AM",
-    "endDateTime": "7/30/2023 11:30 AM",
+    "startDateTime": "8/13/2023 4:00 AM",
+    "setUpDateTime": "8/13/2023 4:00 AM",
+    "endDateTime": "8/13/2023 4:00 AM",
     "participants": 15,
     "details": "Very small promotion ceremony for Lt Santos to promote to Captain in the USAF.  No equipment, just the promotee, oath official, and family.  Anticipate it only being 15-20 minutes maximum."
   },
@@ -1097,9 +1121,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10143",
     "eventSponsor": "Save Our Capitol West Steps Event",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "7/30/2023 9:00 AM",
-    "setUpDateTime": "7/30/2023 8:00 AM",
-    "endDateTime": "7/30/2023 10:30 AM",
+    "startDateTime": "8/13/2023 4:00 AM",
+    "setUpDateTime": "8/13/2023 4:00 AM",
+    "endDateTime": "8/13/2023 4:00 AM",
     "participants": 20,
     "details": "Tentative on details at the moment. Potentially West Steps mourning event, potentially a press conference regarding recent events."
   },
