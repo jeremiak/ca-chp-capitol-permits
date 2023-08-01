@@ -169,6 +169,18 @@
   },
   {
     "status": "approved",
+    "number": "2023-403",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9760",
+    "eventSponsor": "Alondra and Brians Ceremony",
+    "locationOnCapitolGrounds": "Area 22, Area 33",
+    "startDateTime": "9/30/2023 1:30 PM",
+    "setUpDateTime": "9/30/2023 12:30 PM",
+    "endDateTime": "9/30/2023 3:30 PM",
+    "participants": 50,
+    "details": "1 hour Wedding Ceremony of 50 people between the times of 1230pm-330pm."
+  },
+  {
+    "status": "approved",
     "number": "2023-409",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9766",
     "eventSponsor": "She Leads California",
@@ -205,6 +217,18 @@
   },
   {
     "status": "approved",
+    "number": "2023-46",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9336",
+    "eventSponsor": "Rotary Club of Sacramento Foundation-Sac Century Challenge",
+    "locationOnCapitolGrounds": "West Side, Traffic Circle",
+    "startDateTime": "9/30/2023 6:00 AM",
+    "setUpDateTime": "9/30/2023 5:00 AM",
+    "endDateTime": "9/30/2023 7:00 PM",
+    "participants": 100,
+    "details": "10th annual Sacramento Century Challenge to benefit the Crisis Nursery."
+  },
+  {
+    "status": "approved",
     "number": "2023-460",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9817",
     "eventSponsor": "Reading of the Book of Esther Chapters 3-4",
@@ -226,6 +250,18 @@
     "endDateTime": "9/2/2023 6:00 PM",
     "participants": 20,
     "details": "1 CANOPY , 1 TABLE , 6 CHAIRS, FREE WATER AND SNACKS AND BOOKLETS IF SOMEONE ASKS , 2 SMALL SPEAKER , 1 MICROPHONE, 1 SPEAKER FOR ME TO SPEAK OUT OF THE OTHER IS FOR GUITAR PLAYING"
+  },
+  {
+    "status": "approved",
+    "number": "2023-468",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9825",
+    "eventSponsor": "Orozco Wedding",
+    "locationOnCapitolGrounds": "Area 5",
+    "startDateTime": "9/30/2023 3:00 PM",
+    "setUpDateTime": "9/30/2023 2:45 PM",
+    "endDateTime": "9/30/2023 4:30 PM",
+    "participants": 35,
+    "details": "Orozco-Tran Wedding."
   },
   {
     "status": "approved",
@@ -414,7 +450,7 @@
     "eventSponsor": "4th Annual Native American Cultural Awareness Event ",
     "locationOnCapitolGrounds": "Area 1",
     "startDateTime": "8/14/2023 5:00 PM",
-    "setUpDateTime": "8/14/2023 3:00 PM",
+    "setUpDateTime": "8/14/2023 2:00 PM",
     "endDateTime": "8/14/2023 8:00 PM",
     "participants": 100,
     "details": "This will be a 4th annual event in celebration of Native American Culture and Culture in general.  This will be near the Rose Garden."
@@ -521,9 +557,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10039",
     "eventSponsor": "Quinn and Emilys Wedding",
     "locationOnCapitolGrounds": "Area 1",
-    "startDateTime": "7/31/2023 6:15 PM",
-    "setUpDateTime": "7/31/2023 5:00 PM",
-    "endDateTime": "7/31/2023 8:00 PM",
+    "startDateTime": "8/20/2023 6:00 PM",
+    "setUpDateTime": "8/20/2023 5:00 PM",
+    "endDateTime": "8/20/2023 8:00 PM",
     "participants": 49,
     "details": "My husband and I will be getting married on the 31st of July this year. We dont have a lot of guest and it will be most likely lower than the number of participants i added above."
   },
@@ -1138,6 +1174,30 @@
     "endDateTime": "8/13/2023 4:00 AM",
     "participants": 20,
     "details": "Tentative on details at the moment. Potentially West Steps mourning event, potentially a press conference regarding recent events."
+  },
+  {
+    "status": "pending",
+    "number": "2023-753",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10144",
+    "eventSponsor": "California Association of Mental Health Peer Run Organizations",
+    "locationOnCapitolGrounds": "West Side, Area 27",
+    "startDateTime": "8/22/2023 9:00 AM",
+    "setUpDateTime": "8/22/2023 8:00 AM",
+    "endDateTime": "8/22/2023 6:00 PM",
+    "participants": 50,
+    "details": "We need a check-in spot for people showing for a legislative hearing can get water, pick-up t-shirts, and get information. We will have an ice chest of bottled water, a table, and a pop-up canopy."
+  },
+  {
+    "status": "pending",
+    "number": "2023-754",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10145",
+    "eventSponsor": "California Association of Local Conservation Corps ",
+    "locationOnCapitolGrounds": "Area 27, Area 34, Other",
+    "startDateTime": "8/3/2023 10:00 AM",
+    "setUpDateTime": "8/3/2023 8:30 AM",
+    "endDateTime": "8/3/2023 5:00 PM",
+    "participants": 70,
+    "details": "California Association of Local Conservation Corps' Government Education Day"
   },
   {
     "status": "approved",
