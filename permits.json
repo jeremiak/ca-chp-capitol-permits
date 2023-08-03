@@ -1200,23 +1200,23 @@
     "details": "Tentative on details at the moment. Potentially West Steps mourning event, potentially a press conference regarding recent events."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-753",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10144",
     "eventSponsor": "California Association of Mental Health Peer Run Organizations",
-    "locationOnCapitolGrounds": "West Side, Area 27",
+    "locationOnCapitolGrounds": "West Side",
     "startDateTime": "8/22/2023 9:00 AM",
     "setUpDateTime": "8/22/2023 8:00 AM",
     "endDateTime": "8/22/2023 6:00 PM",
     "participants": 50,
-    "details": "We need a check-in spot for people showing for a legislative hearing can get water, pick-up t-shirts, and get information. We will have an ice chest of bottled water, a table, and a pop-up canopy."
+    "details": "We need a check-in spot for people showing for a legislative hearing can get water, pick-up t-shirts, and get information. We will have an ice chest of bottled water, a table, and a pop-up canopy.  This will be on the Southwest corner of Capitol Property - closer to 10th and N under the trees."
   },
   {
     "status": "pending",
     "number": "2023-754",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10145",
     "eventSponsor": "California Association of Local Conservation Corps ",
-    "locationOnCapitolGrounds": "Area 27, Area 34, Other",
+    "locationOnCapitolGrounds": "Area 27, Area 34",
     "startDateTime": "8/25/2023 4:00 AM",
     "setUpDateTime": "8/25/2023 4:00 AM",
     "endDateTime": "8/25/2023 4:00 AM",
@@ -1224,14 +1224,14 @@
     "details": "California Association of Local Conservation Corps' Government Education Day"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-755",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10148",
     "eventSponsor": "Hanita and Henok Commitment Ceremony",
     "locationOnCapitolGrounds": "Area 5",
-    "startDateTime": "8/26/2023 4:00 AM",
-    "setUpDateTime": "8/26/2023 4:00 AM",
-    "endDateTime": "8/26/2023 4:00 AM",
+    "startDateTime": "9/3/2023 11:00 AM",
+    "setUpDateTime": "9/3/2023 8:00 AM",
+    "endDateTime": "9/3/2023 2:00 PM",
     "participants": 70,
     "details": "wedding Ceremony"
   },
@@ -1246,6 +1246,42 @@
     "endDateTime": "8/30/2023 7:30 AM",
     "participants": 150,
     "details": "Culmination with a run from the CHP Academy of 6 months training for the CHP at the Peace Officer Memorial followed by a brief ceremony on the West Steps.  The CHP Cadets will serve the People of the State of California as they become Officers."
+  },
+  {
+    "status": "approved",
+    "number": "2023-757",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10150",
+    "eventSponsor": "Care4All Press Event",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/20/2023 11:45 AM",
+    "setUpDateTime": "9/20/2023 11:00 AM",
+    "endDateTime": "9/20/2023 1:00 PM",
+    "participants": 30,
+    "details": "Press event to highlight the human impact of the Care4All priority bills.  This will be on the West Steps."
+  },
+  {
+    "status": "approved",
+    "number": "2023-758",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10151",
+    "eventSponsor": "Care4All Press Event",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/19/2023 11:30 AM",
+    "setUpDateTime": "9/19/2023 10:30 AM",
+    "endDateTime": "9/19/2023 12:45 PM",
+    "participants": 30,
+    "details": "Press Event to highlight the human impact of the Care4All priority bills.  This will be on the Southwest side under the trees closer to 10th and N."
+  },
+  {
+    "status": "approved",
+    "number": "2023-759",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10152",
+    "eventSponsor": "California Admission Day",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/7/2023 11:00 AM",
+    "setUpDateTime": "9/7/2023 10:00 AM",
+    "endDateTime": "9/7/2023 2:00 PM",
+    "participants": 80,
+    "details": "The California State Capitol Museum Volunteer Association would like to host this event, handing out ice cream and cake in honor of California's admission into the union on September 9, 1850.  This will take place under the trees on the West Side, north of the center lawn toward L Street."
   },
   {
     "status": "approved",
