@@ -1308,14 +1308,14 @@
     "details": "Walston Wedding ceremony"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-763",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10157",
     "eventSponsor": "Move LA",
-    "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "8/6/2023 10:00 AM",
-    "setUpDateTime": "8/6/2023 9:30 AM",
-    "endDateTime": "8/6/2023 11:30 AM",
+    "locationOnCapitolGrounds": "Area 34",
+    "startDateTime": "8/14/2023 11:00 AM",
+    "setUpDateTime": "8/14/2023 10:00 AM",
+    "endDateTime": "8/14/2023 1:00 PM",
     "participants": 50,
     "details": "Support for AB 610 (student transit passes)"
   },
@@ -1330,6 +1330,18 @@
     "endDateTime": "9/24/2023 8:00 PM",
     "participants": 500,
     "details": "We are looking to host a live music experience (with amplified  sound) where people can unite to receive fellowship and encouragement."
+  },
+  {
+    "status": "pending",
+    "number": "2023-766",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10160",
+    "eventSponsor": "wedding ceremony",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "8/17/2023 11:00 AM",
+    "setUpDateTime": "8/17/2023 10:00 AM",
+    "endDateTime": "8/17/2023 1:00 PM",
+    "participants": 10,
+    "details": "simple wedding ceremony. no food, drink, speakers etc."
   },
   {
     "status": "approved",
