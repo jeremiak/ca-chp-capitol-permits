@@ -421,6 +421,18 @@
   },
   {
     "status": "approved",
+    "number": "2023-575",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9946",
+    "eventSponsor": "Our Promise Kick Off",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/5/2023 8:00 AM",
+    "setUpDateTime": "10/5/2023 5:00 AM",
+    "endDateTime": "10/5/2023 3:30 PM",
+    "participants": 500,
+    "details": "Our Capitol Charitable Campaign Kick Off Event with over 100 non-profits representing to share ways State Workers can donate."
+  },
+  {
+    "status": "approved",
     "number": "2023-579",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9952",
     "eventSponsor": "ATT Emergency Communications Showcase",
