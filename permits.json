@@ -409,6 +409,18 @@
   },
   {
     "status": "approved",
+    "number": "2023-54",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9358",
+    "eventSponsor": "California Freethought Day 2023",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/8/2023 11:00 AM",
+    "setUpDateTime": "10/8/2023 7:30 AM",
+    "endDateTime": "10/8/2023 5:30 PM",
+    "participants": 405,
+    "details": "An annual event that encourages the freedom of speech and thought, civic engagement, enthusiasm for science, social justice, and the separation of church and state. This will be our 22nd event.  This will be on the West Side of the Capitol."
+  },
+  {
+    "status": "approved",
     "number": "2023-553",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9919",
     "eventSponsor": "Monique and Michael Commitment Ceremony",
@@ -725,9 +737,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10074",
     "eventSponsor": "Zhina Sacramento",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "9/16/2023 12:30 PM",
-    "setUpDateTime": "9/16/2023 12:00 PM",
-    "endDateTime": "9/16/2023 3:30 PM",
+    "startDateTime": "9/16/2023 12:00 PM",
+    "setUpDateTime": "9/16/2023 9:00 AM",
+    "endDateTime": "9/16/2023 5:00 PM",
     "participants": 500,
     "details": "On 16 September 2022, the 22-year-old Iranian woman Mahsa Amini also known as Zhina Amini died in a hospital because she was beat by police while she was in custody. We are going to have anniversary for her on that day."
   },
@@ -748,7 +760,7 @@
     "number": "2023-693",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10076",
     "eventSponsor": "UNITE HERE Rally",
-    "locationOnCapitolGrounds": "Area 22, Area 27",
+    "locationOnCapitolGrounds": "Area 22, Area 27, Area 34",
     "startDateTime": "8/16/2023 10:00 AM",
     "setUpDateTime": "8/16/2023 9:00 AM",
     "endDateTime": "8/16/2023 3:00 PM",
@@ -804,7 +816,7 @@
     "details": "Press conference possibly with Governor"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-701",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10085",
     "eventSponsor": "Ukraine Independence Day Rally",
@@ -812,7 +824,7 @@
     "startDateTime": "8/25/2023 5:00 PM",
     "setUpDateTime": "8/24/2023 8:00 AM",
     "endDateTime": "8/25/2023 10:00 PM",
-    "participants": 2000,
+    "participants": 2500,
     "details": "We are planning to hold the event for Ukrainian diaspora in Sacramento dedicated to the Independence Day of Ukraine.  The event will be held in format of concert. We also plane to install information stands and tents"
   },
   {
@@ -1418,14 +1430,26 @@
   {
     "status": "pending",
     "number": "2023-769",
-    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10164",
-    "eventSponsor": "AFSP California State Capitol Day",
-    "locationOnCapitolGrounds": "Other",
-    "startDateTime": "8/10/2023 8:00 AM",
-    "setUpDateTime": "8/10/2023 6:00 AM",
-    "endDateTime": "8/10/2023 12:00 PM",
-    "participants": 50,
-    "details": "Either a press or media opportunity, or a visual display."
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10165",
+    "eventSponsor": "Akens Wedding Vow Renewal",
+    "locationOnCapitolGrounds": "Area 5, Area 22, Area 27, Area 33",
+    "startDateTime": "8/11/2023 2:30 PM",
+    "setUpDateTime": "8/11/2023 12:00 PM",
+    "endDateTime": "8/11/2023 4:00 PM",
+    "participants": 130,
+    "details": "Wedding Vow Renewal"
+  },
+  {
+    "status": "pending",
+    "number": "2023-770",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10166",
+    "eventSponsor": "Press Conference- Protecting Children and Parental Rights",
+    "locationOnCapitolGrounds": "Area 27",
+    "startDateTime": "8/14/2023 12:00 PM",
+    "setUpDateTime": "8/14/2023 11:30 AM",
+    "endDateTime": "8/14/2023 1:00 PM",
+    "participants": 200,
+    "details": "Press Conference promoting local control and parental rights."
   },
   {
     "status": "approved",
