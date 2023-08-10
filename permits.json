@@ -775,9 +775,9 @@
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "8/12/2023 1:00 PM",
     "setUpDateTime": "8/12/2023 12:00 PM",
-    "endDateTime": "8/12/2023 5:00 PM",
+    "endDateTime": "8/12/2023 6:00 PM",
     "participants": 100,
-    "details": "The California Karen Youth Connection will present the 75th Anniversary of Karen Martyrs' Day which is a celebration of Karen heroes and civilian who sacrificed their lives to fight for Karen Independence in Burma. This event is a formal ceremony to commemorate the brave leaders who gave their lives to protect the country."
+    "details": "The California Karen Youth Connection will present the 75th Anniversary of Karen Martyrs' Day which is a celebration of Karen heroes and civilian who sacrificed their lives to fight for Karen Independence in Burma. This event is a formal ceremony to commemorate the brave leaders who gave their lives to protect the country.  We will have some food and community time after the event under the trees on the grass."
   },
   {
     "status": "pending",
@@ -1440,16 +1440,40 @@
     "details": "Wedding Vow Renewal"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-770",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10166",
     "eventSponsor": "Press Conference- Protecting Children and Parental Rights",
-    "locationOnCapitolGrounds": "Area 27",
+    "locationOnCapitolGrounds": "West Side",
     "startDateTime": "8/14/2023 12:00 PM",
     "setUpDateTime": "8/14/2023 11:30 AM",
     "endDateTime": "8/14/2023 1:00 PM",
     "participants": 200,
-    "details": "Press Conference promoting local control and parental rights."
+    "details": "Press Conference promoting local control and parental rights.  This will be on the South West Corner closer to 10th and N."
+  },
+  {
+    "status": "pending",
+    "number": "2023-771",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10167",
+    "eventSponsor": "A call to the wailing women prayer",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "9/16/2023 11:00 AM",
+    "setUpDateTime": "9/16/2023 10:30 AM",
+    "endDateTime": "9/16/2023 1:00 PM",
+    "participants": 12,
+    "details": "Worship & Prayer"
+  },
+  {
+    "status": "pending",
+    "number": "2023-772",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10169",
+    "eventSponsor": "Press conference from lawmakers and advocates on building decarbonization bills ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/12/2023 11:00 AM",
+    "setUpDateTime": "8/12/2023 10:30 AM",
+    "endDateTime": "8/12/2023 11:45 AM",
+    "participants": 25,
+    "details": "As extreme heat grips the nation, California lawmakers and advocates hold a press conference to uplift key bills for climate-ready homes"
   },
   {
     "status": "approved",
