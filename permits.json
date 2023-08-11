@@ -684,14 +684,14 @@
     "details": "We are giving a presentation award to a VAC, member for going above and beyond in his work for the community. and Lunch."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-675",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10058",
     "eventSponsor": "Bring The Peace-n Stop The Violence",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "8/14/2023 11:00 AM",
-    "setUpDateTime": "8/13/2023 8:00 AM",
-    "endDateTime": "8/14/2023 10:00 PM",
+    "startDateTime": "8/14/2023 10:00 AM",
+    "setUpDateTime": "8/14/2023 6:00 AM",
+    "endDateTime": "8/14/2023 8:00 PM",
     "participants": 1500,
     "details": "50th Anniversary of Hip Hop's Stop the Violence Movement"
   },
@@ -1464,16 +1464,52 @@
     "details": "Worship & Prayer"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-772",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10169",
     "eventSponsor": "Press conference from lawmakers and advocates on building decarbonization bills ",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "8/12/2023 11:00 AM",
-    "setUpDateTime": "8/12/2023 10:30 AM",
-    "endDateTime": "8/12/2023 11:45 AM",
+    "startDateTime": "8/17/2023 11:30 AM",
+    "setUpDateTime": "8/17/2023 10:00 AM",
+    "endDateTime": "8/17/2023 1:30 PM",
     "participants": 25,
-    "details": "As extreme heat grips the nation, California lawmakers and advocates hold a press conference to uplift key bills for climate-ready homes"
+    "details": "As extreme heat grips the nation, California lawmakers and advocates hold a press conference to uplift key bills for climate-ready homes.  This will be on the southwest corner of the Capitol closer to 10th and N."
+  },
+  {
+    "status": "approved",
+    "number": "2023-773",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10170",
+    "eventSponsor": "Vigil and Photo op, SEIU-NFFWU",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/13/2023 6:00 PM",
+    "setUpDateTime": "8/13/2023 5:00 PM",
+    "endDateTime": "8/13/2023 8:00 PM",
+    "participants": 30,
+    "details": "artists make a banner, singing and mariachi play, stand up banner, press conference with workers giving testimony, chants, serve dinner and everyone leaves"
+  },
+  {
+    "status": "approved",
+    "number": "2023-774",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10171",
+    "eventSponsor": "CALPIRG",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/22/2023 2:00 PM",
+    "setUpDateTime": "8/22/2023 1:30 PM",
+    "endDateTime": "8/22/2023 3:00 PM",
+    "participants": 25,
+    "details": "In order to support the Right to Repair Act, students and other environmental activists plan to hold a rally and media event outside the Capitol. They will bring with them a pile of electronic waste to represent the amount of e-waste thrown away by Californians every minute."
+  },
+  {
+    "status": "pending",
+    "number": "2023-775",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10173",
+    "eventSponsor": "Friends Of Imran Khan",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/13/2023 11:00 AM",
+    "setUpDateTime": "8/13/2023 11:00 AM",
+    "endDateTime": "8/13/2023 3:00 PM",
+    "participants": 100,
+    "details": "Celebrate Independence Day of Pakistan, to demand release of Imran Khan."
   },
   {
     "status": "approved",
