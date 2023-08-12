@@ -1512,6 +1512,42 @@
     "details": "Celebrate Independence Day of Pakistan, to demand release of Imran Khan."
   },
   {
+    "status": "pending",
+    "number": "2023-776",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10174",
+    "eventSponsor": "SB 729 Press Conference with Senator Caroline Menjivar",
+    "locationOnCapitolGrounds": "Area 22",
+    "startDateTime": "8/24/2023 11:00 AM",
+    "setUpDateTime": "8/24/2023 10:00 AM",
+    "endDateTime": "8/24/2023 1:00 PM",
+    "participants": 100,
+    "details": "Press conference in support of SB 729"
+  },
+  {
+    "status": "pending",
+    "number": "2023-777",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10175",
+    "eventSponsor": "Crime Victims United Press Conference in Opposition to SB 94",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "8/29/2023 8:00 AM",
+    "setUpDateTime": "8/29/2023 7:00 AM",
+    "endDateTime": "8/29/2023 9:00 AM",
+    "participants": 30,
+    "details": "This is a Crime Victims United press conference in opposition to SB 94 with support from the California District Attorneys Association and Law Enforcement."
+  },
+  {
+    "status": "pending",
+    "number": "2023-778",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10176",
+    "eventSponsor": "I Street Public Affairs",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/31/2023 8:00 AM",
+    "setUpDateTime": "8/31/2023 7:00 AM",
+    "endDateTime": "8/31/2023 6:00 PM",
+    "participants": 15,
+    "details": "Photoshoot on the State Capitol grounds"
+  },
+  {
     "status": "approved",
     "number": "2023-79",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9408",
