@@ -1548,6 +1548,18 @@
     "details": "Photoshoot on the State Capitol grounds"
   },
   {
+    "status": "pending",
+    "number": "2023-779",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10177",
+    "eventSponsor": "Stop messin with our sky. Bible study",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "8/31/2023 4:00 AM",
+    "setUpDateTime": "8/31/2023 4:00 AM",
+    "endDateTime": "8/31/2023 4:00 AM",
+    "participants": 2,
+    "details": "Bible study to bring awareness to the weather modification being done in our sky."
+  },
+  {
     "status": "approved",
     "number": "2023-79",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9408",
@@ -1558,5 +1570,17 @@
     "endDateTime": "7/29/2023 8:00 PM",
     "participants": 65,
     "details": "Small wedding of about 60-75 people."
+  },
+  {
+    "status": "approved",
+    "number": "2023-86",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9423",
+    "eventSponsor": "ACPD NDEAM Job and Resources Fair",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/12/2023 10:00 AM",
+    "setUpDateTime": "10/12/2023 8:00 AM",
+    "endDateTime": "10/12/2023 2:00 PM",
+    "participants": 100,
+    "details": "CHP's ACPD hosts a Job and Resources Fair with multiple state agencies for persons with disabilities."
   }
 ]
