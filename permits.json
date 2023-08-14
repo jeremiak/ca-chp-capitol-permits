@@ -25,6 +25,18 @@
   },
   {
     "status": "approved",
+    "number": "2023-105",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9456",
+    "eventSponsor": "CA Fire Foundation",
+    "locationOnCapitolGrounds": "West Side, Area 1, Area 5, Area 22, Area 27, Area 33, Area 34",
+    "startDateTime": "10/14/2023 3:00 PM",
+    "setUpDateTime": "10/13/2023 2:00 PM",
+    "endDateTime": "10/14/2023 10:00 PM",
+    "participants": 500,
+    "details": "Annual California Firefighters Memorial"
+  },
+  {
+    "status": "approved",
     "number": "2023-153",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9509",
     "eventSponsor": "Walk-N-Roll for Spina Bifida",
@@ -1505,9 +1517,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10173",
     "eventSponsor": "Friends Of Imran Khan",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "8/13/2023 11:00 AM",
-    "setUpDateTime": "8/13/2023 11:00 AM",
-    "endDateTime": "8/13/2023 3:00 PM",
+    "startDateTime": "8/31/2023 4:00 AM",
+    "setUpDateTime": "8/31/2023 4:00 AM",
+    "endDateTime": "8/31/2023 4:00 AM",
     "participants": 100,
     "details": "Celebrate Independence Day of Pakistan, to demand release of Imran Khan."
   },
@@ -1558,6 +1570,18 @@
     "endDateTime": "8/31/2023 4:00 AM",
     "participants": 2,
     "details": "Bible study to bring awareness to the weather modification being done in our sky."
+  },
+  {
+    "status": "pending",
+    "number": "2023-780",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10178",
+    "eventSponsor": "Release Imran Khan ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/27/2023 11:00 AM",
+    "setUpDateTime": "8/27/2023 11:00 AM",
+    "endDateTime": "8/27/2023 3:00 PM",
+    "participants": 50,
+    "details": "Placards, posters, leafletting"
   },
   {
     "status": "approved",
