@@ -217,6 +217,18 @@
   },
   {
     "status": "approved",
+    "number": "2023-407",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9764",
+    "eventSponsor": "Zav -Eps Wedding",
+    "locationOnCapitolGrounds": "Area 5",
+    "startDateTime": "10/14/2023 6:00 PM",
+    "setUpDateTime": "10/14/2023 4:00 PM",
+    "endDateTime": "10/14/2023 7:00 PM",
+    "participants": 40,
+    "details": "Wedding with 40 guests."
+  },
+  {
+    "status": "approved",
     "number": "2023-409",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9766",
     "eventSponsor": "She Leads California",
@@ -1368,6 +1380,18 @@
     "details": "AFSCME 3299 Lunch and area for group to gather."
   },
   {
+    "status": "approved",
+    "number": "2023-761",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10155",
+    "eventSponsor": "Selemawit and Amanuel Wedding",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "10/14/2023 2:00 PM",
+    "setUpDateTime": "10/14/2023 1:45 PM",
+    "endDateTime": "10/14/2023 3:00 PM",
+    "participants": 50,
+    "details": "Wedding day family pictures"
+  },
+  {
     "status": "pending",
     "number": "2023-762",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10156",
@@ -1397,9 +1421,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10159",
     "eventSponsor": "CA Will Be Saved",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "9/23/2023 5:00 PM",
-    "setUpDateTime": "9/23/2023 1:00 PM",
-    "endDateTime": "9/23/2023 8:00 PM",
+    "startDateTime": "9/25/2023 5:00 PM",
+    "setUpDateTime": "9/25/2023 8:00 AM",
+    "endDateTime": "9/25/2023 10:00 PM",
     "participants": 500,
     "details": "We are looking to host a live music experience (with amplified  sound) where people can unite to receive fellowship and encouragement."
   },
@@ -1437,7 +1461,7 @@
     "setUpDateTime": "8/15/2023 11:00 AM",
     "endDateTime": "8/15/2023 5:30 PM",
     "participants": 50,
-    "details": "Outreach table and cooling station where we will distribute informational flyers, cold water bottles, and snacks. Music on a small bluetooth speaker will be played.  This will be in the grass under the trees closer to 10th and L on the North Side of the West Lawn."
+    "details": "Outreach table and cooling station where we will distribute informational flyers, cold water bottles, and snacks. Music on a small bluetooth speaker will be played."
   },
   {
     "status": "pending",
@@ -1481,9 +1505,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10169",
     "eventSponsor": "Press conference from lawmakers and advocates on building decarbonization bills ",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "8/17/2023 11:30 AM",
-    "setUpDateTime": "8/17/2023 10:00 AM",
-    "endDateTime": "8/17/2023 1:30 PM",
+    "startDateTime": "8/17/2023 1:00 PM",
+    "setUpDateTime": "8/17/2023 12:00 PM",
+    "endDateTime": "8/17/2023 3:00 PM",
     "participants": 25,
     "details": "As extreme heat grips the nation, California lawmakers and advocates hold a press conference to uplift key bills for climate-ready homes.  This will be on the southwest corner of the Capitol closer to 10th and N."
   },
@@ -1524,16 +1548,16 @@
     "details": "Celebrate Independence Day of Pakistan, to demand release of Imran Khan."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-776",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10174",
     "eventSponsor": "SB 729 Press Conference with Senator Caroline Menjivar",
-    "locationOnCapitolGrounds": "Area 22",
+    "locationOnCapitolGrounds": "West Side",
     "startDateTime": "8/24/2023 11:00 AM",
     "setUpDateTime": "8/24/2023 10:00 AM",
     "endDateTime": "8/24/2023 1:00 PM",
     "participants": 100,
-    "details": "Press conference in support of SB 729"
+    "details": "Press conference in support of SB 729.  This will take place on the Southwest side closer toward 10th and N from the Capitol Building."
   },
   {
     "status": "pending",
@@ -1548,7 +1572,7 @@
     "details": "This is a Crime Victims United press conference in opposition to SB 94 with support from the California District Attorneys Association and Law Enforcement."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-778",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10176",
     "eventSponsor": "I Street Public Affairs",
@@ -1557,22 +1581,22 @@
     "setUpDateTime": "8/31/2023 7:00 AM",
     "endDateTime": "8/31/2023 6:00 PM",
     "participants": 15,
-    "details": "Photoshoot on the State Capitol grounds"
+    "details": "Photoshoot on the State Capitol grounds.  This will be individual photos throughout the day."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-779",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10177",
     "eventSponsor": "Stop messin with our sky. Bible study",
-    "locationOnCapitolGrounds": "Other",
-    "startDateTime": "8/31/2023 4:00 AM",
-    "setUpDateTime": "8/31/2023 4:00 AM",
-    "endDateTime": "8/31/2023 4:00 AM",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/15/2023 1:00 PM",
+    "setUpDateTime": "8/15/2023 1:00 PM",
+    "endDateTime": "8/15/2023 8:00 PM",
     "participants": 2,
-    "details": "Bible study to bring awareness to the weather modification being done in our sky."
+    "details": "Bible study to bring awareness to the weather modification being done in our sky.  This will be closer to 10th and L Street on the West - North west side."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-780",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10178",
     "eventSponsor": "Release Imran Khan ",
@@ -1582,6 +1606,66 @@
     "endDateTime": "8/27/2023 3:00 PM",
     "participants": 50,
     "details": "Placards, posters, leafletting"
+  },
+  {
+    "status": "approved",
+    "number": "2023-781",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10179",
+    "eventSponsor": "Team Building",
+    "locationOnCapitolGrounds": "CDE, Educator Excellence and Equity Division",
+    "startDateTime": "9/21/2023 10:30 AM",
+    "setUpDateTime": "9/21/2023 9:30 AM",
+    "endDateTime": "9/21/2023 1:00 PM",
+    "participants": 40,
+    "details": "The Educator Excellence and Equity Division, of the California Department of Education, will be hosting a team building meeting. It will include group activities and lunch. Lunch includes sandwiches, salad, chips, and water - no cooking onsite required. Activities include a scavenger hunt (staff will walk through capitol park with pen and paper and check off when an item is sighted), a drawing activity (only pen and paper will be used), and group discussions."
+  },
+  {
+    "status": "approved",
+    "number": "2023-782",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10180",
+    "eventSponsor": "Howard Jarvis Taxpayers Association",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/16/2023 11:00 AM",
+    "setUpDateTime": "8/16/2023 10:30 AM",
+    "endDateTime": "8/16/2023 12:00 PM",
+    "participants": 50,
+    "details": "Press conference in opposition to ACA 1."
+  },
+  {
+    "status": "pending",
+    "number": "2023-783",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10181",
+    "eventSponsor": "Protect Kids California",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/28/2023 10:00 AM",
+    "setUpDateTime": "8/28/2023 9:00 AM",
+    "endDateTime": "8/28/2023 12:00 PM",
+    "participants": 50,
+    "details": "Press conference announcing launch of three statewide initiatives"
+  },
+  {
+    "status": "pending",
+    "number": "2023-784",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10182",
+    "eventSponsor": "Ukrainian Community Culture Center",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/2/2023 5:00 PM",
+    "setUpDateTime": "9/2/2023 4:30 PM",
+    "endDateTime": "9/2/2023 9:15 PM",
+    "participants": 150,
+    "details": "Prayer for Ukraine.  Addresses and speeches of pastors of Ukrainian churches in Sacramento, performances of local choirs, ensembles and soloists and guests of the capital of California."
+  },
+  {
+    "status": "pending",
+    "number": "2023-785",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10183",
+    "eventSponsor": "Cambodian Community Rally",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "8/26/2023 10:00 AM",
+    "setUpDateTime": "8/26/2023 6:00 AM",
+    "endDateTime": "8/26/2023 3:00 PM",
+    "participants": 250,
+    "details": "Cambodian democratic supporters will hold protest against the transfer of power by Authoritarian Hun Sen who rules Cambodia for 38 years to his son Hun Manet. The Protesters will take turn to speak in the form of protest and may parade along the side walk."
   },
   {
     "status": "approved",
