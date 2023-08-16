@@ -361,6 +361,18 @@
   },
   {
     "status": "approved",
+    "number": "2023-50",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9344",
+    "eventSponsor": "Sharing Parents of Sacramento",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "10/15/2023 3:30 PM",
+    "setUpDateTime": "10/15/2023 1:00 PM",
+    "endDateTime": "10/15/2023 7:00 PM",
+    "participants": 300,
+    "details": "Memorial ceremony for parents whose babies died before birth and up to six months of age."
+  },
+  {
+    "status": "approved",
     "number": "2023-508",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9867",
     "eventSponsor": "Siap Wedding Ceremony",
@@ -786,7 +798,7 @@
     "eventSponsor": "UNITE HERE Rally",
     "locationOnCapitolGrounds": "Area 22, Area 27, Area 34",
     "startDateTime": "8/16/2023 10:00 AM",
-    "setUpDateTime": "8/16/2023 9:00 AM",
+    "setUpDateTime": "8/16/2023 6:00 AM",
     "endDateTime": "8/16/2023 3:00 PM",
     "participants": 350,
     "details": "Union rally near the capital building. Rally will include speeches from political, community, and labor leaders and chants. Participants will also each a box lunch at the event."
@@ -857,7 +869,7 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10088",
     "eventSponsor": "California Family Council",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "8/21/2023 10:00 AM",
+    "startDateTime": "8/21/2023 11:00 AM",
     "setUpDateTime": "8/21/2023 8:00 AM",
     "endDateTime": "8/21/2023 2:00 PM",
     "participants": 800,
@@ -1004,8 +1016,20 @@
     "startDateTime": "9/19/2023 8:00 AM",
     "setUpDateTime": "9/19/2023 7:00 AM",
     "endDateTime": "9/19/2023 5:00 PM",
-    "participants": 300,
-    "details": "Rally to Encourage Governor to Sign AB 316"
+    "participants": 1000,
+    "details": "Rally to Encourage Governor to Sign AB 316.  Including a Sacramento PD permitted march down Capitol Mall to the West Steps of the Capitol"
+  },
+  {
+    "status": "approved",
+    "number": "2023-724",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10114",
+    "eventSponsor": "Family Photos",
+    "locationOnCapitolGrounds": "Area 5",
+    "startDateTime": "10/15/2023 4:00 PM",
+    "setUpDateTime": "10/15/2023 4:00 PM",
+    "endDateTime": "10/15/2023 6:30 PM",
+    "participants": 20,
+    "details": "Family photos"
   },
   {
     "status": "approved",
@@ -1308,7 +1332,7 @@
     "details": "California Association of Local Conservation Corps' Government Education Day"
   },
   {
-    "status": "approved",
+    "status": "pending",
     "number": "2023-755",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10148",
     "eventSponsor": "Hanita and Henok Commitment Ceremony",
@@ -1560,16 +1584,16 @@
     "details": "Press conference in support of SB 729.  This will take place on the Southwest side closer toward 10th and N from the Capitol Building."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-777",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10175",
     "eventSponsor": "Crime Victims United Press Conference in Opposition to SB 94",
-    "locationOnCapitolGrounds": "Other",
+    "locationOnCapitolGrounds": "West Side",
     "startDateTime": "8/29/2023 8:00 AM",
     "setUpDateTime": "8/29/2023 7:00 AM",
     "endDateTime": "8/29/2023 9:00 AM",
     "participants": 30,
-    "details": "This is a Crime Victims United press conference in opposition to SB 94 with support from the California District Attorneys Association and Law Enforcement."
+    "details": "This is a Crime Victims United press conference in opposition to SB 94 with support from the California District Attorneys Association and Law Enforcement.  This will be close to 10th and L on the Northwest side of grounds."
   },
   {
     "status": "approved",
@@ -1632,19 +1656,19 @@
     "details": "Press conference in opposition to ACA 1."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-783",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10181",
     "eventSponsor": "Protect Kids California",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "8/28/2023 10:00 AM",
     "setUpDateTime": "8/28/2023 9:00 AM",
-    "endDateTime": "8/28/2023 12:00 PM",
+    "endDateTime": "8/28/2023 5:00 PM",
     "participants": 50,
     "details": "Press conference announcing launch of three statewide initiatives"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-784",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10182",
     "eventSponsor": "Ukrainian Community Culture Center",
