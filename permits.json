@@ -1824,6 +1824,18 @@
     "details": "Bible study stop spraying our sky"
   },
   {
+    "status": "pending",
+    "number": "2023-795",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10193",
+    "eventSponsor": "Strategy 6",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/6/2023 7:30 PM",
+    "setUpDateTime": "9/6/2023 6:30 PM",
+    "endDateTime": "9/6/2023 9:30 PM",
+    "participants": 100,
+    "details": "Rally in support of political prisoners"
+  },
+  {
     "status": "approved",
     "number": "2023-86",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9423",
