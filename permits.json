@@ -408,7 +408,7 @@
     "details": "Small Wedding ceremony - no reception, will take photos after ceremony."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-529",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9890",
     "eventSponsor": "LGBTQ Advocacy Day",
@@ -634,6 +634,18 @@
     "endDateTime": "8/26/2023 12:00 PM",
     "participants": 150,
     "details": "Eagle Scout Court of Honor"
+  },
+  {
+    "status": "approved",
+    "number": "2023-61",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9377",
+    "eventSponsor": "California IRONMAN- Sacramento",
+    "locationOnCapitolGrounds": "West Side, Traffic Circle, Area 1, Area 5, Area 22, Area 27, Area 33, Area 34",
+    "startDateTime": "10/22/2023 6:00 AM",
+    "setUpDateTime": "10/20/2023 6:00 AM",
+    "endDateTime": "10/23/2023 10:00 PM",
+    "participants": 3000,
+    "details": "IRONMAN triathlon run course around adjoining roadways and traffic circle.  Welcome reception for athletes Friday evening.  Sunday finish until 1 am Monday morning at Traffic Circle."
   },
   {
     "status": "approved",
@@ -1812,14 +1824,14 @@
     "details": "Press Conference for Senator Aisha Wahab for SB 555"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-794",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10192",
     "eventSponsor": "Bible reading. Stop spraying our sky",
-    "locationOnCapitolGrounds": "Other",
+    "locationOnCapitolGrounds": "Area 22, Area 33",
     "startDateTime": "8/22/2023 1:00 PM",
-    "setUpDateTime": "8/21/2023 1:00 PM",
-    "endDateTime": "8/22/2023 1:00 PM",
+    "setUpDateTime": "8/22/2023 1:00 PM",
+    "endDateTime": "8/22/2023 8:00 PM",
     "participants": 2,
     "details": "Bible study stop spraying our sky"
   },
