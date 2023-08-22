@@ -25,6 +25,18 @@
   },
   {
     "status": "approved",
+    "number": "2022-927",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9469",
+    "eventSponsor": "Corrales-Soria Wedding",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "10/21/2023 2:30 PM",
+    "setUpDateTime": "10/21/2023 1:00 PM",
+    "endDateTime": "10/21/2023 6:00 PM",
+    "participants": 100,
+    "details": "small wedding with close family and friends"
+  },
+  {
+    "status": "approved",
     "number": "2023-105",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9456",
     "eventSponsor": "CA Fire Foundation",
@@ -490,6 +502,18 @@
     "endDateTime": "10/1/2023 3:00 PM",
     "participants": 150,
     "details": "Annual peaceful birthday celebration. we will gather at state library circle and walk toward the West Side of the Capitol.  We will set up chairs and sit listen to speakers, sign with balloons, end with boxed lunch."
+  },
+  {
+    "status": "approved",
+    "number": "2023-572",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9943",
+    "eventSponsor": "Jonathan Korn and Shayna Dennis Marriage Ceremony",
+    "locationOnCapitolGrounds": "Area 5",
+    "startDateTime": "10/21/2023 4:00 PM",
+    "setUpDateTime": "10/21/2023 3:00 PM",
+    "endDateTime": "10/21/2023 6:00 PM",
+    "participants": 30,
+    "details": "Small nuptials ceremony for Jonathan and Shayna. Will move to a restaurant after the ceremony for dinner."
   },
   {
     "status": "approved",
@@ -1636,12 +1660,12 @@
     "number": "2023-778",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10176",
     "eventSponsor": "I Street Public Affairs",
-    "locationOnCapitolGrounds": "West Side",
+    "locationOnCapitolGrounds": "West Side, Area 33, Area 34",
     "startDateTime": "8/31/2023 8:00 AM",
     "setUpDateTime": "8/31/2023 7:00 AM",
     "endDateTime": "8/31/2023 6:00 PM",
     "participants": 15,
-    "details": "Photoshoot on the State Capitol grounds.  This will be individual photos throughout the day."
+    "details": "Photoshoot on the State Capitol grounds.  This will be individual photos throughout the day.  These photos will happen throughout Capitol grounds."
   },
   {
     "status": "approved",
@@ -1793,8 +1817,8 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10188",
     "eventSponsor": "California Environmental Justice Alliance ",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "8/22/2023 12:00 PM",
-    "setUpDateTime": "8/22/2023 11:00 AM",
+    "startDateTime": "8/22/2023 9:00 AM",
+    "setUpDateTime": "8/22/2023 8:00 AM",
     "endDateTime": "8/22/2023 3:00 PM",
     "participants": 40,
     "details": "Alliance members will be in the Capitol Annex and we are hoping to set up a shady spot to eat lunch. Lunch will be boxed lunches that we will clear out.  This will be under the trees on the West Side."
@@ -1836,7 +1860,7 @@
     "details": "Bible study stop spraying our sky"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-795",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10193",
     "eventSponsor": "Strategy 6",
@@ -1846,6 +1870,18 @@
     "endDateTime": "9/6/2023 9:30 PM",
     "participants": 100,
     "details": "Rally in support of political prisoners"
+  },
+  {
+    "status": "pending",
+    "number": "2023-796",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10195",
+    "eventSponsor": "Latino Heritage Month Event",
+    "locationOnCapitolGrounds": "CA Capitol Association Foundation ",
+    "startDateTime": "9/18/2023 5:30 PM",
+    "setUpDateTime": "9/18/2023 5:00 PM",
+    "endDateTime": "9/18/2023 7:30 PM",
+    "participants": 100,
+    "details": "To celebrate latino heritage month, have dancers, music, and food."
   },
   {
     "status": "approved",
