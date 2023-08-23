@@ -912,7 +912,7 @@
     "details": "Rally for Parental Rights"
   },
   {
-    "status": "approved",
+    "status": "pending",
     "number": "2023-705",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10089",
     "eventSponsor": "CA Domestic Workers",
@@ -960,7 +960,7 @@
     "details": "Rally for SB 525"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-711",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10097",
     "eventSponsor": "Nations Finest 50 Veterans Community Awareness Event",
@@ -1872,7 +1872,7 @@
     "details": "Rally in support of political prisoners"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-796",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10195",
     "eventSponsor": "Latino Heritage Month Event",
@@ -1882,6 +1882,66 @@
     "endDateTime": "9/18/2023 7:30 PM",
     "participants": 100,
     "details": "To celebrate latino heritage month, have dancers, music, and food."
+  },
+  {
+    "status": "approved",
+    "number": "2023-797",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10196",
+    "eventSponsor": "Hope the Mission",
+    "locationOnCapitolGrounds": "Traffic Circle",
+    "startDateTime": "9/6/2023 8:30 AM",
+    "setUpDateTime": "9/6/2023 8:00 AM",
+    "endDateTime": "9/6/2023 11:00 AM",
+    "participants": 50,
+    "details": "Press conference at the conclusion of a bike ride from Los Angeles to Sacramento to raise awareness on homelessness in California. The press conference will discuss housing issues in Los Angeles and across the state, and voice support for SB 4.  This will be near the Peace Officer Memorial and Courts Building in the Traffic Circle."
+  },
+  {
+    "status": "pending",
+    "number": "2023-798",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10197",
+    "eventSponsor": "Politico Free Coffee and Scones",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/11/2023 8:00 AM",
+    "setUpDateTime": "9/11/2023 7:15 AM",
+    "endDateTime": "9/11/2023 2:00 PM",
+    "participants": 50,
+    "details": "Branded Food Truck (Locally owned Good Roots Cafe) serving complementary home made coffee, cold brew, lemon berry loafs, and cheese & onion scones."
+  },
+  {
+    "status": "pending",
+    "number": "2023-800",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10199",
+    "eventSponsor": "Politico Free Coffee and Scones",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/12/2023 8:00 AM",
+    "setUpDateTime": "9/12/2023 7:00 AM",
+    "endDateTime": "9/12/2023 2:00 PM",
+    "participants": 50,
+    "details": "Branded Food Truck (Locally owned Good Roots Cafe) serving complementary home made coffee, cold brew, lemon berry loafs, and cheese & onion scones.  This will be on the Southwest Side."
+  },
+  {
+    "status": "pending",
+    "number": "2023-801",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10201",
+    "eventSponsor": "1st Annual Stephon  Clark Fentanyl & Substance Abuse Awareness Expo",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "8/25/2023 2:00 PM",
+    "setUpDateTime": "8/25/2023 2:00 PM",
+    "endDateTime": "8/25/2023 7:00 PM",
+    "participants": 200,
+    "details": "This event will focus on anti drug prevention & awareness discussing the dangers of drugs and how to prevent drug use food vendors guest speakers performers this event is free and open to the public the event is important because it provides for people who are struggling with addiction"
+  },
+  {
+    "status": "pending",
+    "number": "2023-802",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10202",
+    "eventSponsor": "Press Conference",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "8/25/2023 9:00 AM",
+    "setUpDateTime": "8/25/2023 8:00 AM",
+    "endDateTime": "8/25/2023 9:00 AM",
+    "participants": 500,
+    "details": "Public Safety Presser"
   },
   {
     "status": "approved",
