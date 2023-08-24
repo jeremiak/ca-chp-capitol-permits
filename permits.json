@@ -196,11 +196,11 @@
     "number": "2023-370",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9726",
     "eventSponsor": "Northern California SDA Church Womens MInistry Dept",
-    "locationOnCapitolGrounds": "Area 1",
+    "locationOnCapitolGrounds": "Area 1, Area 5",
     "startDateTime": "9/10/2023 9:00 AM",
     "setUpDateTime": "9/10/2023 8:00 AM",
     "endDateTime": "9/10/2023 11:30 AM",
-    "participants": 200,
+    "participants": 250,
     "details": "Women's prayer group gathering to pray for the needs of our state."
   },
   {
@@ -725,10 +725,10 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10044",
     "eventSponsor": "California Association of Professional Scientists Rally",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "8/30/2023 11:30 AM",
-    "setUpDateTime": "8/30/2023 9:00 AM",
-    "endDateTime": "8/30/2023 8:00 PM",
-    "participants": 1000,
+    "startDateTime": "8/30/2023 12:30 PM",
+    "setUpDateTime": "8/30/2023 10:00 AM",
+    "endDateTime": "8/30/2023 6:30 PM",
+    "participants": 250,
     "details": "Informational rally to call for the Administration to negotiate a fair contract with State Scientists through collective bargaining."
   },
   {
@@ -749,7 +749,7 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10055",
     "eventSponsor": "Veterans Affiliated Council Appreciation Day",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "8/31/2023 11:00 AM",
+    "startDateTime": "8/31/2023 12:00 PM",
     "setUpDateTime": "8/31/2023 9:00 AM",
     "endDateTime": "8/31/2023 3:00 PM",
     "participants": 50,
@@ -920,7 +920,7 @@
     "startDateTime": "8/29/2023 8:00 AM",
     "setUpDateTime": "8/29/2023 7:00 AM",
     "endDateTime": "8/29/2023 5:00 PM",
-    "participants": 300,
+    "participants": 400,
     "details": "Rallying and office visits.  This will be on the Southwest Corner of Capitol Property.  Closer to 10th and N under the trees."
   },
   {
@@ -1920,28 +1920,52 @@
     "details": "Branded Food Truck (Locally owned Good Roots Cafe) serving complementary home made coffee, cold brew, lemon berry loafs, and cheese & onion scones.  This will be on the Southwest Side."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-801",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10201",
     "eventSponsor": "1st Annual Stephon  Clark Fentanyl & Substance Abuse Awareness Expo",
-    "locationOnCapitolGrounds": "Other",
-    "startDateTime": "8/25/2023 2:00 PM",
-    "setUpDateTime": "8/25/2023 2:00 PM",
-    "endDateTime": "8/25/2023 7:00 PM",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/1/2023 3:30 PM",
+    "setUpDateTime": "10/1/2023 3:00 PM",
+    "endDateTime": "10/1/2023 7:00 PM",
     "participants": 200,
     "details": "This event will focus on anti drug prevention & awareness discussing the dangers of drugs and how to prevent drug use food vendors guest speakers performers this event is free and open to the public the event is important because it provides for people who are struggling with addiction"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-802",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10202",
-    "eventSponsor": "Press Conference",
-    "locationOnCapitolGrounds": "Other",
-    "startDateTime": "8/25/2023 9:00 AM",
-    "setUpDateTime": "8/25/2023 8:00 AM",
-    "endDateTime": "8/25/2023 9:00 AM",
+    "eventSponsor": "Press Conference about Public Safety",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/31/2023 9:00 AM",
+    "setUpDateTime": "8/31/2023 8:00 AM",
+    "endDateTime": "8/31/2023 10:00 AM",
     "participants": 500,
-    "details": "Public Safety Presser"
+    "details": "Public Safety Press Conference."
+  },
+  {
+    "status": "approved",
+    "number": "2023-803",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10203",
+    "eventSponsor": "Press Conference on CSU Audit ",
+    "locationOnCapitolGrounds": "Area 22",
+    "startDateTime": "8/29/2023 8:00 AM",
+    "setUpDateTime": "8/29/2023 7:15 AM",
+    "endDateTime": "8/29/2023 9:00 AM",
+    "participants": 35,
+    "details": "This is a new conference before the Hearing with the Assembly Select Committee on Native American Affairs and Joint Legislative Audit Committee on the CSU Audit for Native American Graves and Protection and Repatriation Act"
+  },
+  {
+    "status": "pending",
+    "number": "2023-804",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10204",
+    "eventSponsor": "Owens and Young Wedding Ceremony",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "9/30/2023 12:00 PM",
+    "setUpDateTime": "9/30/2023 10:00 AM",
+    "endDateTime": "9/30/2023 3:00 PM",
+    "participants": 40,
+    "details": "This will be just a small wedding ceremony with family and friends. There will be minor decorations (none of which will harm the garden in any way no nails or anything will be used) and of course chairs for the guests."
   },
   {
     "status": "approved",
