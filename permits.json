@@ -912,7 +912,7 @@
     "details": "Rally for Parental Rights"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-705",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10089",
     "eventSponsor": "CA Domestic Workers",
@@ -1184,6 +1184,18 @@
     "startDateTime": "9/24/2023 7:00 PM",
     "setUpDateTime": "9/24/2023 6:00 PM",
     "endDateTime": "9/24/2023 9:45 PM",
+    "participants": 200,
+    "details": "Rally in support of Ukraine"
+  },
+  {
+    "status": "approved",
+    "number": "2023-737",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10128",
+    "eventSponsor": "Candlelight Vigil in Support of Ukraine Sunflower Society",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/24/2023 7:00 PM",
+    "setUpDateTime": "10/24/2023 6:00 PM",
+    "endDateTime": "10/24/2023 9:45 PM",
     "participants": 200,
     "details": "Rally in support of Ukraine"
   },
@@ -1721,9 +1733,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10181",
     "eventSponsor": "Protect Kids California",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "8/28/2023 10:00 AM",
-    "setUpDateTime": "8/28/2023 9:00 AM",
-    "endDateTime": "8/28/2023 5:00 PM",
+    "startDateTime": "8/28/2023 3:00 PM",
+    "setUpDateTime": "8/28/2023 2:00 PM",
+    "endDateTime": "8/28/2023 4:30 PM",
     "participants": 50,
     "details": "Press conference announcing launch of three statewide initiatives"
   },
@@ -1896,7 +1908,7 @@
     "details": "Press conference at the conclusion of a bike ride from Los Angeles to Sacramento to raise awareness on homelessness in California. The press conference will discuss housing issues in Los Angeles and across the state, and voice support for SB 4.  This will be near the Peace Officer Memorial and Courts Building in the Traffic Circle."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-798",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10197",
     "eventSponsor": "Politico Free Coffee and Scones",
@@ -1908,7 +1920,7 @@
     "details": "Branded Food Truck (Locally owned Good Roots Cafe) serving complementary home made coffee, cold brew, lemon berry loafs, and cheese & onion scones."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-800",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10199",
     "eventSponsor": "Politico Free Coffee and Scones",
@@ -1956,7 +1968,7 @@
     "details": "This is a new conference before the Hearing with the Assembly Select Committee on Native American Affairs and Joint Legislative Audit Committee on the CSU Audit for Native American Graves and Protection and Repatriation Act"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-804",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10204",
     "eventSponsor": "Owens and Young Wedding Ceremony",
@@ -1966,6 +1978,54 @@
     "endDateTime": "9/30/2023 3:00 PM",
     "participants": 40,
     "details": "This will be just a small wedding ceremony with family and friends. There will be minor decorations (none of which will harm the garden in any way no nails or anything will be used) and of course chairs for the guests."
+  },
+  {
+    "status": "approved",
+    "number": "2023-805",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10205",
+    "eventSponsor": "MHSOAC",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/17/2023 10:00 AM",
+    "setUpDateTime": "10/17/2023 8:00 AM",
+    "endDateTime": "10/17/2023 6:00 PM",
+    "participants": 200,
+    "details": "MHSOAC contract holder for Statewide advocacy event and celebration for Veterans who practice Art as a means of mental health and wellness.  Event ending by 4pm with tear down by 6pm."
+  },
+  {
+    "status": "pending",
+    "number": "2023-806",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10206",
+    "eventSponsor": "American Clean Power",
+    "locationOnCapitolGrounds": "Area 27",
+    "startDateTime": "9/5/2023 11:45 AM",
+    "setUpDateTime": "9/5/2023 9:15 AM",
+    "endDateTime": "9/5/2023 11:45 AM",
+    "participants": 30,
+    "details": "Press conference with signs, small podium, and PA system"
+  },
+  {
+    "status": "pending",
+    "number": "2023-807",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10207",
+    "eventSponsor": "Central Procurement Presser",
+    "locationOnCapitolGrounds": "Area 27",
+    "startDateTime": "8/27/2023 10:30 AM",
+    "setUpDateTime": "8/27/2023 9:30 AM",
+    "endDateTime": "8/27/2023 10:30 AM",
+    "participants": 30,
+    "details": "Press Conference on Central Procurement Policy"
+  },
+  {
+    "status": "pending",
+    "number": "2023-808",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10208",
+    "eventSponsor": "Protest to Protect Small Business",
+    "locationOnCapitolGrounds": "Area 5",
+    "startDateTime": "8/31/2023 11:00 AM",
+    "setUpDateTime": "8/31/2023 10:00 AM",
+    "endDateTime": "8/31/2023 11:00 AM",
+    "participants": 500,
+    "details": "Protest to Protect Small Business.No to SB553"
   },
   {
     "status": "approved",
