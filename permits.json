@@ -912,7 +912,7 @@
     "details": "Rally for Parental Rights"
   },
   {
-    "status": "approved",
+    "status": "pending",
     "number": "2023-705",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10089",
     "eventSponsor": "CA Domestic Workers",
@@ -1671,7 +1671,7 @@
     "status": "approved",
     "number": "2023-778",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10176",
-    "eventSponsor": "I Street Public Affairs",
+    "eventSponsor": "I Street Public Affairs- Misc Photos",
     "locationOnCapitolGrounds": "West Side, Area 33, Area 34",
     "startDateTime": "8/31/2023 8:00 AM",
     "setUpDateTime": "8/31/2023 7:00 AM",
@@ -1951,7 +1951,7 @@
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "8/31/2023 9:00 AM",
     "setUpDateTime": "8/31/2023 8:00 AM",
-    "endDateTime": "8/31/2023 10:00 AM",
+    "endDateTime": "8/31/2023 10:30 AM",
     "participants": 500,
     "details": "Public Safety Press Conference."
   },
@@ -1992,28 +1992,28 @@
     "details": "MHSOAC contract holder for Statewide advocacy event and celebration for Veterans who practice Art as a means of mental health and wellness.  Event ending by 4pm with tear down by 6pm."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-806",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10206",
     "eventSponsor": "American Clean Power",
-    "locationOnCapitolGrounds": "Area 27",
+    "locationOnCapitolGrounds": "West Side",
     "startDateTime": "9/5/2023 11:45 AM",
     "setUpDateTime": "9/5/2023 9:15 AM",
     "endDateTime": "9/5/2023 11:45 AM",
     "participants": 30,
-    "details": "Press conference with signs, small podium, and PA system"
+    "details": "Press conference with signs, small podium, and PA system.  This will be on the Southwest side of Capitol property closer to 10th and N across from the Legislative Office Building."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-807",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10207",
     "eventSponsor": "Central Procurement Presser",
-    "locationOnCapitolGrounds": "Area 27",
-    "startDateTime": "8/27/2023 10:30 AM",
-    "setUpDateTime": "8/27/2023 9:30 AM",
-    "endDateTime": "8/27/2023 10:30 AM",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/7/2023 10:30 AM",
+    "setUpDateTime": "9/7/2023 9:00 AM",
+    "endDateTime": "9/7/2023 12:00 PM",
     "participants": 30,
-    "details": "Press Conference on Central Procurement Policy"
+    "details": "Press Conference on Central Procurement Policy.  This will be toward the North West Side of Capitol Property.  Closer toward the L Street side on the West."
   },
   {
     "status": "pending",
