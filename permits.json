@@ -2028,6 +2028,30 @@
     "details": "Protest to Protect Small Business.No to SB553"
   },
   {
+    "status": "pending",
+    "number": "2023-809",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10209",
+    "eventSponsor": "Wedding Elopement ",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "8/29/2023 10:00 AM",
+    "setUpDateTime": "8/29/2023 8:00 AM",
+    "endDateTime": "8/29/2023 1:45 PM",
+    "participants": 15,
+    "details": "We will be getting married with just immediate family so it will be a very small ceremony"
+  },
+  {
+    "status": "pending",
+    "number": "2023-810",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10210",
+    "eventSponsor": "Bible reading. Stop spraying our sky",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "8/29/2023 1:00 PM",
+    "setUpDateTime": "8/29/2023 1:00 PM",
+    "endDateTime": "8/29/2023 8:30 PM",
+    "participants": 2,
+    "details": "Bible reading stop spraying  our sky."
+  },
+  {
     "status": "approved",
     "number": "2023-86",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9423",
