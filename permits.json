@@ -49,6 +49,18 @@
   },
   {
     "status": "approved",
+    "number": "2023-151",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9507",
+    "eventSponsor": "Society of American Foresters",
+    "locationOnCapitolGrounds": "Area 33",
+    "startDateTime": "10/28/2023 12:15 PM",
+    "setUpDateTime": "10/28/2023 12:00 PM",
+    "endDateTime": "10/28/2023 5:00 PM",
+    "participants": 60,
+    "details": "Professional foresters convention at convention center - this event will be small groups of foresters walking thru the park updating the Capitol Park online tree guide. Event will start with a talk by rep from State Parks on significance and history of the Park."
+  },
+  {
+    "status": "approved",
     "number": "2023-153",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9509",
     "eventSponsor": "Walk-N-Roll for Spina Bifida",
@@ -421,13 +433,25 @@
   },
   {
     "status": "approved",
+    "number": "2023-522",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9882",
+    "eventSponsor": "The Veterans Art Project Pop Up Arts Cafe",
+    "locationOnCapitolGrounds": "Area 27, Area 34",
+    "startDateTime": "10/28/2023 10:00 AM",
+    "setUpDateTime": "10/28/2023 7:00 AM",
+    "endDateTime": "10/28/2023 5:00 PM",
+    "participants": 200,
+    "details": "MHSOAC funded pop up arts cafe for Veterans mental health and wellness."
+  },
+  {
+    "status": "approved",
     "number": "2023-529",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9890",
     "eventSponsor": "LGBTQ Advocacy Day",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "8/29/2023 11:00 AM",
+    "startDateTime": "8/29/2023 10:30 AM",
     "setUpDateTime": "8/29/2023 9:00 AM",
-    "endDateTime": "8/29/2023 2:00 PM",
+    "endDateTime": "8/29/2023 12:30 PM",
     "participants": 100,
     "details": "Equality California and other LGBTQ community partners will be hosting our annual LGBTQ advocacy day in Sacramento. We will invite approximately 100 community members to meet with Legislators about pressing issues impacting the LGBTQ community in California."
   },
@@ -637,6 +661,18 @@
   },
   {
     "status": "approved",
+    "number": "2023-599",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9974",
+    "eventSponsor": "Engles Wedding ceremony",
+    "locationOnCapitolGrounds": "Area 5",
+    "startDateTime": "10/28/2023 4:00 PM",
+    "setUpDateTime": "10/28/2023 3:00 PM",
+    "endDateTime": "10/28/2023 5:30 PM",
+    "participants": 20,
+    "details": "A small wedding ceremony with just a gathering of family."
+  },
+  {
+    "status": "approved",
     "number": "2023-60",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9376",
     "eventSponsor": "Wedding ceremony",
@@ -725,9 +761,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10044",
     "eventSponsor": "California Association of Professional Scientists Rally",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "8/30/2023 12:30 PM",
-    "setUpDateTime": "8/30/2023 10:00 AM",
-    "endDateTime": "8/30/2023 6:30 PM",
+    "startDateTime": "8/30/2023 12:00 PM",
+    "setUpDateTime": "8/30/2023 7:00 AM",
+    "endDateTime": "8/30/2023 5:00 PM",
     "participants": 250,
     "details": "Informational rally to call for the Administration to negotiate a fair contract with State Scientists through collective bargaining."
   },
@@ -912,7 +948,7 @@
     "details": "Rally for Parental Rights"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-705",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10089",
     "eventSponsor": "CA Domestic Workers",
@@ -1114,6 +1150,18 @@
     "endDateTime": "8/20/2023 4:30 PM",
     "participants": 20,
     "details": "Wedding Ceramony"
+  },
+  {
+    "status": "approved",
+    "number": "2023-73",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9397",
+    "eventSponsor": "Golden Harvest Parade",
+    "locationOnCapitolGrounds": "West Side, Traffic Circle",
+    "startDateTime": "10/28/2023 10:00 AM",
+    "setUpDateTime": "10/28/2023 6:00 AM",
+    "endDateTime": "10/28/2023 6:00 PM",
+    "participants": 500,
+    "details": "Parade, Performance, Vendor exhibits."
   },
   {
     "status": "pending",
@@ -1584,16 +1632,16 @@
     "details": "Press Conference promoting local control and parental rights.  This will be on the South West Corner closer to 10th and N."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-771",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10167",
     "eventSponsor": "A call to the wailing women prayer",
-    "locationOnCapitolGrounds": "Other",
+    "locationOnCapitolGrounds": "West Side",
     "startDateTime": "9/16/2023 11:00 AM",
     "setUpDateTime": "9/16/2023 10:30 AM",
     "endDateTime": "9/16/2023 1:00 PM",
     "participants": 12,
-    "details": "Worship & Prayer"
+    "details": "Worship &  Prayer on the Southwest Side close to 10th and N."
   },
   {
     "status": "approved",
@@ -2033,23 +2081,47 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10209",
     "eventSponsor": "Wedding Elopement ",
     "locationOnCapitolGrounds": "Area 1",
-    "startDateTime": "8/29/2023 10:00 AM",
-    "setUpDateTime": "8/29/2023 8:00 AM",
-    "endDateTime": "8/29/2023 1:45 PM",
+    "startDateTime": "9/30/2023 4:00 AM",
+    "setUpDateTime": "9/30/2023 4:00 AM",
+    "endDateTime": "9/30/2023 4:00 AM",
     "participants": 15,
     "details": "We will be getting married with just immediate family so it will be a very small ceremony"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-810",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10210",
     "eventSponsor": "Bible reading. Stop spraying our sky",
-    "locationOnCapitolGrounds": "Other",
-    "startDateTime": "8/29/2023 1:00 PM",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/29/2023 1:30 PM",
     "setUpDateTime": "8/29/2023 1:00 PM",
-    "endDateTime": "8/29/2023 8:30 PM",
+    "endDateTime": "8/29/2023 8:00 PM",
     "participants": 2,
-    "details": "Bible reading stop spraying  our sky."
+    "details": "Bible reading stop spraying our sky.  This will be on the N Street Side between 12th and 14th."
+  },
+  {
+    "status": "pending",
+    "number": "2023-811",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10212",
+    "eventSponsor": "AMTB, AMLT and TPL Partnership Signing Event",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/11/2023 1:00 PM",
+    "setUpDateTime": "10/11/2023 11:00 AM",
+    "endDateTime": "10/11/2023 4:00 PM",
+    "participants": 75,
+    "details": "This will be a ceremonial signing event between three entities, Amah Mutsun Tribal Band, Amah Mutsun Land Trust and the Trust for Public Land. The event will have a few speeches, small appetizers, photo ops, mingling opportunities, and the signing of the partnership agreement. We expect no more than 75 attendees and the event itself to take no more than 2 hours (not including set up and tear down)."
+  },
+  {
+    "status": "approved",
+    "number": "2023-82",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9411",
+    "eventSponsor": "Wedding ceremony ",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "10/28/2023 3:00 PM",
+    "setUpDateTime": "10/28/2023 12:00 PM",
+    "endDateTime": "10/28/2023 4:00 PM",
+    "participants": 200,
+    "details": "Wedding Ceremony"
   },
   {
     "status": "approved",
