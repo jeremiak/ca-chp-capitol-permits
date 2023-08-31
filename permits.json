@@ -1806,8 +1806,8 @@
     "eventSponsor": "Ukrainian Community Culture Center",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "9/2/2023 5:00 PM",
-    "setUpDateTime": "9/2/2023 4:30 PM",
-    "endDateTime": "9/2/2023 9:15 PM",
+    "setUpDateTime": "9/2/2023 2:00 PM",
+    "endDateTime": "9/2/2023 9:30 PM",
     "participants": 150,
     "details": "Prayer for Ukraine.  Addresses and speeches of pastors of Ukrainian churches in Sacramento, performances of local choirs, ensembles and soloists and guests of the capital of California."
   },
@@ -2004,7 +2004,7 @@
     "details": "This event will focus on anti drug prevention & awareness discussing the dangers of drugs and how to prevent drug use food vendors guest speakers performers this event is free and open to the public the event is important because it provides for people who are struggling with addiction"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-802",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10202",
     "eventSponsor": "Press Conference about Public Safety",
@@ -2122,6 +2122,66 @@
     "endDateTime": "10/11/2023 4:00 PM",
     "participants": 75,
     "details": "This will be a ceremonial signing event between three entities, Amah Mutsun Tribal Band, Amah Mutsun Land Trust and the Trust for Public Land. The event will have a few speeches, small appetizers, photo ops, mingling opportunities, and the signing of the partnership agreement. We expect no more than 75 attendees and the event itself to take no more than 2 hours (not including set up and tear down)."
+  },
+  {
+    "status": "pending",
+    "number": "2023-812",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10213",
+    "eventSponsor": "Photoshoot for CalMatters CJN Fellows",
+    "locationOnCapitolGrounds": "Area 22",
+    "startDateTime": "9/7/2023 11:15 AM",
+    "setUpDateTime": "9/7/2023 11:00 AM",
+    "endDateTime": "9/7/2023 12:00 PM",
+    "participants": 15,
+    "details": "Portrait photoshoot for CalMatters' College Journalism Network Fellows"
+  },
+  {
+    "status": "approved",
+    "number": "2023-813",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10214",
+    "eventSponsor": "Assemblymember Haney",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/6/2023 12:00 PM",
+    "setUpDateTime": "9/6/2023 11:30 AM",
+    "endDateTime": "9/6/2023 1:00 PM",
+    "participants": 30,
+    "details": "Press conference announcing Assemblymember Haney's resolution for Trans History Month.  This will be on the southwest side across from the Legislative Office Office Building."
+  },
+  {
+    "status": "pending",
+    "number": "2023-814",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10216",
+    "eventSponsor": "Bible study stop spraying our sky",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "9/2/2023 1:00 PM",
+    "setUpDateTime": "9/2/2023 1:00 PM",
+    "endDateTime": "9/2/2023 8:30 PM",
+    "participants": 2,
+    "details": "Stop spraying our sky talk and bible reading."
+  },
+  {
+    "status": "approved",
+    "number": "2023-815",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10217",
+    "eventSponsor": "Fight for 15  SEIU",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/31/2023 11:00 AM",
+    "setUpDateTime": "8/31/2023 10:30 AM",
+    "endDateTime": "8/31/2023 11:30 AM",
+    "participants": 200,
+    "details": "Fight for $15 fast food workers demanding a seat at the table and legislation."
+  },
+  {
+    "status": "approved",
+    "number": "2023-816",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10218",
+    "eventSponsor": "American for Hindus",
+    "locationOnCapitolGrounds": "A4H",
+    "startDateTime": "9/9/2023 2:30 PM",
+    "setUpDateTime": "9/9/2023 2:00 PM",
+    "endDateTime": "9/9/2023 7:00 PM",
+    "participants": 500,
+    "details": "A4H is organizing a gathering of Hindu community members from across California to show solidarity for fair representation and profiling against the community. The gathering will addressed by a few leaders from the community. People will gather with placards in their hands. We will arrange our own sound system."
   },
   {
     "status": "approved",
