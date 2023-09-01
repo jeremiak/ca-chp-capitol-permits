@@ -145,6 +145,18 @@
   },
   {
     "status": "approved",
+    "number": "2023-265",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9621",
+    "eventSponsor": "Butler-Kirby Wedding",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "10/31/2023 9:00 AM",
+    "setUpDateTime": "10/31/2023 8:00 AM",
+    "endDateTime": "10/31/2023 11:00 AM",
+    "participants": 35,
+    "details": "A simply wedding ceremony with photographs to follow."
+  },
+  {
+    "status": "approved",
     "number": "2023-274",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9630",
     "eventSponsor": "Michael and Judy Wedding Ceremony",
@@ -2182,6 +2194,30 @@
     "endDateTime": "9/9/2023 7:00 PM",
     "participants": 500,
     "details": "A4H is organizing a gathering of Hindu community members from across California to show solidarity for fair representation and profiling against the community. The gathering will addressed by a few leaders from the community. People will gather with placards in their hands. We will arrange our own sound system."
+  },
+  {
+    "status": "pending",
+    "number": "2023-817",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10219",
+    "eventSponsor": "Fall of Democracy in Pakistan",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/23/2023 6:00 PM",
+    "setUpDateTime": "9/23/2023 5:30 PM",
+    "endDateTime": "9/23/2023 8:00 PM",
+    "participants": 50,
+    "details": "Posters and leaf letting"
+  },
+  {
+    "status": "pending",
+    "number": "2023-818",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10220",
+    "eventSponsor": "Family Portraits",
+    "locationOnCapitolGrounds": "Area 5",
+    "startDateTime": "10/8/2023 4:00 PM",
+    "setUpDateTime": "10/8/2023 3:30 PM",
+    "endDateTime": "10/8/2023 7:00 PM",
+    "participants": 35,
+    "details": "Photography of five individual families, spaced 30 minutes apart."
   },
   {
     "status": "approved",
