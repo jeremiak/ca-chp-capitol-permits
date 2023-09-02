@@ -133,6 +133,18 @@
   },
   {
     "status": "approved",
+    "number": "2023-23",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9155",
+    "eventSponsor": "Visitors Center- No West Permits Allowed",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "11/1/2023 4:00 AM",
+    "setUpDateTime": "11/1/2023 4:00 AM",
+    "endDateTime": "11/1/2026 12:00 AM",
+    "participants": 100,
+    "details": "West Side Visitors Center.  No Permits being granted.  East Park between 12th and 15th available for booking."
+  },
+  {
+    "status": "approved",
     "number": "2023-257",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9613",
     "eventSponsor": "Livival and The Gospel Show",
@@ -2136,7 +2148,7 @@
     "details": "This will be a ceremonial signing event between three entities, Amah Mutsun Tribal Band, Amah Mutsun Land Trust and the Trust for Public Land. The event will have a few speeches, small appetizers, photo ops, mingling opportunities, and the signing of the partnership agreement. We expect no more than 75 attendees and the event itself to take no more than 2 hours (not including set up and tear down)."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-812",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10213",
     "eventSponsor": "Photoshoot for CalMatters CJN Fellows",
@@ -2160,13 +2172,13 @@
     "details": "Press conference announcing Assemblymember Haney's resolution for Trans History Month.  This will be on the southwest side across from the Legislative Office Office Building."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-814",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10216",
     "eventSponsor": "Bible study stop spraying our sky",
-    "locationOnCapitolGrounds": "Other",
-    "startDateTime": "9/2/2023 1:00 PM",
-    "setUpDateTime": "9/2/2023 1:00 PM",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "9/2/2023 2:00 PM",
+    "setUpDateTime": "9/2/2023 2:00 PM",
     "endDateTime": "9/2/2023 8:30 PM",
     "participants": 2,
     "details": "Stop spraying our sky talk and bible reading."
@@ -2196,28 +2208,40 @@
     "details": "A4H is organizing a gathering of Hindu community members from across California to show solidarity for fair representation and profiling against the community. The gathering will addressed by a few leaders from the community. People will gather with placards in their hands. We will arrange our own sound system."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-817",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10219",
     "eventSponsor": "Fall of Democracy in Pakistan",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "9/23/2023 6:00 PM",
-    "setUpDateTime": "9/23/2023 5:30 PM",
-    "endDateTime": "9/23/2023 8:00 PM",
+    "startDateTime": "9/24/2023 3:00 PM",
+    "setUpDateTime": "9/24/2023 2:00 PM",
+    "endDateTime": "9/24/2023 5:00 PM",
     "participants": 50,
     "details": "Posters and leaf letting"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-818",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10220",
     "eventSponsor": "Family Portraits",
-    "locationOnCapitolGrounds": "Area 5",
+    "locationOnCapitolGrounds": "Area 1, Area 5",
     "startDateTime": "10/8/2023 4:00 PM",
     "setUpDateTime": "10/8/2023 3:30 PM",
     "endDateTime": "10/8/2023 7:00 PM",
     "participants": 35,
     "details": "Photography of five individual families, spaced 30 minutes apart."
+  },
+  {
+    "status": "approved",
+    "number": "2023-819",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10221",
+    "eventSponsor": "SB 702 Press Conference",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/6/2023 8:30 AM",
+    "setUpDateTime": "9/6/2023 8:00 AM",
+    "endDateTime": "9/6/2023 9:30 AM",
+    "participants": 15,
+    "details": "Press Conference on SB 702.  This will take place on the southwest side across from the Legislative Office Building nearer to N Street."
   },
   {
     "status": "approved",
@@ -2230,6 +2254,18 @@
     "endDateTime": "10/28/2023 4:00 PM",
     "participants": 200,
     "details": "Wedding Ceremony"
+  },
+  {
+    "status": "approved",
+    "number": "2023-821",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10223",
+    "eventSponsor": "F3 Nation",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/19/2023 10:00 AM",
+    "setUpDateTime": "10/19/2023 9:00 AM",
+    "endDateTime": "10/19/2023 12:00 PM",
+    "participants": 30,
+    "details": "F3 Nation is a men's workout group. The group will be doing a workout on the Capitol lawn."
   },
   {
     "status": "approved",
