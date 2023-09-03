@@ -1191,7 +1191,7 @@
     "status": "pending",
     "number": "2023-730",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10121",
-    "eventSponsor": "Zócalo Public Suare",
+    "eventSponsor": "Zócalo Public Square",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "10/18/2023 6:00 PM",
     "setUpDateTime": "10/18/2023 10:00 AM",
@@ -1930,6 +1930,18 @@
     "endDateTime": "8/22/2023 4:00 PM",
     "participants": 60,
     "details": "All in-person staff meeting with light snacks."
+  },
+  {
+    "status": "approved",
+    "number": "2023-792",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10190",
+    "eventSponsor": "5th Year Anniversary Camp Fire",
+    "locationOnCapitolGrounds": "Area 27",
+    "startDateTime": "11/2/2023 10:15 AM",
+    "setUpDateTime": "11/2/2023 10:00 AM",
+    "endDateTime": "11/2/2023 1:00 PM",
+    "participants": 100,
+    "details": "Assemblymember James Gallagher holding a press conference with camp fire victims and community leaders to recognize the 5th anniversary of the camp fire."
   },
   {
     "status": "approved",
