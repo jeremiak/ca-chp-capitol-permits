@@ -1141,6 +1141,18 @@
   },
   {
     "status": "approved",
+    "number": "2023-726",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10116",
+    "eventSponsor": "Family Photos",
+    "locationOnCapitolGrounds": "Area 5",
+    "startDateTime": "11/3/2023 4:00 PM",
+    "setUpDateTime": "11/3/2023 4:00 PM",
+    "endDateTime": "11/3/2023 7:00 PM",
+    "participants": 17,
+    "details": "4 family photo sessions back to back, 1 each half hour"
+  },
+  {
+    "status": "approved",
     "number": "2023-727",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10117",
     "eventSponsor": "California Womens List",
