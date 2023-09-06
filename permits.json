@@ -2305,6 +2305,42 @@
   },
   {
     "status": "approved",
+    "number": "2023-822",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10224",
+    "eventSponsor": "Senator Aisha Wahab",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/6/2023 9:30 AM",
+    "setUpDateTime": "9/6/2023 9:00 AM",
+    "endDateTime": "9/6/2023 10:30 AM",
+    "participants": 40,
+    "details": "Press Conference for Senate Bill.  This will be on the southwest side across from the Legislative Office Building on Capitol property."
+  },
+  {
+    "status": "pending",
+    "number": "2023-823",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10225",
+    "eventSponsor": "2023 California Farmer and Farmworker Month ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/27/2023 10:00 AM",
+    "setUpDateTime": "10/27/2023 7:00 AM",
+    "endDateTime": "10/27/2023 2:00 PM",
+    "participants": 100,
+    "details": "Farmer and Farmwork Celebrstion"
+  },
+  {
+    "status": "pending",
+    "number": "2023-824",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10226",
+    "eventSponsor": "Parents of Murdered Children",
+    "locationOnCapitolGrounds": "Sacramento Chapter",
+    "startDateTime": "9/25/2023 11:00 AM",
+    "setUpDateTime": "9/25/2023 10:00 AM",
+    "endDateTime": "9/25/2023 1:00 PM",
+    "participants": 100,
+    "details": "Day of Remembrance"
+  },
+  {
+    "status": "approved",
     "number": "2023-86",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9423",
     "eventSponsor": "ACPD NDEAM Job and Resources Fair",
