@@ -2316,7 +2316,7 @@
     "details": "Press Conference for Senate Bill.  This will be on the southwest side across from the Legislative Office Building on Capitol property."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-823",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10225",
     "eventSponsor": "2023 California Farmer and Farmworker Month ",
@@ -2328,7 +2328,7 @@
     "details": "Farmer and Farmwork Celebrstion"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-824",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10226",
     "eventSponsor": "Parents of Murdered Children",
@@ -2337,7 +2337,19 @@
     "setUpDateTime": "9/25/2023 10:00 AM",
     "endDateTime": "9/25/2023 1:00 PM",
     "participants": 100,
-    "details": "Day of Remembrance"
+    "details": "Day of Remembrance.  This will be on the Southwest side under the trees closer to 10th and N."
+  },
+  {
+    "status": "pending",
+    "number": "2023-826",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10229",
+    "eventSponsor": "Fenta Nah 1st annual fentanyl awareness fall festival",
+    "locationOnCapitolGrounds": "Area 22",
+    "startDateTime": "9/9/2023 10:00 AM",
+    "setUpDateTime": "9/9/2023 6:00 AM",
+    "endDateTime": "9/9/2023 4:00 PM",
+    "participants": 100,
+    "details": "Hello my name is Shei'Vonne Weber and I lost my baby sister to fentanyl. My mother Tracy Robinson and I put together a nonprofit fentanyl awareness organization called Fenta Nah! We have everyone on board for our 1st annual fentanyl awareness event at the capitol Saturday, October 28, 2023 we just need our permit from the chp. At this event we will have guest speakers from those that lost their loved ones due to this monster called fentanyl, we have guest like Laura Didier, Kevin McCathy etc. KCRA news 3 will be covering the event we will have vendors food and products along with Dj's and performances. This event will run from 10am-4pm we will have fentanyl awareness kits and more if you can please help us with our cause by providing us with a permit. Thank You, Shei'Vonne N. Weber, Vice President and Director of Operations at Fenta Nah! A nonprofit fentanyl awareness organization. sheivonne@fentanah.org 2792079056"
   },
   {
     "status": "approved",
