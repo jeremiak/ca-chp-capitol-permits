@@ -1121,11 +1121,11 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10113",
     "eventSponsor": "California Teamsters Rally AB 316",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "9/19/2023 8:00 AM",
+    "startDateTime": "9/19/2023 11:00 AM",
     "setUpDateTime": "9/19/2023 7:00 AM",
     "endDateTime": "9/19/2023 5:00 PM",
     "participants": 1000,
-    "details": "Rally to Encourage Governor to Sign AB 316.  Including a Sacramento PD permitted march down Capitol Mall to the West Steps of the Capitol"
+    "details": "Rally to Encourage Governor to Sign AB 316.  Including a Sacramento PD permitted march down Capitol Mall to the West Steps of the Capitol.  Gathering at Sutter Health Park at 10am then marching to be on Capitol Steps at 12pm."
   },
   {
     "status": "approved",
@@ -2352,7 +2352,7 @@
     "details": "Hello my name is Shei'Vonne Weber and I lost my baby sister to fentanyl. My mother Tracy Robinson and I put together a nonprofit fentanyl awareness organization called Fenta Nah! We have everyone on board for our 1st annual fentanyl awareness event at the capitol Saturday, October 28, 2023 we just need our permit from the chp. At this event we will have guest speakers from those that lost their loved ones due to this monster called fentanyl, we have guest like Laura Didier, Kevin McCathy etc. KCRA news 3 will be covering the event we will have vendors food and products along with Dj's and performances. This event will run from 10am-4pm we will have fentanyl awareness kits and more if you can please help us with our cause by providing us with a permit. Thank You, Shei'Vonne N. Weber, Vice President and Director of Operations at Fenta Nah! A nonprofit fentanyl awareness organization. sheivonne@fentanah.org 2792079056"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-827",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10230",
     "eventSponsor": "Fall of Democracy in Pakistan",
@@ -2369,9 +2369,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10231",
     "eventSponsor": "Interactive Prison Canteen Exhibit and Demonstration",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "9/10/2023 8:00 AM",
-    "setUpDateTime": "9/10/2023 7:45 AM",
-    "endDateTime": "9/10/2023 2:00 PM",
+    "startDateTime": "9/12/2023 8:00 AM",
+    "setUpDateTime": "9/12/2023 8:00 AM",
+    "endDateTime": "9/12/2023 2:00 PM",
     "participants": 30,
     "details": "Senator Josh Becker will host an interactive prison canteen exhibit to highlight how the prices of everyday necessities that are sold in prison canteens are unnecessarily marked up. Other legislators, staff and supporters of SB 474 will be invited to observe the exhibit and compare the prices of prison canteen products with products that are sold in grocery stores."
   },
@@ -2386,6 +2386,54 @@
     "endDateTime": "9/29/2023 5:00 PM",
     "participants": 40,
     "details": "An army promotion ceremony for Daniel Jenkins from Major to Lieutenant Colonel"
+  },
+  {
+    "status": "pending",
+    "number": "2023-831",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10234",
+    "eventSponsor": "Connect Homes Housing Product Demonstration",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/20/2023 1:30 PM",
+    "setUpDateTime": "9/20/2023 1:15 PM",
+    "endDateTime": "9/20/2023 5:30 PM",
+    "participants": 15,
+    "details": "In parallel with a recent product deployment in Senator Becker's district, Connect Homes will be displaying and demonstrating one of their modular shelter products, which have been deployed as part of Project Homekey and other homelessness prevention efforts in California."
+  },
+  {
+    "status": "pending",
+    "number": "2023-832",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10235",
+    "eventSponsor": "California Statewide Law Enforcement Association ",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "9/12/2023 9:30 AM",
+    "setUpDateTime": "9/12/2023 9:00 AM",
+    "endDateTime": "9/12/2023 10:15 AM",
+    "participants": 10,
+    "details": "Press Conference"
+  },
+  {
+    "status": "pending",
+    "number": "2023-833",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10236",
+    "eventSponsor": "Asm. Jesse Gabriel",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/14/2023 8:30 AM",
+    "setUpDateTime": "9/14/2023 7:30 AM",
+    "endDateTime": "9/14/2023 10:00 AM",
+    "participants": 100,
+    "details": "Asm. Gabriel would like to host a rally in support of his AB 28"
+  },
+  {
+    "status": "pending",
+    "number": "2023-834",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10237",
+    "eventSponsor": "Support Workers Staff Lunch",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "9/11/2023 6:00 PM",
+    "setUpDateTime": "9/11/2023 5:30 PM",
+    "endDateTime": "9/11/2023 8:30 PM",
+    "participants": 100,
+    "details": "This is an event featuring free food, speakers, and live entertainment to celebrate the upcoming passage of bill SB 476."
   },
   {
     "status": "approved",
