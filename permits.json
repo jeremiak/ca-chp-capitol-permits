@@ -2364,7 +2364,7 @@
     "details": "Leaf letting and posters about the Human Rights and political Crisis in Pakistan."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-828",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10231",
     "eventSponsor": "Interactive Prison Canteen Exhibit and Demonstration",
@@ -2373,7 +2373,7 @@
     "setUpDateTime": "9/12/2023 8:00 AM",
     "endDateTime": "9/12/2023 2:00 PM",
     "participants": 30,
-    "details": "Senator Josh Becker will host an interactive prison canteen exhibit to highlight how the prices of everyday necessities that are sold in prison canteens are unnecessarily marked up. Other legislators, staff and supporters of SB 474 will be invited to observe the exhibit and compare the prices of prison canteen products with products that are sold in grocery stores."
+    "details": "Senator Josh Becker will host an interactive prison canteen exhibit to highlight how the prices of everyday necessities that are sold in prison canteens are unnecessarily marked up. Other legislators, staff and supporters of SB 474 will be invited to observe the exhibit and compare the prices of prison canteen products with products that are sold in grocery stores.  This will be close to N Street directly across from the lob."
   },
   {
     "status": "pending",
@@ -2400,16 +2400,16 @@
     "details": "In parallel with a recent product deployment in Senator Becker's district, Connect Homes will be displaying and demonstrating one of their modular shelter products, which have been deployed as part of Project Homekey and other homelessness prevention efforts in California."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-832",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10235",
     "eventSponsor": "California Statewide Law Enforcement Association ",
-    "locationOnCapitolGrounds": "Other",
+    "locationOnCapitolGrounds": "Traffic Circle",
     "startDateTime": "9/12/2023 9:30 AM",
     "setUpDateTime": "9/12/2023 9:00 AM",
     "endDateTime": "9/12/2023 10:15 AM",
     "participants": 10,
-    "details": "Press Conference"
+    "details": "Press Conference in front of the Peace Officer Memorial"
   },
   {
     "status": "pending",
@@ -2424,16 +2424,28 @@
     "details": "Asm. Gabriel would like to host a rally in support of his AB 28"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-834",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10237",
     "eventSponsor": "Support Workers Staff Lunch",
-    "locationOnCapitolGrounds": "Other",
-    "startDateTime": "9/11/2023 6:00 PM",
-    "setUpDateTime": "9/11/2023 5:30 PM",
-    "endDateTime": "9/11/2023 8:30 PM",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/12/2023 6:00 PM",
+    "setUpDateTime": "9/12/2023 5:30 PM",
+    "endDateTime": "9/12/2023 8:30 PM",
     "participants": 100,
-    "details": "This is an event featuring free food, speakers, and live entertainment to celebrate the upcoming passage of bill SB 476."
+    "details": "This is an event featuring free food, speakers, and live entertainment to celebrate the upcoming passage of bill SB 476.  This will be near 10th and N."
+  },
+  {
+    "status": "pending",
+    "number": "2023-835",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10238",
+    "eventSponsor": "Betty Roth Celebration of Life",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "9/12/2023 3:00 PM",
+    "setUpDateTime": "9/12/2023 2:30 PM",
+    "endDateTime": "9/12/2023 5:30 PM",
+    "participants": 30,
+    "details": "This is a celebration of life for Betty Roth -- this is not a funeral.  This is to bring family and a few close friends together and to Celebrate Betty's Life.  She was an amazing lady that lives on today with us in our lives.  She was also the Chairperson of the California Governor's Commission on Aging (Betty was the on the Governor's Commission on Aging for some 15 years)."
   },
   {
     "status": "approved",
