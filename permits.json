@@ -49,6 +49,18 @@
   },
   {
     "status": "approved",
+    "number": "2023-118",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9472",
+    "eventSponsor": "California Mexican American Veterans Memorial Foundation",
+    "locationOnCapitolGrounds": "Area 34",
+    "startDateTime": "11/11/2023 1:00 PM",
+    "setUpDateTime": "11/11/2023 9:00 AM",
+    "endDateTime": "11/11/2023 3:00 PM",
+    "participants": 100,
+    "details": "Annual Veterans Day Ceremony honoring and commemorating the service and sacrifices of all United States Veterans. This ceremony is hosted by the CA Mexican American Veterans Memorial Foundation. A brief history about the El Soldado Monument will be shared with the attendees about the Society of Mothers that funded and erected this beautiful monument."
+  },
+  {
+    "status": "approved",
     "number": "2023-151",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9507",
     "eventSponsor": "Society of American Foresters",
@@ -106,6 +118,18 @@
     "endDateTime": "9/24/2023 12:00 PM",
     "participants": 100,
     "details": "Walk to raise funds and awareness for PKD (Polycystic Kidney Disease)."
+  },
+  {
+    "status": "approved",
+    "number": "2023-162",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9518",
+    "eventSponsor": "Diwali ",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "11/11/2023 6:00 PM",
+    "setUpDateTime": "11/11/2023 3:00 PM",
+    "endDateTime": "11/15/2023 8:00 AM",
+    "participants": 9,
+    "details": "Lighting of battery operated candles and prayers of light in all aspects of darkness. Same as every year. South flower bed area."
   },
   {
     "status": "approved",
@@ -2352,7 +2376,7 @@
     "details": "Day of Remembrance.  This will be on the Southwest side under the trees closer to 10th and N."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-826",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10229",
     "eventSponsor": "Fenta Nah 1st annual fentanyl awareness fall festival",
@@ -2388,7 +2412,7 @@
     "details": "Senator Josh Becker will host an interactive prison canteen exhibit to highlight how the prices of everyday necessities that are sold in prison canteens are unnecessarily marked up. Other legislators, staff and supporters of SB 474 will be invited to observe the exhibit and compare the prices of prison canteen products with products that are sold in grocery stores.  This will be close to N Street directly across from the lob."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-829",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10232",
     "eventSponsor": "Major Daniel Jenkins Promotion Ceremony",
@@ -2424,7 +2448,7 @@
     "details": "Press Conference in front of the Peace Officer Memorial"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-833",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10236",
     "eventSponsor": "Asm. Jesse Gabriel",
@@ -2448,16 +2472,100 @@
     "details": "This is an event featuring free food, speakers, and live entertainment to celebrate the upcoming passage of bill SB 476.  This will be near 10th and N."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-835",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10238",
     "eventSponsor": "Betty Roth Celebration of Life",
     "locationOnCapitolGrounds": "Area 1",
-    "startDateTime": "9/12/2023 3:00 PM",
-    "setUpDateTime": "9/12/2023 2:30 PM",
-    "endDateTime": "9/12/2023 5:30 PM",
+    "startDateTime": "9/30/2023 3:00 PM",
+    "setUpDateTime": "9/30/2023 3:00 PM",
+    "endDateTime": "9/30/2023 6:00 PM",
     "participants": 30,
     "details": "This is a celebration of life for Betty Roth -- this is not a funeral.  This is to bring family and a few close friends together and to Celebrate Betty's Life.  She was an amazing lady that lives on today with us in our lives.  She was also the Chairperson of the California Governor's Commission on Aging (Betty was the on the Governor's Commission on Aging for some 15 years)."
+  },
+  {
+    "status": "approved",
+    "number": "2023-836",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10239",
+    "eventSponsor": "Hamer Photography ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/6/2023 8:30 AM",
+    "setUpDateTime": "10/6/2023 8:00 AM",
+    "endDateTime": "10/6/2023 10:45 AM",
+    "participants": 15,
+    "details": "Individual headshots and a group picture"
+  },
+  {
+    "status": "approved",
+    "number": "2023-837",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10240",
+    "eventSponsor": "Porras and Kwan Wedding",
+    "locationOnCapitolGrounds": "Area 5",
+    "startDateTime": "9/16/2023 12:30 PM",
+    "setUpDateTime": "9/16/2023 12:30 PM",
+    "endDateTime": "9/16/2023 2:00 PM",
+    "participants": 22,
+    "details": "Bridal party photo and video session."
+  },
+  {
+    "status": "approved",
+    "number": "2023-838",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10241",
+    "eventSponsor": "CA State Senate",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/18/2023 6:00 AM",
+    "setUpDateTime": "9/18/2023 6:00 AM",
+    "endDateTime": "9/18/2023 3:00 PM",
+    "participants": 6,
+    "details": "Delivery of Scaffolding for Senate Chamber Repair Project. Scaffolding will be brought thru West Doors of Capitol."
+  },
+  {
+    "status": "pending",
+    "number": "2023-839",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10242",
+    "eventSponsor": "Los Angeles LGBT Center Advocacy Day",
+    "locationOnCapitolGrounds": "Area 22, Area 27",
+    "startDateTime": "9/14/2023 10:00 AM",
+    "setUpDateTime": "9/14/2023 8:00 AM",
+    "endDateTime": "9/14/2023 2:00 PM",
+    "participants": 100,
+    "details": "The Los Angeles LGBT Center will be hosting volunteers from across the state to come to the capitol to advocate for legislation that impacts the LGBT community. We will be holding a rally at the Capitol to inspire our advocates and fuel them before going to talk to decision makers."
+  },
+  {
+    "status": "approved",
+    "number": "2023-84",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9419",
+    "eventSponsor": "Veterans Day and Classic Car and Parade.",
+    "locationOnCapitolGrounds": "West Side, Traffic Circle, Area 1, Area 5, Area 22, Area 27, Area 33, Area 34",
+    "startDateTime": "11/11/2023 11:00 AM",
+    "setUpDateTime": "11/11/2023 8:00 AM",
+    "endDateTime": "11/11/2023 5:00 PM",
+    "participants": 600,
+    "details": "Veterans Day Parade, from the Crocker down to Capitol Mall. Around the Capitol and end up at 10th st and 9th street. Roundabout. Car show Ceremony .food trucks. Fun.  Depending on the West Construction may begin at Vietnam Veterans Memorial or on West."
+  },
+  {
+    "status": "pending",
+    "number": "2023-840",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10243",
+    "eventSponsor": "Celebrate Life, Week 40",
+    "locationOnCapitolGrounds": "Area 33",
+    "startDateTime": "9/14/2023 8:00 AM",
+    "setUpDateTime": "9/14/2023 6:00 AM",
+    "endDateTime": "9/14/2023 12:00 PM",
+    "participants": 500,
+    "details": "We will be holding a prayer walk to celebrate the lives of babies that have been saved from abortion. Various Evangelical churches in the area will gather to pray and worship God as we celebrate life."
+  },
+  {
+    "status": "pending",
+    "number": "2023-841",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10244",
+    "eventSponsor": "Veto AB957, AB665, AB1078 Rally ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/14/2023 3:15 PM",
+    "setUpDateTime": "9/14/2023 3:15 PM",
+    "endDateTime": "9/14/2023 7:00 PM",
+    "participants": 300,
+    "details": "Rally to oppose AB957, AB665, AB1078 & protect children, parental rights & local control."
   },
   {
     "status": "approved",
