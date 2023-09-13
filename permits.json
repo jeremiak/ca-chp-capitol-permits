@@ -1554,7 +1554,7 @@
     "eventSponsor": "Care4All Press Event",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "9/20/2023 11:45 AM",
-    "setUpDateTime": "9/20/2023 11:00 AM",
+    "setUpDateTime": "9/20/2023 10:00 AM",
     "endDateTime": "9/20/2023 1:00 PM",
     "participants": 30,
     "details": "Press event to highlight the human impact of the Care4All priority bills.  This will be on the West Steps."
@@ -1721,9 +1721,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10167",
     "eventSponsor": "A call to the wailing women prayer",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "9/16/2023 11:00 AM",
-    "setUpDateTime": "9/16/2023 10:30 AM",
-    "endDateTime": "9/16/2023 1:00 PM",
+    "startDateTime": "9/16/2023 9:00 AM",
+    "setUpDateTime": "9/16/2023 9:00 AM",
+    "endDateTime": "9/16/2023 11:00 AM",
     "participants": 12,
     "details": "Worship &  Prayer on the Southwest Side close to 10th and N."
   },
@@ -2566,6 +2566,42 @@
     "endDateTime": "9/14/2023 7:00 PM",
     "participants": 300,
     "details": "Rally to oppose AB957, AB665, AB1078 & protect children, parental rights & local control."
+  },
+  {
+    "status": "pending",
+    "number": "2023-842",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10245",
+    "eventSponsor": "CA firefighters memorial wall engraving ",
+    "locationOnCapitolGrounds": "Area 34",
+    "startDateTime": "10/3/2023 6:00 AM",
+    "setUpDateTime": "10/3/2023 6:00 AM",
+    "endDateTime": "10/3/2023 5:00 PM",
+    "participants": 4,
+    "details": "Engraving of names on the California Firefighters Memorial Wall"
+  },
+  {
+    "status": "pending",
+    "number": "2023-843",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10246",
+    "eventSponsor": "Capital Fellows Programs Group Photos",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "9/15/2023 8:45 AM",
+    "setUpDateTime": "9/15/2023 8:30 AM",
+    "endDateTime": "9/15/2023 10:00 AM",
+    "participants": 72,
+    "details": "The Capital Fellows Programs will be taking group photos of each Fellow cohort on the West Steps of the Capitol."
+  },
+  {
+    "status": "pending",
+    "number": "2023-844",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10247",
+    "eventSponsor": "ACCM Advocacy Day Press Rally ",
+    "locationOnCapitolGrounds": "Area 5, Area 22",
+    "startDateTime": "9/15/2023 9:00 AM",
+    "setUpDateTime": "9/15/2023 7:00 AM",
+    "endDateTime": "9/15/2023 4:00 PM",
+    "participants": 200,
+    "details": "Californians for the Arts will organize a press conference and advocacy day rally for citizen advocates.  The event will include speakers and performances. Following a roughly 90 minute program the advocates will parade over to meet with various senate and assembly offices. A small group will remain in the park as a base station and check in location for the advocates before and after their meetings."
   },
   {
     "status": "approved",
