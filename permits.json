@@ -2568,7 +2568,7 @@
     "details": "Rally to oppose AB957, AB665, AB1078 & protect children, parental rights & local control."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-842",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10245",
     "eventSponsor": "CA firefighters memorial wall engraving ",
@@ -2580,14 +2580,14 @@
     "details": "Engraving of names on the California Firefighters Memorial Wall"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-843",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10246",
     "eventSponsor": "Capital Fellows Programs Group Photos",
-    "locationOnCapitolGrounds": "Other",
-    "startDateTime": "9/15/2023 8:45 AM",
-    "setUpDateTime": "9/15/2023 8:30 AM",
-    "endDateTime": "9/15/2023 10:00 AM",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/19/2023 8:30 AM",
+    "setUpDateTime": "10/19/2023 8:30 AM",
+    "endDateTime": "10/19/2023 10:00 AM",
     "participants": 72,
     "details": "The Capital Fellows Programs will be taking group photos of each Fellow cohort on the West Steps of the Capitol."
   },
