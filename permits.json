@@ -2604,6 +2604,18 @@
     "details": "Californians for the Arts will organize a press conference and advocacy day rally for citizen advocates.  The event will include speakers and performances. Following a roughly 90 minute program the advocates will parade over to meet with various senate and assembly offices. A small group will remain in the park as a base station and check in location for the advocates before and after their meetings."
   },
   {
+    "status": "pending",
+    "number": "2023-845",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10251",
+    "eventSponsor": "Asm. Jesse Gabriel",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/21/2023 1:45 PM",
+    "setUpDateTime": "9/21/2023 1:15 PM",
+    "endDateTime": "9/21/2023 4:00 PM",
+    "participants": 100,
+    "details": "Asm. Gabriel would like to host a rally in support of his AB 28."
+  },
+  {
     "status": "approved",
     "number": "2023-86",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9423",
