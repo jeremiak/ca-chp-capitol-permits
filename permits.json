@@ -2604,14 +2604,14 @@
     "details": "Senator Ashby is hosting three 5th grade classes for a visit to the Senate Floor and a tour of the Capitol, followed by lunch on the Capitol grounds."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-845",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10251",
     "eventSponsor": "Asm. Jesse Gabriel",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "9/21/2023 1:45 PM",
-    "setUpDateTime": "9/21/2023 1:15 PM",
-    "endDateTime": "9/21/2023 4:00 PM",
+    "startDateTime": "9/21/2023 1:00 PM",
+    "setUpDateTime": "9/21/2023 12:30 PM",
+    "endDateTime": "9/21/2023 2:30 PM",
     "participants": 100,
     "details": "Asm. Gabriel would like to host a rally in support of his AB 28."
   },
