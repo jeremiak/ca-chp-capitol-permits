@@ -1297,6 +1297,18 @@
   },
   {
     "status": "approved",
+    "number": "2023-735",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10126",
+    "eventSponsor": "Wedding Ceremony",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "11/19/2023 12:00 PM",
+    "setUpDateTime": "11/19/2023 11:00 AM",
+    "endDateTime": "11/19/2023 1:30 PM",
+    "participants": 15,
+    "details": "Small wedding ceremony at the State Capital World Peace Garden."
+  },
+  {
+    "status": "approved",
     "number": "2023-736",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10127",
     "eventSponsor": "Candlelight Vigil in Support of Ukraine Sunflower Society",
@@ -2424,7 +2436,7 @@
     "details": "An army promotion ceremony for Daniel Jenkins from Major to Lieutenant Colonel"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-831",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10234",
     "eventSponsor": "Connect Homes Housing Product Demonstration",
@@ -2614,6 +2626,30 @@
     "endDateTime": "9/21/2023 2:30 PM",
     "participants": 100,
     "details": "Asm. Gabriel would like to host a rally in support of his AB 28."
+  },
+  {
+    "status": "approved",
+    "number": "2023-846",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10253",
+    "eventSponsor": "West Side Construction ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/23/2023 7:45 AM",
+    "setUpDateTime": "9/23/2023 6:00 AM",
+    "endDateTime": "9/23/2023 11:00 AM",
+    "participants": 10,
+    "details": "Work on the west side Capitol."
+  },
+  {
+    "status": "pending",
+    "number": "2023-847",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10254",
+    "eventSponsor": "PICO California",
+    "locationOnCapitolGrounds": "Home is Sacred Vigil",
+    "startDateTime": "10/4/2023 9:00 PM",
+    "setUpDateTime": "10/4/2023 3:00 PM",
+    "endDateTime": "10/4/2023 9:00 PM",
+    "participants": 100,
+    "details": "A gathering to celebrate the progress of a housing campaign and a vigil for the thousands of families across California who still face housing insecurity and homelessness."
   },
   {
     "status": "approved",
