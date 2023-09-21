@@ -607,7 +607,7 @@
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "9/28/2023 9:00 AM",
     "setUpDateTime": "9/28/2023 7:00 AM",
-    "endDateTime": "9/28/2023 10:00 AM",
+    "endDateTime": "9/28/2023 12:00 PM",
     "participants": 55,
     "details": "This annual event is the Opening Day cermeony for Day 5 of the National EMS Memorial Bike Ride (NEMSMBR) - West Coast. The NEMSMBR is a six day ride from Reno, NV. to San Francisco, CA to honor fallen EMS personnel who have died and dedicated thier lives to servicing their communities as EMS personnel."
   },
@@ -1996,7 +1996,7 @@
     "number": "2023-792",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10190",
     "eventSponsor": "5th Year Anniversary Camp Fire",
-    "locationOnCapitolGrounds": "Area 27",
+    "locationOnCapitolGrounds": "West Side",
     "startDateTime": "11/2/2023 10:15 AM",
     "setUpDateTime": "11/2/2023 10:00 AM",
     "endDateTime": "11/2/2023 1:00 PM",
@@ -2226,8 +2226,8 @@
     "eventSponsor": "AMTB, AMLT and TPL Partnership Signing Event",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "10/11/2023 1:00 PM",
-    "setUpDateTime": "10/11/2023 11:00 AM",
-    "endDateTime": "10/11/2023 4:00 PM",
+    "setUpDateTime": "10/11/2023 10:00 AM",
+    "endDateTime": "10/11/2023 5:00 PM",
     "participants": 75,
     "details": "This will be a ceremonial signing event between three entities, Amah Mutsun Tribal Band, Amah Mutsun Land Trust and the Trust for Public Land. The event will have a few speeches, small appetizers, photo ops, mingling opportunities, and the signing of the partnership agreement. We expect no more than 75 attendees and the event itself to take no more than 2 hours (not including set up and tear down)."
   },
@@ -2650,6 +2650,30 @@
     "endDateTime": "10/4/2023 9:00 PM",
     "participants": 100,
     "details": "A gathering to celebrate the progress of a housing campaign and a vigil for the thousands of families across California who still face housing insecurity and homelessness."
+  },
+  {
+    "status": "pending",
+    "number": "2023-848",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10256",
+    "eventSponsor": "Engagement Celebration",
+    "locationOnCapitolGrounds": "Area 33",
+    "startDateTime": "9/23/2023 2:00 PM",
+    "setUpDateTime": "9/23/2023 12:45 PM",
+    "endDateTime": "9/23/2023 5:00 PM",
+    "participants": 20,
+    "details": "We are looking to host a picnic to celebrate our engagement in Capitol Park. We were hoping to gather with friends and eat a late lunch in the park together."
+  },
+  {
+    "status": "approved",
+    "number": "2023-849",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10258",
+    "eventSponsor": "DGS Tree Install",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "11/1/2023 6:00 AM",
+    "setUpDateTime": "11/1/2023 6:00 AM",
+    "endDateTime": "11/2/2023 5:00 PM",
+    "participants": 10,
+    "details": "Holiday Tree Install"
   },
   {
     "status": "approved",
