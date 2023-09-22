@@ -1243,7 +1243,7 @@
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "10/18/2023 6:00 PM",
     "setUpDateTime": "10/18/2023 10:00 AM",
-    "endDateTime": "10/18/2023 8:00 PM",
+    "endDateTime": "10/18/2023 10:00 PM",
     "participants": 100,
     "details": "zocalpublicsquare.org slash event slash fair-workplaces"
   },
@@ -1656,7 +1656,7 @@
     "details": "Wedding Ceremony"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-765",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10159",
     "eventSponsor": "CA Will Be Saved",
@@ -2345,10 +2345,10 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10223",
     "eventSponsor": "F3 Nation",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "10/19/2023 10:00 AM",
-    "setUpDateTime": "10/19/2023 9:00 AM",
+    "startDateTime": "10/19/2023 9:00 AM",
+    "setUpDateTime": "10/19/2023 8:30 AM",
     "endDateTime": "10/19/2023 12:00 PM",
-    "participants": 30,
+    "participants": 50,
     "details": "F3 Nation is a men's workout group. The group will be doing a workout on the Capitol lawn."
   },
   {
@@ -2640,12 +2640,12 @@
     "details": "Work on the west side Capitol."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-847",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10254",
     "eventSponsor": "PICO California",
     "locationOnCapitolGrounds": "Home is Sacred Vigil",
-    "startDateTime": "10/4/2023 9:00 PM",
+    "startDateTime": "10/4/2023 4:00 PM",
     "setUpDateTime": "10/4/2023 3:00 PM",
     "endDateTime": "10/4/2023 9:00 PM",
     "participants": 100,
@@ -2674,6 +2674,42 @@
     "endDateTime": "11/2/2023 5:00 PM",
     "participants": 10,
     "details": "Holiday Tree Install"
+  },
+  {
+    "status": "pending",
+    "number": "2023-850",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10260",
+    "eventSponsor": "California Labor Federation ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/3/2023 10:00 AM",
+    "setUpDateTime": "10/3/2023 8:00 AM",
+    "endDateTime": "10/3/2023 1:00 PM",
+    "participants": 50,
+    "details": "SB 799 Press Conference"
+  },
+  {
+    "status": "approved",
+    "number": "2023-851",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10261",
+    "eventSponsor": "Ward Wedding",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "10/17/2023 9:30 AM",
+    "setUpDateTime": "10/17/2023 8:00 AM",
+    "endDateTime": "10/17/2023 10:30 AM",
+    "participants": 20,
+    "details": "Wedding ceremony"
+  },
+  {
+    "status": "pending",
+    "number": "2023-852",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10264",
+    "eventSponsor": "Wedding Proposal",
+    "locationOnCapitolGrounds": "Area 1, Other",
+    "startDateTime": "10/1/2023 4:30 PM",
+    "setUpDateTime": "10/1/2023 3:45 PM",
+    "endDateTime": "10/1/2023 6:30 PM",
+    "participants": 7,
+    "details": "This event is for a wedding proposal for my sister getting married in a few weeks. Basic things like a red rug with some proposal signs and electric candles will be present."
   },
   {
     "status": "approved",
