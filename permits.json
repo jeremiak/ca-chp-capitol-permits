@@ -2712,6 +2712,18 @@
     "details": "This event is for a wedding proposal for my sister getting married in a few weeks. Basic things like a red rug with some proposal signs and electric candles will be present."
   },
   {
+    "status": "pending",
+    "number": "2023-853",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10265",
+    "eventSponsor": "CA State Senate",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/2/2023 6:00 AM",
+    "setUpDateTime": "10/2/2023 6:00 AM",
+    "endDateTime": "10/2/2023 9:00 AM",
+    "participants": 6,
+    "details": "Deliver scaffolding through West Capitol doors for Senate Chamber repair project."
+  },
+  {
     "status": "approved",
     "number": "2023-86",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9423",
