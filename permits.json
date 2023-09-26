@@ -1940,7 +1940,7 @@
     "startDateTime": "9/30/2023 6:00 PM",
     "setUpDateTime": "9/30/2023 1:00 PM",
     "endDateTime": "9/30/2023 10:00 PM",
-    "participants": 150,
+    "participants": 200,
     "details": "Farmer John is looking to put on a movie night open to the public. The event will involve an inflatable movie screen, free pool floaties and camping chairs for people to sit in, and giant Jenga. We are also planning on working with Parking of Sacramento to park our food truck on 10th St. The food truck will give out free food and non-alcoholic drinks including hot dogs, pretzel dogs and nachos."
   },
   {
@@ -2227,7 +2227,7 @@
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "10/11/2023 1:00 PM",
     "setUpDateTime": "10/11/2023 10:00 AM",
-    "endDateTime": "10/11/2023 5:00 PM",
+    "endDateTime": "10/11/2023 6:00 PM",
     "participants": 75,
     "details": "This will be a ceremonial signing event between three entities, Amah Mutsun Tribal Band, Amah Mutsun Land Trust and the Trust for Public Land. The event will have a few speeches, small appetizers, photo ops, mingling opportunities, and the signing of the partnership agreement. We expect no more than 75 attendees and the event itself to take no more than 2 hours (not including set up and tear down)."
   },
@@ -2722,6 +2722,42 @@
     "endDateTime": "10/2/2023 9:00 AM",
     "participants": 6,
     "details": "Deliver scaffolding through West Capitol doors for Senate Chamber repair project."
+  },
+  {
+    "status": "approved",
+    "number": "2023-856",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10268",
+    "eventSponsor": "Ironman California Welcome Celebration",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "10/20/2023 7:00 PM",
+    "setUpDateTime": "10/20/2023 3:00 PM",
+    "endDateTime": "10/20/2023 9:00 PM",
+    "participants": 1000,
+    "details": "Welcome event for athletes for the Ironman CA event."
+  },
+  {
+    "status": "approved",
+    "number": "2023-858",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10270",
+    "eventSponsor": "Childers wedding ",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "10/16/2023 2:00 PM",
+    "setUpDateTime": "10/16/2023 12:30 PM",
+    "endDateTime": "10/16/2023 4:30 PM",
+    "participants": 20,
+    "details": "Wedding ceremony"
+  },
+  {
+    "status": "pending",
+    "number": "2023-859",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10271",
+    "eventSponsor": "Fesliyan Session",
+    "locationOnCapitolGrounds": "West Side, Area 5",
+    "startDateTime": "10/29/2023 4:30 PM",
+    "setUpDateTime": "10/29/2023 4:15 PM",
+    "endDateTime": "10/29/2023 5:45 PM",
+    "participants": 4,
+    "details": "Wedding photo session"
   },
   {
     "status": "approved",
