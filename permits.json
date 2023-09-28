@@ -548,7 +548,7 @@
     "startDateTime": "10/8/2023 11:00 AM",
     "setUpDateTime": "10/8/2023 7:30 AM",
     "endDateTime": "10/8/2023 5:30 PM",
-    "participants": 405,
+    "participants": 400,
     "details": "An annual event that encourages the freedom of speech and thought, civic engagement, enthusiasm for science, social justice, and the separation of church and state. This will be our 22nd event.  This will be on the West Side of the Capitol."
   },
   {
@@ -609,7 +609,7 @@
     "setUpDateTime": "9/28/2023 7:00 AM",
     "endDateTime": "9/28/2023 12:00 PM",
     "participants": 55,
-    "details": "This annual event is the Opening Day cermeony for Day 5 of the National EMS Memorial Bike Ride (NEMSMBR) - West Coast. The NEMSMBR is a six day ride from Reno, NV. to San Francisco, CA to honor fallen EMS personnel who have died and dedicated thier lives to servicing their communities as EMS personnel."
+    "details": "This annual event is the Opening Day cermemony for Day 5 of the National EMS Memorial Bike Ride (NEMSMBR) - West Coast. The NEMSMBR is a six day ride from Reno, NV. to San Francisco, CA to honor fallen EMS personnel who have died and dedicated their lives to servicing their communities as EMS personnel."
   },
   {
     "status": "approved",
@@ -2748,7 +2748,7 @@
     "details": "Wedding ceremony"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-859",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10271",
     "eventSponsor": "Fesliyan Session",
@@ -2770,5 +2770,29 @@
     "endDateTime": "10/12/2023 2:00 PM",
     "participants": 100,
     "details": "CHP's ACPD hosts a Job and Resources Fair with multiple state agencies for persons with disabilities."
+  },
+  {
+    "status": "approved",
+    "number": "2023-861",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10273",
+    "eventSponsor": "Assemblymember Rodriguez Holds Press Conference Highlighting Seismic Retrofitting Budget Win",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/9/2023 11:00 AM",
+    "setUpDateTime": "10/9/2023 10:30 AM",
+    "endDateTime": "10/9/2023 1:00 PM",
+    "participants": 30,
+    "details": "Press conference highlighting budget win with Cal OES, CEA, and others."
+  },
+  {
+    "status": "approved",
+    "number": "2023-862",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10274",
+    "eventSponsor": "DCO-ASSEMBLY DEMOCRATIC CAUCUS",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/4/2023 12:00 PM",
+    "setUpDateTime": "10/4/2023 11:30 AM",
+    "endDateTime": "10/4/2023 2:00 PM",
+    "participants": 10,
+    "details": "Requesting space on west steps under the Portico near the doors to set up lighting for Assembly staff headshot photography."
   }
 ]
