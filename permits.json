@@ -49,6 +49,18 @@
   },
   {
     "status": "approved",
+    "number": "2023-108",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9459",
+    "eventSponsor": "California International Marathon ",
+    "locationOnCapitolGrounds": "West Side, Traffic Circle, Area 1, Area 5, Area 22, Area 27, Area 33, Area 34",
+    "startDateTime": "11/28/2023 8:00 AM",
+    "setUpDateTime": "11/28/2023 8:00 AM",
+    "endDateTime": "12/4/2023 12:00 PM",
+    "participants": 15000,
+    "details": "California International Marathon and Finish Festival"
+  },
+  {
+    "status": "approved",
     "number": "2023-118",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9472",
     "eventSponsor": "California Mexican American Veterans Memorial Foundation",
@@ -2669,8 +2681,8 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10258",
     "eventSponsor": "DGS Tree Install",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "11/1/2023 6:00 AM",
-    "setUpDateTime": "11/1/2023 6:00 AM",
+    "startDateTime": "10/31/2023 6:00 AM",
+    "setUpDateTime": "10/31/2023 6:00 AM",
     "endDateTime": "11/2/2023 5:00 PM",
     "participants": 10,
     "details": "Holiday Tree Install"
@@ -2777,9 +2789,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10273",
     "eventSponsor": "Assemblymember Rodriguez Holds Press Conference Highlighting Seismic Retrofitting Budget Win",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "10/9/2023 11:00 AM",
-    "setUpDateTime": "10/9/2023 10:30 AM",
-    "endDateTime": "10/9/2023 1:00 PM",
+    "startDateTime": "10/10/2023 11:00 AM",
+    "setUpDateTime": "10/10/2023 10:30 AM",
+    "endDateTime": "10/10/2023 1:00 PM",
     "participants": 30,
     "details": "Press conference highlighting budget win with Cal OES, CEA, and others."
   },
@@ -2794,5 +2806,17 @@
     "endDateTime": "10/4/2023 2:00 PM",
     "participants": 10,
     "details": "Requesting space on west steps under the Portico near the doors to set up lighting for Assembly staff headshot photography."
+  },
+  {
+    "status": "pending",
+    "number": "2023-863",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10276",
+    "eventSponsor": "CYD Convention Breakfast and Picnic Lunch",
+    "locationOnCapitolGrounds": "Area 1, Area 33",
+    "startDateTime": "11/18/2023 9:00 AM",
+    "setUpDateTime": "11/18/2023 6:00 AM",
+    "endDateTime": "11/18/2023 5:00 PM",
+    "participants": 400,
+    "details": "CYD will cater breakfast and lunch for members attending Convention and host various guest speakers and dignitaries for members to meet"
   }
 ]
