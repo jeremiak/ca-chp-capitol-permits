@@ -2808,7 +2808,7 @@
     "details": "Requesting space on west steps under the Portico near the doors to set up lighting for Assembly staff headshot photography."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-863",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10276",
     "eventSponsor": "CYD Convention Breakfast and Picnic Lunch",
@@ -2818,5 +2818,17 @@
     "endDateTime": "11/18/2023 5:00 PM",
     "participants": 400,
     "details": "CYD will cater breakfast and lunch for members attending Convention and host various guest speakers and dignitaries for members to meet"
+  },
+  {
+    "status": "approved",
+    "number": "2023-866",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10283",
+    "eventSponsor": "Voong and Vi Wedding",
+    "locationOnCapitolGrounds": "Area 5",
+    "startDateTime": "10/7/2023 1:00 PM",
+    "setUpDateTime": "10/7/2023 1:00 PM",
+    "endDateTime": "10/7/2023 3:00 PM",
+    "participants": 14,
+    "details": "Bridal Party photo and video session."
   }
 ]
