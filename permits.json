@@ -2830,5 +2830,17 @@
     "endDateTime": "10/7/2023 3:00 PM",
     "participants": 14,
     "details": "Bridal Party photo and video session."
+  },
+  {
+    "status": "pending",
+    "number": "2023-867",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10285",
+    "eventSponsor": "Fair Finance Movement",
+    "locationOnCapitolGrounds": "West Side, Area 22, Area 27",
+    "startDateTime": "10/15/2023 12:00 PM",
+    "setUpDateTime": "10/15/2023 9:00 AM",
+    "endDateTime": "10/15/2023 3:00 PM",
+    "participants": 50,
+    "details": "Youth are peacefully rallying for fair financial policies at the state level. Info link - tinyurl.com(slash)sacprot"
   }
 ]
