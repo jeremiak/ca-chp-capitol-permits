@@ -773,9 +773,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9377",
     "eventSponsor": "California IRONMAN- Sacramento",
     "locationOnCapitolGrounds": "West Side, Traffic Circle, Area 1, Area 5, Area 22, Area 27, Area 33, Area 34",
-    "startDateTime": "10/22/2023 6:00 AM",
-    "setUpDateTime": "10/20/2023 6:00 AM",
-    "endDateTime": "10/23/2023 10:00 PM",
+    "startDateTime": "10/22/2023 2:00 PM",
+    "setUpDateTime": "10/21/2023 7:00 AM",
+    "endDateTime": "10/23/2023 12:00 PM",
     "participants": 3000,
     "details": "IRONMAN triathlon run course around adjoining roadways and traffic circle.  Welcome reception for athletes Friday evening.  Sunday finish until 1 am Monday morning at Traffic Circle."
   },
@@ -1248,7 +1248,7 @@
     "details": "Parade, Performance, Vendor exhibits."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-730",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10121",
     "eventSponsor": "Zócalo Public Square",
@@ -2405,11 +2405,11 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10229",
     "eventSponsor": "Fenta Nah 1st annual fentanyl awareness fall festival",
     "locationOnCapitolGrounds": "Area 22",
-    "startDateTime": "10/28/2023 4:00 AM",
-    "setUpDateTime": "10/28/2023 4:00 AM",
-    "endDateTime": "10/28/2023 4:00 AM",
+    "startDateTime": "10/28/2023 10:00 AM",
+    "setUpDateTime": "10/28/2023 8:00 AM",
+    "endDateTime": "10/28/2023 4:00 PM",
     "participants": 100,
-    "details": "Hello my name is Shei'Vonne Weber and I lost my baby sister to fentanyl. My mother Tracy Robinson and I put together a nonprofit fentanyl awareness organization called Fenta Nah! We have everyone on board for our 1st annual fentanyl awareness event at the capitol Saturday, October 28, 2023 we just need our permit from the chp. At this event we will have guest speakers from those that lost their loved ones due to this monster called fentanyl, we have guest like Laura Didier, Kevin McCathy etc. KCRA news 3 will be covering the event we will have vendors food and products along with Dj's and performances. This event will run from 10am-4pm we will have fentanyl awareness kits and more if you can please help us with our cause by providing us with a permit. Thank You, Shei'Vonne N. Weber, Vice President and Director of Operations at Fenta Nah! A nonprofit fentanyl awareness organization. sheivonne@fentanah.org 2792079056"
+    "details": "Hello my name is Shei'Vonne Weber and I lost my baby sister to fentanyl. My mother Tracy Robinson and I put together a nonprofit fentanyl awareness organization called Fenta Nah! We have everyone on board for our 1st annual fentanyl awareness event at the Capitol Saturday, October 28, 2023. At this event we will have guest speakers from those that lost their loved ones due to this monster called fentanyl. This event will run from 10am-4pm we will have fentanyl awareness kits."
   },
   {
     "status": "approved",
@@ -2740,7 +2740,7 @@
     "number": "2023-856",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10268",
     "eventSponsor": "Ironman California Welcome Celebration",
-    "locationOnCapitolGrounds": "Other",
+    "locationOnCapitolGrounds": "West Side",
     "startDateTime": "10/20/2023 7:00 PM",
     "setUpDateTime": "10/20/2023 3:00 PM",
     "endDateTime": "10/20/2023 9:00 PM",
@@ -2832,15 +2832,75 @@
     "details": "Bridal Party photo and video session."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-867",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10285",
     "eventSponsor": "Fair Finance Movement",
-    "locationOnCapitolGrounds": "West Side, Area 22, Area 27",
+    "locationOnCapitolGrounds": "West Side",
     "startDateTime": "10/15/2023 12:00 PM",
     "setUpDateTime": "10/15/2023 9:00 AM",
     "endDateTime": "10/15/2023 3:00 PM",
     "participants": 50,
     "details": "Youth are peacefully rallying for fair financial policies at the state level. Info link - tinyurl.com(slash)sacprot"
+  },
+  {
+    "status": "approved",
+    "number": "2023-868",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10286",
+    "eventSponsor": "Lopez Wedding Ceremony",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "10/20/2023 3:15 PM",
+    "setUpDateTime": "10/20/2023 3:00 PM",
+    "endDateTime": "10/20/2023 5:00 PM",
+    "participants": 15,
+    "details": "We would like to have a small, quick and intimate wedding ceremony and a few pictures taken."
+  },
+  {
+    "status": "approved",
+    "number": "2023-869",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10287",
+    "eventSponsor": "AB 338 Unveiling and Dedication Ceremony",
+    "locationOnCapitolGrounds": "Area 22",
+    "startDateTime": "11/7/2023 10:00 AM",
+    "setUpDateTime": "11/7/2023 7:30 AM",
+    "endDateTime": "11/7/2023 1:30 PM",
+    "participants": 100,
+    "details": "AB 338 Junipero Serra Statue Removal Act.  Assemblymember Ramos will be unveiling and dedicating the new statue that is being built."
+  },
+  {
+    "status": "pending",
+    "number": "2023-870",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10288",
+    "eventSponsor": "CA Coalition for Youth and YMCA of San Diego County Solidarity Journey ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "11/7/2023 2:30 PM",
+    "setUpDateTime": "11/7/2023 1:15 PM",
+    "endDateTime": "11/7/2023 4:30 PM",
+    "participants": 50,
+    "details": "CA Coalition for Youth and YMCA of San Diego County will be hosting a state-wide journey from Imperial Beach to Sacramento, bringing awareness to youth homelessness prevention. This event will be a short speaker series including youth with lived experience, elected officials, and other public partners."
+  },
+  {
+    "status": "approved",
+    "number": "2023-871",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10289",
+    "eventSponsor": "Coalition for Humane Immigrant Rights CHIRLA",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/3/2023 9:00 AM",
+    "setUpDateTime": "10/3/2023 8:30 AM",
+    "endDateTime": "10/3/2023 10:00 AM",
+    "participants": 50,
+    "details": "Press event in support of two CHIRLA bills, AB 1536 and AB 278"
+  },
+  {
+    "status": "pending",
+    "number": "2023-872",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10291",
+    "eventSponsor": "Elopement Photography ",
+    "locationOnCapitolGrounds": "West Side, Area 22, Area 27",
+    "startDateTime": "11/14/2023 12:00 PM",
+    "setUpDateTime": "11/14/2023 11:00 AM",
+    "endDateTime": "11/14/2023 12:00 PM",
+    "participants": 3,
+    "details": "WEDDING ELOPEMENT PHOTOS (3 PARTIES TOTAL) BRIDE & GROOM PLUS PHOTOGRAPHER"
   }
 ]
