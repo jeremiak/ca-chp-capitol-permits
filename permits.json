@@ -2868,7 +2868,7 @@
     "details": "AB 338 Junipero Serra Statue Removal Act.  Assemblymember Ramos will be unveiling and dedicating the new statue that is being built."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-870",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10288",
     "eventSponsor": "CA Coalition for Youth and YMCA of San Diego County Solidarity Journey ",
@@ -2892,15 +2892,39 @@
     "details": "Press event in support of two CHIRLA bills, AB 1536 and AB 278"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-872",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10291",
     "eventSponsor": "Elopement Photography ",
-    "locationOnCapitolGrounds": "West Side, Area 22, Area 27",
-    "startDateTime": "11/14/2023 12:00 PM",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "11/14/2023 11:00 AM",
     "setUpDateTime": "11/14/2023 11:00 AM",
-    "endDateTime": "11/14/2023 12:00 PM",
+    "endDateTime": "11/14/2023 1:00 PM",
     "participants": 3,
     "details": "WEDDING ELOPEMENT PHOTOS (3 PARTIES TOTAL) BRIDE & GROOM PLUS PHOTOGRAPHER"
+  },
+  {
+    "status": "approved",
+    "number": "2023-873",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10293",
+    "eventSponsor": "Strategy 6",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/6/2023 5:30 PM",
+    "setUpDateTime": "10/6/2023 5:00 PM",
+    "endDateTime": "10/6/2023 8:30 PM",
+    "participants": 50,
+    "details": "Rally in support of political prisoners. Rally in support of Ukraine."
+  },
+  {
+    "status": "pending",
+    "number": "2023-874",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10294",
+    "eventSponsor": "Childers reception ",
+    "locationOnCapitolGrounds": "Area 33",
+    "startDateTime": "10/16/2023 2:00 PM",
+    "setUpDateTime": "10/16/2023 12:30 PM",
+    "endDateTime": "10/16/2023 5:00 PM",
+    "participants": 20,
+    "details": "Small wedding reception"
   }
 ]
