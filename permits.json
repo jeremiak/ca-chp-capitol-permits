@@ -2751,13 +2751,13 @@
     "status": "approved",
     "number": "2023-858",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10270",
-    "eventSponsor": "Childers wedding ",
-    "locationOnCapitolGrounds": "Area 1",
+    "eventSponsor": "Childers wedding and Reception",
+    "locationOnCapitolGrounds": "Area 1, Area 33",
     "startDateTime": "10/16/2023 2:00 PM",
     "setUpDateTime": "10/16/2023 12:30 PM",
-    "endDateTime": "10/16/2023 4:30 PM",
+    "endDateTime": "10/16/2023 5:00 PM",
     "participants": 20,
-    "details": "Wedding ceremony"
+    "details": "Wedding ceremony and reception."
   },
   {
     "status": "approved",
@@ -2782,6 +2782,18 @@
     "endDateTime": "10/12/2023 2:00 PM",
     "participants": 100,
     "details": "CHP's ACPD hosts a Job and Resources Fair with multiple state agencies for persons with disabilities."
+  },
+  {
+    "status": "approved",
+    "number": "2023-860",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10272",
+    "eventSponsor": "DGS Maintenance",
+    "locationOnCapitolGrounds": "West Side, Traffic Circle",
+    "startDateTime": "12/4/2023 6:00 AM",
+    "setUpDateTime": "12/4/2023 6:00 AM",
+    "endDateTime": "12/7/2023 9:00 PM",
+    "participants": 10,
+    "details": "Hold for maintenance on West Side"
   },
   {
     "status": "approved",
@@ -2926,5 +2938,53 @@
     "endDateTime": "10/16/2023 5:00 PM",
     "participants": 20,
     "details": "Small wedding reception"
+  },
+  {
+    "status": "approved",
+    "number": "2023-875",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10295",
+    "eventSponsor": "Rally in Support of Ukraine Sunflower Society",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "11/24/2023 7:00 PM",
+    "setUpDateTime": "11/24/2023 6:00 PM",
+    "endDateTime": "11/24/2023 9:45 PM",
+    "participants": 200,
+    "details": "Rally in support of Ukraine"
+  },
+  {
+    "status": "approved",
+    "number": "2023-876",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10299",
+    "eventSponsor": "Sacramento Police Academy ",
+    "locationOnCapitolGrounds": "West Side, Area 1, Area 5, Area 22, Area 27, Area 33, Area 34, Other",
+    "startDateTime": "11/2/2023 6:00 AM",
+    "setUpDateTime": "11/2/2023 6:00 AM",
+    "endDateTime": "11/2/2023 7:30 AM",
+    "participants": 75,
+    "details": "Sacramento Police Academy Run around the Capitol.  We start at the Law Enforcement Memorial at 0600 hours and then run until 0730 hours around the Capitol Grounds."
+  },
+  {
+    "status": "pending",
+    "number": "2023-877",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10300",
+    "eventSponsor": "Prayer/ Kitty Fick Ministries. ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "11/30/2023 4:00 AM",
+    "setUpDateTime": "11/30/2023 4:00 AM",
+    "endDateTime": "11/30/2023 4:00 AM",
+    "participants": 15,
+    "details": "Prayer will be using Microphone and speakers playing songs"
+  },
+  {
+    "status": "pending",
+    "number": "2023-878",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10301",
+    "eventSponsor": "California Association for STEM Advocacy",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "11/4/2023 12:00 PM",
+    "setUpDateTime": "11/4/2023 11:30 AM",
+    "endDateTime": "11/4/2023 2:30 PM",
+    "participants": 25,
+    "details": "Members of the California Assoc. for STEM Advocacy will be having lunch and networking at the West Side of the California Sacramento Capital Building."
   }
 ]
