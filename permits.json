@@ -2976,7 +2976,7 @@
     "details": "Prayer will be using Microphone and speakers playing songs"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-878",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10301",
     "eventSponsor": "California Association for STEM Advocacy",
@@ -2986,5 +2986,29 @@
     "endDateTime": "11/4/2023 2:30 PM",
     "participants": 25,
     "details": "Members of the California Assoc. for STEM Advocacy will be having lunch and networking at the West Side of the California Sacramento Capital Building."
+  },
+  {
+    "status": "approved",
+    "number": "2023-879",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10302",
+    "eventSponsor": "DGS Maintenance",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/16/2023 7:00 AM",
+    "setUpDateTime": "10/16/2023 7:00 AM",
+    "endDateTime": "10/16/2023 5:00 PM",
+    "participants": 10,
+    "details": "Small footprint on Northwest Lawn DGS water exploration."
+  },
+  {
+    "status": "approved",
+    "number": "2023-880",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10303",
+    "eventSponsor": "DGS Maintenance",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/10/2023 7:00 AM",
+    "setUpDateTime": "10/10/2023 7:00 AM",
+    "endDateTime": "10/10/2023 5:00 PM",
+    "participants": 10,
+    "details": "Small footprint closer to Capitol and 10th  on far west side of Capitol property and City Property maintenance."
   }
 ]
