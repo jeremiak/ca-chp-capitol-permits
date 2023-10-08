@@ -73,6 +73,18 @@
   },
   {
     "status": "approved",
+    "number": "2023-130",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9486",
+    "eventSponsor": "Chanukah",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "12/7/2023 6:00 AM",
+    "setUpDateTime": "12/7/2023 6:00 AM",
+    "endDateTime": "12/16/2023 12:00 PM",
+    "participants": 0,
+    "details": "Static Display of Menorah.  This will be set up preferably on the West Side but where ever construction will allow."
+  },
+  {
+    "status": "approved",
     "number": "2023-151",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9507",
     "eventSponsor": "Society of American Foresters",
@@ -3022,5 +3034,17 @@
     "endDateTime": "10/9/2023 12:30 PM",
     "participants": 20,
     "details": "On Monday, October 9, 2023 we will celebrate Indigenous Peoples' Day!"
+  },
+  {
+    "status": "pending",
+    "number": "2023-883",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10306",
+    "eventSponsor": "1000 days in captivity. Rally in support of Aleksei Navalny by The Voices of Russian Opposition in Sacramento",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/15/2023 6:45 PM",
+    "setUpDateTime": "10/15/2023 6:30 PM",
+    "endDateTime": "10/15/2023 9:45 PM",
+    "participants": 300,
+    "details": "The Voices of Russian Opposition in Sacramento is joining the international solidarity rally to demand freedom to Aleksei Navalny and all other Russian political prisoners."
   }
 ]
