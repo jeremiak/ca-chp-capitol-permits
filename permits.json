@@ -3036,15 +3036,39 @@
     "details": "On Monday, October 9, 2023 we will celebrate Indigenous Peoples' Day!"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-883",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10306",
     "eventSponsor": "1000 days in captivity. Rally in support of Aleksei Navalny by The Voices of Russian Opposition in Sacramento",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "10/15/2023 6:45 PM",
-    "setUpDateTime": "10/15/2023 6:30 PM",
-    "endDateTime": "10/15/2023 9:45 PM",
+    "startDateTime": "10/15/2023 5:00 PM",
+    "setUpDateTime": "10/15/2023 4:00 PM",
+    "endDateTime": "10/15/2023 9:30 PM",
     "participants": 300,
     "details": "The Voices of Russian Opposition in Sacramento is joining the international solidarity rally to demand freedom to Aleksei Navalny and all other Russian political prisoners."
+  },
+  {
+    "status": "approved",
+    "number": "2023-884",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10307",
+    "eventSponsor": "Thank you Rally by Ambedkar-Phule Network Of American Dalits and Bahujans",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/14/2023 10:00 AM",
+    "setUpDateTime": "10/14/2023 9:00 AM",
+    "endDateTime": "10/14/2023 12:00 PM",
+    "participants": 50,
+    "details": "This is a rally to thank the Governor for vetoing the SB403 bill. The Ambedkar-Phule Network of American Dalits and Bahujans (APNADB) is organizing the rally. We anticipate around 50-100 people gather in the West lawn. A few speakers will deliver speeches to thank you, the Governor."
+  },
+  {
+    "status": "approved",
+    "number": "2023-885",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10308",
+    "eventSponsor": "Candlelight Vigil for Victims of Fauci's Inadequately Tested Covid-19 Vaccines and Falsified, Unnecessary Protocols & Mandates",
+    "locationOnCapitolGrounds": "Area 33",
+    "startDateTime": "10/11/2023 6:00 PM",
+    "setUpDateTime": "10/11/2023 5:00 PM",
+    "endDateTime": "10/11/2023 10:00 PM",
+    "participants": 100,
+    "details": "Dr. Anthony Fauci will be speaking in Sacramento on Wednesday, October 11th.\n\nIn honor and recognition of the millions of people who gave up their rights and lost their lives as a consequence of his inadequately tested vaccines and falsified, unnecessary, unsafe, life threatening, unconstitutional Covid-19 mandates & protocols:\nA Flameless Candlelight Vigil\nWednesday, October 11th, 2023 from 6pm-11pm\nGather peacefully at 6pm across the street from:\nSAFE Credit Union Performing Arts Center\n1301 L Street, Sacramento, CA 95814\nDoors open at 7pm. Show starts at 8pm.\nNo Violence or Vandalism Will Be Tolerated Under Any Circumstances.\nNo Real Candles or Fire Allowed. Bring your own Flameless Candles, Your Flags & Signage."
   }
 ]
