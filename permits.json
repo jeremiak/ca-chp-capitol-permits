@@ -76,7 +76,7 @@
     "number": "2023-130",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9486",
     "eventSponsor": "Chanukah",
-    "locationOnCapitolGrounds": "Other",
+    "locationOnCapitolGrounds": "West Side",
     "startDateTime": "12/7/2023 6:00 AM",
     "setUpDateTime": "12/7/2023 6:00 AM",
     "endDateTime": "12/16/2023 12:00 PM",
@@ -3082,5 +3082,29 @@
     "endDateTime": "10/11/2023 10:00 PM",
     "participants": 175,
     "details": "Dr. Anthony Fauci will be speaking in Sacramento on Wednesday, October 11th. Actual permit from 5pm-11pm.\n\nIn honor and recognition of the millions of people who gave up their rights and lost their lives as a consequence of his inadequately tested vaccines and falsified, unnecessary, unsafe, life threatening, unconstitutional Covid-19 mandates & protocols:\nA Flameless Candlelight Vigil\nWednesday, October 11th, 2023 from 6pm-11pm\nGather peacefully at 6pm across the street from:\nSAFE Credit Union Performing Arts Center\n1301 L Street, Sacramento, CA 95814\nDoors open at 7pm. Show starts at 8pm.\nNo Violence or Vandalism Will Be Tolerated Under Any Circumstances.\nNo Real Candles or Fire Allowed. Bring your own Flameless Candles, Your Flags & Signage."
+  },
+  {
+    "status": "pending",
+    "number": "2023-887",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10317",
+    "eventSponsor": "Education Policy Fellows Program",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/13/2023 10:30 AM",
+    "setUpDateTime": "10/13/2023 10:15 AM",
+    "endDateTime": "10/13/2023 11:30 AM",
+    "participants": 30,
+    "details": "Take picture of Education Policy Fellows on Capitol west steps, group discussion with Naomi Ondrasek, Assembly staffer."
+  },
+  {
+    "status": "pending",
+    "number": "2023-888",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10318",
+    "eventSponsor": "Capitol Day",
+    "locationOnCapitolGrounds": "Private and Home Educators of California",
+    "startDateTime": "10/13/2023 8:00 AM",
+    "setUpDateTime": "10/13/2023 8:00 AM",
+    "endDateTime": "10/13/2023 8:00 AM",
+    "participants": 150,
+    "details": "The goal of Capitol Day is to visit each office, talk to a member and drop off a packet with information regarding private home education"
   }
 ]
