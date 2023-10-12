@@ -3106,5 +3106,17 @@
     "endDateTime": "10/13/2023 8:00 AM",
     "participants": 150,
     "details": "The goal of Capitol Day is to visit each office, talk to a member and drop off a packet with information regarding private home education"
+  },
+  {
+    "status": "pending",
+    "number": "2023-889",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10320",
+    "eventSponsor": "PERK",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/24/2023 10:00 AM",
+    "setUpDateTime": "10/24/2023 8:00 AM",
+    "endDateTime": "10/24/2023 12:00 PM",
+    "participants": 75,
+    "details": "Press Conference"
   }
 ]
