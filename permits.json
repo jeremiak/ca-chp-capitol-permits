@@ -1,6 +1,18 @@
 [
   {
     "status": "approved",
+    "number": "2022-707",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9158",
+    "eventSponsor": "Gold Trail DAR",
+    "locationOnCapitolGrounds": "Wreaths Across America",
+    "startDateTime": "12/11/2023 12:00 PM",
+    "setUpDateTime": "12/11/2023 11:30 AM",
+    "endDateTime": "12/11/2023 1:30 PM",
+    "participants": 50,
+    "details": "Posting of colors, opening speech, patriotic songs, laying of 36 inch wreath on Capitol steps, and singing of patriotic songs."
+  },
+  {
+    "status": "approved",
     "number": "2022-890",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9381",
     "eventSponsor": "Community Gathering for California Indian Day",
@@ -3084,14 +3096,14 @@
     "details": "Dr. Anthony Fauci will be speaking in Sacramento on Wednesday, October 11th. Actual permit from 5pm-11pm.\n\nIn honor and recognition of the millions of people who gave up their rights and lost their lives as a consequence of his inadequately tested vaccines and falsified, unnecessary, unsafe, life threatening, unconstitutional Covid-19 mandates & protocols:\nA Flameless Candlelight Vigil\nWednesday, October 11th, 2023 from 6pm-11pm\nGather peacefully at 6pm across the street from:\nSAFE Credit Union Performing Arts Center\n1301 L Street, Sacramento, CA 95814\nDoors open at 7pm. Show starts at 8pm.\nNo Violence or Vandalism Will Be Tolerated Under Any Circumstances.\nNo Real Candles or Fire Allowed. Bring your own Flameless Candles, Your Flags & Signage."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-887",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10317",
     "eventSponsor": "Education Policy Fellows Program",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "10/13/2023 10:30 AM",
-    "setUpDateTime": "10/13/2023 10:15 AM",
-    "endDateTime": "10/13/2023 11:30 AM",
+    "startDateTime": "10/20/2023 10:30 AM",
+    "setUpDateTime": "10/20/2023 10:15 AM",
+    "endDateTime": "10/20/2023 11:30 AM",
     "participants": 30,
     "details": "Take picture of Education Policy Fellows on Capitol west steps, group discussion with Naomi Ondrasek, Assembly staffer."
   },
@@ -3101,14 +3113,14 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10318",
     "eventSponsor": "Capitol Day",
     "locationOnCapitolGrounds": "Private and Home Educators of California",
-    "startDateTime": "10/13/2023 8:00 AM",
-    "setUpDateTime": "10/13/2023 8:00 AM",
-    "endDateTime": "10/13/2023 8:00 AM",
+    "startDateTime": "12/2/2023 4:00 AM",
+    "setUpDateTime": "12/2/2023 4:00 AM",
+    "endDateTime": "12/2/2023 4:00 AM",
     "participants": 150,
     "details": "The goal of Capitol Day is to visit each office, talk to a member and drop off a packet with information regarding private home education"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-889",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10320",
     "eventSponsor": "PERK",
@@ -3118,5 +3130,17 @@
     "endDateTime": "10/24/2023 12:00 PM",
     "participants": 75,
     "details": "Press Conference"
+  },
+  {
+    "status": "pending",
+    "number": "2023-891",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10323",
+    "eventSponsor": "Rudy Meyers Photography, Arc Stategies",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "10/30/2023 11:00 AM",
+    "setUpDateTime": "10/30/2023 11:00 AM",
+    "endDateTime": "10/30/2023 11:45 AM",
+    "participants": 11,
+    "details": "Group photography for Arc Strategies. Their team of 7 people  will be in the group photo. The session should take 45 minutes maximum."
   }
 ]
