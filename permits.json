@@ -3132,15 +3132,27 @@
     "details": "Press Conference"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-891",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10323",
     "eventSponsor": "Rudy Meyers Photography, Arc Stategies",
-    "locationOnCapitolGrounds": "Other",
+    "locationOnCapitolGrounds": "West Side",
     "startDateTime": "10/30/2023 11:00 AM",
     "setUpDateTime": "10/30/2023 11:00 AM",
     "endDateTime": "10/30/2023 11:45 AM",
     "participants": 11,
     "details": "Group photography for Arc Strategies. Their team of 7 people  will be in the group photo. The session should take 45 minutes maximum."
+  },
+  {
+    "status": "pending",
+    "number": "2023-892",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10324",
+    "eventSponsor": "Rally in Support of Israel",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/17/2023 5:30 PM",
+    "setUpDateTime": "10/17/2023 5:00 PM",
+    "endDateTime": "10/17/2023 7:00 PM",
+    "participants": 100,
+    "details": "This will be a peaceful rally of a group of people showing their support for the State of Israel."
   }
 ]
