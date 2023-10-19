@@ -3109,6 +3109,18 @@
   },
   {
     "status": "approved",
+    "number": "2023-886",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10316",
+    "eventSponsor": "Freedom from Religion Sacramento Chapter",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "12/17/2023 8:00 AM",
+    "setUpDateTime": "12/17/2023 8:00 AM",
+    "endDateTime": "1/7/2024 5:00 PM",
+    "participants": 0,
+    "details": "Celebrating the birth of Church-State Separation. Static display.  This will be in the upper flowerbed on the South-south west side."
+  },
+  {
+    "status": "approved",
     "number": "2023-887",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10317",
     "eventSponsor": "Education Policy Fellows Program",
@@ -3168,11 +3180,11 @@
     "details": "This will be a peaceful rally of a group of people showing their support for the State of Israel."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-893",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10330",
     "eventSponsor": "Protect Our Care Press Conference",
-    "locationOnCapitolGrounds": "West Side, Area 5, Area 27, Area 33",
+    "locationOnCapitolGrounds": "West Side",
     "startDateTime": "11/8/2023 10:00 AM",
     "setUpDateTime": "11/8/2023 8:00 AM",
     "endDateTime": "11/8/2023 11:30 AM",
@@ -3190,5 +3202,65 @@
     "endDateTime": "10/19/2023 12:30 PM",
     "participants": 50,
     "details": "Standing wedding ceremony"
+  },
+  {
+    "status": "pending",
+    "number": "2023-895",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10332",
+    "eventSponsor": "Justice for Renters Press Conference",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/25/2023 12:00 PM",
+    "setUpDateTime": "10/25/2023 9:00 AM",
+    "endDateTime": "10/25/2023 4:00 PM",
+    "participants": 50,
+    "details": "Press Conference"
+  },
+  {
+    "status": "approved",
+    "number": "2023-896",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10333",
+    "eventSponsor": "Christian Life College Senior Photos ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "11/18/2023 11:30 AM",
+    "setUpDateTime": "11/18/2023 11:00 AM",
+    "endDateTime": "11/18/2023 3:00 PM",
+    "participants": 50,
+    "details": "Senior photos for the graduating class of Christian Life College."
+  },
+  {
+    "status": "approved",
+    "number": "2023-897",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10335",
+    "eventSponsor": "Bring the Hostages Home / Jewish Federation of the Sacramento Region",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/23/2023 4:00 PM",
+    "setUpDateTime": "10/23/2023 3:00 PM",
+    "endDateTime": "10/23/2023 7:00 PM",
+    "participants": 250,
+    "details": "A vigil for the 200 Israeli, American, and other nationality hostages held by Hamas in Gaza, and in support of the Israeli people. This event will include speakers and prayer."
+  },
+  {
+    "status": "pending",
+    "number": "2023-898",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10336",
+    "eventSponsor": "Wedding Ceremony and Pictures",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "11/8/2023 6:30 AM",
+    "setUpDateTime": "11/8/2023 6:00 AM",
+    "endDateTime": "11/8/2023 7:30 AM",
+    "participants": 4,
+    "details": "My husband and I would like to get married in the rose garden area over the arch on Nov 8th, 2023 at sunrise."
+  },
+  {
+    "status": "pending",
+    "number": "2023-899",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10337",
+    "eventSponsor": "Asian Pacific Islander Capitol Association",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "10/31/2023 12:00 PM",
+    "setUpDateTime": "10/31/2023 11:00 AM",
+    "endDateTime": "10/31/2023 2:00 PM",
+    "participants": 50,
+    "details": "Boos and Baos - Costume contest capital community event for the API Capitol Association"
   }
 ]
