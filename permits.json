@@ -3150,8 +3150,8 @@
     "eventSponsor": "PERK",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "10/24/2023 10:00 AM",
-    "setUpDateTime": "10/24/2023 8:00 AM",
-    "endDateTime": "10/24/2023 12:00 PM",
+    "setUpDateTime": "10/24/2023 7:00 AM",
+    "endDateTime": "10/24/2023 1:00 PM",
     "participants": 75,
     "details": "Press Conference"
   },
@@ -3262,5 +3262,53 @@
     "endDateTime": "10/31/2023 2:00 PM",
     "participants": 50,
     "details": "Boos and Baos - Costume contest capital community event for the API Capitol Association"
+  },
+  {
+    "status": "pending",
+    "number": "2023-900",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10338",
+    "eventSponsor": "Drone shoot for California Department of Public Health",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "10/22/2023 8:00 AM",
+    "setUpDateTime": "10/22/2023 8:00 AM",
+    "endDateTime": "10/22/2023 12:00 PM",
+    "participants": 1,
+    "details": "Use of drone to shoot footage for videos for the California Department of Public Health. We want footage of the capitol and surrounding buildings from various angles as well as the CDPH buildings nearby. Altitude will not exceed 500ft."
+  },
+  {
+    "status": "approved",
+    "number": "2023-901",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10339",
+    "eventSponsor": "Diwali Celebration",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "11/17/2023 7:00 PM",
+    "setUpDateTime": "11/17/2023 6:00 PM",
+    "endDateTime": "11/17/2023 9:45 PM",
+    "participants": 100,
+    "details": "We will have a parade of cars decorated with battery-powered lights to celebrate Diwali - a Hindu festival of lights. The parade will start at 1601 W Capitol Ave, West Sacramento, CA 95691, and will end at 1305 10th St., Sacramento. After parking their cars, the participants will gather in the West Lawn to sing devotional songs and for a sweet. We can share the parade route if needed."
+  },
+  {
+    "status": "pending",
+    "number": "2023-902",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10340",
+    "eventSponsor": "Prayer",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "11/9/2023 9:00 AM",
+    "setUpDateTime": "11/9/2023 9:00 AM",
+    "endDateTime": "11/9/2023 11:00 AM",
+    "participants": 9,
+    "details": "Our small group will stand on the steps of the Capitol building as well as walk around the building and on the Capitol grounds to pray."
+  },
+  {
+    "status": "approved",
+    "number": "2023-903",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10341",
+    "eventSponsor": "End the Siege on Gaza",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/21/2023 12:00 PM",
+    "setUpDateTime": "10/21/2023 11:30 AM",
+    "endDateTime": "10/21/2023 3:00 PM",
+    "participants": 500,
+    "details": "Rally to End the Israeli Siege on Gaza and Free Palestine!"
   }
 ]
