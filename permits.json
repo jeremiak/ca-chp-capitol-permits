@@ -1373,9 +1373,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10128",
     "eventSponsor": "Candlelight Vigil in Support of Ukraine Sunflower Society",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "10/24/2023 7:00 PM",
-    "setUpDateTime": "10/24/2023 6:00 PM",
-    "endDateTime": "10/24/2023 9:45 PM",
+    "startDateTime": "10/24/2023 6:00 PM",
+    "setUpDateTime": "10/24/2023 5:00 PM",
+    "endDateTime": "10/24/2023 9:30 PM",
     "participants": 200,
     "details": "Rally in support of Ukraine"
   },
@@ -3204,7 +3204,7 @@
     "details": "Standing wedding ceremony"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-895",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10332",
     "eventSponsor": "Justice for Renters Press Conference",
@@ -3240,7 +3240,7 @@
     "details": "A vigil for the 200 Israeli, American, and other nationality hostages held by Hamas in Gaza, and in support of the Israeli people. This event will include speakers and prayer.  This will be planned from 4pm-5pm then clean up."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-898",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10336",
     "eventSponsor": "Wedding Ceremony and Pictures",
@@ -3249,14 +3249,14 @@
     "setUpDateTime": "11/8/2023 6:00 AM",
     "endDateTime": "11/8/2023 7:30 AM",
     "participants": 4,
-    "details": "My husband and I would like to get married in the rose garden area over the arch on Nov 8th, 2023 at sunrise."
+    "details": "My husband and I will get married in the rose garden area over the arch on Nov 8th, 2023 at sunrise."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-899",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10337",
     "eventSponsor": "Asian Pacific Islander Capitol Association",
-    "locationOnCapitolGrounds": "Other",
+    "locationOnCapitolGrounds": "West Side",
     "startDateTime": "10/31/2023 12:00 PM",
     "setUpDateTime": "10/31/2023 11:00 AM",
     "endDateTime": "10/31/2023 2:00 PM",
@@ -3288,7 +3288,7 @@
     "details": "We will have a parade of cars decorated with battery-powered lights to celebrate Diwali - a Hindu festival of lights. The parade will start at 1601 W Capitol Ave, West Sacramento, CA 95691, and will end at 1305 10th St., Sacramento. After parking their cars, the participants will gather in the West Lawn to sing devotional songs and for a sweet. We can share the parade route if needed."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-902",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10340",
     "eventSponsor": "Prayer",
