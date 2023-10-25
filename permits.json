@@ -445,6 +445,18 @@
   },
   {
     "status": "approved",
+    "number": "2023-464",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9821",
+    "eventSponsor": "Jesus Birth in the Bible-Reading of the Book of Matthew Chapter 1 and Luke Chapters 1-2 ",
+    "locationOnCapitolGrounds": "Area 22",
+    "startDateTime": "12/24/2023 1:00 PM",
+    "setUpDateTime": "12/24/2023 1:00 PM",
+    "endDateTime": "12/24/2023 3:00 PM",
+    "participants": 20,
+    "details": "This reading will be about the birth of Jesus. We will also discuss scriptures in the Old Testament that predicted His birth and why He was born. 2 CANOPY , 1 TABLE , 6 CHAIRS, FREE WATER AND SNACKS AND BOOKLETS IF SOMEONE ASKS , 2 SMALL SPEAKER , 1 MICROPHONE, 1 SPEAKER FOR ME TO SPEAK OUT OF THE OTHER IS FOR GUITAR PLAYING"
+  },
+  {
+    "status": "approved",
     "number": "2023-468",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9825",
     "eventSponsor": "Orozco Wedding",
@@ -3073,6 +3085,18 @@
   },
   {
     "status": "approved",
+    "number": "2023-882",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10305",
+    "eventSponsor": "Candlelight vigil in support of Ukraine",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "12/24/2023 6:00 PM",
+    "setUpDateTime": "12/24/2023 5:00 PM",
+    "endDateTime": "12/24/2023 9:45 PM",
+    "participants": 150,
+    "details": "Solidarity rally in support of Ukraine"
+  },
+  {
+    "status": "approved",
     "number": "2023-883",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10306",
     "eventSponsor": "1000 days in captivity. Rally in support of Aleksei Navalny by The Voices of Russian Opposition in Sacramento",
@@ -3310,5 +3334,29 @@
     "endDateTime": "10/21/2023 3:00 PM",
     "participants": 500,
     "details": "Rally to End the Israeli Siege on Gaza and Free Palestine!"
+  },
+  {
+    "status": "approved",
+    "number": "2023-904",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10345",
+    "eventSponsor": "CHP Cadet Run Finish",
+    "locationOnCapitolGrounds": "West Side, Traffic Circle",
+    "startDateTime": "11/1/2023 6:00 AM",
+    "setUpDateTime": "11/1/2023 5:45 AM",
+    "endDateTime": "11/1/2023 7:00 AM",
+    "participants": 200,
+    "details": "Culmination of 6 month training at the CHP Academy.  This is the run from the Academy to the Peace Officer Memorial and West Steps of the State Capitol."
+  },
+  {
+    "status": "pending",
+    "number": "2023-905",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10346",
+    "eventSponsor": "Large Format Photography",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "11/5/2023 9:45 AM",
+    "setUpDateTime": "11/5/2023 9:30 AM",
+    "endDateTime": "11/5/2023 9:45 AM",
+    "participants": 3,
+    "details": "Large format film photography portrait session with wireless flash on light stand and reflector."
   }
 ]
