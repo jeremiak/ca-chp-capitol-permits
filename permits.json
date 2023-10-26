@@ -3358,5 +3358,17 @@
     "endDateTime": "11/5/2023 9:45 AM",
     "participants": 3,
     "details": "Large format film photography portrait session with wireless flash on light stand and reflector."
+  },
+  {
+    "status": "pending",
+    "number": "2023-907",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10348",
+    "eventSponsor": "California Prayer",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "10/29/2023 5:00 PM",
+    "setUpDateTime": "10/29/2023 4:45 PM",
+    "endDateTime": "10/29/2023 6:15 PM",
+    "participants": 50,
+    "details": "Gathering of people interested in praying for california. There is no special set up or tables just people meeting at the same time to gather to pray and then go home."
   }
 ]
