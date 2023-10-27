@@ -1177,6 +1177,18 @@
   },
   {
     "status": "approved",
+    "number": "2023-719",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10109",
+    "eventSponsor": "25th Annual, California State Capitol Kwanzaa Celebration",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "12/26/2023 11:30 AM",
+    "setUpDateTime": "12/26/2023 9:00 AM",
+    "endDateTime": "12/26/2023 2:30 PM",
+    "participants": 100,
+    "details": "25th Annual Kwanzaa Celebration, Matunda Ya Kwanzaa, First Fruits of the Harvest, explanation of our California Grown Pan African Holiday."
+  },
+  {
+    "status": "approved",
     "number": "2023-720",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10110",
     "eventSponsor": "DGS Maintenance ",
@@ -3348,16 +3360,28 @@
     "details": "Culmination of 6 month training at the CHP Academy.  This is the run from the Academy to the Peace Officer Memorial and West Steps of the State Capitol."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-905",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10346",
     "eventSponsor": "Large Format Photography",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "11/5/2023 9:45 AM",
     "setUpDateTime": "11/5/2023 9:30 AM",
-    "endDateTime": "11/5/2023 9:45 AM",
+    "endDateTime": "11/5/2023 12:00 PM",
     "participants": 3,
     "details": "Large format film photography portrait session with wireless flash on light stand and reflector."
+  },
+  {
+    "status": "approved",
+    "number": "2023-906",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10347",
+    "eventSponsor": "Chanukah Celebration",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "12/7/2023 5:00 PM",
+    "setUpDateTime": "12/7/2023 4:00 PM",
+    "endDateTime": "12/7/2023 7:00 PM",
+    "participants": 100,
+    "details": "Celebration for the first night of Hanukah."
   },
   {
     "status": "pending",
@@ -3370,5 +3394,41 @@
     "endDateTime": "10/29/2023 6:15 PM",
     "participants": 50,
     "details": "Gathering of people interested in praying for california. There is no special set up or tables just people meeting at the same time to gather to pray and then go home."
+  },
+  {
+    "status": "pending",
+    "number": "2023-908",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10351",
+    "eventSponsor": "Strategy 6",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "11/6/2023 5:30 PM",
+    "setUpDateTime": "11/6/2023 5:00 PM",
+    "endDateTime": "11/6/2023 8:30 PM",
+    "participants": 70,
+    "details": "Rally against the war with Ukraine. Rally in support of political prisoners."
+  },
+  {
+    "status": "pending",
+    "number": "2023-909",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10355",
+    "eventSponsor": "State Senator Dave Cortese to Visit and Take Photos with “West Valley Community Services” Delegation at the West Capitol Steps",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "10/29/2023 1:30 PM",
+    "setUpDateTime": "10/29/2023 1:15 PM",
+    "endDateTime": "10/29/2023 2:15 PM",
+    "participants": 20,
+    "details": "State Senator Dave Cortese will visit a delegation from the nonprofit in his district, West Valley Community Services at the West Capitol Steps. He will also take some photos with the Senate Photographer present."
+  },
+  {
+    "status": "pending",
+    "number": "2023-910",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10356",
+    "eventSponsor": "State Senator Dave Cortese to Visit and Take Photos with “West Valley Community Services” Delegation at the West Capitol Steps",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "10/29/2023 1:30 PM",
+    "setUpDateTime": "10/29/2023 1:15 PM",
+    "endDateTime": "10/29/2023 2:15 PM",
+    "participants": 20,
+    "details": "State Senator Dave Cortese will visit a delegation from the nonprofit in his district, West Valley Community Services at the West Capitol Steps. He will also take some photos with the Senate Photographer present."
   }
 ]
