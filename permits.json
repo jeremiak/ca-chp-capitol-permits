@@ -3384,19 +3384,19 @@
     "details": "Celebration for the first night of Hanukah."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-907",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10348",
     "eventSponsor": "California Prayer",
-    "locationOnCapitolGrounds": "Other",
-    "startDateTime": "10/29/2023 5:00 PM",
-    "setUpDateTime": "10/29/2023 4:45 PM",
-    "endDateTime": "10/29/2023 6:15 PM",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/29/2023 5:30 PM",
+    "setUpDateTime": "10/29/2023 5:30 PM",
+    "endDateTime": "10/29/2023 7:00 PM",
     "participants": 50,
     "details": "Gathering of people interested in praying for california. There is no special set up or tables just people meeting at the same time to gather to pray and then go home."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-908",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10351",
     "eventSponsor": "Strategy 6",
