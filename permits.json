@@ -2509,6 +2509,18 @@
   },
   {
     "status": "approved",
+    "number": "2023-830",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10233",
+    "eventSponsor": "Sisco-Knight Wedding",
+    "locationOnCapitolGrounds": "Area 1, Area 5",
+    "startDateTime": "12/29/2023 9:00 AM",
+    "setUpDateTime": "12/29/2023 9:00 AM",
+    "endDateTime": "12/29/2023 11:00 AM",
+    "participants": 20,
+    "details": "Wedding Ceremony"
+  },
+  {
+    "status": "approved",
     "number": "2023-831",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10234",
     "eventSponsor": "Connect Homes Housing Product Demonstration",
@@ -2944,11 +2956,11 @@
     "number": "2023-869",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10287",
     "eventSponsor": "AB 338 Unveiling and Dedication Ceremony",
-    "locationOnCapitolGrounds": "Area 22",
+    "locationOnCapitolGrounds": "Area 22, Area 33",
     "startDateTime": "11/7/2023 10:00 AM",
     "setUpDateTime": "11/7/2023 7:30 AM",
     "endDateTime": "11/7/2023 1:30 PM",
-    "participants": 100,
+    "participants": 300,
     "details": "AB 338 Junipero Serra Statue Removal Act.  Assemblymember Ramos will be unveiling and dedicating the new statue that is being built."
   },
   {
