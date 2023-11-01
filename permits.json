@@ -1376,7 +1376,7 @@
     "startDateTime": "11/19/2023 12:00 PM",
     "setUpDateTime": "11/19/2023 11:00 AM",
     "endDateTime": "11/19/2023 1:30 PM",
-    "participants": 15,
+    "participants": 30,
     "details": "Small wedding ceremony at the State Capital World Peace Garden."
   },
   {
@@ -2809,6 +2809,18 @@
   },
   {
     "status": "approved",
+    "number": "2023-854",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10266",
+    "eventSponsor": "Wedding Ceromony",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "12/31/2023 12:45 PM",
+    "setUpDateTime": "12/31/2023 9:00 AM",
+    "endDateTime": "12/31/2023 2:00 PM",
+    "participants": 40,
+    "details": "Small standing only wedding ceremony and photos after in the Rose Garden. No equipment or chairs. No food."
+  },
+  {
+    "status": "approved",
     "number": "2023-856",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10268",
     "eventSponsor": "Ironman California Welcome Celebration",
@@ -3240,14 +3252,14 @@
     "details": "Protect Our Care Press Conference discussing Medicare, Medicaid, and prescription drugs - This is a van tour event so there would be a sprinter van used as a backdrop for the press conference"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-894",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10331",
     "eventSponsor": "Wedding Ceremony",
     "locationOnCapitolGrounds": "Area 5",
-    "startDateTime": "10/19/2023 11:30 AM",
-    "setUpDateTime": "10/19/2023 11:30 AM",
-    "endDateTime": "10/19/2023 12:30 PM",
+    "startDateTime": "12/31/2023 11:30 AM",
+    "setUpDateTime": "12/31/2023 11:00 AM",
+    "endDateTime": "12/31/2023 12:30 PM",
     "participants": 50,
     "details": "Standing wedding ceremony"
   },
@@ -3432,15 +3444,39 @@
     "details": "State Senator Dave Cortese will visit a delegation from the nonprofit in his district, West Valley Community Services at the West Capitol Steps. He will also take some photos with the Senate Photographer present."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-910",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10360",
     "eventSponsor": "CAIR Jummah at the Capitol",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "11/10/2023 12:00 PM",
-    "setUpDateTime": "11/10/2023 12:00 PM",
-    "endDateTime": "11/10/2023 2:30 PM",
-    "participants": 1500,
+    "setUpDateTime": "11/10/2023 11:30 AM",
+    "endDateTime": "11/10/2023 3:00 PM",
+    "participants": 750,
     "details": "Prayer at the Capitol calling on elected officials to push for a ceasefire."
+  },
+  {
+    "status": "pending",
+    "number": "2023-911",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10362",
+    "eventSponsor": "Photographing Family Photos of Friends",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "11/4/2023 9:00 AM",
+    "setUpDateTime": "11/4/2023 9:00 AM",
+    "endDateTime": "11/4/2023 10:00 AM",
+    "participants": 8,
+    "details": "I will be taking family photos for some friends of mine."
+  },
+  {
+    "status": "approved",
+    "number": "2023-912",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10363",
+    "eventSponsor": "Fall of Democracy in Pakistan",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "11/3/2023 4:30 PM",
+    "setUpDateTime": "11/3/2023 4:00 PM",
+    "endDateTime": "11/3/2023 6:00 PM",
+    "participants": 20,
+    "details": "Distribution of flyers and holding posters about the Human Rights Crisis in Pakistan."
   }
 ]
