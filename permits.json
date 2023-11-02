@@ -172,12 +172,12 @@
     "number": "2023-162",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9518",
     "eventSponsor": "Diwali ",
-    "locationOnCapitolGrounds": "Other",
+    "locationOnCapitolGrounds": "West Side",
     "startDateTime": "11/11/2023 6:00 PM",
     "setUpDateTime": "11/11/2023 3:00 PM",
-    "endDateTime": "11/15/2023 8:00 AM",
-    "participants": 9,
-    "details": "Lighting of battery operated candles and prayers of light in all aspects of darkness. Same as every year. South flower bed area."
+    "endDateTime": "11/14/2023 8:00 AM",
+    "participants": 15,
+    "details": "Lighting of battery operated candles and prayers of light in all aspects of darkness. Same as every year. On the West flower bed.  This will be battery operated each night and then turned off in the morning."
   },
   {
     "status": "approved",
@@ -2897,9 +2897,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10274",
     "eventSponsor": "DCO-ASSEMBLY DEMOCRATIC CAUCUS",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "10/4/2023 12:00 PM",
-    "setUpDateTime": "10/4/2023 11:30 AM",
-    "endDateTime": "10/4/2023 2:00 PM",
+    "startDateTime": "11/15/2023 10:00 AM",
+    "setUpDateTime": "11/15/2023 10:00 AM",
+    "endDateTime": "11/15/2023 12:00 PM",
     "participants": 10,
     "details": "Requesting space on west steps under the Portico near the doors to set up lighting for Assembly staff headshot photography."
   },
@@ -3456,7 +3456,7 @@
     "details": "Prayer at the Capitol calling on elected officials to push for a ceasefire."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-911",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10362",
     "eventSponsor": "Photographing Family Photos of Friends",
