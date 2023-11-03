@@ -105,7 +105,7 @@
     "setUpDateTime": "12/16/2023 9:00 AM",
     "endDateTime": "1/8/2024 12:00 PM",
     "participants": 0,
-    "details": "illuminated Nativity, Holy Innocents, Epiphany Creche display. Set up location somewhere on West-Southwest Side"
+    "details": "illuminated Nativity, Holy Innocents, Epiphany Creche display. Set up location on West Granite near the north edge."
   },
   {
     "status": "approved",
@@ -3444,15 +3444,15 @@
     "details": "State Senator Dave Cortese will visit a delegation from the nonprofit in his district, West Valley Community Services at the West Capitol Steps. He will also take some photos with the Senate Photographer present."
   },
   {
-    "status": "approved",
+    "status": "pending",
     "number": "2023-910",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10360",
     "eventSponsor": "CAIR Jummah at the Capitol",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "11/10/2023 12:00 PM",
-    "setUpDateTime": "11/10/2023 11:30 AM",
-    "endDateTime": "11/10/2023 3:00 PM",
-    "participants": 750,
+    "startDateTime": "11/17/2023 12:00 PM",
+    "setUpDateTime": "11/17/2023 11:30 AM",
+    "endDateTime": "11/17/2023 3:00 PM",
+    "participants": 500,
     "details": "Prayer at the Capitol calling on elected officials to push for a ceasefire."
   },
   {
@@ -3478,5 +3478,29 @@
     "endDateTime": "11/3/2023 6:00 PM",
     "participants": 20,
     "details": "Distribution of flyers and holding posters about the Human Rights Crisis in Pakistan."
+  },
+  {
+    "status": "approved",
+    "number": "2023-913",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10366",
+    "eventSponsor": "Mexicana Universal Coronation ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "11/10/2023 9:00 AM",
+    "setUpDateTime": "11/10/2023 7:30 AM",
+    "endDateTime": "11/10/2023 11:00 AM",
+    "participants": 20,
+    "details": "Mexicana Universal is an international pageant that selects a woman of Mexican decent to represent Mexico in the Miss Universe pageant. For three years, Mexicana Universal has allowed a woman of Mexican-American decent to also participate in the re-known pageant. The winner just so happens to be a Sacramento native and will be competing in Mexico next year to earn her spot in Miss Universe. This ceremony will be her official coronation in which the Mexican consulate and former Miss universe, Lupita Jones will be present."
+  },
+  {
+    "status": "pending",
+    "number": "2023-914",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10367",
+    "eventSponsor": "California Hunger Action Coalition Hunger Action Week",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "11/5/2023 9:30 AM",
+    "setUpDateTime": "11/5/2023 7:00 AM",
+    "endDateTime": "11/5/2023 6:00 PM",
+    "participants": 200,
+    "details": "Advocates from across the state will meet at the capitol for legislative visits, rallies, and networking, all in the name of anti-hunger. This event is our kick-off, where we will build community, have a kick-off rally, and hold space for people to check-in during the day while they attend legislative visits."
   }
 ]
