@@ -3502,5 +3502,17 @@
     "endDateTime": "11/5/2023 6:00 PM",
     "participants": 200,
     "details": "Advocates from across the state will meet at the capitol for legislative visits, rallies, and networking, all in the name of anti-hunger. This event is our kick-off, where we will build community, have a kick-off rally, and hold space for people to check-in during the day while they attend legislative visits."
+  },
+  {
+    "status": "pending",
+    "number": "2023-915",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10369",
+    "eventSponsor": "Protest for SB403 Veto Bill",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "11/16/2023 8:00 AM",
+    "setUpDateTime": "11/16/2023 6:00 AM",
+    "endDateTime": "11/16/2023 12:00 PM",
+    "participants": 50,
+    "details": "We want to do protest to show our objection for Veto Decision by Governor Newson. We want to protest in front of 1021 O street Building."
   }
 ]
