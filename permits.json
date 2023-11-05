@@ -3514,5 +3514,29 @@
     "endDateTime": "11/16/2023 12:00 PM",
     "participants": 50,
     "details": "We want to do protest to show our objection for Veto Decision by Governor Newson. We want to protest in front of 1021 O street Building."
+  },
+  {
+    "status": "pending",
+    "number": "2023-916",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10371",
+    "eventSponsor": "Wedding ",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "11/9/2023 2:00 PM",
+    "setUpDateTime": "11/9/2023 12:00 PM",
+    "endDateTime": "11/9/2023 3:00 PM",
+    "participants": 20,
+    "details": "Wedding"
+  },
+  {
+    "status": "pending",
+    "number": "2023-917",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10372",
+    "eventSponsor": "Wedding ",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "11/7/2023 2:00 PM",
+    "setUpDateTime": "11/7/2023 12:00 PM",
+    "endDateTime": "11/7/2023 3:00 PM",
+    "participants": 20,
+    "details": "Wedding"
   }
 ]
