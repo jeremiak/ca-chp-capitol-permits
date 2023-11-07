@@ -3444,7 +3444,7 @@
     "details": "State Senator Dave Cortese will visit a delegation from the nonprofit in his district, West Valley Community Services at the West Capitol Steps. He will also take some photos with the Senate Photographer present."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-910",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10360",
     "eventSponsor": "CAIR Jummah at the Capitol",
@@ -3538,5 +3538,17 @@
     "endDateTime": "11/30/2023 4:00 AM",
     "participants": 20,
     "details": "Wedding"
+  },
+  {
+    "status": "pending",
+    "number": "2023-918",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10373",
+    "eventSponsor": "The Arc of Calif",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "11/9/2023 8:45 AM",
+    "setUpDateTime": "11/9/2023 7:30 AM",
+    "endDateTime": "11/9/2023 4:00 PM",
+    "participants": 400,
+    "details": "Annual Rally for the Disability population of Calif"
   }
 ]
