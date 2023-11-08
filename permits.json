@@ -3356,7 +3356,7 @@
     "startDateTime": "11/9/2023 9:00 AM",
     "setUpDateTime": "11/9/2023 9:00 AM",
     "endDateTime": "11/9/2023 11:00 AM",
-    "participants": 9,
+    "participants": 15,
     "details": "Our small group will stand on the steps of the Capitol building as well as walk around the building and on the Capitol grounds to pray."
   },
   {
@@ -3542,13 +3542,13 @@
   {
     "status": "pending",
     "number": "2023-918",
-    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10373",
-    "eventSponsor": "The Arc of Calif",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10375",
+    "eventSponsor": "Christians United for Israel",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "11/9/2023 8:45 AM",
-    "setUpDateTime": "11/9/2023 7:30 AM",
-    "endDateTime": "11/9/2023 4:00 PM",
-    "participants": 400,
-    "details": "Annual Rally for the Disability population of Calif"
+    "startDateTime": "11/14/2023 10:00 AM",
+    "setUpDateTime": "11/14/2023 9:00 AM",
+    "endDateTime": "11/14/2023 1:00 PM",
+    "participants": 150,
+    "details": "Prayer Vigil for 240 hostages taken from Israel"
   }
 ]
