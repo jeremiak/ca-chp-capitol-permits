@@ -2871,13 +2871,13 @@
     "status": "approved",
     "number": "2023-860",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10272",
-    "eventSponsor": "DGS Maintenance",
+    "eventSponsor": "Governor Tree Lighting and Holiday Market",
     "locationOnCapitolGrounds": "West Side, Traffic Circle",
-    "startDateTime": "12/4/2023 6:00 AM",
+    "startDateTime": "12/5/2023 5:00 PM",
     "setUpDateTime": "12/4/2023 6:00 AM",
-    "endDateTime": "12/7/2023 9:00 PM",
-    "participants": 10,
-    "details": "Hold for maintenance on West Side"
+    "endDateTime": "12/6/2023 5:00 PM",
+    "participants": 500,
+    "details": "Join us for the Governor Tree Lighting with festivities at the State Capitol on Tuesday, December 5th.  A holiday market will also be taking place in front of the Capitol.  Festivities begin at 5pm, tree lighting at 6pm with the market ending at 8pm."
   },
   {
     "status": "approved",
@@ -3540,7 +3540,7 @@
     "details": "Wedding"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-918",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10375",
     "eventSponsor": "Christians United for Israel",
@@ -3550,5 +3550,17 @@
     "endDateTime": "11/14/2023 1:00 PM",
     "participants": 150,
     "details": "Prayer Vigil for 240 hostages taken from Israel"
+  },
+  {
+    "status": "approved",
+    "number": "2023-919",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10377",
+    "eventSponsor": "Shut it down for Palestine- Sit-in ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "11/9/2023 3:00 PM",
+    "setUpDateTime": "11/9/2023 2:30 PM",
+    "endDateTime": "11/9/2023 5:30 PM",
+    "participants": 15,
+    "details": "This is a peaceful sit-in to protest the U.S. involvement in the genocide of Palestinians."
   }
 ]
