@@ -3482,14 +3482,14 @@
   {
     "status": "approved",
     "number": "2023-913",
-    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10366",
-    "eventSponsor": "Mexicana Universal Coronation ",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10364",
+    "eventSponsor": "Budget Priorities Press Conference- This will be on the southwest side closer to 10th and N.",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "11/10/2023 9:00 AM",
-    "setUpDateTime": "11/10/2023 7:30 AM",
-    "endDateTime": "11/10/2023 11:00 AM",
-    "participants": 20,
-    "details": "Mexicana Universal is an international pageant that selects a woman of Mexican decent to represent Mexico in the Miss Universe pageant. For three years, Mexicana Universal has allowed a woman of Mexican-American decent to also participate in the re-known pageant. The winner just so happens to be a Sacramento native and will be competing in Mexico next year to earn her spot in Miss Universe. This ceremony will be her official coronation in which the Mexican consulate and former Miss universe, Lupita Jones will be present."
+    "startDateTime": "1/9/2024 10:00 AM",
+    "setUpDateTime": "1/9/2024 9:00 AM",
+    "endDateTime": "1/9/2024 1:00 PM",
+    "participants": 75,
+    "details": "Press Conference - Discuss California Budget Priorities"
   },
   {
     "status": "pending",
@@ -3562,5 +3562,29 @@
     "endDateTime": "11/9/2023 5:30 PM",
     "participants": 15,
     "details": "This is a peaceful sit-in to protest the U.S. involvement in the genocide of Palestinians."
+  },
+  {
+    "status": "pending",
+    "number": "2023-920",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10378",
+    "eventSponsor": "Jewish Federation of the Sacramento Region",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "11/20/2023 11:00 AM",
+    "setUpDateTime": "11/20/2023 8:00 AM",
+    "endDateTime": "11/20/2023 3:00 PM",
+    "participants": 100,
+    "details": "Set up of empty table settings for the 240 hostages held by the Hamas terrorist organization in Gaza"
+  },
+  {
+    "status": "pending",
+    "number": "2024-94",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10358",
+    "eventSponsor": "Pallet Shelter California Roadshow",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "1/9/2024 8:00 AM",
+    "setUpDateTime": "1/9/2024 6:30 AM",
+    "endDateTime": "1/10/2024 6:00 PM",
+    "participants": 40,
+    "details": "Pallet Shelter will be having an open house for their shelter homes, which will be situated on a truck (with small stairs leading in).  A table with some small signage will accompany the truck on the ground."
   }
 ]
