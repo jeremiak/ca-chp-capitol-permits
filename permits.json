@@ -3577,6 +3577,18 @@
   },
   {
     "status": "pending",
+    "number": "2023-921",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10379",
+    "eventSponsor": "Headshot Photography ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "11/14/2023 9:30 AM",
+    "setUpDateTime": "11/14/2023 9:15 AM",
+    "endDateTime": "11/14/2023 10:45 AM",
+    "participants": 3,
+    "details": "Headshots"
+  },
+  {
+    "status": "pending",
     "number": "2024-94",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10358",
     "eventSponsor": "Pallet Shelter California Roadshow",
