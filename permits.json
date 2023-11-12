@@ -3576,7 +3576,7 @@
     "details": "Set up of empty table settings for the 240 hostages held by the Hamas terrorist organization in Gaza"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-921",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10379",
     "eventSponsor": "Headshot Photography ",
@@ -3586,6 +3586,18 @@
     "endDateTime": "11/14/2023 10:45 AM",
     "participants": 3,
     "details": "Headshots"
+  },
+  {
+    "status": "pending",
+    "number": "2023-922",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10380",
+    "eventSponsor": "Families Rally for Care and Housing for SMI",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "11/14/2023 9:00 AM",
+    "setUpDateTime": "11/14/2023 8:45 AM",
+    "endDateTime": "11/14/2023 4:00 PM",
+    "participants": 75,
+    "details": "Families will Rally for Care and Housing for persons living with Serious Mental Illness. Specifically we rally to prioritize the needs of these individuals who have been left untreated and unhoused because their needs are so great. We support Prop 1 as an avenue to solve this care and housing disparity"
   },
   {
     "status": "pending",
