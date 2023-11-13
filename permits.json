@@ -3564,16 +3564,16 @@
     "details": "This is a peaceful sit-in to protest the U.S. involvement in the genocide of Palestinians."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-920",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10378",
     "eventSponsor": "Jewish Federation of the Sacramento Region",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "11/20/2023 11:00 AM",
     "setUpDateTime": "11/20/2023 8:00 AM",
-    "endDateTime": "11/20/2023 3:00 PM",
+    "endDateTime": "11/20/2023 4:00 PM",
     "participants": 100,
-    "details": "Set up of empty table settings for the 240 hostages held by the Hamas terrorist organization in Gaza"
+    "details": "Set up of empty table settings for the 240 hostages held by the Hamas terrorist organization in Gaza.  Actual time is 11-2pm."
   },
   {
     "status": "approved",
@@ -3598,6 +3598,18 @@
     "endDateTime": "11/14/2023 4:00 PM",
     "participants": 75,
     "details": "Families will Rally for Care and Housing for persons living with Serious Mental Illness. Specifically we rally to prioritize the needs of these individuals who have been left untreated and unhoused because their needs are so great. We support Prop 1 as an avenue to solve this care and housing disparity"
+  },
+  {
+    "status": "pending",
+    "number": "2023-923",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10382",
+    "eventSponsor": "military wedding ",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "11/21/2023 3:00 PM",
+    "setUpDateTime": "11/21/2023 2:00 PM",
+    "endDateTime": "11/21/2023 4:15 PM",
+    "participants": 20,
+    "details": "a very small intimate elopement ceremony for a marine and his soon to be wife with a few close family members and minster. This is intended to be a  quick ceremony before he leaves to his new station. we are expecting 13 confirmed people but hope no more than 20 can make it!"
   },
   {
     "status": "pending",
