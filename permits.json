@@ -3600,7 +3600,7 @@
     "details": "Families will Rally for Care and Housing for persons living with Serious Mental Illness. Specifically we rally to prioritize the needs of these individuals who have been left untreated and unhoused because their needs are so great. We support Prop 1 as an avenue to solve this care and housing disparity"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-923",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10382",
     "eventSponsor": "military wedding ",
@@ -3610,6 +3610,42 @@
     "endDateTime": "11/21/2023 4:15 PM",
     "participants": 20,
     "details": "a very small intimate elopement ceremony for a marine and his soon to be wife with a few close family members and minster. This is intended to be a  quick ceremony before he leaves to his new station. we are expecting 13 confirmed people but hope no more than 20 can make it!"
+  },
+  {
+    "status": "approved",
+    "number": "2023-924",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10383",
+    "eventSponsor": "Public Awareness Ministries, 501c3",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "11/25/2023 8:00 AM",
+    "setUpDateTime": "11/25/2023 7:45 AM",
+    "endDateTime": "11/25/2023 11:00 AM",
+    "participants": 15,
+    "details": "Annual Prayer for Rain on the West Steps of the Capitol, asking for God's help with a wet rainy season 2023-24, to fully end the drought in CA.  This is an annual event that we've hosted for years."
+  },
+  {
+    "status": "approved",
+    "number": "2023-925",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10387",
+    "eventSponsor": "9th Annual Courage Score Release.  Northwest Side closer to 10th and L.",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "1/9/2024 11:00 AM",
+    "setUpDateTime": "1/9/2024 10:00 AM",
+    "endDateTime": "1/9/2024 12:30 PM",
+    "participants": 10,
+    "details": "Press conference to announce the release of Courage California's 9th Annual Courage Score (legislative score card)."
+  },
+  {
+    "status": "approved",
+    "number": "2023-926",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10388",
+    "eventSponsor": "Defiance for Science",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "11/15/2023 8:00 AM",
+    "setUpDateTime": "11/15/2023 7:00 AM",
+    "endDateTime": "11/17/2023 5:00 PM",
+    "participants": 200,
+    "details": "This will be at the Cal EPA Building, 1001 I Street Wednesday, Thursday and Friday during the day.  California State Scientists protect people, public health, and the environment.  Our contract with the State expired more than 3 years ago.  The bargaining is at impasse.  Join us as we demand equal pay for equal work and a contract that will value scientists."
   },
   {
     "status": "pending",
