@@ -3192,14 +3192,14 @@
     "details": "Take picture of Education Policy Fellows on Capitol west steps, group discussion with Naomi Ondrasek, Assembly staffer."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-888",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10318",
     "eventSponsor": "Capitol Day",
     "locationOnCapitolGrounds": "Private and Home Educators of California",
-    "startDateTime": "12/2/2023 4:00 AM",
-    "setUpDateTime": "12/2/2023 4:00 AM",
-    "endDateTime": "12/2/2023 4:00 AM",
+    "startDateTime": "1/18/2024 8:00 AM",
+    "setUpDateTime": "1/18/2024 8:00 AM",
+    "endDateTime": "1/18/2024 2:00 PM",
     "participants": 150,
     "details": "The goal of Capitol Day is to visit each office, talk to a member and drop off a packet with information regarding private home education"
   },
