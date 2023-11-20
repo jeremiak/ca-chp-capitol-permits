@@ -3660,6 +3660,18 @@
     "details": "Wedding ceremony"
   },
   {
+    "status": "approved",
+    "number": "2024-88",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10350",
+    "eventSponsor": "Natomas Pacific Pathways Prep Elementary",
+    "locationOnCapitolGrounds": "NP3E",
+    "startDateTime": "1/19/2024 11:45 AM",
+    "setUpDateTime": "1/19/2024 11:30 AM",
+    "endDateTime": "1/19/2024 12:30 PM",
+    "participants": 100,
+    "details": "NP3E field trip to the Capitol originally scheduled on 11-17-23 now rescheduled to 1-19-24"
+  },
+  {
     "status": "pending",
     "number": "2024-94",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10358",
