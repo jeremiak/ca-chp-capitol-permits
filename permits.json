@@ -3650,14 +3650,14 @@
   {
     "status": "pending",
     "number": "2023-927",
-    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10396",
-    "eventSponsor": "Wiedel Wedding",
-    "locationOnCapitolGrounds": "Area 33",
-    "startDateTime": "11/20/2023 12:00 PM",
-    "setUpDateTime": "11/20/2023 12:00 PM",
-    "endDateTime": "11/20/2023 4:00 PM",
-    "participants": 50,
-    "details": "Wedding ceremony"
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10400",
+    "eventSponsor": "Pam Dimand Celebration of Life",
+    "locationOnCapitolGrounds": "Area 5",
+    "startDateTime": "11/26/2023 3:15 PM",
+    "setUpDateTime": "11/26/2023 3:00 PM",
+    "endDateTime": "11/26/2023 4:30 PM",
+    "participants": 19,
+    "details": "My mother has passed, she wished to have a small celebration of life in a garden."
   },
   {
     "status": "approved",
