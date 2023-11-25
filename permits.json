@@ -3661,6 +3661,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-65",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10296",
+    "eventSponsor": "Rally in Support of Ukraine Sunflower Society",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "1/24/2024 6:00 PM",
+    "setUpDateTime": "1/24/2024 5:00 PM",
+    "endDateTime": "1/24/2024 9:45 PM",
+    "participants": 200,
+    "details": "Rally in support of Ukraine"
+  },
+  {
+    "status": "approved",
     "number": "2024-88",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10350",
     "eventSponsor": "Natomas Pacific Pathways Prep Elementary",
