@@ -93,7 +93,7 @@
     "setUpDateTime": "12/7/2023 6:00 AM",
     "endDateTime": "12/16/2023 12:00 PM",
     "participants": 0,
-    "details": "Static Display of Menorah.  This will be set up preferably on the West Side but where ever construction will allow."
+    "details": "Static Display of Menorah."
   },
   {
     "status": "approved",
@@ -3658,6 +3658,30 @@
     "endDateTime": "12/2/2023 5:00 PM",
     "participants": 25,
     "details": "My mother has passed, she wished to have a small celebration of life in a garden."
+  },
+  {
+    "status": "pending",
+    "number": "2023-928",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10407",
+    "eventSponsor": "California Fire Foundation",
+    "locationOnCapitolGrounds": "Area 34",
+    "startDateTime": "12/7/2023 9:30 AM",
+    "setUpDateTime": "12/7/2023 9:00 AM",
+    "endDateTime": "12/7/2023 12:00 PM",
+    "participants": 3,
+    "details": "Work related to the expansion of the fire memorial"
+  },
+  {
+    "status": "approved",
+    "number": "2024-104",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10381",
+    "eventSponsor": "Families Rally for Care and Housing for SMI",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "1/31/2024 9:00 AM",
+    "setUpDateTime": "1/31/2024 8:45 AM",
+    "endDateTime": "1/31/2024 4:00 PM",
+    "participants": 75,
+    "details": "Families will Rally for Care and Housing for people living with Serious Mental Illness. Specifically we rally to prioritize the needs of individuals who have been left untreated and unhoused because their needs are so great. We support Prop 1 as an avenue to solve this care and housing disparity."
   },
   {
     "status": "approved",
