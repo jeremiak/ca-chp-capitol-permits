@@ -2871,13 +2871,13 @@
     "status": "approved",
     "number": "2023-860",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10272",
-    "eventSponsor": "Governor Tree Lighting and Holiday Market",
+    "eventSponsor": "Governor Tree Lighting",
     "locationOnCapitolGrounds": "West Side, Traffic Circle",
     "startDateTime": "12/5/2023 5:00 PM",
     "setUpDateTime": "12/4/2023 6:00 AM",
     "endDateTime": "12/6/2023 5:00 PM",
     "participants": 500,
-    "details": "Join us for the Governor Tree Lighting with festivities at the State Capitol on Tuesday, December 5th.  A holiday market will also be taking place in front of the Capitol.  Festivities begin at 5pm, tree lighting at 6pm with the market ending at 8pm."
+    "details": "Governor Tree Lighting."
   },
   {
     "status": "approved",
@@ -3670,6 +3670,18 @@
     "endDateTime": "12/7/2023 12:00 PM",
     "participants": 3,
     "details": "Work related to the expansion of the fire memorial"
+  },
+  {
+    "status": "pending",
+    "number": "2023-929",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10409",
+    "eventSponsor": "Strategy 6",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "12/6/2023 7:15 PM",
+    "setUpDateTime": "12/6/2023 7:00 PM",
+    "endDateTime": "12/6/2023 9:00 PM",
+    "participants": 50,
+    "details": "Rally in support of political prisoners. Rally against the war in Ukraine."
   },
   {
     "status": "approved",
