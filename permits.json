@@ -3672,7 +3672,7 @@
     "details": "Work related to the expansion of the fire memorial"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-929",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10409",
     "eventSponsor": "Strategy 6",
@@ -3682,6 +3682,30 @@
     "endDateTime": "12/6/2023 9:00 PM",
     "participants": 50,
     "details": "Rally in support of political prisoners. Rally against the war in Ukraine."
+  },
+  {
+    "status": "pending",
+    "number": "2023-930",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10412",
+    "eventSponsor": "Legislation Announcement",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "12/7/2023 11:00 AM",
+    "setUpDateTime": "12/7/2023 8:30 AM",
+    "endDateTime": "12/7/2023 11:00 AM",
+    "participants": 15,
+    "details": "Legislation announcement"
+  },
+  {
+    "status": "pending",
+    "number": "2023-931",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10413",
+    "eventSponsor": "Groundswell",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "1/16/2024 9:00 AM",
+    "setUpDateTime": "1/16/2024 6:00 AM",
+    "endDateTime": "1/16/2024 12:00 PM",
+    "participants": 400,
+    "details": "Rally, performance, music & programming in support of water justice."
   },
   {
     "status": "approved",
@@ -3694,6 +3718,30 @@
     "endDateTime": "1/31/2024 4:00 PM",
     "participants": 75,
     "details": "Families will Rally for Care and Housing for people living with Serious Mental Illness. Specifically we rally to prioritize the needs of individuals who have been left untreated and unhoused because their needs are so great. We support Prop 1 as an avenue to solve this care and housing disparity."
+  },
+  {
+    "status": "approved",
+    "number": "2024-126",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10410",
+    "eventSponsor": "CHP Cadet Run",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "1/3/2024 6:00 AM",
+    "setUpDateTime": "1/3/2024 5:30 AM",
+    "endDateTime": "1/3/2024 7:30 AM",
+    "participants": 150,
+    "details": "The California Highway Patrol Cadet Run for those who successfully completed 6 months of training.  They will run from the CHP Academy to the Peace Officers Memorial and then West Side."
+  },
+  {
+    "status": "pending",
+    "number": "2024-127",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10411",
+    "eventSponsor": "Legislation Announcement ",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "1/9/2024 11:00 AM",
+    "setUpDateTime": "1/9/2024 8:30 AM",
+    "endDateTime": "1/9/2024 11:00 AM",
+    "participants": 15,
+    "details": "Legislation announcement"
   },
   {
     "status": "approved",
