@@ -2690,14 +2690,14 @@
   {
     "status": "approved",
     "number": "2023-844",
-    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10250",
-    "eventSponsor": "Natomas Pacific Pathways Prep Elementary",
-    "locationOnCapitolGrounds": "NP3E",
-    "startDateTime": "11/17/2023 11:00 AM",
-    "setUpDateTime": "11/17/2023 11:00 AM",
-    "endDateTime": "11/17/2023 1:00 PM",
-    "participants": 100,
-    "details": "Senator Ashby is hosting three 5th grade classes for a visit to the Senate Floor and a tour of the Capitol, followed by lunch on the Capitol grounds."
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10249",
+    "eventSponsor": "California Youth Connection",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "2/5/2024 12:00 PM",
+    "setUpDateTime": "2/5/2024 11:00 AM",
+    "endDateTime": "2/5/2024 2:00 PM",
+    "participants": 75,
+    "details": "Lunch Rally on the West Side of the capitol steps. Our Day at the Capitol conference meet after members morning legislative visits."
   },
   {
     "status": "approved",
@@ -3446,14 +3446,14 @@
   {
     "status": "approved",
     "number": "2023-910",
-    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10360",
-    "eventSponsor": "CAIR Jummah at the Capitol",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10356",
+    "eventSponsor": "State Senator Dave Cortese to Visit and Take Photos with “West Valley Community Services” Delegation at the West Capitol Steps",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "11/17/2023 12:00 PM",
-    "setUpDateTime": "11/17/2023 11:30 AM",
-    "endDateTime": "11/17/2023 3:00 PM",
-    "participants": 500,
-    "details": "Prayer at the Capitol calling on elected officials to push for a ceasefire."
+    "startDateTime": "2/5/2024 1:00 PM",
+    "setUpDateTime": "2/5/2024 1:00 PM",
+    "endDateTime": "2/5/2024 2:30 PM",
+    "participants": 20,
+    "details": "State Senator Dave Cortese will visit a delegation from the nonprofit in his district, West Valley Community Services on the southwest side closer to N Street on the west side. He will also take some photos with the Senate Photographer present."
   },
   {
     "status": "approved",
@@ -3689,9 +3689,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10412",
     "eventSponsor": "Legislation Announcement",
     "locationOnCapitolGrounds": "Other",
-    "startDateTime": "12/7/2023 11:00 AM",
-    "setUpDateTime": "12/7/2023 8:30 AM",
-    "endDateTime": "12/7/2023 11:00 AM",
+    "startDateTime": "1/16/2024 10:30 AM",
+    "setUpDateTime": "1/16/2024 8:30 AM",
+    "endDateTime": "1/16/2024 12:30 PM",
     "participants": 15,
     "details": "Legislation announcement"
   },
@@ -3718,6 +3718,18 @@
     "endDateTime": "1/31/2024 4:00 PM",
     "participants": 75,
     "details": "Families will Rally for Care and Housing for people living with Serious Mental Illness. Specifically we rally to prioritize the needs of individuals who have been left untreated and unhoused because their needs are so great. We support Prop 1 as an avenue to solve this care and housing disparity."
+  },
+  {
+    "status": "pending",
+    "number": "2024-119",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10401",
+    "eventSponsor": "24th Annual Rosa Parks Day",
+    "locationOnCapitolGrounds": "Transit Equity Celebration",
+    "startDateTime": "2/5/2024 11:30 AM",
+    "setUpDateTime": "2/5/2024 7:30 AM",
+    "endDateTime": "2/5/2024 4:30 PM",
+    "participants": 100,
+    "details": "Historic Blue RT Bus, Rosa Parks Day Ceremony,  California Transportation information Booths"
   },
   {
     "status": "approved",
