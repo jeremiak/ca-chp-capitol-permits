@@ -3483,12 +3483,12 @@
     "status": "approved",
     "number": "2023-913",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10364",
-    "eventSponsor": "Budget Priorities Press Conference- This will be on the southwest side closer to 10th and N.",
+    "eventSponsor": "Budget Priorities Press Conference- This will be on the West Steps.",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "1/9/2024 10:00 AM",
     "setUpDateTime": "1/9/2024 9:00 AM",
     "endDateTime": "1/9/2024 1:00 PM",
-    "participants": 75,
+    "participants": 70,
     "details": "Press Conference - Discuss California Budget Priorities"
   },
   {
@@ -3660,7 +3660,7 @@
     "details": "My mother has passed, she wished to have a small celebration of life in a garden."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-928",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10407",
     "eventSponsor": "California Fire Foundation",
@@ -3684,14 +3684,14 @@
     "details": "Rally in support of political prisoners. Rally against the war in Ukraine."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-930",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10412",
-    "eventSponsor": "Legislation Announcement",
-    "locationOnCapitolGrounds": "Other",
-    "startDateTime": "1/16/2024 10:30 AM",
+    "eventSponsor": "Legislation Announcement- This will be closer to N Street on the southwest side.",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "1/16/2024 9:00 AM",
     "setUpDateTime": "1/16/2024 8:30 AM",
-    "endDateTime": "1/16/2024 12:30 PM",
+    "endDateTime": "1/16/2024 11:00 AM",
     "participants": 15,
     "details": "Legislation announcement"
   },
@@ -3708,6 +3708,42 @@
     "details": "Rally, performance, music & programming in support of water justice."
   },
   {
+    "status": "pending",
+    "number": "2023-932",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10419",
+    "eventSponsor": "Karene Manuel Photography Portraits with Bride and Groom",
+    "locationOnCapitolGrounds": "Area 1, Area 5",
+    "startDateTime": "12/16/2023 3:00 PM",
+    "setUpDateTime": "12/16/2023 3:00 PM",
+    "endDateTime": "12/16/2023 5:00 PM",
+    "participants": 20,
+    "details": "We will be taking photos of Bride and Groom for their Wedding Portraits"
+  },
+  {
+    "status": "approved",
+    "number": "2023-933",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10420",
+    "eventSponsor": "Release leaders of PTM-Afghan Cultural Association ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "12/9/2023 1:00 PM",
+    "setUpDateTime": "12/9/2023 12:30 PM",
+    "endDateTime": "12/9/2023 3:00 PM",
+    "participants": 200,
+    "details": "PTM California supporter will protest against the orchestrated assissanation attempt on PTM chief , Manzoor Pashtun by the State of Pakistan."
+  },
+  {
+    "status": "pending",
+    "number": "2023-934",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10421",
+    "eventSponsor": "Sacramento Police Department Bootcamp Wednesday ",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "12/20/2023 6:30 PM",
+    "setUpDateTime": "12/20/2023 6:00 PM",
+    "endDateTime": "12/20/2023 8:00 PM",
+    "participants": 25,
+    "details": "The Sacramento Police Department hosts a Bootcamp program for persons interested to learn more about law enforcement and an opportunity to workout with officers."
+  },
+  {
     "status": "approved",
     "number": "2024-104",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10381",
@@ -3720,7 +3756,7 @@
     "details": "Families will Rally for Care and Housing for people living with Serious Mental Illness. Specifically we rally to prioritize the needs of individuals who have been left untreated and unhoused because their needs are so great. We support Prop 1 as an avenue to solve this care and housing disparity."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-119",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10401",
     "eventSponsor": "24th Annual Rosa Parks Day",
@@ -3728,8 +3764,8 @@
     "startDateTime": "2/5/2024 11:30 AM",
     "setUpDateTime": "2/5/2024 7:30 AM",
     "endDateTime": "2/5/2024 4:30 PM",
-    "participants": 100,
-    "details": "Historic Blue RT Bus, Rosa Parks Day Ceremony,  California Transportation information Booths"
+    "participants": 50,
+    "details": "Historic Blue RT Bus, Rosa Parks Day Ceremony,  California Transportation information Booths .  This will be only on the far west edge of the West Side.  Bus parked on 10th (through the City)"
   },
   {
     "status": "approved",
@@ -3744,16 +3780,28 @@
     "details": "The California Highway Patrol Cadet Run for those who successfully completed 6 months of training.  They will run from the CHP Academy to the Peace Officers Memorial and then West Side."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-127",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10411",
-    "eventSponsor": "Legislation Announcement ",
-    "locationOnCapitolGrounds": "Other",
-    "startDateTime": "1/9/2024 11:00 AM",
+    "eventSponsor": "Legislation Announcement.  This will be on the 10th and N side",
+    "locationOnCapitolGrounds": "southwest side. ",
+    "startDateTime": "1/9/2024 9:00 AM",
     "setUpDateTime": "1/9/2024 8:30 AM",
     "endDateTime": "1/9/2024 11:00 AM",
     "participants": 15,
     "details": "Legislation announcement"
+  },
+  {
+    "status": "approved",
+    "number": "2024-55",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10262",
+    "eventSponsor": "Capitol employee Blood Drive ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "2/6/2024 8:00 AM",
+    "setUpDateTime": "2/6/2024 8:00 AM",
+    "endDateTime": "2/6/2024 4:00 PM",
+    "participants": 50,
+    "details": "Blood drive by Vitalant"
   },
   {
     "status": "approved",
@@ -3780,7 +3828,7 @@
     "details": "NP3E field trip to the Capitol originally scheduled on 11-17-23 now rescheduled to 1-19-24"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-94",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10358",
     "eventSponsor": "Pallet Shelter California Roadshow",
@@ -3789,6 +3837,6 @@
     "setUpDateTime": "1/9/2024 6:30 AM",
     "endDateTime": "1/10/2024 6:00 PM",
     "participants": 40,
-    "details": "Pallet Shelter will be having an open house for their shelter homes, which will be situated on a truck (with small stairs leading in).  A table with some small signage will accompany the truck on the ground."
+    "details": "Pallet Shelter will be having an open house for their shelter homes, which will be situated on a truck (with small stairs leading in) potentially on 10th Street.  We may have a pop up tent on the far west side near 10th and the display,"
   }
 ]
