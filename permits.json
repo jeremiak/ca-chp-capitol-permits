@@ -3732,16 +3732,52 @@
     "details": "PTM California supporter will protest against the orchestrated assissanation attempt on PTM chief , Manzoor Pashtun by the State of Pakistan."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-934",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10421",
     "eventSponsor": "Sacramento Police Department Bootcamp Wednesday ",
-    "locationOnCapitolGrounds": "Other",
+    "locationOnCapitolGrounds": "West Side",
     "startDateTime": "12/20/2023 6:30 PM",
     "setUpDateTime": "12/20/2023 6:00 PM",
     "endDateTime": "12/20/2023 8:00 PM",
     "participants": 25,
     "details": "The Sacramento Police Department hosts a Bootcamp program for persons interested to learn more about law enforcement and an opportunity to workout with officers."
+  },
+  {
+    "status": "approved",
+    "number": "2023-935",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10423",
+    "eventSponsor": "Solidarity Rally Support Ukraine Above Politics",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "12/10/2023 11:00 AM",
+    "setUpDateTime": "12/10/2023 10:15 AM",
+    "endDateTime": "12/10/2023 12:45 PM",
+    "participants": 100,
+    "details": "Solidarity Rally in support of Ukraine. December 6th the US Senate blocked the procedural vote for Ukraine Aid. The Ukrainian Diaspora of the United States unequivocally reject the politicising of Ukrainian lives. Join us to demand swift action!"
+  },
+  {
+    "status": "pending",
+    "number": "2023-936",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10424",
+    "eventSponsor": "State Capitol Museum Holiday Music Program",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "12/15/2023 9:00 AM",
+    "setUpDateTime": "12/10/2023 9:00 AM",
+    "endDateTime": "12/15/2023 9:30 AM",
+    "participants": 7,
+    "details": "Fox 40 news to film the USAF Band of the Golden West Travis Quintet playing a song as a promotional piece for the Holiday Music Program"
+  },
+  {
+    "status": "pending",
+    "number": "2023-937",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10426",
+    "eventSponsor": "LCHC Advocacy Day",
+    "locationOnCapitolGrounds": "Area 1, Area 5",
+    "startDateTime": "12/10/2023 8:00 AM",
+    "setUpDateTime": "12/10/2023 6:00 AM",
+    "endDateTime": "12/10/2023 5:15 PM",
+    "participants": 75,
+    "details": "The Latino Coalition for a Healthy California will be holding an advocacy day where multigenerational Latinos will be speaking to legislators on priorities for a Latino Health Policy Agenda including, but not limited to, data disaggregation for health equity, health access, food access and other issues."
   },
   {
     "status": "approved",
@@ -3754,6 +3790,18 @@
     "endDateTime": "1/31/2024 4:00 PM",
     "participants": 75,
     "details": "Families will Rally for Care and Housing for people living with Serious Mental Illness. Specifically we rally to prioritize the needs of individuals who have been left untreated and unhoused because their needs are so great. We support Prop 1 as an avenue to solve this care and housing disparity."
+  },
+  {
+    "status": "approved",
+    "number": "2024-110",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10390",
+    "eventSponsor": "First 5 Association Advocacy Day Press Event",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "2/7/2024 9:00 AM",
+    "setUpDateTime": "2/7/2024 8:30 AM",
+    "endDateTime": "2/7/2024 10:00 AM",
+    "participants": 100,
+    "details": "Press event to mark the start of First 5 Association's advocacy day."
   },
   {
     "status": "approved",
