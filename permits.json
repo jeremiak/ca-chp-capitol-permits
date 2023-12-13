@@ -3516,16 +3516,16 @@
     "details": "We want to do protest to show our objection for Veto Decision by Governor Newson. We want to protest in front of 1021 O street Building."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-916",
-    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10371",
-    "eventSponsor": "Wedding ",
-    "locationOnCapitolGrounds": "Area 1",
-    "startDateTime": "11/9/2023 2:00 PM",
-    "setUpDateTime": "11/9/2023 12:00 PM",
-    "endDateTime": "11/9/2023 3:00 PM",
-    "participants": 20,
-    "details": "Wedding"
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10370",
+    "eventSponsor": "Rally to Prevent Teen Dating Violence",
+    "locationOnCapitolGrounds": "California Partnership to End Domestic Violence",
+    "startDateTime": "2/12/2024 11:00 AM",
+    "setUpDateTime": "2/12/2024 9:00 AM",
+    "endDateTime": "2/12/2024 1:00 PM",
+    "participants": 200,
+    "details": "This will be a rally commemorating Teen Dating Violence Awareness and Prevention Month. Youth will take the lead in speaking about efforts to prevent teen dating violence, support healthy relationship education, and organize toward inclusive school environments--and legislators, education leaders, and representatives from social justice organizations will speak in allyship. There will be a crowd of people from the movement to end domestic violence."
   },
   {
     "status": "pending",
