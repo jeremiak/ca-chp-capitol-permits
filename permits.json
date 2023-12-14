@@ -3696,14 +3696,14 @@
     "details": "Legislation announcement"
   },
   {
-    "status": "approved",
+    "status": "pending",
     "number": "2023-931",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10413",
     "eventSponsor": "Groundswell",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "1/16/2024 8:00 AM",
-    "setUpDateTime": "1/15/2024 8:00 AM",
-    "endDateTime": "1/16/2024 6:00 PM",
+    "setUpDateTime": "1/16/2024 6:00 AM",
+    "endDateTime": "1/16/2024 4:00 PM",
     "participants": 400,
     "details": "Rally, performance, music & programming in support of water justice."
   },
@@ -3785,11 +3785,23 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10429",
     "eventSponsor": "California Fire Foundation",
     "locationOnCapitolGrounds": "Area 34",
-    "startDateTime": "12/13/2023 9:00 AM",
-    "setUpDateTime": "12/13/2023 8:00 AM",
-    "endDateTime": "12/13/2023 7:45 PM",
+    "startDateTime": "12/15/2023 10:00 AM",
+    "setUpDateTime": "12/15/2023 10:00 AM",
+    "endDateTime": "12/15/2023 6:00 PM",
     "participants": 6,
     "details": "Removal of the base of the large firefighter statue to examine interior for structural integrity  from 0900 - 1600 from 1600 to 1945 we will be conducting lighting test for the new lighting at the firefighter memorial"
+  },
+  {
+    "status": "pending",
+    "number": "2023-939",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10438",
+    "eventSponsor": "CA Assembly Republican Caucus",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "12/16/2023 12:30 PM",
+    "setUpDateTime": "12/16/2023 12:15 PM",
+    "endDateTime": "12/16/2023 1:00 PM",
+    "participants": 30,
+    "details": "Presser"
   },
   {
     "status": "approved",
@@ -3910,5 +3922,17 @@
     "endDateTime": "1/10/2024 6:00 PM",
     "participants": 40,
     "details": "Pallet Shelter will be having an open house for their shelter homes, which will be situated on a truck (with small stairs leading in) potentially on 10th Street.  We may have a pop up tent on the far west side near 10th and the display,"
+  },
+  {
+    "status": "approved",
+    "number": "2024-98",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10365",
+    "eventSponsor": "Missing and Murdered Indigenous People Day of Action",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "2/13/2024 8:30 AM",
+    "setUpDateTime": "2/13/2024 7:00 AM",
+    "endDateTime": "2/13/2024 5:00 PM",
+    "participants": 300,
+    "details": "The Day of Action will include a press conference, resource sharing, tabling, song and dance, and information sharing for Missing and Murdered Indigenous People. Tribes and Native American groups from across the state will attend, along with lawmakers."
   }
 ]
