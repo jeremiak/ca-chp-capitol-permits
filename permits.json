@@ -3794,14 +3794,14 @@
   {
     "status": "pending",
     "number": "2023-939",
-    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10438",
-    "eventSponsor": "CA Assembly Republican Caucus",
-    "locationOnCapitolGrounds": "Other",
-    "startDateTime": "12/16/2023 12:30 PM",
-    "setUpDateTime": "12/16/2023 12:15 PM",
-    "endDateTime": "12/16/2023 1:00 PM",
-    "participants": 30,
-    "details": "Presser"
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10439",
+    "eventSponsor": "5th Annual California Indian Cultural Awareness Event",
+    "locationOnCapitolGrounds": "Area 33",
+    "startDateTime": "1/6/2024 4:00 AM",
+    "setUpDateTime": "1/6/2024 4:00 AM",
+    "endDateTime": "1/6/2024 4:00 AM",
+    "participants": 300,
+    "details": "This event is the 5th Annual Cultural Awareness Event to teach the legislature and community of the importance of acknowledging the Native American culture."
   },
   {
     "status": "approved",
