@@ -3816,6 +3816,18 @@
     "details": "Video footage of current state of Firefighter's memorial prior to rennovation."
   },
   {
+    "status": "pending",
+    "number": "2023-941",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10444",
+    "eventSponsor": "Elopement",
+    "locationOnCapitolGrounds": "Area 27",
+    "startDateTime": "12/19/2023 11:00 AM",
+    "setUpDateTime": "12/19/2023 10:30 AM",
+    "endDateTime": "12/19/2023 12:00 PM",
+    "participants": 26,
+    "details": "Elopement with our families"
+  },
+  {
     "status": "approved",
     "number": "2024-104",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10381",
