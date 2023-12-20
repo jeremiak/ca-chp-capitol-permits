@@ -3696,7 +3696,7 @@
     "details": "Legislation announcement"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-931",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10413",
     "eventSponsor": "Groundswell",
@@ -3792,16 +3792,16 @@
     "details": "Removal of the base of the large firefighter statue to examine interior for structural integrity  from 0900 - 1600 from 1600 to 1945 we will be conducting lighting test for the new lighting at the firefighter memorial"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-939",
-    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10442",
-    "eventSponsor": "California Association, FFA",
-    "locationOnCapitolGrounds": "Area 34",
-    "startDateTime": "1/27/2024 4:00 AM",
-    "setUpDateTime": "1/27/2024 4:00 AM",
-    "endDateTime": "1/27/2024 4:00 AM",
-    "participants": 80,
-    "details": "Nighttime reflection Day 2 of the Sacramento Leadership Conference for senior high school agriculture education students."
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10438",
+    "eventSponsor": "CA Assembly Republican Caucus",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "1/3/2024 12:15 PM",
+    "setUpDateTime": "1/3/2024 12:00 PM",
+    "endDateTime": "1/3/2024 1:30 PM",
+    "participants": 30,
+    "details": "Press Conference."
   },
   {
     "status": "approved",
@@ -3898,6 +3898,30 @@
     "endDateTime": "1/21/2024 5:00 PM",
     "participants": 500,
     "details": "Solidarity Rally in support of Navalny and all political prisoners in Russia."
+  },
+  {
+    "status": "pending",
+    "number": "2024-147",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10441",
+    "eventSponsor": "Tiny Village Spirit",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "2/19/2024 12:00 PM",
+    "setUpDateTime": "2/19/2024 9:30 AM",
+    "endDateTime": "2/19/2024 3:30 PM",
+    "participants": 100,
+    "details": "Interfaith Rally in Solidarity with Unhoused People.  Using fence pieces as art work."
+  },
+  {
+    "status": "approved",
+    "number": "2024-155",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10449",
+    "eventSponsor": "Office of Assemblymember Carlos Villapudua",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "1/3/2024 11:00 AM",
+    "setUpDateTime": "1/3/2024 10:30 AM",
+    "endDateTime": "1/3/2024 11:45 AM",
+    "participants": 20,
+    "details": "Press Conference for a bill introduction"
   },
   {
     "status": "approved",
