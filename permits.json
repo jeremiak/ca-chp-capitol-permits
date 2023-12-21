@@ -3925,6 +3925,42 @@
   },
   {
     "status": "approved",
+    "number": "2024-156",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10450",
+    "eventSponsor": "PP Capitol Carnival ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "2/20/2024 11:45 AM",
+    "setUpDateTime": "2/20/2024 9:00 AM",
+    "endDateTime": "2/20/2024 5:00 PM",
+    "participants": 75,
+    "details": "Planned Parenthood Affiliates of California invites Capitol staffers and legislative members are invited to enjoy free games, cotton candy, and learn more about reproductive health as well as a meet and greet with planned parenthood staff.  This will be on the Southwest Side."
+  },
+  {
+    "status": "approved",
+    "number": "2024-161",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10455",
+    "eventSponsor": "Legislation Announcement",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "2/6/2024 9:00 AM",
+    "setUpDateTime": "2/6/2024 8:00 AM",
+    "endDateTime": "2/6/2024 11:00 AM",
+    "participants": 15,
+    "details": "Announcement of legislation for 2024."
+  },
+  {
+    "status": "pending",
+    "number": "2024-162",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10456",
+    "eventSponsor": "WIN Giving Gets Good- The Red Sand Project",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "1/12/2024 5:15 PM",
+    "setUpDateTime": "1/12/2024 4:15 PM",
+    "endDateTime": "1/12/2024 9:00 PM",
+    "participants": 70,
+    "details": "We are requesting for the red sand to be on the cracks of the west wing of the Capitol building for no more than 4 days. We will have 1 or 2 A-frames to describe the project near the sand for people to read on the initiative."
+  },
+  {
+    "status": "approved",
     "number": "2024-55",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10262",
     "eventSponsor": "Capitol employee Blood Drive ",
