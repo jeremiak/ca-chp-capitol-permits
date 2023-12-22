@@ -3937,6 +3937,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-157",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10451",
+    "eventSponsor": "PP Capitol Carnival ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "2/21/2024 11:45 AM",
+    "setUpDateTime": "2/21/2024 9:00 AM",
+    "endDateTime": "2/21/2024 4:45 PM",
+    "participants": 75,
+    "details": "Planned Parenthood Affiliates of California invites Capitol Staff and Legislative Members to an meet-and-greet with games, free carnival food.  This will be on the southwest side."
+  },
+  {
+    "status": "approved",
     "number": "2024-161",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10455",
     "eventSponsor": "Legislation Announcement",
