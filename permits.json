@@ -3806,14 +3806,14 @@
   {
     "status": "approved",
     "number": "2023-940",
-    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10443",
-    "eventSponsor": "Tony Nguyen Photography",
-    "locationOnCapitolGrounds": "Area 34",
-    "startDateTime": "12/18/2023 10:00 AM",
-    "setUpDateTime": "12/18/2023 9:30 AM",
-    "endDateTime": "12/18/2023 11:30 AM",
-    "participants": 2,
-    "details": "Video footage of current state of Firefighter's memorial prior to rennovation."
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10457",
+    "eventSponsor": "Vigil for Gaza",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "12/25/2023 2:00 PM",
+    "setUpDateTime": "12/25/2023 1:30 PM",
+    "endDateTime": "12/25/2023 4:30 PM",
+    "participants": 100,
+    "details": "Vigil in solidarity with our sister city, Bethlehem, for the children and people in Gaza living under siege and bombardment."
   },
   {
     "status": "pending",
