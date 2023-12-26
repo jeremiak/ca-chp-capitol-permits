@@ -3829,6 +3829,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-1",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9759",
+    "eventSponsor": "Dyer Wedding",
+    "locationOnCapitolGrounds": "West Side, Area 27, Area 34",
+    "startDateTime": "2/24/2024 1:30 PM",
+    "setUpDateTime": "2/24/2024 1:00 PM",
+    "endDateTime": "2/24/2024 3:00 PM",
+    "participants": 15,
+    "details": "Dyer wedding ceremony, only going to be people on the capital steps for about 15 minutes then photos around the grounds. No rentals, noise over a voice, and will not be there long for the intimate ceremony. Photos will be taken around the grounds for no longer than an hour."
+  },
+  {
+    "status": "approved",
     "number": "2024-104",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10381",
     "eventSponsor": "Families Rally for Care and Housing for SMI",
@@ -3972,6 +3984,30 @@
     "details": "We are requesting for the red sand to be on the cracks of the west wing of the Capitol building for no more than 4 days. We will have 1 or 2 A-frames to describe the project near the sand for people to read on the initiative."
   },
   {
+    "status": "pending",
+    "number": "2024-163",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10459",
+    "eventSponsor": "Maxx Zahir ",
+    "locationOnCapitolGrounds": "West Side, Area 1, Area 5, Area 22, Area 27, Area 33, Area 34",
+    "startDateTime": "1/26/2024 6:00 AM",
+    "setUpDateTime": "1/26/2024 6:00 AM",
+    "endDateTime": "1/28/2024 5:00 PM",
+    "participants": 50,
+    "details": "Peacefull demonstration  due to sharp rise in homeless and mental dysfunctional population"
+  },
+  {
+    "status": "approved",
+    "number": "2024-53",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10257",
+    "eventSponsor": "Engagement Picnic",
+    "locationOnCapitolGrounds": "Area 33",
+    "startDateTime": "2/24/2024 2:00 PM",
+    "setUpDateTime": "2/24/2024 12:45 PM",
+    "endDateTime": "2/24/2024 5:00 PM",
+    "participants": 20,
+    "details": "We are hoping to gather to celebrate our engagement with a group of friends in Capitol Park for a picnic."
+  },
+  {
     "status": "approved",
     "number": "2024-55",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10262",
@@ -3994,6 +4030,30 @@
     "endDateTime": "1/24/2024 9:45 PM",
     "participants": 200,
     "details": "Rally in support of Ukraine"
+  },
+  {
+    "status": "approved",
+    "number": "2024-66",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10297",
+    "eventSponsor": "Rally in Support of Ukraine  Sunflower Society",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "2/24/2024 4:00 PM",
+    "setUpDateTime": "2/24/2024 10:00 AM",
+    "endDateTime": "2/24/2024 9:45 PM",
+    "participants": 1000,
+    "details": "Sacramento community will meet to hold a rally marking 2 years since Russia's unprovoked invasion of Ukraine"
+  },
+  {
+    "status": "approved",
+    "number": "2024-85",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10343",
+    "eventSponsor": "Scouts BSA Troop 50G",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "2/25/2024 1:30 PM",
+    "setUpDateTime": "2/25/2024 12:30 PM",
+    "endDateTime": "2/25/2024 3:30 PM",
+    "participants": 100,
+    "details": "Eagle Court of Honor"
   },
   {
     "status": "approved",
