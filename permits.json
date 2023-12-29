@@ -3794,14 +3794,14 @@
   {
     "status": "approved",
     "number": "2023-939",
-    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10438",
-    "eventSponsor": "CA Assembly Republican Caucus",
-    "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "1/3/2024 12:15 PM",
-    "setUpDateTime": "1/3/2024 12:00 PM",
-    "endDateTime": "1/3/2024 1:30 PM",
-    "participants": 30,
-    "details": "Press Conference."
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10442",
+    "eventSponsor": "California Association, FFA",
+    "locationOnCapitolGrounds": "Area 34",
+    "startDateTime": "2/28/2024 8:00 PM",
+    "setUpDateTime": "2/28/2024 8:00 PM",
+    "endDateTime": "2/28/2024 9:30 PM",
+    "participants": 80,
+    "details": "Nighttime reflection Day 2 of the Sacramento Leadership Conference for senior high school agriculture education students."
   },
   {
     "status": "approved",
@@ -3948,7 +3948,7 @@
     "details": "2024 AICCU Day in the Capitol. This will be on the Southwest Side closer toward N Street.  The event brings students and institutional staff from various Independent California colleges and universities (ICCUs) to Sacramento to advocate for the continued investment of the Cal Grant Program. This event will feature an open mic ceremony with student and other guest speakers. Students will take a photo op in with the Capitol as a backdrop. Then the entire delegation will proceed to the Swing Space to their scheduled legislative visits."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-147",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10441",
     "eventSponsor": "Tiny Village Spirit",
@@ -4066,6 +4066,18 @@
     "endDateTime": "1/13/2024 2:30 PM",
     "participants": 12,
     "details": "This is an special day for us and my daughter would love to be able to take her Quinceañera photos inside the capital just like I did back 1995. We're only going to take some pictures inside. They're 12 people total"
+  },
+  {
+    "status": "approved",
+    "number": "2024-167",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10463",
+    "eventSponsor": "LCLAA Sacramento Chapter",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "2/3/2024 12:00 PM",
+    "setUpDateTime": "2/3/2024 10:00 AM",
+    "endDateTime": "2/3/2024 4:00 PM",
+    "participants": 200,
+    "details": "ANTIWAR RALLY"
   },
   {
     "status": "approved",
