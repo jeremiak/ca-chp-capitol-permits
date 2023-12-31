@@ -4081,6 +4081,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-168",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10464",
+    "eventSponsor": "Baby Jesus Under Rubble",
+    "locationOnCapitolGrounds": "Art Installation",
+    "startDateTime": "1/2/2024 7:00 AM",
+    "setUpDateTime": "1/2/2024 7:00 AM",
+    "endDateTime": "1/9/2024 7:00 PM",
+    "participants": 0,
+    "details": "A temporary art installation which recreates the nativity sets of churches in Bethlehem, Sacramento's sister city.  This static display will be on the south elevated flower bed just west of the security pavilion."
+  },
+  {
+    "status": "approved",
     "number": "2024-52",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10255",
     "eventSponsor": "Aviation Day",
