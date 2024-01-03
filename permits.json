@@ -3961,6 +3961,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-152",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10446",
+    "eventSponsor": "California Poor Peoples Campaign",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "3/2/2024 12:00 PM",
+    "setUpDateTime": "3/2/2024 7:00 AM",
+    "endDateTime": "3/2/2024 3:30 PM",
+    "participants": 350,
+    "details": "Rally to promote voting"
+  },
+  {
+    "status": "approved",
     "number": "2024-155",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10449",
     "eventSponsor": "Office of Assemblymember Carlos Villapudua",
@@ -4056,16 +4068,16 @@
     "details": "Demonstration highlighting the sharp rise in homeless and mentally dysfunctional population."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-166",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10462",
     "eventSponsor": "Quinceañera photos ",
-    "locationOnCapitolGrounds": "West Side, Other",
-    "startDateTime": "1/13/2024 2:30 PM",
-    "setUpDateTime": "1/13/2024 1:15 PM",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "1/13/2024 1:00 PM",
+    "setUpDateTime": "1/13/2024 1:00 PM",
     "endDateTime": "1/13/2024 2:30 PM",
     "participants": 12,
-    "details": "This is an special day for us and my daughter would love to be able to take her Quinceañera photos inside the capital just like I did back 1995. We're only going to take some pictures inside. They're 12 people total"
+    "details": "This is an special day for us and my daughter Quinceañera photos. We're only going to take some pictures. They're 12 people total"
   },
   {
     "status": "approved",
@@ -4100,11 +4112,11 @@
     "startDateTime": "1/3/2024 2:30 PM",
     "setUpDateTime": "1/3/2024 2:30 PM",
     "endDateTime": "1/3/2024 6:00 PM",
-    "participants": 100,
+    "participants": 250,
     "details": "Gathering for families to honor the lives of children lost in Gaza conflict.  This will be in the World Peace Rose Garden and along the L Street side."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-170",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10466",
     "eventSponsor": "Californians Against Proposition 1 ",
@@ -4116,7 +4128,7 @@
     "details": "CAP 1 will be protesting Prop 1 and why we will have speakers and art"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-171",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10467",
     "eventSponsor": "Steve Wedding",
@@ -4126,6 +4138,18 @@
     "endDateTime": "1/29/2024 4:00 PM",
     "participants": 10,
     "details": "Small Wedding Ceremony, West Side of the Capitol."
+  },
+  {
+    "status": "approved",
+    "number": "2024-173",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10469",
+    "eventSponsor": "Wedding",
+    "locationOnCapitolGrounds": "Area 22, Area 33",
+    "startDateTime": "3/1/2024 3:00 PM",
+    "setUpDateTime": "3/1/2024 3:00 PM",
+    "endDateTime": "3/1/2024 5:00 PM",
+    "participants": 25,
+    "details": "Marriage ceremony"
   },
   {
     "status": "approved",
