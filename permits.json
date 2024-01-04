@@ -3488,7 +3488,7 @@
     "startDateTime": "1/9/2024 10:00 AM",
     "setUpDateTime": "1/9/2024 9:00 AM",
     "endDateTime": "1/9/2024 1:00 PM",
-    "participants": 70,
+    "participants": 100,
     "details": "Press Conference - Discuss California Budget Priorities"
   },
   {
@@ -4150,6 +4150,42 @@
     "endDateTime": "3/1/2024 5:00 PM",
     "participants": 25,
     "details": "Marriage ceremony"
+  },
+  {
+    "status": "pending",
+    "number": "2024-177",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10473",
+    "eventSponsor": "Anniversary Celebration of the State Capitol World Peace Rose Garden",
+    "locationOnCapitolGrounds": "Area 5",
+    "startDateTime": "2/3/2024 4:00 AM",
+    "setUpDateTime": "2/3/2024 4:00 AM",
+    "endDateTime": "2/3/2024 4:00 AM",
+    "participants": 200,
+    "details": "The celebration is to promote peace in our community. It will consists of multicultural performances, interfaith ceremony, Qualities of Peace activity with youth, guest speakers, and a rose petal toss"
+  },
+  {
+    "status": "pending",
+    "number": "2024-178",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10474",
+    "eventSponsor": "Rajan and Keith wedding",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "1/6/2024 3:00 PM",
+    "setUpDateTime": "1/6/2024 9:00 AM",
+    "endDateTime": "1/6/2024 5:00 PM",
+    "participants": 80,
+    "details": "a wedding with 80 people"
+  },
+  {
+    "status": "approved",
+    "number": "2024-25",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10030",
+    "eventSponsor": "Pray for Change ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "3/3/2024 10:00 AM",
+    "setUpDateTime": "3/3/2024 7:00 AM",
+    "endDateTime": "3/3/2024 2:00 PM",
+    "participants": 300,
+    "details": "Prayer rally at the State Capitol."
   },
   {
     "status": "approved",
