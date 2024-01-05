@@ -3488,7 +3488,7 @@
     "startDateTime": "1/9/2024 10:00 AM",
     "setUpDateTime": "1/9/2024 9:00 AM",
     "endDateTime": "1/9/2024 1:00 PM",
-    "participants": 100,
+    "participants": 175,
     "details": "Press Conference - Discuss California Budget Priorities"
   },
   {
@@ -4143,8 +4143,8 @@
     "status": "approved",
     "number": "2024-173",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10469",
-    "eventSponsor": "Wedding",
-    "locationOnCapitolGrounds": "Area 22, Area 33",
+    "eventSponsor": "Oseguera Wedding",
+    "locationOnCapitolGrounds": "Area 5, Area 22, Area 33",
     "startDateTime": "3/1/2024 3:00 PM",
     "setUpDateTime": "3/1/2024 3:00 PM",
     "endDateTime": "3/1/2024 5:00 PM",
@@ -4174,6 +4174,42 @@
     "endDateTime": "1/6/2024 5:00 PM",
     "participants": 80,
     "details": "a wedding with 80 people"
+  },
+  {
+    "status": "approved",
+    "number": "2024-180",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10476",
+    "eventSponsor": "Strategy 6",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "1/6/2024 4:00 PM",
+    "setUpDateTime": "1/6/2024 3:45 PM",
+    "endDateTime": "1/6/2024 6:00 PM",
+    "participants": 50,
+    "details": "Action, rally in support of political prisoners and against the war with Ukraine."
+  },
+  {
+    "status": "approved",
+    "number": "2024-181",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10477",
+    "eventSponsor": "CA Contract Cities Retail Theft Conference",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "1/9/2024 8:00 AM",
+    "setUpDateTime": "1/9/2024 7:30 AM",
+    "endDateTime": "1/9/2024 9:00 AM",
+    "participants": 125,
+    "details": "Press Conference to highlight the issues of retail crime in California."
+  },
+  {
+    "status": "pending",
+    "number": "2024-183",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10479",
+    "eventSponsor": "Smart Solutions Press Conference",
+    "locationOnCapitolGrounds": "Area 27",
+    "startDateTime": "1/9/2024 8:00 AM",
+    "setUpDateTime": "1/9/2024 7:30 AM",
+    "endDateTime": "1/9/2024 9:15 AM",
+    "participants": 50,
+    "details": "Press conference calling on lawmakers to pass smart solutions to public safety."
   },
   {
     "status": "approved",
@@ -4258,6 +4294,18 @@
     "endDateTime": "2/25/2024 3:30 PM",
     "participants": 100,
     "details": "Eagle Court of Honor"
+  },
+  {
+    "status": "approved",
+    "number": "2024-86",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10344",
+    "eventSponsor": "Moms Demand Action for Gun Sense in America",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "3/4/2024 10:00 AM",
+    "setUpDateTime": "3/4/2024 9:45 AM",
+    "endDateTime": "3/4/2024 12:00 PM",
+    "participants": 300,
+    "details": "Moms Demand Action Advocacy Day"
   },
   {
     "status": "approved",
