@@ -4212,6 +4212,18 @@
     "details": "Press conference calling on lawmakers to pass smart solutions to public safety."
   },
   {
+    "status": "pending",
+    "number": "2024-185",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10481",
+    "eventSponsor": "Sacramento Regional Coalition for Palestinian Rights",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "1/13/2024 1:00 PM",
+    "setUpDateTime": "1/13/2024 12:30 PM",
+    "endDateTime": "1/13/2024 4:30 PM",
+    "participants": 500,
+    "details": "Rally Calling for a Ceasefire and an end to the Genocide in Gaza"
+  },
+  {
     "status": "approved",
     "number": "2024-25",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10030",
@@ -4330,6 +4342,18 @@
     "endDateTime": "1/19/2024 12:30 PM",
     "participants": 100,
     "details": "NP3E field trip to the Capitol originally scheduled on 11-17-23 now rescheduled to 1-19-24"
+  },
+  {
+    "status": "approved",
+    "number": "2024-89",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10352",
+    "eventSponsor": "Securing Students Futures",
+    "locationOnCapitolGrounds": "AFT 1521",
+    "startDateTime": "3/7/2024 2:30 PM",
+    "setUpDateTime": "3/7/2024 6:00 AM",
+    "endDateTime": "3/7/2024 7:45 PM",
+    "participants": 2000,
+    "details": "Rally by education unions and students regarding issues affecting public education in California"
   },
   {
     "status": "approved",
