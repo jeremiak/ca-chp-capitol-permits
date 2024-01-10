@@ -4265,11 +4265,35 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10486",
     "eventSponsor": "The Ukraine's War anniversary event",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "2/23/2024 6:00 PM",
-    "setUpDateTime": "2/22/2024 1:00 PM",
-    "endDateTime": "2/23/2024 6:00 PM",
+    "startDateTime": "2/23/2024 5:00 PM",
+    "setUpDateTime": "2/22/2024 8:00 AM",
+    "endDateTime": "2/23/2024 10:00 PM",
     "participants": 1000,
     "details": "We are planning to organise a concert on February 23, to remember the War in Ukraine. We want to invite some famous Ukrainian singers and American politicians."
+  },
+  {
+    "status": "pending",
+    "number": "2024-193",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10489",
+    "eventSponsor": "ALS Association CEO SOAK",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "1/12/2024 8:00 AM",
+    "setUpDateTime": "1/12/2024 8:00 AM",
+    "endDateTime": "1/12/2024 12:00 PM",
+    "participants": 75,
+    "details": "ALS Association event where we are honoring those impacted by ALS."
+  },
+  {
+    "status": "pending",
+    "number": "2024-194",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10490",
+    "eventSponsor": "New California State",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "1/15/2024 11:00 AM",
+    "setUpDateTime": "1/15/2024 10:30 AM",
+    "endDateTime": "1/15/2024 12:30 PM",
+    "participants": 100,
+    "details": "Speakers supporting state"
   },
   {
     "status": "approved",
@@ -4354,6 +4378,18 @@
     "endDateTime": "3/6/2024 6:00 PM",
     "participants": 300,
     "details": "Annual Hydrogen Village event to showcase hydrogen electric vehicles both, light, medium, heavy-duty, along with trailers, forklifts and banner displays."
+  },
+  {
+    "status": "approved",
+    "number": "2024-82",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10329",
+    "eventSponsor": "City of Trees Parade and Mardi Gras Festival",
+    "locationOnCapitolGrounds": "West Side, Traffic Circle",
+    "startDateTime": "3/9/2024 10:00 AM",
+    "setUpDateTime": "3/9/2024 10:00 AM",
+    "endDateTime": "3/9/2024 6:00 PM",
+    "participants": 1000,
+    "details": "The City of Trees Parade is a spectacular showcase celebrating Sacramento's art, music, and culture. Approximately 1,000 paraders will stage on 10th street and on the grassy areas of the Capitol West Steps before we roll down Capitol Mall into old Sacramento. A couple of large vehicles will remain on 10th Street to break down over night."
   },
   {
     "status": "approved",
