@@ -4212,7 +4212,7 @@
     "details": "Press conference calling on lawmakers to pass smart solutions to public safety."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-185",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10481",
     "eventSponsor": "Sacramento Regional Coalition for Palestinian Rights",
@@ -4224,14 +4224,14 @@
     "details": "Rally Calling for a Ceasefire and an end to the Genocide in Gaza"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-186",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10482",
     "eventSponsor": "Truckers Against Trafficking Event",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "1/11/2024 8:30 AM",
-    "setUpDateTime": "1/11/2024 7:45 AM",
-    "endDateTime": "1/11/2024 12:30 PM",
+    "startDateTime": "1/25/2024 7:45 AM",
+    "setUpDateTime": "1/25/2024 7:45 AM",
+    "endDateTime": "1/25/2024 12:00 PM",
     "participants": 30,
     "details": "January is Human Trafficking Awareness Month and California Trucking Association Member will bring their truck with a wrap promoting the Truckers Against Truck Trafficking Campaign followed by a brief press conference."
   },
@@ -4248,11 +4248,11 @@
     "details": "Liturgy of the Word and distribution of ashes. Will pray and have song with Bishop Soto."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-189",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10485",
     "eventSponsor": "Video Shoot",
-    "locationOnCapitolGrounds": "Area 27",
+    "locationOnCapitolGrounds": "West Side",
     "startDateTime": "1/11/2024 9:00 AM",
     "setUpDateTime": "1/11/2024 8:00 AM",
     "endDateTime": "1/11/2024 12:00 PM",
