@@ -3889,6 +3889,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-118",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10399",
+    "eventSponsor": "UC Student Association Lobby Conference",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "3/11/2024 10:00 AM",
+    "setUpDateTime": "3/11/2024 8:00 AM",
+    "endDateTime": "3/11/2024 3:00 PM",
+    "participants": 300,
+    "details": "This will be a rally and educational event where students from across the UC system will gather  during their annual Student Lobby Conference."
+  },
+  {
+    "status": "approved",
     "number": "2024-119",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10401",
     "eventSponsor": "24th Annual Rosa Parks Day",
@@ -4284,7 +4296,7 @@
     "details": "ALS Association event where we are honoring those impacted by ALS."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-194",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10490",
     "eventSponsor": "New California State",
@@ -4292,8 +4304,44 @@
     "startDateTime": "1/15/2024 11:00 AM",
     "setUpDateTime": "1/15/2024 10:30 AM",
     "endDateTime": "1/15/2024 12:30 PM",
-    "participants": 100,
+    "participants": 50,
     "details": "Speakers supporting state"
+  },
+  {
+    "status": "pending",
+    "number": "2024-201",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10497",
+    "eventSponsor": "CDPH Video Shoot",
+    "locationOnCapitolGrounds": "Picturelab",
+    "startDateTime": "1/24/2024 10:00 AM",
+    "setUpDateTime": "1/24/2024 8:00 AM",
+    "endDateTime": "1/24/2024 6:00 PM",
+    "participants": 10,
+    "details": "Video shoot for California Department of Public Health.  Small crew and setup."
+  },
+  {
+    "status": "pending",
+    "number": "2024-202",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10498",
+    "eventSponsor": "California Orthotic and Prosthetic Association",
+    "locationOnCapitolGrounds": "Area 22, Area 34",
+    "startDateTime": "1/14/2024 10:00 AM",
+    "setUpDateTime": "1/14/2024 8:00 AM",
+    "endDateTime": "1/14/2024 2:00 PM",
+    "participants": 100,
+    "details": "Rally of amputees and orthotic and prosthetic providers in support of increased funding for Medi-Cal rates in the State Budget. Media will be invited."
+  },
+  {
+    "status": "pending",
+    "number": "2024-203",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10499",
+    "eventSponsor": "Association of CA State Supervisors",
+    "locationOnCapitolGrounds": "West Side, Area 27",
+    "startDateTime": "1/14/2024 9:00 AM",
+    "setUpDateTime": "1/14/2024 8:45 AM",
+    "endDateTime": "1/14/2024 9:45 AM",
+    "participants": 50,
+    "details": "West side of Capitol for group photo"
   },
   {
     "status": "approved",
