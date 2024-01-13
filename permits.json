@@ -4021,6 +4021,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-16",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9948",
+    "eventSponsor": "Head Start California",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "3/12/2024 8:00 AM",
+    "setUpDateTime": "3/12/2024 6:00 AM",
+    "endDateTime": "3/12/2024 3:30 PM",
+    "participants": 200,
+    "details": "This our 3rd annual advocacy day. We will gather to have a rally about Head Start."
+  },
+  {
+    "status": "approved",
     "number": "2024-161",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10455",
     "eventSponsor": "Legislation Announcement",
@@ -4308,7 +4320,7 @@
     "details": "Speakers supporting state"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-201",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10497",
     "eventSponsor": "CDPH Video Shoot",
@@ -4345,6 +4357,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-206",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10502",
+    "eventSponsor": "Press Conference on legislation",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "1/17/2024 11:00 AM",
+    "setUpDateTime": "1/17/2024 10:45 AM",
+    "endDateTime": "1/17/2024 11:45 AM",
+    "participants": 20,
+    "details": "Press Conference on legislation"
+  },
+  {
+    "status": "approved",
     "number": "2024-25",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10030",
     "eventSponsor": "Pray for Change ",
@@ -4354,6 +4378,18 @@
     "endDateTime": "3/3/2024 2:00 PM",
     "participants": 300,
     "details": "Prayer rally at the State Capitol."
+  },
+  {
+    "status": "approved",
+    "number": "2024-26",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10043",
+    "eventSponsor": "CalSAC Afterschool and Summer Challenge",
+    "locationOnCapitolGrounds": "Area 27, Area 33, Area 34",
+    "startDateTime": "3/12/2024 10:00 AM",
+    "setUpDateTime": "3/12/2024 7:30 AM",
+    "endDateTime": "3/12/2024 5:00 PM",
+    "participants": 300,
+    "details": "Rally and gathering for afterschool and school-age child care professionals, youth and families. The evenet will include live music, performances and musical instruments form a youth marching band that will perform. There will also be short speeches from a variety of speakers before participants begin legislative visits with their elective representatives from 1p.m. - 5p.m."
   },
   {
     "status": "approved",
@@ -4390,6 +4426,18 @@
     "endDateTime": "2/6/2024 4:00 PM",
     "participants": 50,
     "details": "Blood drive by Vitalant"
+  },
+  {
+    "status": "approved",
+    "number": "2024-6",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9897",
+    "eventSponsor": "California Craft Brewers Association",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "3/12/2024 12:00 PM",
+    "setUpDateTime": "3/12/2024 8:00 AM",
+    "endDateTime": "3/12/2024 3:00 PM",
+    "participants": 150,
+    "details": "CCBA hosting a Legislative Reception"
   },
   {
     "status": "approved",
