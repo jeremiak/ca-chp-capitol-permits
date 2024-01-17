@@ -4320,7 +4320,7 @@
     "details": "Speakers supporting state"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-195",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10491",
     "eventSponsor": "Utility Workers Are First Responders",
@@ -4380,6 +4380,18 @@
     "details": "Press Conference on legislation"
   },
   {
+    "status": "pending",
+    "number": "2024-211",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10507",
+    "eventSponsor": "Christian Life College Graduating Photos ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "2/3/2024 9:00 AM",
+    "setUpDateTime": "2/3/2024 9:00 AM",
+    "endDateTime": "2/3/2024 2:30 PM",
+    "participants": 50,
+    "details": "Senior photos for the 2024 graduating class from Christian Life College. No food, beverages, or extra items will be used other than a camera."
+  },
+  {
     "status": "approved",
     "number": "2024-25",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10030",
@@ -4396,7 +4408,7 @@
     "number": "2024-26",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10043",
     "eventSponsor": "CalSAC Afterschool and Summer Challenge",
-    "locationOnCapitolGrounds": "Area 27, Area 33, Area 34",
+    "locationOnCapitolGrounds": "Area 27, Area 34",
     "startDateTime": "3/12/2024 10:00 AM",
     "setUpDateTime": "3/12/2024 7:30 AM",
     "endDateTime": "3/12/2024 5:00 PM",
