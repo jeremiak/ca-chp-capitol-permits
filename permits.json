@@ -3943,8 +3943,8 @@
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "1/21/2024 1:00 PM",
     "setUpDateTime": "1/21/2024 12:00 PM",
-    "endDateTime": "1/21/2024 5:00 PM",
-    "participants": 500,
+    "endDateTime": "1/21/2024 4:00 PM",
+    "participants": 200,
     "details": "Solidarity Rally in support of Navalny and all political prisoners in Russia."
   },
   {
@@ -4200,6 +4200,18 @@
     "details": "a wedding with 80 people"
   },
   {
+    "status": "pending",
+    "number": "2024-18",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9954",
+    "eventSponsor": "Youth Quest",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "3/18/2024 1:00 PM",
+    "setUpDateTime": "3/18/2024 11:00 AM",
+    "endDateTime": "3/18/2024 2:30 PM",
+    "participants": 505,
+    "details": "Annual youth-led march, press conference, and visit with legislative office staff members to highlight tobacco control activities in California."
+  },
+  {
     "status": "approved",
     "number": "2024-180",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10476",
@@ -4392,28 +4404,88 @@
     "details": "Senior photos for the 2024 graduating class from Christian Life College. No food, beverages, or extra items will be used other than a camera."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-216",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10512",
     "eventSponsor": "XSIGHT Productions",
-    "locationOnCapitolGrounds": "Area 1, Area 27, Area 34, Other",
+    "locationOnCapitolGrounds": "West Side, Area 1, Area 27, Area 34",
     "startDateTime": "2/5/2024 11:00 AM",
     "setUpDateTime": "2/5/2024 10:45 AM",
     "endDateTime": "2/5/2024 12:00 PM",
     "participants": 10,
-    "details": "We are a Production Company, and we are looking to film B-Roll of the Wilton Rancheria Tribe Leaders outside of the Capitol on the West Steps (walking around and looking at building), then B-roll by the William J. Franklin Sr. statue, B-roll of the Oak Tree planted in the garden area, B-roll of the grinding rock in area 27, then footage of the California Indian Seal on the located by XXXX. It will be a small team filming and directing one or two tribal members around as we film B-roll of them for a tribe video."
+    "details": "We are a Production Company, and we are looking to film B-Roll of the Wilton Rancheria Tribe Leaders outside of the Capitol on the West Steps (walking around and looking at building), then B-roll by the William J. Franklin Sr. statue, B-roll of the Oak Tree planted in the garden area, B-roll of the grinding rock in area 27, then footage of the California Indian Seal on the located on the West Steps. It will be a small team filming and directing one or two tribal members around as we film B-roll of them for a tribe video."
   },
   {
     "status": "pending",
     "number": "2024-220",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10516",
     "eventSponsor": "Assembly Republican Caucus",
-    "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "1/24/2024 11:45 AM",
-    "setUpDateTime": "1/24/2024 8:45 AM",
-    "endDateTime": "1/24/2024 11:45 AM",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "1/23/2024 9:30 AM",
+    "setUpDateTime": "1/23/2024 8:30 AM",
+    "endDateTime": "1/23/2024 10:30 AM",
     "participants": 20,
     "details": "Assembly Republicans Presser"
+  },
+  {
+    "status": "pending",
+    "number": "2024-221",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10517",
+    "eventSponsor": "Sharing Parents",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "2/29/2024 4:00 AM",
+    "setUpDateTime": "2/29/2024 4:00 AM",
+    "endDateTime": "2/29/2024 4:00 AM",
+    "participants": 150,
+    "details": "annual October Memorial for pregnancy and infant loss"
+  },
+  {
+    "status": "approved",
+    "number": "2024-222",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10518",
+    "eventSponsor": "Area Hold",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "2/5/2024 8:00 AM",
+    "setUpDateTime": "2/5/2024 8:00 AM",
+    "endDateTime": "2/5/2024 7:00 PM",
+    "participants": 7,
+    "details": "Due to Rotunda Usage will hold area from booking events."
+  },
+  {
+    "status": "pending",
+    "number": "2024-223",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10519",
+    "eventSponsor": "Catholic Youth Advocacy Day-California Catholic Conference",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "3/13/2024 11:30 AM",
+    "setUpDateTime": "3/13/2024 11:00 AM",
+    "endDateTime": "3/13/2024 1:30 PM",
+    "participants": 50,
+    "details": "Catholic Schools Youth Advocacy Day. Students will lobby legislature and then gather for box lunches at Capitol. Photo Ops in front of Capitol."
+  },
+  {
+    "status": "pending",
+    "number": "2024-224",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10520",
+    "eventSponsor": "California Fire Foundation",
+    "locationOnCapitolGrounds": "Area 34",
+    "startDateTime": "1/22/2024 12:00 PM",
+    "setUpDateTime": "1/22/2024 12:00 PM",
+    "endDateTime": "1/22/2024 3:00 PM",
+    "participants": 6,
+    "details": "Review of Hardscape materials for the expansion of the firefighters memorial"
+  },
+  {
+    "status": "pending",
+    "number": "2024-225",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10521",
+    "eventSponsor": "California Fire Foundation",
+    "locationOnCapitolGrounds": "Area 34",
+    "startDateTime": "2/13/2024 10:00 AM",
+    "setUpDateTime": "2/13/2024 8:00 AM",
+    "endDateTime": "2/13/2024 1:00 PM",
+    "participants": 24,
+    "details": "The the board and staff from the California Fire Foundation will be reviewing a detailed plan for the expansion of the memorial. We will be on site with multiple maps and construction drawings."
   },
   {
     "status": "approved",
@@ -4440,7 +4512,7 @@
     "details": "Rally and gathering for afterschool and school-age child care professionals, youth and families. The evenet will include live music, performances and musical instruments form a youth marching band that will perform. There will also be short speeches from a variety of speakers before participants begin legislative visits with their elective representatives from 1p.m. - 5p.m."
   },
   {
-    "status": "approved",
+    "status": "pending",
     "number": "2024-52",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10255",
     "eventSponsor": "Aviation Day",
@@ -4474,6 +4546,18 @@
     "endDateTime": "2/6/2024 4:00 PM",
     "participants": 50,
     "details": "Blood drive by Vitalant"
+  },
+  {
+    "status": "approved",
+    "number": "2024-58",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10279",
+    "eventSponsor": "California Agricultural Day",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "3/19/2024 8:00 AM",
+    "setUpDateTime": "3/18/2024 2:30 PM",
+    "endDateTime": "3/19/2024 8:00 PM",
+    "participants": 500,
+    "details": "The Capitol grounds will come alive showcasing California's agricultural bounty. California farmers and ranchers will highlight all the great food, fiber and products they produce."
   },
   {
     "status": "approved",
