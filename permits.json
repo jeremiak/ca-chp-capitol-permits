@@ -1776,16 +1776,16 @@
     "details": "Outreach table and cooling station where we will distribute informational flyers, cold water bottles, and snacks. Music on a small bluetooth speaker will be played."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-769",
-    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10165",
-    "eventSponsor": "Akens Wedding Vow Renewal",
-    "locationOnCapitolGrounds": "Area 5, Area 22, Area 27, Area 33",
-    "startDateTime": "8/11/2023 2:30 PM",
-    "setUpDateTime": "8/11/2023 12:00 PM",
-    "endDateTime": "8/11/2023 4:00 PM",
-    "participants": 130,
-    "details": "Wedding Vow Renewal"
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10164",
+    "eventSponsor": "AFSP California State Capitol Day",
+    "locationOnCapitolGrounds": "West Side, Traffic Circle",
+    "startDateTime": "3/19/2024 9:00 AM",
+    "setUpDateTime": "3/19/2024 7:00 AM",
+    "endDateTime": "3/19/2024 11:30 AM",
+    "participants": 50,
+    "details": "Either a press or media opportunity, or a visual display.  This will be on the traffic circle or if there is space on the West."
   },
   {
     "status": "approved",
@@ -4236,6 +4236,18 @@
     "details": "Press Conference to highlight the issues of retail crime in California."
   },
   {
+    "status": "pending",
+    "number": "2024-182",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10478",
+    "eventSponsor": "Capitol Ag Day Photo",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "3/19/2024 1:00 PM",
+    "setUpDateTime": "3/19/2024 1:00 PM",
+    "endDateTime": "3/19/2024 2:30 PM",
+    "participants": 250,
+    "details": "California Farm Bureau's Capital Ag Day is a gathering of Farm Bureau members from across the state. We would gather on the steps for a photo only at 1.45 pm."
+  },
+  {
     "status": "approved",
     "number": "2024-183",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10479",
@@ -4416,7 +4428,7 @@
     "details": "We are a Production Company, and we are looking to film B-Roll of the Wilton Rancheria Tribe Leaders outside of the Capitol on the West Steps (walking around and looking at building), then B-roll by the William J. Franklin Sr. statue, B-roll of the Oak Tree planted in the garden area, B-roll of the grinding rock in area 27, then footage of the California Indian Seal on the located on the West Steps. It will be a small team filming and directing one or two tribal members around as we film B-roll of them for a tribe video."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-220",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10516",
     "eventSponsor": "Assembly Republican Caucus",
@@ -4424,8 +4436,8 @@
     "startDateTime": "1/23/2024 9:30 AM",
     "setUpDateTime": "1/23/2024 8:30 AM",
     "endDateTime": "1/23/2024 10:30 AM",
-    "participants": 20,
-    "details": "Assembly Republicans Presser"
+    "participants": 28,
+    "details": "Assembly Republicans Presser at the Department of Labor- 800 Capitol Mall."
   },
   {
     "status": "pending",
@@ -4464,7 +4476,7 @@
     "details": "Catholic Schools Youth Advocacy Day. Students will lobby legislature and then gather for box lunches at Capitol. Photo Ops in front of Capitol."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-224",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10520",
     "eventSponsor": "California Fire Foundation",
@@ -4476,7 +4488,7 @@
     "details": "Review of Hardscape materials for the expansion of the firefighters memorial"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-225",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10521",
     "eventSponsor": "California Fire Foundation",
@@ -4486,6 +4498,78 @@
     "endDateTime": "2/13/2024 1:00 PM",
     "participants": 24,
     "details": "The the board and staff from the California Fire Foundation will be reviewing a detailed plan for the expansion of the memorial. We will be on site with multiple maps and construction drawings."
+  },
+  {
+    "status": "pending",
+    "number": "2024-226",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10522",
+    "eventSponsor": "Protect Kids Ca",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "1/30/2024 8:00 AM",
+    "setUpDateTime": "1/30/2024 7:00 AM",
+    "endDateTime": "1/30/2024 12:00 PM",
+    "participants": 50,
+    "details": "Press Conference with Bill Essayli"
+  },
+  {
+    "status": "pending",
+    "number": "2024-227",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10523",
+    "eventSponsor": "Press Release",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "2/14/2024 10:30 AM",
+    "setUpDateTime": "2/14/2024 10:00 AM",
+    "endDateTime": "2/14/2024 12:30 PM",
+    "participants": 50,
+    "details": "Press release"
+  },
+  {
+    "status": "approved",
+    "number": "2024-229",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10525",
+    "eventSponsor": "Assembly Republican Presser",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "2/7/2024 9:00 AM",
+    "setUpDateTime": "2/7/2024 9:00 AM",
+    "endDateTime": "2/7/2024 10:00 AM",
+    "participants": 30,
+    "details": "Presser"
+  },
+  {
+    "status": "pending",
+    "number": "2024-231",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10527",
+    "eventSponsor": "Assemblymember Freddie Rodriguez- Legislation",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "1/29/2024 12:15 PM",
+    "setUpDateTime": "1/29/2024 11:15 AM",
+    "endDateTime": "1/29/2024 1:00 PM",
+    "participants": 30,
+    "details": "Press conference in support of legislation."
+  },
+  {
+    "status": "pending",
+    "number": "2024-232",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10528",
+    "eventSponsor": "Detrans Awareness day",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "3/14/2024 9:30 AM",
+    "setUpDateTime": "3/14/2024 8:00 AM",
+    "endDateTime": "3/14/2024 9:30 AM",
+    "participants": 100,
+    "details": "Rally for celebration of detransitioners"
+  },
+  {
+    "status": "pending",
+    "number": "2024-233",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10529",
+    "eventSponsor": "Center for anative American Youth",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "1/31/2024 4:00 AM",
+    "setUpDateTime": "1/31/2024 4:00 AM",
+    "endDateTime": "1/31/2024 4:00 AM",
+    "participants": 50,
+    "details": "This will be a chance for our current youth ambassadors to connect with local tribal communities and share collective cultural space. There will be a small nisenan dance group that will open up with a prayer."
   },
   {
     "status": "approved",
