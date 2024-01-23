@@ -4212,7 +4212,7 @@
     "details": "a wedding with 80 people"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-18",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9954",
     "eventSponsor": "Youth Quest",
@@ -4220,7 +4220,7 @@
     "startDateTime": "3/18/2024 1:00 PM",
     "setUpDateTime": "3/18/2024 11:00 AM",
     "endDateTime": "3/18/2024 2:30 PM",
-    "participants": 505,
+    "participants": 500,
     "details": "Annual youth-led march, press conference, and visit with legislative office staff members to highlight tobacco control activities in California."
   },
   {
@@ -4248,14 +4248,14 @@
     "details": "Press Conference to highlight the issues of retail crime in California."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-182",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10478",
     "eventSponsor": "Capitol Ag Day Photo",
-    "locationOnCapitolGrounds": "Other",
-    "startDateTime": "3/19/2024 1:00 PM",
-    "setUpDateTime": "3/19/2024 1:00 PM",
-    "endDateTime": "3/19/2024 2:30 PM",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "3/19/2024 1:45 PM",
+    "setUpDateTime": "3/19/2024 1:30 PM",
+    "endDateTime": "3/19/2024 2:45 PM",
     "participants": 250,
     "details": "California Farm Bureau's Capital Ag Day is a gathering of Farm Bureau members from across the state. We would gather on the steps for a photo only at 1.45 pm."
   },
@@ -4312,7 +4312,7 @@
     "number": "2024-188",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10484",
     "eventSponsor": "Ash Wednesday with Bishop Jaime Soto",
-    "locationOnCapitolGrounds": "West Side, Traffic Circle, Other",
+    "locationOnCapitolGrounds": "West Side",
     "startDateTime": "2/14/2024 8:30 AM",
     "setUpDateTime": "2/14/2024 7:30 AM",
     "endDateTime": "2/14/2024 10:00 AM",
@@ -4455,7 +4455,7 @@
     "status": "approved",
     "number": "2024-220",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10516",
-    "eventSponsor": "Assembly Republican Caucus",
+    "eventSponsor": "Assembly Republican Caucus- Department of Labor 800 Capitol Mall",
     "locationOnCapitolGrounds": "Other",
     "startDateTime": "1/23/2024 9:30 AM",
     "setUpDateTime": "1/23/2024 8:30 AM",
@@ -4488,16 +4488,16 @@
     "details": "Due to Rotunda Usage will hold area from booking events."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-223",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10519",
     "eventSponsor": "Catholic Youth Advocacy Day-California Catholic Conference",
-    "locationOnCapitolGrounds": "Other",
+    "locationOnCapitolGrounds": "West Side",
     "startDateTime": "3/13/2024 11:30 AM",
     "setUpDateTime": "3/13/2024 11:00 AM",
     "endDateTime": "3/13/2024 1:30 PM",
     "participants": 50,
-    "details": "Catholic Schools Youth Advocacy Day. Students will lobby legislature and then gather for box lunches at Capitol. Photo Ops in front of Capitol."
+    "details": "Catholic Schools Youth Advocacy Day. Students will lobby legislature and then gather for box lunches at Capitol. Photo Ops in front of Capitol.  This will be on the SOUTHWEST Side closer to 10th and N."
   },
   {
     "status": "approved",
@@ -4524,7 +4524,7 @@
     "details": "The the board and staff from the California Fire Foundation will be reviewing a detailed plan for the expansion of the memorial. We will be on site with multiple maps and construction drawings."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-226",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10522",
     "eventSponsor": "Protect Kids Ca",
@@ -4536,7 +4536,7 @@
     "details": "Press Conference with Bill Essayli"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-227",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10523",
     "eventSponsor": "Press Release",
@@ -4560,7 +4560,7 @@
     "details": "Presser"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-231",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10527",
     "eventSponsor": "Assemblymember Freddie Rodriguez- Legislation",
@@ -4572,7 +4572,7 @@
     "details": "Press conference in support of legislation."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-232",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10528",
     "eventSponsor": "Detrans Awareness day",
@@ -4584,16 +4584,28 @@
     "details": "Rally for celebration of detransitioners"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-233",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10529",
     "eventSponsor": "Center for anative American Youth",
-    "locationOnCapitolGrounds": "Other",
-    "startDateTime": "1/31/2024 4:00 AM",
-    "setUpDateTime": "1/31/2024 4:00 AM",
-    "endDateTime": "1/31/2024 4:00 AM",
+    "locationOnCapitolGrounds": "Area 22, Area 33",
+    "startDateTime": "1/30/2024 10:00 AM",
+    "setUpDateTime": "1/30/2024 9:30 AM",
+    "endDateTime": "1/30/2024 11:30 AM",
     "participants": 50,
     "details": "This will be a chance for our current youth ambassadors to connect with local tribal communities and share collective cultural space. There will be a small nisenan dance group that will open up with a prayer."
+  },
+  {
+    "status": "approved",
+    "number": "2024-235",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10531",
+    "eventSponsor": "Lincoln Law school group photo",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "2/24/2024 8:30 AM",
+    "setUpDateTime": "2/24/2024 8:00 AM",
+    "endDateTime": "2/24/2024 9:30 AM",
+    "participants": 40,
+    "details": "Yearly group photos of the Lincoln Law school"
   },
   {
     "status": "approved",
@@ -4620,7 +4632,7 @@
     "details": "Rally and gathering for afterschool and school-age child care professionals, youth and families. The evenet will include live music, performances and musical instruments form a youth marching band that will perform. There will also be short speeches from a variety of speakers before participants begin legislative visits with their elective representatives from 1p.m. - 5p.m."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-52",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10255",
     "eventSponsor": "Aviation Day",
