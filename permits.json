@@ -3846,8 +3846,8 @@
     "eventSponsor": "Families Rally for Care and Housing for SMI",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "1/31/2024 9:00 AM",
-    "setUpDateTime": "1/31/2024 8:45 AM",
-    "endDateTime": "1/31/2024 4:00 PM",
+    "setUpDateTime": "1/31/2024 8:30 AM",
+    "endDateTime": "1/31/2024 3:00 PM",
     "participants": 75,
     "details": "Families will Rally for Care and Housing for people living with Serious Mental Illness. Specifically we rally to prioritize the needs of individuals who have been left untreated and unhoused because their needs are so great. We support Prop 1 as an avenue to solve this care and housing disparity."
   },
@@ -4609,6 +4609,30 @@
   },
   {
     "status": "approved",
+    "number": "2024-238",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10534",
+    "eventSponsor": "La Cometa TV",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "1/25/2024 1:00 PM",
+    "setUpDateTime": "1/25/2024 1:00 PM",
+    "endDateTime": "1/25/2024 2:30 PM",
+    "participants": 3,
+    "details": "Capturing the life of a Spain born person now in California."
+  },
+  {
+    "status": "pending",
+    "number": "2024-241",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10537",
+    "eventSponsor": "Walden Vegliante Wedding",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "3/23/2024 10:00 AM",
+    "setUpDateTime": "3/30/2024 10:00 AM",
+    "endDateTime": "3/23/2024 12:00 PM",
+    "participants": 15,
+    "details": "Small wedding event"
+  },
+  {
+    "status": "approved",
     "number": "2024-25",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10030",
     "eventSponsor": "Pray for Change ",
@@ -4738,6 +4762,18 @@
     "endDateTime": "3/9/2024 6:00 PM",
     "participants": 1000,
     "details": "The City of Trees Parade is a spectacular showcase celebrating Sacramento's art, music, and culture. Approximately 1,000 paraders will stage on 10th street and on the grassy areas of the Capitol West Steps before we roll down Capitol Mall into old Sacramento. A couple of large vehicles will remain on 10th Street to break down over night."
+  },
+  {
+    "status": "approved",
+    "number": "2024-84",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10342",
+    "eventSponsor": "Hope Fest 2024",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "3/23/2024 11:00 AM",
+    "setUpDateTime": "3/23/2024 6:00 AM",
+    "endDateTime": "3/23/2024 9:00 PM",
+    "participants": 1500,
+    "details": "Community Event with entertainment and free resources for families."
   },
   {
     "status": "approved",
