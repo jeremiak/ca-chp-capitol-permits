@@ -4645,6 +4645,42 @@
   },
   {
     "status": "approved",
+    "number": "2024-244",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10540",
+    "eventSponsor": "Press Conference for Asm. Gipson",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "2/26/2024 12:00 PM",
+    "setUpDateTime": "2/26/2024 11:00 AM",
+    "endDateTime": "2/26/2024 1:15 PM",
+    "participants": 25,
+    "details": "Press Conference for Assemblymember Gipson to unveil his new bill."
+  },
+  {
+    "status": "approved",
+    "number": "2024-247",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10543",
+    "eventSponsor": "Press Conference",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "1/30/2024 9:00 AM",
+    "setUpDateTime": "1/30/2024 8:00 AM",
+    "endDateTime": "1/30/2024 10:00 AM",
+    "participants": 40,
+    "details": "Press Conference on new Legislation"
+  },
+  {
+    "status": "approved",
+    "number": "2024-249",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10545",
+    "eventSponsor": "Situational Party Speech.  This will be on the Southwest Side.",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "2/1/2024 9:45 AM",
+    "setUpDateTime": "2/1/2024 8:30 AM",
+    "endDateTime": "2/1/2024 12:00 PM",
+    "participants": 100,
+    "details": "Starting the bid for President of the United States of America."
+  },
+  {
+    "status": "approved",
     "number": "2024-25",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10030",
     "eventSponsor": "Pray for Change ",
@@ -4654,6 +4690,42 @@
     "endDateTime": "3/3/2024 2:00 PM",
     "participants": 300,
     "details": "Prayer rally at the State Capitol."
+  },
+  {
+    "status": "pending",
+    "number": "2024-250",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10546",
+    "eventSponsor": "California Association of Marriage and Family Therapists",
+    "locationOnCapitolGrounds": "CAMFT",
+    "startDateTime": "3/4/2024 12:30 PM",
+    "setUpDateTime": "3/4/2024 12:30 PM",
+    "endDateTime": "3/4/2024 4:30 PM",
+    "participants": 75,
+    "details": "Event to showcase the importance of mental health care legislation and celebrating CAMFT's 60th anniversary.  May have an award issued to a legislator on the steps"
+  },
+  {
+    "status": "pending",
+    "number": "2024-251",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10547",
+    "eventSponsor": "Vanessa James Photgraphy",
+    "locationOnCapitolGrounds": "Area 5, Area 22",
+    "startDateTime": "2/17/2024 1:15 PM",
+    "setUpDateTime": "2/17/2024 1:00 PM",
+    "endDateTime": "2/17/2024 4:00 PM",
+    "participants": 4,
+    "details": "We are having an engagement photoshoot"
+  },
+  {
+    "status": "pending",
+    "number": "2024-252",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10548",
+    "eventSponsor": "CDPH HRD",
+    "locationOnCapitolGrounds": "Area 5",
+    "startDateTime": "1/28/2024 11:30 AM",
+    "setUpDateTime": "1/28/2024 9:00 AM",
+    "endDateTime": "1/28/2024 1:30 PM",
+    "participants": 100,
+    "details": "Annual Employee Picnic and Appreciation event"
   },
   {
     "status": "approved",
