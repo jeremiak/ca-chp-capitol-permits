@@ -4620,13 +4620,13 @@
     "details": "Capturing the life of a Spain born person now in California."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-241",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10537",
     "eventSponsor": "Walden Vegliante Wedding",
     "locationOnCapitolGrounds": "Area 1",
     "startDateTime": "3/23/2024 10:00 AM",
-    "setUpDateTime": "3/30/2024 10:00 AM",
+    "setUpDateTime": "3/23/2024 9:00 AM",
     "endDateTime": "3/23/2024 12:00 PM",
     "participants": 15,
     "details": "Small wedding event"
@@ -4692,7 +4692,7 @@
     "details": "Prayer rally at the State Capitol."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-250",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10546",
     "eventSponsor": "California Association of Marriage and Family Therapists",
@@ -4704,11 +4704,11 @@
     "details": "Event to showcase the importance of mental health care legislation and celebrating CAMFT's 60th anniversary.  May have an award issued to a legislator on the steps"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-251",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10547",
     "eventSponsor": "Vanessa James Photgraphy",
-    "locationOnCapitolGrounds": "Area 5, Area 22",
+    "locationOnCapitolGrounds": "Area 1, Area 5, Area 22",
     "startDateTime": "2/17/2024 1:15 PM",
     "setUpDateTime": "2/17/2024 1:00 PM",
     "endDateTime": "2/17/2024 4:00 PM",
@@ -4726,6 +4726,18 @@
     "endDateTime": "1/28/2024 1:30 PM",
     "participants": 100,
     "details": "Annual Employee Picnic and Appreciation event"
+  },
+  {
+    "status": "approved",
+    "number": "2024-254",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10550",
+    "eventSponsor": "California Teamsters Rally AB 316",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "2/12/2024 2:00 PM",
+    "setUpDateTime": "2/12/2024 1:15 PM",
+    "endDateTime": "2/12/2024 3:30 PM",
+    "participants": 150,
+    "details": "AB 316 reintroduction event"
   },
   {
     "status": "approved",
