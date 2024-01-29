@@ -4657,6 +4657,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-246",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10542",
+    "eventSponsor": "Press Conference for Asm. Gipson",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "3/28/2024 8:00 AM",
+    "setUpDateTime": "3/28/2024 7:30 AM",
+    "endDateTime": "3/28/2024 9:00 AM",
+    "participants": 25,
+    "details": "Press Conference for Assemblymember Gipson."
+  },
+  {
+    "status": "approved",
     "number": "2024-247",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10543",
     "eventSponsor": "Press Conference",
@@ -4738,6 +4750,18 @@
     "endDateTime": "2/12/2024 3:30 PM",
     "participants": 150,
     "details": "AB 316 reintroduction event"
+  },
+  {
+    "status": "pending",
+    "number": "2024-259",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10555",
+    "eventSponsor": "Christian Life College Senior Photos",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "2/10/2024 10:00 AM",
+    "setUpDateTime": "2/10/2024 9:30 AM",
+    "endDateTime": "2/10/2024 1:00 PM",
+    "participants": 50,
+    "details": "We would like to take our group and individual photos for the graduating class."
   },
   {
     "status": "approved",
