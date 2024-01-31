@@ -4453,6 +4453,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-214",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10510",
+    "eventSponsor": "Cesar Chavez March- City",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "3/30/2024 8:00 AM",
+    "setUpDateTime": "3/30/2024 8:00 AM",
+    "endDateTime": "3/30/2024 4:00 PM",
+    "participants": 100,
+    "details": "Due to Cesar Chavez March on 10th."
+  },
+  {
+    "status": "approved",
     "number": "2024-216",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10512",
     "eventSponsor": "XSIGHT Productions",
@@ -4527,7 +4539,7 @@
     "status": "approved",
     "number": "2024-223",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10519",
-    "eventSponsor": "Catholic Youth Advocacy Day-California Catholic Conference",
+    "eventSponsor": "Catholic Youth Advocacy Day-California Catholic Conference- Southwest Side",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "3/13/2024 11:30 AM",
     "setUpDateTime": "3/13/2024 11:00 AM",
@@ -4717,6 +4729,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-248",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10544",
+    "eventSponsor": "Seven Parish Pilgrimage",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "3/30/2024 1:00 PM",
+    "setUpDateTime": "3/30/2024 1:00 PM",
+    "endDateTime": "3/30/2024 2:00 PM",
+    "participants": 1000,
+    "details": "The procession will start at 700 am from St. Elizabeth Church (1817 12 th St.), participants will head south towards six other locations around downtown area in the following order Saint Joseph Cemetery, Immaculate Conception Church, Sacred Heart Catholic Church, Saint Francis Church and the Cathedral of the Blessed Sacrament. From there, the procession will head south on 11 th Street, past K Street, and  cross L Street to the West side of the State Capitol.  The procession will stop to assemble for a 15 minutes reflection.  From the West side of the State Capitol, participants will head North on 11 th Street, then west (left) onto T Street where the procession will continue to Our Lady of Guadalupe Church located at 711 T Street."
+  },
+  {
+    "status": "approved",
     "number": "2024-249",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10545",
     "eventSponsor": "Situational Party Speech.  This will be on the Southwest Side.",
@@ -4812,10 +4836,10 @@
     "details": "Rally and gathering for afterschool and school-age child care professionals, youth and families. The evenet will include live music, performances and musical instruments form a youth marching band that will perform. There will also be short speeches from a variety of speakers before participants begin legislative visits with their elective representatives from 1p.m. - 5p.m."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-260",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10556",
-    "eventSponsor": "Press conference for bill introduction. ",
+    "eventSponsor": "Press conference for bill introduction for Assemblymember Nguyen",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "2/15/2024 9:00 AM",
     "setUpDateTime": "2/15/2024 8:00 AM",
@@ -4824,16 +4848,88 @@
     "details": "Assemblymember Nguyen will be holding a press conference for her bill introduction."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-261",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10557",
     "eventSponsor": "Urban League Advocacy Day",
-    "locationOnCapitolGrounds": "The National Urban League ",
+    "locationOnCapitolGrounds": "The National Urban League- Northwest Side",
     "startDateTime": "3/13/2024 10:30 AM",
     "setUpDateTime": "3/13/2024 9:00 AM",
     "endDateTime": "3/13/2024 12:00 PM",
     "participants": 50,
-    "details": "A rally - press conference to raise awareness and support for senate bill 50."
+    "details": "A rally - press conference to raise awareness and support for senate bill 50. This will be on the Northwest Side closer toward 10th and L."
+  },
+  {
+    "status": "pending",
+    "number": "2024-262",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10558",
+    "eventSponsor": "Khalistan Referendum by Sikhs For Justice",
+    "locationOnCapitolGrounds": "SFJ",
+    "startDateTime": "3/31/2024 8:00 AM",
+    "setUpDateTime": "3/30/2024 1:30 PM",
+    "endDateTime": "3/31/2024 8:00 PM",
+    "participants": 750,
+    "details": "Event is the Polling-Voting in unofficial Khalistan Referendum in which members of American Sikh community will participate to vote on the question of right to self determination. Throughout the day (March 31) people of Sikh community will come and participate in unofficial referendum voting."
+  },
+  {
+    "status": "approved",
+    "number": "2024-263",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10559",
+    "eventSponsor": "Practice Picket- EPA Building 1001 I Street",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "2/1/2024 11:30 AM",
+    "setUpDateTime": "2/1/2024 11:00 AM",
+    "endDateTime": "2/1/2024 1:30 PM",
+    "participants": 200,
+    "details": "CAPS members and members of the public will be out performing an informational picket regarding the lack of a fair contract for State Scientists."
+  },
+  {
+    "status": "pending",
+    "number": "2024-264",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10560",
+    "eventSponsor": "Care4All Campaign Launch",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "2/2/2024 11:30 AM",
+    "setUpDateTime": "2/2/2024 10:00 AM",
+    "endDateTime": "2/2/2024 12:30 PM",
+    "participants": 30,
+    "details": "Campaign Launch"
+  },
+  {
+    "status": "pending",
+    "number": "2024-265",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10561",
+    "eventSponsor": "Care4All Campaign Launch",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "3/6/2024 11:30 AM",
+    "setUpDateTime": "3/6/2024 10:00 AM",
+    "endDateTime": "3/6/2024 12:30 PM",
+    "participants": 30,
+    "details": "Care4All Campaign Launch"
+  },
+  {
+    "status": "pending",
+    "number": "2024-266",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10562",
+    "eventSponsor": "Care4All Campaign Launch",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "3/5/2024 11:30 AM",
+    "setUpDateTime": "3/5/2024 10:00 AM",
+    "endDateTime": "3/5/2024 12:30 PM",
+    "participants": 30,
+    "details": "Care4All Campaign Launch"
+  },
+  {
+    "status": "pending",
+    "number": "2024-267",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10563",
+    "eventSponsor": "Care4All Campaign Launch",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "3/11/2024 11:30 AM",
+    "setUpDateTime": "3/11/2024 10:00 AM",
+    "endDateTime": "3/11/2024 12:30 PM",
+    "participants": 30,
+    "details": "Care4All Campaign Launch"
   },
   {
     "status": "approved",
