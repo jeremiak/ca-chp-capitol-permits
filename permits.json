@@ -1779,13 +1779,13 @@
     "status": "approved",
     "number": "2023-769",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10164",
-    "eventSponsor": "AFSP California State Capitol Day",
+    "eventSponsor": "AFSP California State Capitol Day- Southwest Side",
     "locationOnCapitolGrounds": "West Side, Traffic Circle",
-    "startDateTime": "3/19/2024 9:00 AM",
-    "setUpDateTime": "3/19/2024 7:00 AM",
-    "endDateTime": "3/19/2024 11:30 AM",
+    "startDateTime": "3/19/2024 1:00 PM",
+    "setUpDateTime": "3/19/2024 1:00 PM",
+    "endDateTime": "3/19/2024 4:30 PM",
     "participants": 50,
-    "details": "Either a press or media opportunity, or a visual display.  This will be on the traffic circle or if there is space on the West."
+    "details": "Either a press or media opportunity, or a visual display.  This will be on the Southwest Side."
   },
   {
     "status": "approved",
@@ -3963,7 +3963,7 @@
     "status": "approved",
     "number": "2024-146",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10440",
-    "eventSponsor": "Association of Independent California Colleges and Universities (AICCU)",
+    "eventSponsor": "Association of Independent California Colleges and Universities (AICCU) Southwest Side",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "2/27/2024 10:15 AM",
     "setUpDateTime": "2/27/2024 9:00 AM",
@@ -4073,9 +4073,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10459",
     "eventSponsor": "Maxx Zahir ",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "2/7/2024 12:00 PM",
-    "setUpDateTime": "2/7/2024 10:00 AM",
-    "endDateTime": "2/7/2024 5:00 PM",
+    "startDateTime": "4/1/2024 8:00 AM",
+    "setUpDateTime": "4/1/2024 7:00 AM",
+    "endDateTime": "4/1/2024 5:00 PM",
     "participants": 55,
     "details": "Demonstration highlighting the sharp rise in homeless and mentally dysfunctional population."
   },
@@ -4097,9 +4097,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10461",
     "eventSponsor": "Maxx Zahir",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "2/8/2024 8:00 AM",
-    "setUpDateTime": "2/8/2024 6:30 AM",
-    "endDateTime": "2/8/2024 5:00 PM",
+    "startDateTime": "4/2/2024 8:00 AM",
+    "setUpDateTime": "4/2/2024 8:00 AM",
+    "endDateTime": "4/2/2024 5:00 PM",
     "participants": 55,
     "details": "Demonstration highlighting the sharp rise in homeless and mentally dysfunctional population."
   },
@@ -4591,7 +4591,7 @@
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "2/14/2024 10:30 AM",
     "setUpDateTime": "2/14/2024 10:00 AM",
-    "endDateTime": "2/14/2024 12:30 PM",
+    "endDateTime": "2/14/2024 2:30 PM",
     "participants": 50,
     "details": "Press release"
   },
@@ -4606,6 +4606,18 @@
     "endDateTime": "2/7/2024 10:00 AM",
     "participants": 30,
     "details": "Presser"
+  },
+  {
+    "status": "approved",
+    "number": "2024-230",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10526",
+    "eventSponsor": "Walters-Garcia Wedding ",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "4/1/2024 3:00 PM",
+    "setUpDateTime": "4/1/2024 3:00 PM",
+    "endDateTime": "4/1/2024 5:00 PM",
+    "participants": 8,
+    "details": "Tiny wedding ceremony with photography."
   },
   {
     "status": "approved",
@@ -4813,6 +4825,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-255",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10551",
+    "eventSponsor": "CSH, Bring California Home Advocacy Day",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/2/2024 10:00 AM",
+    "setUpDateTime": "4/2/2024 8:30 AM",
+    "endDateTime": "4/2/2024 11:30 AM",
+    "participants": 100,
+    "details": "Advocacy Day will be a chance for homeless advocates to meet with legislators. The morning of April 2nd will be a chance for advocates to gather on the capitol steps, generate momentum and meet before scheduled meetings."
+  },
+  {
+    "status": "approved",
     "number": "2024-259",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10555",
     "eventSponsor": "Christian Life College Senior Photos",
@@ -4860,14 +4884,14 @@
     "details": "A rally - press conference to raise awareness and support for senate bill 50. This will be on the Northwest Side closer toward 10th and L."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-262",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10558",
     "eventSponsor": "Khalistan Referendum by Sikhs For Justice",
     "locationOnCapitolGrounds": "SFJ",
     "startDateTime": "3/31/2024 8:00 AM",
     "setUpDateTime": "3/30/2024 1:30 PM",
-    "endDateTime": "3/31/2024 8:00 PM",
+    "endDateTime": "4/1/2024 12:00 PM",
     "participants": 750,
     "details": "Event is the Polling-Voting in unofficial Khalistan Referendum in which members of American Sikh community will participate to vote on the question of right to self determination. Throughout the day (March 31) people of Sikh community will come and participate in unofficial referendum voting."
   },
@@ -4920,19 +4944,127 @@
     "details": "Care4All Campaign Launch"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-267",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10563",
-    "eventSponsor": "Care4All Campaign Launch",
-    "locationOnCapitolGrounds": "Other",
+    "eventSponsor": "Care4All Campaign Launch- Southwest Side",
+    "locationOnCapitolGrounds": "West Side",
     "startDateTime": "3/11/2024 11:30 AM",
     "setUpDateTime": "3/11/2024 10:00 AM",
     "endDateTime": "3/11/2024 12:30 PM",
     "participants": 30,
-    "details": "Care4All Campaign Launch"
+    "details": "Care4All Campaign Launch.  This will be on the Southwest Side closer to N Street on the West Side."
   },
   {
     "status": "approved",
+    "number": "2024-269",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10565",
+    "eventSponsor": "Capitol Advocacy Think Big Promotional Video",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "2/29/2024 9:00 AM",
+    "setUpDateTime": "2/29/2024 8:30 AM",
+    "endDateTime": "2/29/2024 4:00 PM",
+    "participants": 15,
+    "details": "We'd like to reserve the front steps of the Capitol to take some video footage of our team."
+  },
+  {
+    "status": "approved",
+    "number": "2024-270",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10566",
+    "eventSponsor": "Strategy 6",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "2/6/2024 6:00 PM",
+    "setUpDateTime": "2/6/2024 5:30 PM",
+    "endDateTime": "2/6/2024 8:00 PM",
+    "participants": 50,
+    "details": "Rally in support of political prisoners and against the war with Ukraine"
+  },
+  {
+    "status": "approved",
+    "number": "2024-271",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10567",
+    "eventSponsor": "Offshore Wind Climate Bond Press Conference",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "2/8/2024 8:00 AM",
+    "setUpDateTime": "2/8/2024 7:30 AM",
+    "endDateTime": "2/8/2024 9:00 AM",
+    "participants": 25,
+    "details": "Assembymember Zbur joins other state leaders to introduce Climate Bond focused on securing funds for necessary port infrastructure needed for offshore wind development."
+  },
+  {
+    "status": "approved",
+    "number": "2024-272",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10568",
+    "eventSponsor": "AB 1858 Press Conference- Southwest Side",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "3/12/2024 10:00 AM",
+    "setUpDateTime": "3/12/2024 9:30 AM",
+    "endDateTime": "3/12/2024 11:00 AM",
+    "participants": 35,
+    "details": "Press conference to announce AB 1858"
+  },
+  {
+    "status": "approved",
+    "number": "2024-274",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10570",
+    "eventSponsor": "CA Climate Change Bond Rally ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "2/6/2024 9:45 AM",
+    "setUpDateTime": "2/6/2024 9:00 AM",
+    "endDateTime": "2/6/2024 11:00 AM",
+    "participants": 45,
+    "details": "Advocates in support of California Climate Change Bond."
+  },
+  {
+    "status": "pending",
+    "number": "2024-275",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10571",
+    "eventSponsor": "Asm. Ward Press Conference",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "4/2/2024 9:00 AM",
+    "setUpDateTime": "4/2/2024 8:30 AM",
+    "endDateTime": "4/2/2024 9:30 AM",
+    "participants": 30,
+    "details": "Asm. Ward Press Conference"
+  },
+  {
+    "status": "pending",
+    "number": "2024-277",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10573",
+    "eventSponsor": "California Legislative LGBTQ Caucus",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "2/20/2024 9:00 AM",
+    "setUpDateTime": "2/20/2024 8:30 AM",
+    "endDateTime": "2/20/2024 11:00 AM",
+    "participants": 40,
+    "details": "Press conference for California Legislative LGBTQ Caucus announcement"
+  },
+  {
+    "status": "pending",
+    "number": "2024-280",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10576",
+    "eventSponsor": "Fred. C. Beyer School",
+    "locationOnCapitolGrounds": "Modesto",
+    "startDateTime": "3/21/2024 9:00 AM",
+    "setUpDateTime": "3/21/2024 8:30 AM",
+    "endDateTime": "3/21/2024 11:00 AM",
+    "participants": 20,
+    "details": "High School robotics team from Modesto showing off their engineered mechanical constructs that move and interact with items around them."
+  },
+  {
+    "status": "pending",
+    "number": "2024-281",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10577",
+    "eventSponsor": "Plastic Bags Ban Conference ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "2/8/2024 10:00 AM",
+    "setUpDateTime": "2/8/2024 9:45 AM",
+    "endDateTime": "2/8/2024 10:30 AM",
+    "participants": 30,
+    "details": "Announcement of bill introduction related to plastic bags."
+  },
+  {
+    "status": "pending",
     "number": "2024-52",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10255",
     "eventSponsor": "Aviation Day",
@@ -4940,7 +5072,7 @@
     "startDateTime": "2/27/2024 10:00 AM",
     "setUpDateTime": "2/27/2024 6:00 AM",
     "endDateTime": "2/27/2024 2:30 PM",
-    "participants": 50,
+    "participants": 200,
     "details": "Association of California Airports and the Aviation Caucus host Aviation Day to promote the importance of and the benefits of aviation in California."
   },
   {
@@ -4983,7 +5115,7 @@
     "status": "approved",
     "number": "2024-6",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9897",
-    "eventSponsor": "California Craft Brewers Association",
+    "eventSponsor": "California Craft Brewers Association Southwest Side",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "3/12/2024 12:00 PM",
     "setUpDateTime": "3/12/2024 8:00 AM",
@@ -5132,7 +5264,7 @@
     "startDateTime": "2/13/2024 9:00 AM",
     "setUpDateTime": "2/13/2024 6:30 AM",
     "endDateTime": "2/13/2024 3:30 PM",
-    "participants": 300,
+    "participants": 301,
     "details": "The Day of Action will include a press conference, resource sharing, tabling, song and dance, and information sharing for Missing and Murdered Indigenous People. Tribes and Native American groups from across the state will attend, along with lawmakers."
   }
 ]
