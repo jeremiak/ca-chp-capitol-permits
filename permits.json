@@ -3913,6 +3913,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-125",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10408",
+    "eventSponsor": "Coalition for Humane Immigrant Rights CHIRLA",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/3/2024 8:00 AM",
+    "setUpDateTime": "4/3/2024 7:00 AM",
+    "endDateTime": "4/3/2024 6:00 PM",
+    "participants": 200,
+    "details": "CHIRLA Lobby Day"
+  },
+  {
+    "status": "approved",
     "number": "2024-126",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10410",
     "eventSponsor": "CHP Cadet Run",
