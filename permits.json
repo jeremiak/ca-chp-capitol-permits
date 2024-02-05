@@ -5017,6 +5017,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-273",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10569",
+    "eventSponsor": "CalRTA Legislative Advocacy Day",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/4/2024 11:30 AM",
+    "setUpDateTime": "4/4/2024 11:30 AM",
+    "endDateTime": "4/4/2024 1:30 PM",
+    "participants": 50,
+    "details": "Group photography on or near the west steps of the Capitol building."
+  },
+  {
+    "status": "approved",
     "number": "2024-274",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10570",
     "eventSponsor": "CA Climate Change Bond Rally ",
@@ -5077,6 +5089,18 @@
   },
   {
     "status": "pending",
+    "number": "2024-282",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10578",
+    "eventSponsor": "Chariot Festival",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "2/7/2024 10:00 AM",
+    "setUpDateTime": "2/7/2024 7:30 AM",
+    "endDateTime": "2/7/2024 6:00 PM",
+    "participants": 700,
+    "details": "Chanting, Meditation, Chariot Festival, Music, Feast"
+  },
+  {
+    "status": "approved",
     "number": "2024-52",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10255",
     "eventSponsor": "Aviation Day",
