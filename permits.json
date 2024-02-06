@@ -4902,7 +4902,7 @@
     "eventSponsor": "Khalistan Referendum by Sikhs For Justice",
     "locationOnCapitolGrounds": "SFJ",
     "startDateTime": "3/31/2024 8:00 AM",
-    "setUpDateTime": "3/30/2024 1:30 PM",
+    "setUpDateTime": "3/30/2024 7:00 AM",
     "endDateTime": "4/1/2024 12:00 PM",
     "participants": 750,
     "details": "Event is the Polling-Voting in unofficial Khalistan Referendum in which members of American Sikh community will participate to vote on the question of right to self determination. Throughout the day (March 31) people of Sikh community will come and participate in unofficial referendum voting."
@@ -5033,18 +5033,18 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10570",
     "eventSponsor": "CA Climate Change Bond Rally ",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "2/6/2024 9:45 AM",
+    "startDateTime": "2/6/2024 9:30 AM",
     "setUpDateTime": "2/6/2024 9:00 AM",
     "endDateTime": "2/6/2024 11:00 AM",
     "participants": 45,
     "details": "Advocates in support of California Climate Change Bond."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-275",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10571",
     "eventSponsor": "Asm. Ward Press Conference",
-    "locationOnCapitolGrounds": "Other",
+    "locationOnCapitolGrounds": "West Side",
     "startDateTime": "4/2/2024 9:00 AM",
     "setUpDateTime": "4/2/2024 8:30 AM",
     "endDateTime": "4/2/2024 9:30 AM",
@@ -5052,19 +5052,19 @@
     "details": "Asm. Ward Press Conference"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-277",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10573",
     "eventSponsor": "California Legislative LGBTQ Caucus",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "2/20/2024 9:00 AM",
-    "setUpDateTime": "2/20/2024 8:30 AM",
-    "endDateTime": "2/20/2024 11:00 AM",
-    "participants": 40,
+    "startDateTime": "2/20/2024 11:00 AM",
+    "setUpDateTime": "2/20/2024 10:15 AM",
+    "endDateTime": "2/20/2024 1:00 PM",
+    "participants": 30,
     "details": "Press conference for California Legislative LGBTQ Caucus announcement"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-280",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10576",
     "eventSponsor": "Fred. C. Beyer School",
@@ -5073,17 +5073,17 @@
     "setUpDateTime": "3/21/2024 8:30 AM",
     "endDateTime": "3/21/2024 11:00 AM",
     "participants": 20,
-    "details": "High School robotics team from Modesto showing off their engineered mechanical constructs that move and interact with items around them."
+    "details": "High School robotics team from Modesto showing off their engineered mechanical constructs that move and interact with items around them.  This will be on the Southwest Side across from the Legislative Office Building."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-281",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10577",
     "eventSponsor": "Plastic Bags Ban Conference ",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "2/8/2024 10:00 AM",
-    "setUpDateTime": "2/8/2024 9:45 AM",
-    "endDateTime": "2/8/2024 10:30 AM",
+    "setUpDateTime": "2/8/2024 9:30 AM",
+    "endDateTime": "2/8/2024 11:00 AM",
     "participants": 30,
     "details": "Announcement of bill introduction related to plastic bags."
   },
@@ -5098,6 +5098,42 @@
     "endDateTime": "2/7/2024 6:00 PM",
     "participants": 700,
     "details": "Chanting, Meditation, Chariot Festival, Music, Feast"
+  },
+  {
+    "status": "approved",
+    "number": "2024-283",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10579",
+    "eventSponsor": "Religious Ceremony of Sikh Religion ",
+    "locationOnCapitolGrounds": "Akhand Pasth Sahib",
+    "startDateTime": "3/29/2024 6:00 AM",
+    "setUpDateTime": "3/28/2024 2:00 PM",
+    "endDateTime": "4/1/2024 12:00 PM",
+    "participants": 300,
+    "details": "Akhand Paath Sahib is the Grand Prayer Ceremony of Sikh religion which runs from Friday till Sunday morning. A group of Sikh priests recites the holy Sikh scripture, the Guru Granth Sahib from beginning to end which lasts (Friday to Sunday morning) The members of the Sikh community continue to come in groups of 50-100 attend the recitation and then leave.  This will be on the West under the trees."
+  },
+  {
+    "status": "pending",
+    "number": "2024-285",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10581",
+    "eventSponsor": "Remembrance Post COVID-19 Parade Sacramento",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "3/30/2024 4:00 AM",
+    "setUpDateTime": "3/30/2024 4:00 AM",
+    "endDateTime": "3/30/2024 4:00 AM",
+    "participants": 300,
+    "details": "Remembrance post COVID-19 parade to thank health workers, police, government at all level and community to remember those we lost and what we lost.  Celebrating resilience of our society.  This will be on the L Street side between 14th and 15th."
+  },
+  {
+    "status": "pending",
+    "number": "2024-286",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10582",
+    "eventSponsor": "California Poor Peoples Campaign",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "2/20/2024 11:00 AM",
+    "setUpDateTime": "2/20/2024 10:00 AM",
+    "endDateTime": "2/20/2024 12:30 PM",
+    "participants": 30,
+    "details": "Press conference."
   },
   {
     "status": "approved",
