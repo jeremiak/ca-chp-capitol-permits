@@ -4057,6 +4057,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-160",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10454",
+    "eventSponsor": "Pats Shadow Run hosted by ASU Nor Cal Alumni Chapter",
+    "locationOnCapitolGrounds": "Area 34",
+    "startDateTime": "4/6/2024 9:00 AM",
+    "setUpDateTime": "4/6/2024 8:00 AM",
+    "endDateTime": "4/6/2024 11:30 AM",
+    "participants": 50,
+    "details": "Charity Run for Pat Tillman. Doing a 4.2 mile run around the Capitol Park."
+  },
+  {
+    "status": "approved",
     "number": "2024-161",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10455",
     "eventSponsor": "Legislation Announcement",
@@ -4361,11 +4373,11 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10486",
     "eventSponsor": "The Ukraine's War anniversary event",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "2/23/2024 5:00 PM",
-    "setUpDateTime": "2/22/2024 8:00 AM",
-    "endDateTime": "2/23/2024 10:00 PM",
-    "participants": 1000,
-    "details": "We are planning to organise a concert on February 23, to remember the War in Ukraine. We want to invite some famous Ukrainian singers and American politicians."
+    "startDateTime": "2/24/2024 3:00 PM",
+    "setUpDateTime": "2/23/2024 8:00 AM",
+    "endDateTime": "2/24/2024 10:00 PM",
+    "participants": 450,
+    "details": "We are planning to organise a concert on February 24, to remember the War in Ukraine. We want to invite some famous Ukrainian singers and American politicians."
   },
   {
     "status": "pending",
@@ -5093,9 +5105,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10578",
     "eventSponsor": "Chariot Festival",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "2/7/2024 10:00 AM",
-    "setUpDateTime": "2/7/2024 7:30 AM",
-    "endDateTime": "2/7/2024 6:00 PM",
+    "startDateTime": "2/29/2024 4:00 AM",
+    "setUpDateTime": "2/29/2024 4:00 AM",
+    "endDateTime": "2/29/2024 4:00 AM",
     "participants": 700,
     "details": "Chanting, Meditation, Chariot Festival, Music, Feast"
   },
@@ -5134,6 +5146,18 @@
     "endDateTime": "2/20/2024 12:30 PM",
     "participants": 30,
     "details": "Press conference."
+  },
+  {
+    "status": "pending",
+    "number": "2024-287",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10583",
+    "eventSponsor": "Press Conference",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "2/29/2024 4:00 AM",
+    "setUpDateTime": "2/29/2024 4:00 AM",
+    "endDateTime": "2/29/2024 4:00 AM",
+    "participants": 100,
+    "details": "Majority Leader Aguiar-Curry's will be doing a press conference with Co-Sponsors to introduce her Bill on Extending Parental Leave for Educators."
   },
   {
     "status": "approved",
@@ -5242,6 +5266,18 @@
     "endDateTime": "3/6/2024 6:00 PM",
     "participants": 300,
     "details": "Annual Hydrogen Village event to showcase hydrogen electric vehicles both, light, medium, heavy-duty, along with trailers, forklifts and banner displays."
+  },
+  {
+    "status": "approved",
+    "number": "2024-78",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10325",
+    "eventSponsor": "Livival at The Capital",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/6/2024 12:00 PM",
+    "setUpDateTime": "4/6/2024 11:00 AM",
+    "endDateTime": "4/6/2024 5:00 PM",
+    "participants": 75,
+    "details": "Christian concert and speaking event. Theme will be about the cross and what it means for the speakers. Poetry and dancing will be part of this event as well."
   },
   {
     "status": "approved",
