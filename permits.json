@@ -3542,14 +3542,14 @@
   {
     "status": "approved",
     "number": "2023-918",
-    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10375",
-    "eventSponsor": "Christians United for Israel",
-    "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "11/14/2023 10:00 AM",
-    "setUpDateTime": "11/14/2023 9:00 AM",
-    "endDateTime": "11/14/2023 1:00 PM",
-    "participants": 150,
-    "details": "Prayer Vigil for 240 hostages taken from Israel"
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10373",
+    "eventSponsor": "The Arc of Calif",
+    "locationOnCapitolGrounds": "Area 27, Area 34",
+    "startDateTime": "4/10/2024 9:00 AM",
+    "setUpDateTime": "4/10/2024 6:00 AM",
+    "endDateTime": "4/10/2024 5:00 PM",
+    "participants": 250,
+    "details": "Annual Rally for the Disability population of Calif"
   },
   {
     "status": "approved",
@@ -4489,6 +4489,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-208",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10504",
+    "eventSponsor": "PCOC Legislative Days.  This will be on the Southwest Side closer to 10th and N.",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/10/2024 9:00 AM",
+    "setUpDateTime": "4/10/2024 8:00 AM",
+    "endDateTime": "4/10/2024 4:00 PM",
+    "participants": 100,
+    "details": "Pest Control Operators of California Legislative Days, interactive exhibit to highlight industry and engage with elected officials and the public"
+  },
+  {
+    "status": "approved",
     "number": "2024-211",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10507",
     "eventSponsor": "Christian Life College Graduating Photos ",
@@ -5280,14 +5292,14 @@
     "details": "Asm. Essayli press conference announcing legislation"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-299",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10596",
     "eventSponsor": "Retirement Ceremony- Lt Col Daniel Reed-CA Air Nation Guard",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "4/5/2024 1:00 PM",
     "setUpDateTime": "4/5/2024 12:00 PM",
-    "endDateTime": "4/5/2024 2:30 PM",
+    "endDateTime": "4/5/2024 3:00 PM",
     "participants": 75,
     "details": "Retirement Ceremony - Lt Col Daniel Reed - CA Air National Guard"
   },
