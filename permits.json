@@ -3841,6 +3841,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-103",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10376",
+    "eventSponsor": "Sacramento Valley College Corps Showcase Reception",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/11/2024 4:00 PM",
+    "setUpDateTime": "4/11/2024 1:00 PM",
+    "endDateTime": "4/11/2024 7:00 PM",
+    "participants": 300,
+    "details": "To showcase Sacramento Valley College Corps (SVCC) fellows' projects and learning from and with K-12 and community organizations through posters and celebrate and honor SVCC community partners.  SVCC fellows, community partners, and campus partners will be invited."
+  },
+  {
+    "status": "approved",
     "number": "2024-104",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10381",
     "eventSponsor": "Families Rally for Care and Housing for SMI",
