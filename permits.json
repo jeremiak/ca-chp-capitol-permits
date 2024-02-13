@@ -5129,8 +5129,8 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10573",
     "eventSponsor": "California Legislative LGBTQ Caucus",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "2/20/2024 11:00 AM",
-    "setUpDateTime": "2/20/2024 10:15 AM",
+    "startDateTime": "2/20/2024 12:00 PM",
+    "setUpDateTime": "2/20/2024 11:15 AM",
     "endDateTime": "2/20/2024 1:00 PM",
     "participants": 30,
     "details": "Press conference for California Legislative LGBTQ Caucus announcement"
@@ -5256,7 +5256,7 @@
     "details": "Professional make-up artists will offer comestic touch-ups to the CA Leg Women's Caucus Woman of the Year honorees.  This will be on the Northwest side closer to the L Street Side on the West."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-291",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10588",
     "eventSponsor": "Assemblymember Alvarez Introduces New Bill",
@@ -5296,10 +5296,10 @@
     "number": "2024-294",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10591",
     "eventSponsor": "Assemblyman Essayli press conference",
-    "locationOnCapitolGrounds": "Area 22, Area 27",
-    "startDateTime": "2/20/2024 12:00 PM",
-    "setUpDateTime": "2/20/2024 11:30 AM",
-    "endDateTime": "2/20/2024 1:00 PM",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "2/20/2024 10:30 AM",
+    "setUpDateTime": "2/20/2024 9:30 AM",
+    "endDateTime": "2/20/2024 11:15 AM",
     "participants": 50,
     "details": "Asm. Essayli press conference announcing legislation"
   },
@@ -5314,6 +5314,54 @@
     "endDateTime": "4/5/2024 3:00 PM",
     "participants": 75,
     "details": "Retirement Ceremony - Lt Col Daniel Reed - CA Air National Guard"
+  },
+  {
+    "status": "approved",
+    "number": "2024-303",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10600",
+    "eventSponsor": "Assembly Republican Caucus",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "2/21/2024 9:00 AM",
+    "setUpDateTime": "2/21/2024 8:00 AM",
+    "endDateTime": "2/21/2024 10:15 AM",
+    "participants": 20,
+    "details": "Assembly Republican Presser"
+  },
+  {
+    "status": "approved",
+    "number": "2024-304",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10601",
+    "eventSponsor": "PTI California",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "2/17/2024 12:30 PM",
+    "setUpDateTime": "2/17/2024 11:30 AM",
+    "endDateTime": "2/17/2024 3:30 PM",
+    "participants": 100,
+    "details": "Protest against rigged elections in Pakistan"
+  },
+  {
+    "status": "approved",
+    "number": "2024-305",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10602",
+    "eventSponsor": "I am Sac Foundation",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "3/18/2024 3:00 PM",
+    "setUpDateTime": "3/18/2024 2:30 PM",
+    "endDateTime": "3/18/2024 7:00 PM",
+    "participants": 100,
+    "details": "In memory of Stephon Clark.  7 years ago police shot and killed Stephon.  This is 6 years since his death."
+  },
+  {
+    "status": "pending",
+    "number": "2024-306",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10603",
+    "eventSponsor": "California Labor Federation Press Conference",
+    "locationOnCapitolGrounds": "Area 22",
+    "startDateTime": "3/19/2024 10:00 AM",
+    "setUpDateTime": "3/19/2024 9:00 AM",
+    "endDateTime": "3/19/2024 12:00 PM",
+    "participants": 25,
+    "details": "We will be hosting a press conference on labor legislation."
   },
   {
     "status": "approved",
@@ -5525,7 +5573,7 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10365",
     "eventSponsor": "Missing and Murdered Indigenous People Day of Action",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "2/13/2024 9:00 AM",
+    "startDateTime": "2/13/2024 8:30 AM",
     "setUpDateTime": "2/13/2024 6:30 AM",
     "endDateTime": "2/13/2024 3:30 PM",
     "participants": 301,
