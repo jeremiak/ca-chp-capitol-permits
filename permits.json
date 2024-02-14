@@ -3865,6 +3865,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-107",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10386",
+    "eventSponsor": "Latinos for Jesus and Family Values",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/13/2024 1:00 PM",
+    "setUpDateTime": "4/13/2024 8:00 AM",
+    "endDateTime": "4/13/2024 6:00 PM",
+    "participants": 500,
+    "details": "A peaceful gathering of people to pray for families."
+  },
+  {
+    "status": "approved",
     "number": "2024-110",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10390",
     "eventSponsor": "First 5 Association Advocacy Day Press Event",
@@ -4721,9 +4733,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10528",
     "eventSponsor": "Detrans Awareness day",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "3/14/2024 9:30 AM",
-    "setUpDateTime": "3/14/2024 8:00 AM",
-    "endDateTime": "3/14/2024 9:30 AM",
+    "startDateTime": "3/14/2024 11:00 AM",
+    "setUpDateTime": "3/14/2024 8:30 AM",
+    "endDateTime": "3/14/2024 3:00 PM",
     "participants": 100,
     "details": "Rally for celebration of detransitioners"
   },
@@ -5292,12 +5304,12 @@
     "details": "Asm. Essayli press conference announcing legislation"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-294",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10591",
     "eventSponsor": "Assemblyman Essayli press conference",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "2/20/2024 10:30 AM",
+    "startDateTime": "2/20/2024 10:00 AM",
     "setUpDateTime": "2/20/2024 9:30 AM",
     "endDateTime": "2/20/2024 11:15 AM",
     "participants": 50,
@@ -5356,12 +5368,36 @@
     "number": "2024-306",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10603",
     "eventSponsor": "California Labor Federation Press Conference",
-    "locationOnCapitolGrounds": "Area 22",
+    "locationOnCapitolGrounds": "Traffic Circle, Area 22",
     "startDateTime": "3/19/2024 10:00 AM",
     "setUpDateTime": "3/19/2024 9:00 AM",
     "endDateTime": "3/19/2024 12:00 PM",
     "participants": 25,
     "details": "We will be hosting a press conference on labor legislation."
+  },
+  {
+    "status": "pending",
+    "number": "2024-309",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10606",
+    "eventSponsor": "LGBTQ Caucus Pride Ceremony ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "2/16/2024 1:00 PM",
+    "setUpDateTime": "2/16/2024 12:30 PM",
+    "endDateTime": "2/16/2024 2:30 PM",
+    "participants": 100,
+    "details": "We would like for a LGBTQ Biker Group to ride down capitol mall and have 2 motorcycles allowed on the West steps where a press conference will take prior to our Pride ceremony."
+  },
+  {
+    "status": "pending",
+    "number": "2024-310",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10607",
+    "eventSponsor": "BSA Scout Troop 1625 ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "2/16/2024 10:00 AM",
+    "setUpDateTime": "2/16/2024 9:00 AM",
+    "endDateTime": "2/16/2024 12:00 PM",
+    "participants": 100,
+    "details": "5 female scout troops being honored for achieving Eagle Scout status."
   },
   {
     "status": "approved",
@@ -5482,6 +5518,18 @@
     "endDateTime": "4/6/2024 5:00 PM",
     "participants": 75,
     "details": "Christian concert and speaking event. Theme will be about the cross and what it means for the speakers. Poetry and dancing will be part of this event as well."
+  },
+  {
+    "status": "approved",
+    "number": "2024-8",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9905",
+    "eventSponsor": "Jimenez Wedding",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "4/13/2024 4:00 PM",
+    "setUpDateTime": "4/13/2024 2:00 PM",
+    "endDateTime": "4/13/2024 6:30 PM",
+    "participants": 65,
+    "details": "Personal wedding in the World Peace Rose Garden with seating arranged between the North West white arch entry way and the Vietnam Memorial. Expecting chairs to be setup about 1-2 hours before walking ceremony and cleaned up immediately following conclusion of ceremony."
   },
   {
     "status": "approved",
