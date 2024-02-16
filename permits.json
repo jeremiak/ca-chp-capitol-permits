@@ -5341,6 +5341,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-302",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10599",
+    "eventSponsor": "Jesuits West California Advocacy Day- Southwest Side",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/15/2024 10:00 AM",
+    "setUpDateTime": "4/15/2024 9:45 AM",
+    "endDateTime": "4/15/2024 1:00 PM",
+    "participants": 100,
+    "details": "Students, parishioners, Jesuit priests, and other Ignatian leaders will gather at the Capitol to bring together our voices to advocate for homelessness and housing, climate change, and migrant resources. We will come together to pray, share wisdom, and serve our faith by advocating for change.  This will be on the Southwest Side closer to N Street."
+  },
+  {
+    "status": "approved",
     "number": "2024-303",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10600",
     "eventSponsor": "Assembly Republican Caucus",
@@ -5410,6 +5422,18 @@
     "endDateTime": "2/16/2024 12:00 PM",
     "participants": 100,
     "details": "5 female scout troops being honored for achieving Eagle Scout status."
+  },
+  {
+    "status": "pending",
+    "number": "2024-315",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10612",
+    "eventSponsor": "247 Haul Co",
+    "locationOnCapitolGrounds": "West Side, Area 1, Area 5, Area 22, Area 27, Area 33, Area 34",
+    "startDateTime": "2/18/2024 12:00 PM",
+    "setUpDateTime": "2/18/2024 12:00 PM",
+    "endDateTime": "2/18/2024 12:00 PM",
+    "participants": 1,
+    "details": "General Freight"
   },
   {
     "status": "approved",
@@ -5590,6 +5614,18 @@
     "endDateTime": "3/4/2024 12:00 PM",
     "participants": 300,
     "details": "Moms Demand Action Advocacy Day"
+  },
+  {
+    "status": "approved",
+    "number": "2024-87",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10349",
+    "eventSponsor": "California Outdoor Recreation Partnership Sacramento Summit",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/15/2024 8:00 AM",
+    "setUpDateTime": "4/15/2024 6:00 AM",
+    "endDateTime": "4/15/2024 6:00 PM",
+    "participants": 60,
+    "details": "California Outdoor Recreation Partnership's Annual Sacramento Summit brings together members of the outdoor inudstry ranging from outdoor companies to non-profit organiations to advocate for issues our industry cares deeply about ranging from climate change to textile manufacturing. We have speakers out on the Capitol lawn, gather together for lobbying activity, and hold an Expo to showcase our brands."
   },
   {
     "status": "approved",
