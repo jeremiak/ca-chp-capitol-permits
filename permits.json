@@ -4416,7 +4416,7 @@
     "details": "Recording interview with tripod camera and sound equipment."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-190",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10486",
     "eventSponsor": "The Ukraine's War anniversary event.  Event from 430-7pm.",
@@ -4424,7 +4424,7 @@
     "startDateTime": "2/24/2024 4:30 PM",
     "setUpDateTime": "2/24/2024 9:00 AM",
     "endDateTime": "2/24/2024 9:30 PM",
-    "participants": 450,
+    "participants": 500,
     "details": "We are planning to organise a concert on February 24, to remember the War in Ukraine. We want to invite some famous Ukrainian singers and American politicians."
   },
   {
@@ -5429,11 +5429,59 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10612",
     "eventSponsor": "247 Haul Co",
     "locationOnCapitolGrounds": "West Side, Area 1, Area 5, Area 22, Area 27, Area 33, Area 34",
-    "startDateTime": "2/18/2024 12:00 PM",
-    "setUpDateTime": "2/18/2024 12:00 PM",
-    "endDateTime": "2/18/2024 12:00 PM",
+    "startDateTime": "2/29/2024 4:00 AM",
+    "setUpDateTime": "2/29/2024 4:00 AM",
+    "endDateTime": "2/29/2024 4:00 AM",
     "participants": 1,
     "details": "General Freight"
+  },
+  {
+    "status": "pending",
+    "number": "2024-318",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10615",
+    "eventSponsor": "Samuels Wedding Photoshoot",
+    "locationOnCapitolGrounds": "West Side, Area 1, Area 5, Area 22",
+    "startDateTime": "2/19/2024 1:00 PM",
+    "setUpDateTime": "2/19/2024 1:00 PM",
+    "endDateTime": "2/20/2024 6:00 AM",
+    "participants": 15,
+    "details": "Wedding photoshoot with bride & groom and wedding party"
+  },
+  {
+    "status": "pending",
+    "number": "2024-319",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10616",
+    "eventSponsor": "California State University ",
+    "locationOnCapitolGrounds": "Area 22",
+    "startDateTime": "4/16/2024 12:00 PM",
+    "setUpDateTime": "4/16/2024 11:45 AM",
+    "endDateTime": "4/16/2024 12:00 PM",
+    "participants": 160,
+    "details": "conference of california state university students and faculty"
+  },
+  {
+    "status": "approved",
+    "number": "2024-44",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10200",
+    "eventSponsor": "Immigrant Day of Action",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/16/2024 9:00 AM",
+    "setUpDateTime": "4/16/2024 7:00 AM",
+    "endDateTime": "4/16/2024 5:00 PM",
+    "participants": 200,
+    "details": "California Immigrant Policy Center's (CIPC) Annual Immigrant Day of Action"
+  },
+  {
+    "status": "approved",
+    "number": "2024-48",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10248",
+    "eventSponsor": "ACCM Advocacy Day Press Rally ",
+    "locationOnCapitolGrounds": "Area 27, Area 34",
+    "startDateTime": "4/17/2024 7:00 AM",
+    "setUpDateTime": "4/16/2024 7:00 AM",
+    "endDateTime": "4/17/2024 4:00 PM",
+    "participants": 200,
+    "details": "Californians for the Arts (a statewide advocacy 501(c)3 advocacy organization for arts and culture) will organize a press conference and ACCM Advocacy Day rally for citizen advocates. The event will include speakers and performers. Following a roughly 90 minute program the advocates will parade over to meet with various senate and assembly member offices. A smaller group will remain in the park until 4pm as a checkin location for the advocates as they come and go from different meetings.  I am trying to reserve both 4-16 and 4-17 but the system won't seem to let me."
   },
   {
     "status": "approved",
