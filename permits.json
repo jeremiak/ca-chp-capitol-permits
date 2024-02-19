@@ -3997,6 +3997,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-136",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10428",
+    "eventSponsor": "League of California Cities",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/18/2024 10:00 AM",
+    "setUpDateTime": "4/18/2024 8:00 AM",
+    "endDateTime": "4/18/2024 12:00 PM",
+    "participants": 120,
+    "details": "Member rally with press invited.  This will be on the SOUTHWEST side near N Street across from the LOB."
+  },
+  {
+    "status": "approved",
     "number": "2024-139",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10432",
     "eventSponsor": "Freedom to Navalny and all political prisoners in Russia",
@@ -5473,6 +5485,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-37",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10147",
+    "eventSponsor": "April 2024 Kids Day at the Capitol",
+    "locationOnCapitolGrounds": "Area 1, Area 5, Area 33",
+    "startDateTime": "4/18/2024 10:00 AM",
+    "setUpDateTime": "4/18/2024 8:00 AM",
+    "endDateTime": "4/18/2024 5:00 PM",
+    "participants": 1000,
+    "details": "During the month of April and throughout the year, the Office of Child Abuse Prevention and the California Department of Social Services encourages organizations to promote child abuse and neglect prevention across California. The OCAP and The Child Abuse Prevention Center are hosting Kids Day at the Capitol on Thursday, April 18, 2024 from 10 a.m. to 2 p.m. The event will include guest speakers, performances and various activities for youth and children. Numerous statewide public agencies and their partnering organizations will host individual booths providing information about programs, services and resources that strengthen families."
+  },
+  {
+    "status": "approved",
     "number": "2024-44",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10200",
     "eventSponsor": "Immigrant Day of Action",
@@ -5710,6 +5734,18 @@
     "endDateTime": "3/7/2024 6:00 PM",
     "participants": 750,
     "details": "Rally by education unions and students regarding issues affecting public education in California"
+  },
+  {
+    "status": "approved",
+    "number": "2024-9",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9907",
+    "eventSponsor": "Tax Fraud Days of Action-Nor Cal Carpenters Union",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/18/2024 10:00 AM",
+    "setUpDateTime": "4/18/2024 9:00 AM",
+    "endDateTime": "4/18/2024 1:00 PM",
+    "participants": 100,
+    "details": "A rally with elected officials speaking to bring awareness to construction industry tax fraud"
   },
   {
     "status": "approved",
