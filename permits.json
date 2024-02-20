@@ -553,6 +553,18 @@
   },
   {
     "status": "approved",
+    "number": "2023-515",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9874",
+    "eventSponsor": "Walk MS Sacramento",
+    "locationOnCapitolGrounds": "West Side, Area 1, Area 5, Area 22, Area 27, Area 33, Area 34",
+    "startDateTime": "4/20/2024 5:00 AM",
+    "setUpDateTime": "4/19/2024 8:00 AM",
+    "endDateTime": "4/20/2024 2:00 PM",
+    "participants": 860,
+    "details": "Walk MS is an annual event held at the capitol that includes 1 mile and 3 mile route the raise funds and awareness for multiple sclerosis."
+  },
+  {
+    "status": "approved",
     "number": "2023-522",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9882",
     "eventSponsor": "The Veterans Art Project Pop Up Arts Cafe",
