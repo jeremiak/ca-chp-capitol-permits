@@ -625,6 +625,18 @@
   },
   {
     "status": "approved",
+    "number": "2023-540",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9902",
+    "eventSponsor": "Niko and Julianne’s Wedding",
+    "locationOnCapitolGrounds": "Area 1, Area 22, Area 33",
+    "startDateTime": "4/20/2024 4:00 PM",
+    "setUpDateTime": "4/20/2024 2:00 PM",
+    "endDateTime": "4/20/2024 5:30 PM",
+    "participants": 90,
+    "details": "Wedding ceremony"
+  },
+  {
+    "status": "approved",
     "number": "2023-553",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9919",
     "eventSponsor": "Monique and Michael Commitment Ceremony",
@@ -3662,14 +3674,14 @@
   {
     "status": "approved",
     "number": "2023-927",
-    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10400",
-    "eventSponsor": "Pam Dimand Celebration of Life",
-    "locationOnCapitolGrounds": "Area 1",
-    "startDateTime": "12/2/2023 3:00 PM",
-    "setUpDateTime": "12/2/2023 2:00 PM",
-    "endDateTime": "12/2/2023 5:00 PM",
-    "participants": 25,
-    "details": "My mother has passed, she wished to have a small celebration of life in a garden."
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10396",
+    "eventSponsor": "Wiedel Wedding",
+    "locationOnCapitolGrounds": "Area 5",
+    "startDateTime": "4/20/2024 3:00 PM",
+    "setUpDateTime": "4/20/2024 2:00 PM",
+    "endDateTime": "4/20/2024 4:30 PM",
+    "participants": 50,
+    "details": "Wedding ceremony"
   },
   {
     "status": "approved",
@@ -4772,7 +4784,7 @@
     "startDateTime": "3/14/2024 11:00 AM",
     "setUpDateTime": "3/14/2024 8:30 AM",
     "endDateTime": "3/14/2024 3:00 PM",
-    "participants": 100,
+    "participants": 250,
     "details": "Rally for celebration of detransitioners"
   },
   {
@@ -5365,6 +5377,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-3",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9861",
+    "eventSponsor": "Ride 4A Reason 2024",
+    "locationOnCapitolGrounds": "Area 27",
+    "startDateTime": "4/20/2024 12:00 PM",
+    "setUpDateTime": "4/20/2024 10:00 AM",
+    "endDateTime": "4/20/2024 5:00 PM",
+    "participants": 300,
+    "details": "The end of a cycling event that starts in Oakland."
+  },
+  {
+    "status": "approved",
     "number": "2024-30",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10092",
     "eventSponsor": "Wedding",
@@ -5494,6 +5518,30 @@
     "endDateTime": "4/16/2024 12:00 PM",
     "participants": 160,
     "details": "conference of california state university students and faculty"
+  },
+  {
+    "status": "pending",
+    "number": "2024-322",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10619",
+    "eventSponsor": "Big City Mayors Coalition",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/11/2024 10:00 AM",
+    "setUpDateTime": "4/11/2024 9:30 AM",
+    "endDateTime": "4/11/2024 1:00 PM",
+    "participants": 30,
+    "details": "Big City Mayors are mayors of the State's 13 largest cities. \nPress conference with podium and speakers. Press with cameras and reporters will attend."
+  },
+  {
+    "status": "pending",
+    "number": "2024-324",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10621",
+    "eventSponsor": "Assembly Republican Caucus",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "3/7/2024 11:00 AM",
+    "setUpDateTime": "3/7/2024 10:30 AM",
+    "endDateTime": "3/7/2024 12:30 PM",
+    "participants": 20,
+    "details": "Presser on Legislative Package"
   },
   {
     "status": "approved",
