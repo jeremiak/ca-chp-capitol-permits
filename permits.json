@@ -3084,7 +3084,7 @@
     "details": "Sacramento Police Academy Run around the Capitol.  We start at the Law Enforcement Memorial at 0600 hours and then run until 0730 hours around the Capitol Grounds."
   },
   {
-    "status": "approved",
+    "status": "pending",
     "number": "2023-877",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10300",
     "eventSponsor": "Prayer/ Kitty Fick Ministries. ",
@@ -3092,7 +3092,7 @@
     "startDateTime": "3/8/2024 4:00 PM",
     "setUpDateTime": "3/8/2024 2:00 PM",
     "endDateTime": "3/8/2024 8:00 PM",
-    "participants": 15,
+    "participants": 20,
     "details": "Prayer will be using Microphone and speakers playing songs"
   },
   {
@@ -4807,7 +4807,7 @@
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "2/24/2024 8:30 AM",
     "setUpDateTime": "2/24/2024 8:00 AM",
-    "endDateTime": "2/24/2024 9:30 AM",
+    "endDateTime": "2/24/2024 10:00 AM",
     "participants": 40,
     "details": "Yearly group photos of the Lincoln Law school"
   },
@@ -5333,9 +5333,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10589",
     "eventSponsor": "California Public Interest Research Group",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "2/26/2024 8:30 AM",
-    "setUpDateTime": "2/26/2024 8:00 AM",
-    "endDateTime": "2/26/2024 10:00 AM",
+    "startDateTime": "2/26/2024 1:30 PM",
+    "setUpDateTime": "2/26/2024 1:15 PM",
+    "endDateTime": "2/26/2024 3:00 PM",
     "participants": 40,
     "details": "A press conference for CALPIRG Students. Speakers will be behind a podium, with students behind for photos."
   },
@@ -5544,6 +5544,30 @@
     "details": "Presser on Legislative Package"
   },
   {
+    "status": "pending",
+    "number": "2024-325",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10622",
+    "eventSponsor": "Jovontue and Shelby proposal",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "3/3/2024 4:00 PM",
+    "setUpDateTime": "3/3/2024 3:30 PM",
+    "endDateTime": "3/3/2024 5:30 PM",
+    "participants": 10,
+    "details": "Proposing to my girlfriend and having family there to support and share the moment"
+  },
+  {
+    "status": "pending",
+    "number": "2024-326",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10624",
+    "eventSponsor": "Hope Fest 2024 Stage Set up",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "3/22/2024 8:00 AM",
+    "setUpDateTime": "3/22/2024 6:00 AM",
+    "endDateTime": "3/22/2024 9:45 PM",
+    "participants": 50,
+    "details": "Hope Fest 2024 - Set up of stage & sound."
+  },
+  {
     "status": "approved",
     "number": "2024-37",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10147",
@@ -5748,7 +5772,7 @@
     "details": "Eagle Court of Honor"
   },
   {
-    "status": "approved",
+    "status": "pending",
     "number": "2024-86",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10344",
     "eventSponsor": "Moms Demand Action for Gun Sense in America",
@@ -5756,7 +5780,7 @@
     "startDateTime": "3/4/2024 10:00 AM",
     "setUpDateTime": "3/4/2024 9:45 AM",
     "endDateTime": "3/4/2024 12:00 PM",
-    "participants": 300,
+    "participants": 305,
     "details": "Moms Demand Action Advocacy Day"
   },
   {
