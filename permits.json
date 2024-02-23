@@ -552,12 +552,12 @@
     "details": "Small Wedding ceremony - no reception, will take photos after ceremony."
   },
   {
-    "status": "approved",
+    "status": "pending",
     "number": "2023-515",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9874",
     "eventSponsor": "Walk MS Sacramento",
     "locationOnCapitolGrounds": "West Side, Area 1, Area 5, Area 22, Area 27, Area 33, Area 34",
-    "startDateTime": "4/20/2024 5:00 AM",
+    "startDateTime": "4/20/2024 8:00 AM",
     "setUpDateTime": "4/19/2024 8:00 AM",
     "endDateTime": "4/20/2024 2:00 PM",
     "participants": 860,
@@ -634,6 +634,18 @@
     "endDateTime": "4/20/2024 5:30 PM",
     "participants": 90,
     "details": "Wedding ceremony"
+  },
+  {
+    "status": "approved",
+    "number": "2023-543",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9908",
+    "eventSponsor": "California March for Life",
+    "locationOnCapitolGrounds": "West Side, Area 1, Area 5, Area 22, Area 27, Area 33, Area 34",
+    "startDateTime": "4/22/2024 11:00 AM",
+    "setUpDateTime": "4/22/2024 7:00 AM",
+    "endDateTime": "4/22/2024 3:00 PM",
+    "participants": 1200,
+    "details": "An event with a dozen speakers promoting the value of unborn babies and opposing abortion."
   },
   {
     "status": "approved",
@@ -3084,14 +3096,14 @@
     "details": "Sacramento Police Academy Run around the Capitol.  We start at the Law Enforcement Memorial at 0600 hours and then run until 0730 hours around the Capitol Grounds."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-877",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10300",
     "eventSponsor": "Prayer/ Kitty Fick Ministries. ",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "3/8/2024 4:00 PM",
-    "setUpDateTime": "3/8/2024 2:00 PM",
-    "endDateTime": "3/8/2024 8:00 PM",
+    "startDateTime": "3/16/2024 3:30 PM",
+    "setUpDateTime": "3/16/2024 3:30 PM",
+    "endDateTime": "3/16/2024 8:00 PM",
     "participants": 20,
     "details": "Prayer will be using Microphone and speakers playing songs"
   },
@@ -3925,6 +3937,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-116",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10397",
+    "eventSponsor": "Survivors Speak 2024",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/23/2024 8:00 AM",
+    "setUpDateTime": "4/22/2024 3:00 PM",
+    "endDateTime": "4/23/2024 6:00 PM",
+    "participants": 150,
+    "details": "Survivors Speak California 2024 is hosted by Crime Survivors for Safety and Justice, a national network of crime survivors joining together to create healing communities and shape public policy."
+  },
+  {
+    "status": "approved",
     "number": "2024-117",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10398",
     "eventSponsor": "Clean Energy Lobby Day",
@@ -4097,9 +4121,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10446",
     "eventSponsor": "California Poor Peoples Campaign",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "3/2/2024 12:00 PM",
-    "setUpDateTime": "3/2/2024 7:00 AM",
-    "endDateTime": "3/2/2024 3:30 PM",
+    "startDateTime": "3/2/2024 11:45 AM",
+    "setUpDateTime": "3/2/2024 9:00 AM",
+    "endDateTime": "3/2/2024 3:00 PM",
     "participants": 350,
     "details": "Rally to promote voting"
   },
@@ -4926,7 +4950,7 @@
     "eventSponsor": "California Association of Marriage and Family Therapists",
     "locationOnCapitolGrounds": "CAMFT",
     "startDateTime": "3/4/2024 12:30 PM",
-    "setUpDateTime": "3/4/2024 12:30 PM",
+    "setUpDateTime": "3/4/2024 10:00 AM",
     "endDateTime": "3/4/2024 4:30 PM",
     "participants": 75,
     "details": "Event to showcase the importance of mental health care legislation and celebrating CAMFT's 60th anniversary.  May have an award issued to a legislator on the steps"
@@ -5105,9 +5129,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10565",
     "eventSponsor": "Capitol Advocacy Think Big Promotional Video",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "2/29/2024 9:00 AM",
-    "setUpDateTime": "2/29/2024 8:30 AM",
-    "endDateTime": "2/29/2024 4:00 PM",
+    "startDateTime": "2/29/2024 1:00 PM",
+    "setUpDateTime": "2/29/2024 12:00 PM",
+    "endDateTime": "2/29/2024 6:00 PM",
     "participants": 15,
     "details": "We'd like to reserve the front steps of the Capitol to take some video footage of our team."
   },
@@ -5508,16 +5532,16 @@
     "details": "Wedding photoshoot with bride & groom and wedding party"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-319",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10616",
-    "eventSponsor": "California State University ",
-    "locationOnCapitolGrounds": "Area 22",
+    "eventSponsor": "California State University- Northwest Side ",
+    "locationOnCapitolGrounds": "West Side",
     "startDateTime": "4/16/2024 12:00 PM",
     "setUpDateTime": "4/16/2024 11:45 AM",
-    "endDateTime": "4/16/2024 12:00 PM",
+    "endDateTime": "4/16/2024 2:00 PM",
     "participants": 160,
-    "details": "conference of california state university students and faculty"
+    "details": "conference of california state university students and faculty.  This will be on the Northwest side under the trees."
   },
   {
     "status": "pending",
@@ -5532,7 +5556,7 @@
     "details": "Big City Mayors are mayors of the State's 13 largest cities. \nPress conference with podium and speakers. Press with cameras and reporters will attend."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-324",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10621",
     "eventSponsor": "Assembly Republican Caucus",
@@ -5544,7 +5568,7 @@
     "details": "Presser on Legislative Package"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-325",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10622",
     "eventSponsor": "Jovontue and Shelby proposal",
@@ -5566,6 +5590,66 @@
     "endDateTime": "3/22/2024 9:45 PM",
     "participants": 50,
     "details": "Hope Fest 2024 - Set up of stage & sound."
+  },
+  {
+    "status": "approved",
+    "number": "2024-329",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10627",
+    "eventSponsor": "Assemblymember Phil Ting Press Conference- Southwest Side",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "2/28/2024 11:30 AM",
+    "setUpDateTime": "2/28/2024 11:00 AM",
+    "endDateTime": "2/28/2024 12:15 PM",
+    "participants": 20,
+    "details": "Asm Ting will announce new legislation to ban legacy admissions to CA colleges.  This will be on the SouthWest Side closer toward N Street."
+  },
+  {
+    "status": "approved",
+    "number": "2024-330",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10628",
+    "eventSponsor": "California Conference Bay Valley District Prayer Group",
+    "locationOnCapitolGrounds": "Area 22",
+    "startDateTime": "3/21/2024 9:00 AM",
+    "setUpDateTime": "3/21/2024 9:00 AM",
+    "endDateTime": "3/21/2024 12:00 PM",
+    "participants": 20,
+    "details": "Prayer Group will be praying in Sacramento and other State Capitols for governments and communities to have peace and unity for all people"
+  },
+  {
+    "status": "approved",
+    "number": "2024-331",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10629",
+    "eventSponsor": "Asm. Essayli press conference",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "2/29/2024 10:30 AM",
+    "setUpDateTime": "2/29/2024 9:00 AM",
+    "endDateTime": "2/29/2024 12:00 PM",
+    "participants": 40,
+    "details": "Legislative press conference"
+  },
+  {
+    "status": "pending",
+    "number": "2024-332",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10630",
+    "eventSponsor": "Health4All press event",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "3/18/2024 9:00 AM",
+    "setUpDateTime": "3/18/2024 8:00 AM",
+    "endDateTime": "3/18/2024 10:15 AM",
+    "participants": 30,
+    "details": "Press event for the Health4All campaign"
+  },
+  {
+    "status": "pending",
+    "number": "2024-333",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10631",
+    "eventSponsor": "Praise at the Capitol ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "2/25/2024 10:00 AM",
+    "setUpDateTime": "2/25/2024 7:00 AM",
+    "endDateTime": "2/25/2024 10:00 AM",
+    "participants": 100,
+    "details": "Faith-based musical performances by individuals, bands, groups, and choirs through live performances."
   },
   {
     "status": "approved",
@@ -5754,7 +5838,7 @@
     "eventSponsor": "Hope Fest 2024",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "3/23/2024 11:00 AM",
-    "setUpDateTime": "3/23/2024 6:00 AM",
+    "setUpDateTime": "3/22/2024 8:00 AM",
     "endDateTime": "3/23/2024 9:00 PM",
     "participants": 1500,
     "details": "Community Event with entertainment and free resources for families."
@@ -5772,7 +5856,7 @@
     "details": "Eagle Court of Honor"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-86",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10344",
     "eventSponsor": "Moms Demand Action for Gun Sense in America",
