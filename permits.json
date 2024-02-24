@@ -552,7 +552,7 @@
     "details": "Small Wedding ceremony - no reception, will take photos after ceremony."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-515",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9874",
     "eventSponsor": "Walk MS Sacramento",
@@ -2052,14 +2052,14 @@
     "details": "Farmer John is looking to put on a movie night open to the public. The event will involve an inflatable movie screen, free pool floaties and camping chairs for people to sit in, and giant Jenga. We are also planning on working with Parking of Sacramento to park our food truck on 10th St. The food truck will give out free food and non-alcoholic drinks including hot dogs, pretzel dogs and nachos."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-789",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10187",
     "eventSponsor": "Youth Homelessness Address",
-    "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "8/31/2023 4:00 AM",
-    "setUpDateTime": "8/31/2023 4:00 AM",
-    "endDateTime": "8/31/2023 4:00 AM",
+    "locationOnCapitolGrounds": "Area 27, Area 34",
+    "startDateTime": "4/23/2024 11:00 AM",
+    "setUpDateTime": "4/23/2024 10:00 AM",
+    "endDateTime": "4/23/2024 5:00 PM",
     "participants": 300,
     "details": "The California Coalition for Youth will have a youth homelessness address with information, testimonies, and word from invited leadership."
   },
@@ -3582,8 +3582,8 @@
     "eventSponsor": "The Arc of Calif",
     "locationOnCapitolGrounds": "Area 27, Area 34",
     "startDateTime": "4/10/2024 9:00 AM",
-    "setUpDateTime": "4/10/2024 6:00 AM",
-    "endDateTime": "4/10/2024 5:00 PM",
+    "setUpDateTime": "4/9/2024 8:00 AM",
+    "endDateTime": "4/10/2024 6:00 PM",
     "participants": 250,
     "details": "Annual Rally for the Disability population of Calif"
   },
@@ -4045,6 +4045,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-135",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10427",
+    "eventSponsor": "LCHC Advocacy Day- Southwest Side",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/23/2024 8:00 AM",
+    "setUpDateTime": "4/23/2024 7:00 AM",
+    "endDateTime": "4/23/2024 5:00 PM",
+    "participants": 75,
+    "details": "The Latino Coalition for a Healthy California will be hosting an advocacy day for multigenerational Latinos to advance a Latino health equity agenda to address health issues such as data disaggregation for health equity, health access, food access and other health issues.  This will be on the SOUTHWEST side closer to N across from the LOB."
+  },
+  {
+    "status": "approved",
     "number": "2024-136",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10428",
     "eventSponsor": "League of California Cities",
@@ -4083,7 +4095,7 @@
     "status": "approved",
     "number": "2024-140",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10433",
-    "eventSponsor": "Convention of States Lobby Day ",
+    "eventSponsor": "Convention of States Lobby Day- Under the Trees on West",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "3/20/2024 9:00 AM",
     "setUpDateTime": "3/20/2024 8:00 AM",
@@ -4212,14 +4224,14 @@
     "details": "We are requesting for the red sand to be on the cracks of the west wing of the Capitol building for no more than 4 days. We will have 1 or 2 A-frames to describe the project near the sand for people to read on the initiative."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-163",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10459",
     "eventSponsor": "Maxx Zahir ",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "4/1/2024 8:00 AM",
     "setUpDateTime": "4/1/2024 7:00 AM",
-    "endDateTime": "4/1/2024 5:00 PM",
+    "endDateTime": "4/1/2024 7:00 PM",
     "participants": 55,
     "details": "Demonstration highlighting the sharp rise in homeless and mentally dysfunctional population."
   },
@@ -4551,7 +4563,7 @@
     "status": "approved",
     "number": "2024-202",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10498",
-    "eventSponsor": "California Orthotic and Prosthetic Association",
+    "eventSponsor": "California Orthotic and Prosthetic Association- West Steps",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "3/20/2024 10:30 AM",
     "setUpDateTime": "3/20/2024 9:30 AM",
@@ -4563,7 +4575,7 @@
     "status": "approved",
     "number": "2024-203",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10499",
-    "eventSponsor": "Association of CA State Supervisors",
+    "eventSponsor": "Association of CA State Supervisors- Group Photo",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "3/20/2024 9:00 AM",
     "setUpDateTime": "3/20/2024 8:30 AM",
@@ -5052,7 +5064,7 @@
     "details": "A rally - press conference to raise awareness and support for senate bill 50. This will be on the Northwest Side closer toward 10th and L."
   },
   {
-    "status": "approved",
+    "status": "pending",
     "number": "2024-262",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10558",
     "eventSponsor": "Khalistan Referendum by Sikhs For Justice",
@@ -5060,7 +5072,7 @@
     "startDateTime": "3/31/2024 8:00 AM",
     "setUpDateTime": "3/30/2024 7:00 AM",
     "endDateTime": "4/1/2024 12:00 PM",
-    "participants": 750,
+    "participants": 1000,
     "details": "Event is the Polling-Voting in unofficial Khalistan Referendum in which members of American Sikh community will participate to vote on the question of right to self determination. Throughout the day (March 31) people of Sikh community will come and participate in unofficial referendum voting."
   },
   {
@@ -5177,7 +5189,7 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10569",
     "eventSponsor": "CalRTA Legislative Advocacy Day",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "4/4/2024 11:30 AM",
+    "startDateTime": "4/4/2024 12:00 PM",
     "setUpDateTime": "4/4/2024 11:30 AM",
     "endDateTime": "4/4/2024 1:30 PM",
     "participants": 50,
@@ -5256,7 +5268,7 @@
     "details": "Chanting, Meditation, Chariot Festival, Music, Feast"
   },
   {
-    "status": "approved",
+    "status": "pending",
     "number": "2024-283",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10579",
     "eventSponsor": "Religious Ceremony of Sikh Religion ",
@@ -5264,8 +5276,20 @@
     "startDateTime": "3/29/2024 6:00 AM",
     "setUpDateTime": "3/28/2024 2:00 PM",
     "endDateTime": "4/1/2024 12:00 PM",
-    "participants": 300,
+    "participants": 400,
     "details": "Akhand Paath Sahib is the Grand Prayer Ceremony of Sikh religion which runs from Friday till Sunday morning. A group of Sikh priests recites the holy Sikh scripture, the Guru Granth Sahib from beginning to end which lasts (Friday to Sunday morning) The members of the Sikh community continue to come in groups of 50-100 attend the recitation and then leave.  This will be on the West under the trees."
+  },
+  {
+    "status": "approved",
+    "number": "2024-284",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10580",
+    "eventSponsor": "End The Epidemics California",
+    "locationOnCapitolGrounds": "Area 1, Area 5",
+    "startDateTime": "4/23/2024 10:00 AM",
+    "setUpDateTime": "4/23/2024 9:00 AM",
+    "endDateTime": "4/23/2024 1:00 PM",
+    "participants": 125,
+    "details": "End The Epidemics rally HIV, STIs, Viral Hepatitis, and Overdose"
   },
   {
     "status": "approved",
@@ -5628,7 +5652,7 @@
     "details": "Legislative press conference"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-332",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10630",
     "eventSponsor": "Health4All press event",
@@ -5650,6 +5674,54 @@
     "endDateTime": "2/25/2024 10:00 AM",
     "participants": 100,
     "details": "Faith-based musical performances by individuals, bands, groups, and choirs through live performances."
+  },
+  {
+    "status": "approved",
+    "number": "2024-336",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10634",
+    "eventSponsor": "New California State",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "3/1/2024 11:00 AM",
+    "setUpDateTime": "3/1/2024 10:00 AM",
+    "endDateTime": "3/1/2024 12:30 PM",
+    "participants": 100,
+    "details": "New California State Information"
+  },
+  {
+    "status": "approved",
+    "number": "2024-338",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10636",
+    "eventSponsor": "Save Market Match, and Interfaith Sustainable Food Collaborative.  West Steps close to Capitol. ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "3/20/2024 1:00 PM",
+    "setUpDateTime": "3/20/2024 12:30 PM",
+    "endDateTime": "3/20/2024 2:00 PM",
+    "participants": 100,
+    "details": "This is a rally in support of nutrition incentive funding for a Capitol Lobby Day with representatives of farmers markets, farmers and low-income beneficiaries of California State Nutrition Incentive Program Funds.  West Steps close to the Capitol."
+  },
+  {
+    "status": "approved",
+    "number": "2024-339",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10637",
+    "eventSponsor": "Grassroots Lobby Day- Southwest Side closer to N",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "3/4/2024 12:00 PM",
+    "setUpDateTime": "3/4/2024 11:30 AM",
+    "endDateTime": "3/4/2024 1:00 PM",
+    "participants": 30,
+    "details": "Freedom Angels Grassroots Lobby day training then to lobby."
+  },
+  {
+    "status": "approved",
+    "number": "2024-340",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10638",
+    "eventSponsor": "Protect Kids California",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/4/2024 10:00 AM",
+    "setUpDateTime": "4/4/2024 8:00 AM",
+    "endDateTime": "4/4/2024 11:30 AM",
+    "participants": 100,
+    "details": "Rally for Protecting Kids from Gender Intervention.  Guest Speakers from 10am to 11am."
   },
   {
     "status": "approved",
