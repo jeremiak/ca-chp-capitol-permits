@@ -3662,14 +3662,14 @@
   {
     "status": "approved",
     "number": "2023-925",
-    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10387",
-    "eventSponsor": "9th Annual Courage Score Release.  Northwest Side closer to 10th and L.",
-    "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "1/9/2024 11:00 AM",
-    "setUpDateTime": "1/9/2024 10:00 AM",
-    "endDateTime": "1/9/2024 12:30 PM",
-    "participants": 10,
-    "details": "Press conference to announce the release of Courage California's 9th Annual Courage Score (legislative score card)."
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10384",
+    "eventSponsor": "California Denim Day Rally",
+    "locationOnCapitolGrounds": "Area 27, Area 34",
+    "startDateTime": "4/24/2024 9:00 AM",
+    "setUpDateTime": "4/24/2024 8:00 AM",
+    "endDateTime": "4/24/2024 5:00 PM",
+    "participants": 200,
+    "details": "This year, California will be recognizing the 25th anniversary of Denim Day. A day during Sexual Assault Awareness Month dedicated to supporting survivors of sexual violence and calling for an end to sexual assault. VALOR will be inviting legislators, advocates, and community members to gather for a rally where participants will hear from speakers about the importance of preventing and ending sexual violence. Amplified music will be playing. The rally will be from 10-1130am."
   },
   {
     "status": "approved",
@@ -4546,6 +4546,18 @@
     "endDateTime": "3/13/2024 4:00 PM",
     "participants": 300,
     "details": "Utility Workers Are First Responders - Members of the International Brotherhood of Electrical Workers (IBEW) will showcase their work, their risks and the need to be properly trained to perform all work pertaining to utilities and natural gas."
+  },
+  {
+    "status": "approved",
+    "number": "2024-196",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10492",
+    "eventSponsor": "Solidarity rally in support of Ukraine",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/24/2024 7:00 PM",
+    "setUpDateTime": "4/24/2024 6:15 PM",
+    "endDateTime": "4/24/2024 9:45 PM",
+    "participants": 150,
+    "details": "Solidarity Rally in support of Ukraine"
   },
   {
     "status": "approved",
@@ -5724,6 +5736,18 @@
     "details": "Rally for Protecting Kids from Gender Intervention.  Guest Speakers from 10am to 11am."
   },
   {
+    "status": "pending",
+    "number": "2024-341",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10639",
+    "eventSponsor": "Vow exchange",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "3/2/2024 3:00 PM",
+    "setUpDateTime": "3/2/2024 6:00 AM",
+    "endDateTime": "3/2/2024 3:00 PM",
+    "participants": 20,
+    "details": "Brief vow exchange between my fiance and I."
+  },
+  {
     "status": "approved",
     "number": "2024-37",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10147",
@@ -5746,6 +5770,18 @@
     "endDateTime": "4/16/2024 5:00 PM",
     "participants": 200,
     "details": "California Immigrant Policy Center's (CIPC) Annual Immigrant Day of Action"
+  },
+  {
+    "status": "approved",
+    "number": "2024-45",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10211",
+    "eventSponsor": "Caltrans Fallen Workers Memorial",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/25/2024 8:00 AM",
+    "setUpDateTime": "4/24/2024 12:00 PM",
+    "endDateTime": "4/25/2024 6:00 PM",
+    "participants": 600,
+    "details": "Honoring 191 Fallen Caltrans Workers"
   },
   {
     "status": "approved",
