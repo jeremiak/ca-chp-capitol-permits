@@ -4336,11 +4336,11 @@
     "number": "2024-173",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10469",
     "eventSponsor": "Oseguera Wedding",
-    "locationOnCapitolGrounds": "Area 5, Area 22, Area 33",
+    "locationOnCapitolGrounds": "Area 22",
     "startDateTime": "3/1/2024 3:00 PM",
     "setUpDateTime": "3/1/2024 3:00 PM",
     "endDateTime": "3/1/2024 5:00 PM",
-    "participants": 25,
+    "participants": 40,
     "details": "Marriage ceremony"
   },
   {
@@ -4543,7 +4543,7 @@
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "3/13/2024 8:00 AM",
     "setUpDateTime": "3/13/2024 7:00 AM",
-    "endDateTime": "3/13/2024 4:00 PM",
+    "endDateTime": "3/13/2024 6:00 PM",
     "participants": 300,
     "details": "Utility Workers Are First Responders - Members of the International Brotherhood of Electrical Workers (IBEW) will showcase their work, their risks and the need to be properly trained to perform all work pertaining to utilities and natural gas."
   },
@@ -5736,16 +5736,40 @@
     "details": "Rally for Protecting Kids from Gender Intervention.  Guest Speakers from 10am to 11am."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-341",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10639",
     "eventSponsor": "Vow exchange",
     "locationOnCapitolGrounds": "Area 1",
     "startDateTime": "3/2/2024 3:00 PM",
-    "setUpDateTime": "3/2/2024 6:00 AM",
-    "endDateTime": "3/2/2024 3:00 PM",
+    "setUpDateTime": "3/2/2024 3:00 PM",
+    "endDateTime": "3/2/2024 4:00 PM",
     "participants": 20,
     "details": "Brief vow exchange between my fiance and I."
+  },
+  {
+    "status": "pending",
+    "number": "2024-343",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10641",
+    "eventSponsor": "Cease Fire end the Genocide in Gaza",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "3/2/2024 3:30 PM",
+    "setUpDateTime": "3/2/2024 3:00 PM",
+    "endDateTime": "3/2/2024 6:30 PM",
+    "participants": 400,
+    "details": "Protest for Gaza Palestine"
+  },
+  {
+    "status": "pending",
+    "number": "2024-344",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10642",
+    "eventSponsor": " Rally Against Putin's Regim",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "3/17/2024 2:00 PM",
+    "setUpDateTime": "3/17/2024 1:00 PM",
+    "endDateTime": "3/17/2024 5:00 PM",
+    "participants": 200,
+    "details": "The voices of Russian Opposition in Sacramento will gather at the West Steps of the Capitol to demand from the international community to officially recognize president Putin an illegitimate president. The warmongers need to be sanctioned!"
   },
   {
     "status": "approved",
@@ -5802,7 +5826,7 @@
     "eventSponsor": "Aviation Day",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "2/27/2024 10:00 AM",
-    "setUpDateTime": "2/27/2024 6:00 AM",
+    "setUpDateTime": "2/27/2024 8:00 AM",
     "endDateTime": "2/27/2024 2:30 PM",
     "participants": 200,
     "details": "Association of California Airports and the Aviation Caucus host Aviation Day to promote the importance of and the benefits of aviation in California."
