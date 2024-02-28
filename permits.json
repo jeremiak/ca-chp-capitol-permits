@@ -5029,6 +5029,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-258",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10554",
+    "eventSponsor": "BAPS Charities",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/27/2024 10:30 AM",
+    "setUpDateTime": "4/27/2024 9:00 AM",
+    "endDateTime": "4/27/2024 3:00 PM",
+    "participants": 100,
+    "details": "The walk is organized to celebrate the most fundamental element of any community - families - and inspires tens of thousands of people to carry forth the spirit of service. Along with our continuous activities and programs, BAPS Charities is proud to have supported Susan G. Komen and their fight to address breast cancel from multiple fronts."
+  },
+  {
+    "status": "approved",
     "number": "2024-259",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10555",
     "eventSponsor": "Christian Life College Senior Photos",
@@ -5580,6 +5592,18 @@
     "details": "conference of california state university students and faculty.  This will be on the Northwest side under the trees."
   },
   {
+    "status": "approved",
+    "number": "2024-320",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10617",
+    "eventSponsor": "Wedding Ceremony Mathis",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "4/27/2024 1:15 PM",
+    "setUpDateTime": "4/27/2024 12:45 PM",
+    "endDateTime": "4/27/2024 2:30 PM",
+    "participants": 20,
+    "details": "Wedding ceremony"
+  },
+  {
     "status": "pending",
     "number": "2024-322",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10619",
@@ -5772,6 +5796,54 @@
     "details": "The voices of Russian Opposition in Sacramento will gather at the West Steps of the Capitol to demand from the international community to officially recognize president Putin an illegitimate president. The warmongers need to be sanctioned!"
   },
   {
+    "status": "pending",
+    "number": "2024-345",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10643",
+    "eventSponsor": "Aging with Dignity AB 1536 Press Conference with CHIRLA ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "3/1/2024 3:30 PM",
+    "setUpDateTime": "3/1/2024 3:15 PM",
+    "endDateTime": "3/1/2024 4:30 PM",
+    "participants": 20,
+    "details": "CHIRLA and Asm. Juan Carrillo will be gathered on this day to highlight AB 2415."
+  },
+  {
+    "status": "pending",
+    "number": "2024-346",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10644",
+    "eventSponsor": "Sacramento Bus Trip for Education ",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "3/1/2024 7:00 AM",
+    "setUpDateTime": "3/1/2024 6:00 AM",
+    "endDateTime": "3/1/2024 5:00 PM",
+    "participants": 150,
+    "details": "This is Senator Cortese's (Senate District 15) Annual Bus Trip to Sacramento to engage legislators, learn legislative updates, and advocate on several education issues and policies."
+  },
+  {
+    "status": "pending",
+    "number": "2024-348",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10646",
+    "eventSponsor": "Capitol Leadership Awards ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "3/1/2024 5:00 PM",
+    "setUpDateTime": "3/1/2024 2:00 PM",
+    "endDateTime": "3/1/2024 8:30 PM",
+    "participants": 300,
+    "details": "This event will honor high school seniors in SD08 for exhibiting outstanding leadership."
+  },
+  {
+    "status": "pending",
+    "number": "2024-349",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10647",
+    "eventSponsor": "ValorUS",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "3/15/2024 5:00 PM",
+    "setUpDateTime": "3/15/2024 6:00 AM",
+    "endDateTime": "3/15/2024 5:00 PM",
+    "participants": 3,
+    "details": "We would like to request permission to film b-roll footage on the west steps of the Capitol building for a PSA video on behalf of the non-profit organization ValorUS."
+  },
+  {
     "status": "approved",
     "number": "2024-37",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10147",
@@ -5818,6 +5890,18 @@
     "endDateTime": "4/17/2024 4:00 PM",
     "participants": 200,
     "details": "Californians for the Arts (a statewide advocacy 501(c)3 advocacy organization for arts and culture) will organize a press conference and ACCM Advocacy Day rally for citizen advocates. The event will include speakers and performers. Following a roughly 90 minute program the advocates will parade over to meet with various senate and assembly member offices. A smaller group will remain in the park until 4pm as a checkin location for the advocates as they come and go from different meetings.  I am trying to reserve both 4-16 and 4-17 but the system won't seem to let me."
+  },
+  {
+    "status": "approved",
+    "number": "2024-5",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9883",
+    "eventSponsor": "Dan and Larry Marriage Ceremony",
+    "locationOnCapitolGrounds": "Area 1, Area 34",
+    "startDateTime": "4/27/2024 4:30 PM",
+    "setUpDateTime": "4/27/2024 3:00 PM",
+    "endDateTime": "4/27/2024 6:30 PM",
+    "participants": 120,
+    "details": "Marriage ceremony for family and friends. Chairs will be setup. Small string quartet and amplified sound will be held for approximately 1 hour."
   },
   {
     "status": "approved",
