@@ -3937,6 +3937,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-113",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10394",
+    "eventSponsor": "CAIR-CA Muslim Day at the Capitol",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/29/2024 8:00 AM",
+    "setUpDateTime": "4/28/2024 8:00 AM",
+    "endDateTime": "4/29/2024 9:00 PM",
+    "participants": 700,
+    "details": "Muslim Day at the Capitol brings the community member from across the state of CA to come to the capitol to have an opportunity to meet their state legislators to discuss issues of concern and help bring positive change."
+  },
+  {
+    "status": "approved",
     "number": "2024-116",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10397",
     "eventSponsor": "Survivors Speak 2024",
@@ -4621,6 +4633,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-21",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9983",
+    "eventSponsor": "Garcia Wedding ",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "4/28/2024 4:00 PM",
+    "setUpDateTime": "4/28/2024 2:00 PM",
+    "endDateTime": "4/28/2024 6:30 PM",
+    "participants": 65,
+    "details": "wedding ceremony"
+  },
+  {
+    "status": "approved",
     "number": "2024-211",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10507",
     "eventSponsor": "Christian Life College Graduating Photos ",
@@ -5096,7 +5120,7 @@
     "startDateTime": "3/31/2024 8:00 AM",
     "setUpDateTime": "3/30/2024 7:00 AM",
     "endDateTime": "4/1/2024 12:00 PM",
-    "participants": 1000,
+    "participants": 5000,
     "details": "Event is the Polling-Voting in unofficial Khalistan Referendum in which members of American Sikh community will participate to vote on the question of right to self determination. Throughout the day (March 31) people of Sikh community will come and participate in unofficial referendum voting."
   },
   {
@@ -5165,9 +5189,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10565",
     "eventSponsor": "Capitol Advocacy Think Big Promotional Video",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "2/29/2024 1:00 PM",
+    "startDateTime": "2/29/2024 12:00 PM",
     "setUpDateTime": "2/29/2024 12:00 PM",
-    "endDateTime": "2/29/2024 6:00 PM",
+    "endDateTime": "2/29/2024 5:00 PM",
     "participants": 15,
     "details": "We'd like to reserve the front steps of the Capitol to take some video footage of our team."
   },
@@ -5796,14 +5820,14 @@
     "details": "The voices of Russian Opposition in Sacramento will gather at the West Steps of the Capitol to demand from the international community to officially recognize president Putin an illegitimate president. The warmongers need to be sanctioned!"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-345",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10643",
-    "eventSponsor": "Aging with Dignity AB 1536 Press Conference with CHIRLA ",
+    "eventSponsor": "Aging with Dignity AB 1536 Press Conference with CHIRLA Southwest Side",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "3/1/2024 3:30 PM",
-    "setUpDateTime": "3/1/2024 3:15 PM",
-    "endDateTime": "3/1/2024 4:30 PM",
+    "startDateTime": "3/6/2024 12:00 PM",
+    "setUpDateTime": "3/6/2024 11:30 AM",
+    "endDateTime": "3/6/2024 1:00 PM",
     "participants": 20,
     "details": "CHIRLA and Asm. Juan Carrillo will be gathered on this day to highlight AB 2415."
   },
