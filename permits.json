@@ -2652,14 +2652,14 @@
     "details": "Delivery of Scaffolding for Senate Chamber Repair Project. Scaffolding will be brought thru West Doors of Capitol."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-839",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10242",
     "eventSponsor": "Los Angeles LGBT Center Advocacy Day",
-    "locationOnCapitolGrounds": "Area 22, Area 27",
-    "startDateTime": "9/14/2023 10:00 AM",
-    "setUpDateTime": "9/14/2023 8:00 AM",
-    "endDateTime": "9/14/2023 2:00 PM",
+    "locationOnCapitolGrounds": "Area 22",
+    "startDateTime": "4/29/2024 8:30 AM",
+    "setUpDateTime": "4/29/2024 8:00 AM",
+    "endDateTime": "4/29/2024 3:00 PM",
     "participants": 100,
     "details": "The Los Angeles LGBT Center will be hosting volunteers from across the state to come to the capitol to advocate for legislation that impacts the LGBT community. We will be holding a rally at the Capitol to inspire our advocates and fuel them before going to talk to decision makers."
   },
@@ -2978,14 +2978,14 @@
   {
     "status": "approved",
     "number": "2023-867",
-    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10285",
-    "eventSponsor": "Fair Finance Movement",
-    "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "10/15/2023 12:00 PM",
-    "setUpDateTime": "10/15/2023 9:00 AM",
-    "endDateTime": "10/15/2023 3:00 PM",
-    "participants": 50,
-    "details": "Youth are peacefully rallying for fair financial policies at the state level. Info link - tinyurl.com(slash)sacprot"
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10284",
+    "eventSponsor": "Stand Up For The Arts Day",
+    "locationOnCapitolGrounds": "Area 27, Area 34",
+    "startDateTime": "4/30/2024 8:00 AM",
+    "setUpDateTime": "4/30/2024 8:00 AM",
+    "endDateTime": "4/30/2024 8:00 PM",
+    "participants": 250,
+    "details": "This event is to inform the Legislature of the necessity to continue to support the visual and performing arts, including music, in our public school classrooms. Students representing dance, theatre, music and art will be performing on this day."
   },
   {
     "status": "approved",
@@ -3686,14 +3686,14 @@
   {
     "status": "approved",
     "number": "2023-927",
-    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10396",
-    "eventSponsor": "Wiedel Wedding",
-    "locationOnCapitolGrounds": "Area 5",
-    "startDateTime": "4/20/2024 3:00 PM",
-    "setUpDateTime": "4/20/2024 2:00 PM",
-    "endDateTime": "4/20/2024 4:30 PM",
-    "participants": 50,
-    "details": "Wedding ceremony"
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10395",
+    "eventSponsor": "ACLU Action Conference ",
+    "locationOnCapitolGrounds": "Area 1, Area 5",
+    "startDateTime": "4/29/2024 8:00 AM",
+    "setUpDateTime": "4/29/2024 8:00 AM",
+    "endDateTime": "4/29/2024 5:00 PM",
+    "participants": 300,
+    "details": "ACLU California Action will host it's annual Lobby day on priority bills."
   },
   {
     "status": "approved",
@@ -4685,8 +4685,8 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10514",
     "eventSponsor": "F24 Light and Water",
     "locationOnCapitolGrounds": "Area 1, Area 5, Area 22, Area 27, Area 33, Area 34",
-    "startDateTime": "3/30/2024 7:00 AM",
-    "setUpDateTime": "3/29/2024 12:00 PM",
+    "startDateTime": "3/30/2024 8:00 AM",
+    "setUpDateTime": "3/30/2024 8:00 AM",
     "endDateTime": "3/30/2024 1:00 PM",
     "participants": 100,
     "details": "A fashion presentation to kick off Welly Weekend a mental health and wellness festival hosted annually by Light and Water a nonprofit dedicated to cultivating a wellness ecosystem."
@@ -4803,7 +4803,7 @@
     "status": "approved",
     "number": "2024-228",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10524",
-    "eventSponsor": "Planned Parenthood Affilaites of California- Picture",
+    "eventSponsor": "Planned Parenthood Affilaites of California- Picture Southwest Side",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "4/9/2024 1:00 PM",
     "setUpDateTime": "4/9/2024 12:00 PM",
@@ -5580,6 +5580,18 @@
     "details": "5 female scout troops being honored for achieving Eagle Scout status."
   },
   {
+    "status": "approved",
+    "number": "2024-313",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10610",
+    "eventSponsor": "Karma Automotive Day-Southwest Side closer to 10th and N",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/29/2024 9:00 AM",
+    "setUpDateTime": "4/29/2024 8:00 AM",
+    "endDateTime": "4/29/2024 4:00 PM",
+    "participants": 10,
+    "details": "The even will be forming the public on Karma Automotive's new plans for creating clean energy jobs and how they are helping transform California into a new hub for E.V. infrastructure and job creation."
+  },
+  {
     "status": "pending",
     "number": "2024-315",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10612",
@@ -5808,7 +5820,7 @@
     "details": "Protest for Gaza Palestine"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-344",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10642",
     "eventSponsor": " Rally Against Putin's Regim",
@@ -5844,28 +5856,76 @@
     "details": "This is Senator Cortese's (Senate District 15) Annual Bus Trip to Sacramento to engage legislators, learn legislative updates, and advocate on several education issues and policies."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-348",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10646",
-    "eventSponsor": "Capitol Leadership Awards ",
+    "eventSponsor": "Capitol Leadership Awards- West Steps",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "3/1/2024 5:00 PM",
-    "setUpDateTime": "3/1/2024 2:00 PM",
-    "endDateTime": "3/1/2024 8:30 PM",
+    "startDateTime": "4/30/2024 5:00 PM",
+    "setUpDateTime": "4/30/2024 3:00 PM",
+    "endDateTime": "4/30/2024 9:00 PM",
     "participants": 300,
     "details": "This event will honor high school seniors in SD08 for exhibiting outstanding leadership."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-349",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10647",
     "eventSponsor": "ValorUS",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "3/15/2024 5:00 PM",
-    "setUpDateTime": "3/15/2024 6:00 AM",
-    "endDateTime": "3/15/2024 5:00 PM",
+    "startDateTime": "3/15/2024 9:00 AM",
+    "setUpDateTime": "3/15/2024 9:00 AM",
+    "endDateTime": "3/15/2024 3:00 PM",
     "participants": 3,
     "details": "We would like to request permission to film b-roll footage on the west steps of the Capitol building for a PSA video on behalf of the non-profit organization ValorUS."
+  },
+  {
+    "status": "approved",
+    "number": "2024-354",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10652",
+    "eventSponsor": "New California State",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "3/8/2024 10:45 AM",
+    "setUpDateTime": "3/8/2024 10:00 AM",
+    "endDateTime": "3/8/2024 1:00 PM",
+    "participants": 100,
+    "details": "New California State News"
+  },
+  {
+    "status": "approved",
+    "number": "2024-355",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10653",
+    "eventSponsor": "Strategy 6",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "3/6/2024 6:15 PM",
+    "setUpDateTime": "3/6/2024 6:15 PM",
+    "endDateTime": "3/6/2024 8:15 PM",
+    "participants": 50,
+    "details": "Rally in support of political prisoners. Rally against the war with Ukraine."
+  },
+  {
+    "status": "approved",
+    "number": "2024-357",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10655",
+    "eventSponsor": "Welcome Home Vietnam Veterans- Rememberance Jose Ramos 101st Airbourne",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "3/29/2024 11:00 AM",
+    "setUpDateTime": "3/29/2024 10:30 AM",
+    "endDateTime": "3/29/2024 1:30 PM",
+    "participants": 50,
+    "details": "Welcome Home Vietnam Veterans- Remembrance Jose Ramos 101st Airbourne.  Static Displays.  At 12pm is the brief presentation."
+  },
+  {
+    "status": "pending",
+    "number": "2024-358",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10656",
+    "eventSponsor": "Martinez Wedding ",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "3/3/2024 12:00 PM",
+    "setUpDateTime": "3/3/2024 12:00 PM",
+    "endDateTime": "7/27/2024 3:00 PM",
+    "participants": 60,
+    "details": "Have wedding ceremony in the Rose garden and wedding pictures"
   },
   {
     "status": "approved",
@@ -6157,6 +6217,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-91",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10354",
+    "eventSponsor": "Quest for Democracy",
+    "locationOnCapitolGrounds": "Area 27, Area 34",
+    "startDateTime": "4/29/2024 6:45 AM",
+    "setUpDateTime": "4/29/2024 6:00 AM",
+    "endDateTime": "4/29/2024 6:30 PM",
+    "participants": 500,
+    "details": "Annual Advocacy Day for people throughout California"
+  },
+  {
+    "status": "approved",
     "number": "2024-94",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10358",
     "eventSponsor": "Pallet Shelter California Roadshow",
@@ -6178,5 +6250,17 @@
     "endDateTime": "2/13/2024 3:30 PM",
     "participants": 301,
     "details": "The Day of Action will include a press conference, resource sharing, tabling, song and dance, and information sharing for Missing and Murdered Indigenous People. Tribes and Native American groups from across the state will attend, along with lawmakers."
+  },
+  {
+    "status": "pending",
+    "number": "2024-99",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10368",
+    "eventSponsor": "California Hunger Action Coalition Hunger Action Week",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/30/2024 9:30 AM",
+    "setUpDateTime": "4/30/2024 7:00 AM",
+    "endDateTime": "4/30/2024 6:00 PM",
+    "participants": 200,
+    "details": "Anti-hunger advocates statewide gather in Sacramento every year tell their legislators why putting an end to hunger matters. This event is our kick-off for Hunger Action Week and will serve as a space for our rally, community building, and rest in between in-person legislative visits."
   }
 ]
