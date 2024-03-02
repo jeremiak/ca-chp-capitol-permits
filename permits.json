@@ -997,6 +997,18 @@
   },
   {
     "status": "approved",
+    "number": "2023-690",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10073",
+    "eventSponsor": "2024 CalCAPA State Legislative  Advocacy Summit",
+    "locationOnCapitolGrounds": "Area 27, Area 34",
+    "startDateTime": "5/1/2024 8:00 AM",
+    "setUpDateTime": "5/1/2024 6:00 AM",
+    "endDateTime": "5/1/2024 5:00 PM",
+    "participants": 80,
+    "details": "The California Community Action Partnership Association Community Action Agencies will be gathering in the state capitol to celebrate our 60th year anniversary and to meet with their representatives to discuss ongoing legislation and advocacy issues in their counties. We have 60 agencies across all 58 counties of California and envision each agency to have booth space to allow the public to inquire about their work and services, easy transportation to legislative offices and meetings, and overall camaraderie  amongst our Community Action colleagues during the annual Community Action Month."
+  },
+  {
+    "status": "approved",
     "number": "2023-691",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10074",
     "eventSponsor": "Zhina Sacramento",
@@ -3576,7 +3588,7 @@
     "details": "Wedding"
   },
   {
-    "status": "approved",
+    "status": "pending",
     "number": "2023-918",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10373",
     "eventSponsor": "The Arc of Calif",
@@ -3584,7 +3596,7 @@
     "startDateTime": "4/10/2024 9:00 AM",
     "setUpDateTime": "4/9/2024 8:00 AM",
     "endDateTime": "4/10/2024 6:00 PM",
-    "participants": 250,
+    "participants": 200,
     "details": "Annual Rally for the Disability population of Calif"
   },
   {
@@ -3972,7 +3984,7 @@
     "details": "Lobby day for clean energy"
   },
   {
-    "status": "approved",
+    "status": "pending",
     "number": "2024-118",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10399",
     "eventSponsor": "UC Student Association Lobby Conference",
@@ -3980,7 +3992,7 @@
     "startDateTime": "3/11/2024 10:00 AM",
     "setUpDateTime": "3/11/2024 8:00 AM",
     "endDateTime": "3/11/2024 3:00 PM",
-    "participants": 300,
+    "participants": 305,
     "details": "This will be a rally and educational event where students from across the UC system will gather  during their annual Student Lobby Conference."
   },
   {
@@ -4081,6 +4093,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-138",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10431",
+    "eventSponsor": "Missing and Murdered Indigenous People Candlelight Vigil",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/1/2024 7:00 PM",
+    "setUpDateTime": "5/1/2024 4:15 PM",
+    "endDateTime": "5/1/2024 9:45 PM",
+    "participants": 2000,
+    "details": "This will be the Second Annual MMIP Vigil organized by Assemblymember James Ramos. This event is to bring awareness of the Missing and Murdered Indigenous People crisis."
+  },
+  {
+    "status": "approved",
     "number": "2024-139",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10432",
     "eventSponsor": "Freedom to Navalny and all political prisoners in Russia",
@@ -4138,6 +4162,18 @@
     "endDateTime": "3/16/2024 3:30 PM",
     "participants": 100,
     "details": "Interfaith Rally in Solidarity with Unhoused People.  Using fence pieces as art work."
+  },
+  {
+    "status": "approved",
+    "number": "2024-15",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9936",
+    "eventSponsor": "CA Moves Day",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/1/2024 8:00 AM",
+    "setUpDateTime": "5/1/2024 7:00 AM",
+    "endDateTime": "5/1/2024 4:00 PM",
+    "participants": 200,
+    "details": "Promotion of the importance of mental and physical health. Health Fair with booths, fitness demonstrations (yoga, dance) and mental and physical fitness speakers."
   },
   {
     "status": "approved",
@@ -4570,6 +4606,18 @@
     "endDateTime": "4/24/2024 9:45 PM",
     "participants": 150,
     "details": "Solidarity Rally in support of Ukraine"
+  },
+  {
+    "status": "approved",
+    "number": "2024-200",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10496",
+    "eventSponsor": "Missing and Murdered Indigenous People Press Conference",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/1/2024 9:00 AM",
+    "setUpDateTime": "5/1/2024 8:00 AM",
+    "endDateTime": "5/1/2024 11:00 AM",
+    "participants": 30,
+    "details": "Press conference regarding MMIP.  This will be on the southwest corner of Capitol Property closer to 10th and N."
   },
   {
     "status": "approved",
@@ -5556,6 +5604,18 @@
     "details": "We will be hosting a press conference on labor legislation."
   },
   {
+    "status": "approved",
+    "number": "2024-308",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10605",
+    "eventSponsor": "SEIU California ",
+    "locationOnCapitolGrounds": "Area 22, Area 33",
+    "startDateTime": "5/1/2024 8:00 AM",
+    "setUpDateTime": "5/1/2024 7:00 AM",
+    "endDateTime": "5/1/2024 4:00 PM",
+    "participants": 350,
+    "details": "SEIU CA IHSS event with speakers"
+  },
+  {
     "status": "pending",
     "number": "2024-309",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10606",
@@ -5655,8 +5715,8 @@
     "status": "approved",
     "number": "2024-324",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10621",
-    "eventSponsor": "Assembly Republican Caucus",
-    "locationOnCapitolGrounds": "Other",
+    "eventSponsor": "Assembly Republican Caucus- West Steps",
+    "locationOnCapitolGrounds": "West Side",
     "startDateTime": "3/7/2024 11:00 AM",
     "setUpDateTime": "3/7/2024 10:30 AM",
     "endDateTime": "3/7/2024 12:30 PM",
@@ -5881,6 +5941,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-352",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10650",
+    "eventSponsor": "Fresno Association of Realtors ",
+    "locationOnCapitolGrounds": "Area 1, Area 5",
+    "startDateTime": "5/1/2024 10:30 AM",
+    "setUpDateTime": "5/1/2024 6:00 AM",
+    "endDateTime": "5/1/2024 4:00 PM",
+    "participants": 150,
+    "details": "Luncheon Meeting"
+  },
+  {
+    "status": "approved",
     "number": "2024-354",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10652",
     "eventSponsor": "New California State",
@@ -5926,6 +5998,18 @@
     "endDateTime": "7/27/2024 3:00 PM",
     "participants": 60,
     "details": "Have wedding ceremony in the Rose garden and wedding pictures"
+  },
+  {
+    "status": "pending",
+    "number": "2024-359",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10657",
+    "eventSponsor": "Climate Bond",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "3/11/2024 11:00 AM",
+    "setUpDateTime": "3/11/2024 9:00 AM",
+    "endDateTime": "3/11/2024 1:30 PM",
+    "participants": 40,
+    "details": "A press conference with legislators, advocates, and activists urging lawmakers and the governor to put a climate bond on the November ballot."
   },
   {
     "status": "approved",
