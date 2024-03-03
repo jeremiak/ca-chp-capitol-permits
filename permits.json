@@ -661,6 +661,18 @@
   },
   {
     "status": "approved",
+    "number": "2023-557",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9923",
+    "eventSponsor": "CA National Day of Prayer Task Force",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/2/2024 9:00 AM",
+    "setUpDateTime": "5/2/2024 8:00 AM",
+    "endDateTime": "5/2/2024 8:00 PM",
+    "participants": 50,
+    "details": "Official Capitol Observance of the National Day of Prayer.  Beginning with worship groups in the morning then in the afternoon the National observance."
+  },
+  {
+    "status": "approved",
     "number": "2023-56",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9362",
     "eventSponsor": "Paglialunga Wedding",
@@ -4057,6 +4069,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-13",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9930",
+    "eventSponsor": "The Satanic Temple NorCal",
+    "locationOnCapitolGrounds": "Area 1, Area 5",
+    "startDateTime": "5/2/2024 10:00 AM",
+    "setUpDateTime": "5/2/2024 8:00 AM",
+    "endDateTime": "5/2/2024 6:00 PM",
+    "participants": 150,
+    "details": "Speeches, rituals, information tents, performers, and congregating for National day of Prayer. will be in touch about other specifics"
+  },
+  {
+    "status": "approved",
     "number": "2024-134",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10425",
     "eventSponsor": "League of California Cities",
@@ -4558,6 +4582,18 @@
     "endDateTime": "2/24/2024 9:30 PM",
     "participants": 500,
     "details": "We are planning to organise a concert on February 24, to remember the War in Ukraine. We want to invite some famous Ukrainian singers and American politicians."
+  },
+  {
+    "status": "approved",
+    "number": "2024-191",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10487",
+    "eventSponsor": "Sacramento State Alumni Association Capitol Luncheon",
+    "locationOnCapitolGrounds": "Area 22, Area 33",
+    "startDateTime": "5/2/2024 11:30 AM",
+    "setUpDateTime": "5/2/2024 8:30 AM",
+    "endDateTime": "5/2/2024 3:30 PM",
+    "participants": 75,
+    "details": "Sacramento State alumni and friends who work in and around the Capitol, or focused in the area of government, eating and mixing on the Capitol grounds."
   },
   {
     "status": "pending",
