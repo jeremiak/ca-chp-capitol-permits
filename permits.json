@@ -5881,6 +5881,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-34",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10105",
+    "eventSponsor": "Wedding Rehearsal",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "5/3/2024 6:00 PM",
+    "setUpDateTime": "5/3/2024 6:00 PM",
+    "endDateTime": "5/3/2024 8:00 PM",
+    "participants": 25,
+    "details": "Rehearsal for wedding ceremony on 5-4-24"
+  },
+  {
+    "status": "approved",
     "number": "2024-340",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10638",
     "eventSponsor": "Protect Kids California",
