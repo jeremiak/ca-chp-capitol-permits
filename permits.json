@@ -4165,6 +4165,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-143",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10436",
+    "eventSponsor": "\"Our Best Praise Tour\"",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/4/2024 4:00 PM",
+    "setUpDateTime": "5/4/2024 2:00 PM",
+    "endDateTime": "5/4/2024 7:45 PM",
+    "participants": 200,
+    "details": "Gospel concert"
+  },
+  {
+    "status": "approved",
     "number": "2024-146",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10440",
     "eventSponsor": "Association of Independent California Colleges and Universities (AICCU) Southwest Side",
@@ -5196,7 +5208,7 @@
     "details": "A rally - press conference to raise awareness and support for senate bill 50. This will be on the Northwest Side closer toward 10th and L."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-262",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10558",
     "eventSponsor": "Khalistan Referendum by Sikhs For Justice",
@@ -5400,7 +5412,7 @@
     "details": "Chanting, Meditation, Chariot Festival, Music, Feast"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-283",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10579",
     "eventSponsor": "Religious Ceremony of Sikh Religion ",
@@ -5662,6 +5674,18 @@
     "endDateTime": "2/16/2024 2:30 PM",
     "participants": 100,
     "details": "We would like for a LGBTQ Biker Group to ride down capitol mall and have 2 motorcycles allowed on the West steps where a press conference will take prior to our Pride ceremony."
+  },
+  {
+    "status": "approved",
+    "number": "2024-31",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10100",
+    "eventSponsor": "Aysjha and Delvons Wedding Ceremony",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "5/4/2024 4:00 PM",
+    "setUpDateTime": "5/4/2024 9:00 AM",
+    "endDateTime": "5/4/2024 7:00 PM",
+    "participants": 75,
+    "details": "Wedding ceremony"
   },
   {
     "status": "pending",
@@ -6061,6 +6085,54 @@
   },
   {
     "status": "approved",
+    "number": "2024-362",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10660",
+    "eventSponsor": "California Hunger Action Coalition Action Week- Southwest Side ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/30/2024 12:00 PM",
+    "setUpDateTime": "4/30/2024 8:00 AM",
+    "endDateTime": "4/30/2024 5:00 PM",
+    "participants": 200,
+    "details": "The afternoon portion where we will gather and lobby the legislators.  This will be on the Southwest Side closer to N Street."
+  },
+  {
+    "status": "pending",
+    "number": "2024-363",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10661",
+    "eventSponsor": "California Legislative LGBTQ Caucus",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "3/7/2024 12:45 PM",
+    "setUpDateTime": "3/7/2024 12:15 PM",
+    "endDateTime": "3/7/2024 1:00 PM",
+    "participants": 30,
+    "details": "Members of the California Legislative LGBTQ Caucus, families, and friends join the California LGBTQ+ Unity Council in hosting a rally commemorating SR 70 (Atkins) and HR 73 (Zbur)."
+  },
+  {
+    "status": "pending",
+    "number": "2024-364",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10662",
+    "eventSponsor": "Childrens Law Center of California",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "3/9/2024 10:00 AM",
+    "setUpDateTime": "3/9/2024 10:00 AM",
+    "endDateTime": "3/9/2024 2:30 PM",
+    "participants": 7,
+    "details": "Film shoot for our gala video featuring a former client. We will get shots of the person outside the capitol."
+  },
+  {
+    "status": "pending",
+    "number": "2024-366",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10664",
+    "eventSponsor": "Quinceanera ",
+    "locationOnCapitolGrounds": "Area 1, Area 5",
+    "startDateTime": "3/7/2024 11:30 AM",
+    "setUpDateTime": "3/7/2024 11:30 AM",
+    "endDateTime": "3/10/2024 12:45 PM",
+    "participants": 4,
+    "details": "1 Quinceanera birthday girl,  2 parents & 1 sister"
+  },
+  {
+    "status": "approved",
     "number": "2024-37",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10147",
     "eventSponsor": "April 2024 Kids Day at the Capitol",
@@ -6384,14 +6456,14 @@
     "details": "The Day of Action will include a press conference, resource sharing, tabling, song and dance, and information sharing for Missing and Murdered Indigenous People. Tribes and Native American groups from across the state will attend, along with lawmakers."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-99",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10368",
-    "eventSponsor": "California Hunger Action Coalition Hunger Action Week",
+    "eventSponsor": "California Hunger Action Coalition Action Week",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "4/30/2024 9:30 AM",
     "setUpDateTime": "4/30/2024 7:00 AM",
-    "endDateTime": "4/30/2024 6:00 PM",
+    "endDateTime": "4/30/2024 12:00 PM",
     "participants": 200,
     "details": "Anti-hunger advocates statewide gather in Sacramento every year tell their legislators why putting an end to hunger matters. This event is our kick-off for Hunger Action Week and will serve as a space for our rally, community building, and rest in between in-person legislative visits."
   }
