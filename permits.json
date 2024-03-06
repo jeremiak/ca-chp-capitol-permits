@@ -6096,40 +6096,52 @@
     "details": "The afternoon portion where we will gather and lobby the legislators.  This will be on the Southwest Side closer to N Street."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-363",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10661",
-    "eventSponsor": "California Legislative LGBTQ Caucus",
-    "locationOnCapitolGrounds": "Other",
-    "startDateTime": "3/7/2024 12:45 PM",
-    "setUpDateTime": "3/7/2024 12:15 PM",
-    "endDateTime": "3/7/2024 1:00 PM",
+    "eventSponsor": "California Legislative LGBTQ Caucus- Southwest Side",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "3/18/2024 12:45 PM",
+    "setUpDateTime": "3/18/2024 11:00 AM",
+    "endDateTime": "3/18/2024 1:00 PM",
     "participants": 30,
-    "details": "Members of the California Legislative LGBTQ Caucus, families, and friends join the California LGBTQ+ Unity Council in hosting a rally commemorating SR 70 (Atkins) and HR 73 (Zbur)."
+    "details": "Members of the California Legislative LGBTQ Caucus, families, and friends join the California LGBTQ+ Unity Council in hosting a rally commemorating SR 70 (Atkins) and HR 73 (Zbur).  This will be on the Southwest Side."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-364",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10662",
     "eventSponsor": "Childrens Law Center of California",
-    "locationOnCapitolGrounds": "Other",
+    "locationOnCapitolGrounds": "West Side",
     "startDateTime": "3/9/2024 10:00 AM",
     "setUpDateTime": "3/9/2024 10:00 AM",
-    "endDateTime": "3/9/2024 2:30 PM",
+    "endDateTime": "3/9/2024 6:00 PM",
     "participants": 7,
     "details": "Film shoot for our gala video featuring a former client. We will get shots of the person outside the capitol."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-366",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10664",
     "eventSponsor": "Quinceanera ",
     "locationOnCapitolGrounds": "Area 1, Area 5",
-    "startDateTime": "3/7/2024 11:30 AM",
-    "setUpDateTime": "3/7/2024 11:30 AM",
+    "startDateTime": "3/10/2024 11:30 AM",
+    "setUpDateTime": "3/10/2024 10:00 AM",
     "endDateTime": "3/10/2024 12:45 PM",
     "participants": 4,
     "details": "1 Quinceanera birthday girl,  2 parents & 1 sister"
+  },
+  {
+    "status": "pending",
+    "number": "2024-367",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10665",
+    "eventSponsor": "AB 2924 Press Conference",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "3/8/2024 11:00 AM",
+    "setUpDateTime": "3/8/2024 10:30 AM",
+    "endDateTime": "3/8/2024 12:00 PM",
+    "participants": 40,
+    "details": "Press conference in support of AB 2924, a bill to end child marriage in California"
   },
   {
     "status": "approved",
@@ -6214,6 +6226,18 @@
     "endDateTime": "2/24/2024 5:00 PM",
     "participants": 20,
     "details": "We are hoping to gather to celebrate our engagement with a group of friends in Capitol Park for a picnic."
+  },
+  {
+    "status": "approved",
+    "number": "2024-54",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10259",
+    "eventSponsor": "Peace Officer Memorial",
+    "locationOnCapitolGrounds": "West Side, Traffic Circle",
+    "startDateTime": "5/6/2024 9:00 AM",
+    "setUpDateTime": "5/5/2024 8:00 AM",
+    "endDateTime": "5/6/2024 10:00 PM",
+    "participants": 2000,
+    "details": "Peace Officer Memorial. Sunday evening candlelight vigil at Memorial. Monday 1030 step off from West Steps. Honoring families of those who have given the ultimate sacrifice in the protection of those people for the State of California."
   },
   {
     "status": "approved",
