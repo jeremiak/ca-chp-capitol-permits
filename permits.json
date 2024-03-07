@@ -3603,13 +3603,13 @@
     "status": "pending",
     "number": "2023-918",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10373",
-    "eventSponsor": "The Arc of Calif",
-    "locationOnCapitolGrounds": "Area 27, Area 34",
+    "eventSponsor": "The Arc of Calif- Northwest Side",
+    "locationOnCapitolGrounds": "West Side, Area 27, Area 34",
     "startDateTime": "4/10/2024 9:00 AM",
     "setUpDateTime": "4/9/2024 8:00 AM",
     "endDateTime": "4/10/2024 6:00 PM",
     "participants": 200,
-    "details": "Annual Rally for the Disability population of Calif"
+    "details": "Annual Rally for the Disability population of Calif.  This will be on Northwest Side."
   },
   {
     "status": "approved",
@@ -3929,11 +3929,11 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10386",
     "eventSponsor": "Latinos for Jesus and Family Values",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "4/13/2024 1:00 PM",
+    "startDateTime": "4/13/2024 12:00 PM",
     "setUpDateTime": "4/13/2024 8:00 AM",
     "endDateTime": "4/13/2024 6:00 PM",
     "participants": 500,
-    "details": "A peaceful gathering of people to pray for families."
+    "details": "A peaceful gathering of people to pray for families.  Event from 12pm-4pm."
   },
   {
     "status": "approved",
@@ -6132,16 +6132,16 @@
     "details": "1 Quinceanera birthday girl,  2 parents & 1 sister"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-367",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10665",
-    "eventSponsor": "AB 2924 Press Conference",
-    "locationOnCapitolGrounds": "Other",
-    "startDateTime": "3/8/2024 11:00 AM",
-    "setUpDateTime": "3/8/2024 10:30 AM",
-    "endDateTime": "3/8/2024 12:00 PM",
+    "eventSponsor": "AB 2924 Press Conference- Southwest Side",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "3/19/2024 11:00 AM",
+    "setUpDateTime": "3/19/2024 10:30 AM",
+    "endDateTime": "3/19/2024 12:00 PM",
     "participants": 40,
-    "details": "Press conference in support of AB 2924, a bill to end child marriage in California"
+    "details": "Press conference in support of AB 2924, a bill to end child marriage in California.  This will be on the Southwest Side."
   },
   {
     "status": "approved",
@@ -6197,8 +6197,8 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9883",
     "eventSponsor": "Dan and Larry Marriage Ceremony",
     "locationOnCapitolGrounds": "Area 1, Area 34",
-    "startDateTime": "4/27/2024 4:30 PM",
-    "setUpDateTime": "4/27/2024 3:00 PM",
+    "startDateTime": "4/27/2024 4:00 PM",
+    "setUpDateTime": "4/27/2024 2:30 PM",
     "endDateTime": "4/27/2024 6:30 PM",
     "participants": 120,
     "details": "Marriage ceremony for family and friends. Chairs will be setup. Small string quartet and amplified sound will be held for approximately 1 hour."
