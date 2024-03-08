@@ -649,6 +649,18 @@
   },
   {
     "status": "approved",
+    "number": "2023-545",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9911",
+    "eventSponsor": "Vision y Compromiso March and Rally",
+    "locationOnCapitolGrounds": "Area 27",
+    "startDateTime": "5/7/2024 8:00 AM",
+    "setUpDateTime": "5/7/2024 8:00 AM",
+    "endDateTime": "5/7/2024 2:00 PM",
+    "participants": 100,
+    "details": "March at 900 am from L and 15th Street t Capitol followed by Rally at 1000 am with Legislators. Box lunches served at 1130 - 100 pm for participants"
+  },
+  {
+    "status": "approved",
     "number": "2023-553",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9919",
     "eventSponsor": "Monique and Michael Commitment Ceremony",
@@ -730,6 +742,18 @@
     "endDateTime": "10/5/2023 3:30 PM",
     "participants": 500,
     "details": "Our Capitol Charitable Campaign Kick Off Event with over 100 non-profits representing to share ways State Workers can donate."
+  },
+  {
+    "status": "approved",
+    "number": "2023-578",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9950",
+    "eventSponsor": "Nurse Rally for Nurses Week-United Nurses Associations of CA",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/7/2024 10:00 AM",
+    "setUpDateTime": "5/7/2024 6:00 AM",
+    "endDateTime": "5/7/2024 1:00 PM",
+    "participants": 500,
+    "details": "Rally regarding our legislative priorities for National Nurses Week"
   },
   {
     "status": "approved",
@@ -3600,16 +3624,16 @@
     "details": "Wedding"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-918",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10373",
-    "eventSponsor": "The Arc of Calif- Northwest Side",
+    "eventSponsor": "The Arc of Calif- Southwest Side",
     "locationOnCapitolGrounds": "West Side, Area 27, Area 34",
     "startDateTime": "4/10/2024 9:00 AM",
     "setUpDateTime": "4/9/2024 8:00 AM",
     "endDateTime": "4/10/2024 6:00 PM",
     "participants": 200,
-    "details": "Annual Rally for the Disability population of Calif.  This will be on Northwest Side."
+    "details": "Annual Rally for the Disability population of Calif.  This will be on Southwest Side."
   },
   {
     "status": "approved",
@@ -3996,14 +4020,14 @@
     "details": "Lobby day for clean energy"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-118",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10399",
     "eventSponsor": "UC Student Association Lobby Conference",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "3/11/2024 10:00 AM",
-    "setUpDateTime": "3/11/2024 8:00 AM",
-    "endDateTime": "3/11/2024 3:00 PM",
+    "setUpDateTime": "3/11/2024 9:00 AM",
+    "endDateTime": "3/11/2024 12:00 PM",
     "participants": 305,
     "details": "This will be a rally and educational event where students from across the UC system will gather  during their annual Student Lobby Conference."
   },
@@ -4719,13 +4743,13 @@
     "status": "approved",
     "number": "2024-208",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10504",
-    "eventSponsor": "PCOC Legislative Days.  This will be on the Southwest Side closer to 10th and N.",
+    "eventSponsor": "PCOC Legislative Days.  This will be on the Northwest Side closer to L on the West Side.",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "4/10/2024 9:00 AM",
     "setUpDateTime": "4/10/2024 8:00 AM",
     "endDateTime": "4/10/2024 4:00 PM",
     "participants": 100,
-    "details": "Pest Control Operators of California Legislative Days, interactive exhibit to highlight industry and engage with elected officials and the public"
+    "details": "Pest Control Operators of California Legislative Days, interactive exhibit to highlight industry and engage with elected officials and the public.  This will be on the West Side closer to L Street."
   },
   {
     "status": "approved",
@@ -4750,6 +4774,18 @@
     "endDateTime": "2/3/2024 2:30 PM",
     "participants": 50,
     "details": "Senior photos for the 2024 graduating class from Christian Life College. No food, beverages, or extra items will be used other than a camera."
+  },
+  {
+    "status": "approved",
+    "number": "2024-213",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10509",
+    "eventSponsor": "California Ocean Day",
+    "locationOnCapitolGrounds": "Area 34",
+    "startDateTime": "5/7/2024 9:00 AM",
+    "setUpDateTime": "5/7/2024 7:00 AM",
+    "endDateTime": "5/7/2024 5:00 PM",
+    "participants": 100,
+    "details": "California Ocean Day is an annual event that started in 2005. Environmental groups bring together elected officials and ocean-loving Californians to stand up for our ocean. (Main Groups involved Environment California, Monterey Bay Aquarium, Surfrider, Azul, COARE, CSU COAST, CALPIRG Students)"
   },
   {
     "status": "approved",
@@ -6077,9 +6113,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10657",
     "eventSponsor": "Climate Bond",
     "locationOnCapitolGrounds": "Other",
-    "startDateTime": "3/11/2024 11:00 AM",
-    "setUpDateTime": "3/11/2024 9:00 AM",
-    "endDateTime": "3/11/2024 1:30 PM",
+    "startDateTime": "3/22/2024 4:00 AM",
+    "setUpDateTime": "3/22/2024 4:00 AM",
+    "endDateTime": "3/22/2024 4:00 AM",
     "participants": 40,
     "details": "A press conference with legislators, advocates, and activists urging lawmakers and the governor to put a climate bond on the November ballot."
   },
@@ -6142,6 +6178,30 @@
     "endDateTime": "3/19/2024 12:00 PM",
     "participants": 40,
     "details": "Press conference in support of AB 2924, a bill to end child marriage in California.  This will be on the Southwest Side."
+  },
+  {
+    "status": "approved",
+    "number": "2024-368",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10666",
+    "eventSponsor": "Press conference for bill introduction. Southwest Side.",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "3/21/2024 10:00 AM",
+    "setUpDateTime": "3/21/2024 9:30 AM",
+    "endDateTime": "3/21/2024 11:30 AM",
+    "participants": 50,
+    "details": "Assemblymember Nguyen would like to hold a press conference to speak on ACR 150 and AB 3156 in conjunction with Assemblymember Joe Patterson.  This will be on the southwest side."
+  },
+  {
+    "status": "pending",
+    "number": "2024-369",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10667",
+    "eventSponsor": "Health4All press event",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/8/2024 1:45 PM",
+    "setUpDateTime": "4/8/2024 1:15 PM",
+    "endDateTime": "4/8/2024 3:00 PM",
+    "participants": 50,
+    "details": "Health4All Coalition press event"
   },
   {
     "status": "approved",
@@ -6466,6 +6526,18 @@
     "endDateTime": "1/10/2024 6:00 PM",
     "participants": 40,
     "details": "Pallet Shelter will be having an open house for their shelter homes, which will be situated on a truck (with small stairs leading in) potentially on 10th Street.  We may have a pop up tent on the far west side near 10th and the display,"
+  },
+  {
+    "status": "approved",
+    "number": "2024-95",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10359",
+    "eventSponsor": "American Heart Association Heart at the Capitol Day",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/7/2024 8:00 AM",
+    "setUpDateTime": "5/7/2024 6:00 AM",
+    "endDateTime": "5/7/2024 3:30 PM",
+    "participants": 200,
+    "details": "Bringing volunteers to the Capitol to meet with lawmakers regarding our legislative agenda surrounding Heart Health.  This will be on the southwest side closer toward 10th and N Street."
   },
   {
     "status": "approved",
