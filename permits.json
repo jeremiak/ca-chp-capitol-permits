@@ -829,6 +829,18 @@
   },
   {
     "status": "approved",
+    "number": "2023-591",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9965",
+    "eventSponsor": "Stand For Children Day",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/8/2024 9:00 AM",
+    "setUpDateTime": "5/8/2024 7:00 AM",
+    "endDateTime": "5/8/2024 5:00 PM",
+    "participants": 500,
+    "details": "Parent Voices' annual rally for affordable child care."
+  },
+  {
+    "status": "approved",
     "number": "2023-593",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9968",
     "eventSponsor": "California Latino Capitol Association Foundation ",
@@ -5629,6 +5641,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-300",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10597",
+    "eventSponsor": "Capitol Frog Jump- Southwest Side",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/8/2024 12:00 PM",
+    "setUpDateTime": "5/8/2024 10:00 AM",
+    "endDateTime": "5/8/2024 2:30 PM",
+    "participants": 75,
+    "details": "Annual frog jump competition preceding the Calaveras County Fair Opening on May 16."
+  },
+  {
+    "status": "approved",
     "number": "2024-302",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10599",
     "eventSponsor": "Jesuits West California Advocacy Day- Southwest Side",
@@ -5902,6 +5926,18 @@
     "endDateTime": "2/25/2024 10:00 AM",
     "participants": 100,
     "details": "Faith-based musical performances by individuals, bands, groups, and choirs through live performances."
+  },
+  {
+    "status": "pending",
+    "number": "2024-334",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10632",
+    "eventSponsor": "Black Conservation League ",
+    "locationOnCapitolGrounds": "Area 27",
+    "startDateTime": "5/8/2024 5:00 PM",
+    "setUpDateTime": "5/8/2024 2:00 PM",
+    "endDateTime": "5/8/2024 7:00 PM",
+    "participants": 100,
+    "details": "Welcome back reception, honoring 40 acres conservation league"
   },
   {
     "status": "approved",
@@ -6192,7 +6228,7 @@
     "details": "Assemblymember Nguyen would like to hold a press conference to speak on ACR 150 and AB 3156 in conjunction with Assemblymember Joe Patterson.  This will be on the southwest side."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-369",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10667",
     "eventSponsor": "Health4All press event",
@@ -6214,6 +6250,42 @@
     "endDateTime": "4/18/2024 5:00 PM",
     "participants": 1000,
     "details": "During the month of April and throughout the year, the Office of Child Abuse Prevention and the California Department of Social Services encourages organizations to promote child abuse and neglect prevention across California. The OCAP and The Child Abuse Prevention Center are hosting Kids Day at the Capitol on Thursday, April 18, 2024 from 10 a.m. to 2 p.m. The event will include guest speakers, performances and various activities for youth and children. Numerous statewide public agencies and their partnering organizations will host individual booths providing information about programs, services and resources that strengthen families."
+  },
+  {
+    "status": "pending",
+    "number": "2024-371",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10671",
+    "eventSponsor": "Promote the Vote CA Voter Registration Drive",
+    "locationOnCapitolGrounds": "Area 5, Area 27, Area 34",
+    "startDateTime": "3/11/2024 11:00 AM",
+    "setUpDateTime": "3/11/2024 10:00 AM",
+    "endDateTime": "3/11/2024 2:00 PM",
+    "participants": 100,
+    "details": "The CA Secretary of State is launching a new voter outreach program. This event will be a voter registration drive at the Capitol to encourage voter registration and provide educational information about voting and elections. The event will consist of a few staff members setting up the Secretary of State pop-up tent, having registration cards and voting information available, and provide the opportunity for the SOS staff to engage with voters and potential voters."
+  },
+  {
+    "status": "pending",
+    "number": "2024-372",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10672",
+    "eventSponsor": "Promote the Vote CA Voter Registration Drive",
+    "locationOnCapitolGrounds": "Area 22, Area 33",
+    "startDateTime": "3/11/2024 11:00 AM",
+    "setUpDateTime": "3/11/2024 10:00 AM",
+    "endDateTime": "3/11/2024 2:00 PM",
+    "participants": 100,
+    "details": "The CA Secretary of State is launching a new voter education and outreach program. This event will be a voter registration drive to provide people with information about voting and elections. It will consist of SOS staff putting up the popup tent and having voter registration cards available, as well as engaging with voters and potential voters to answer questions about the new program, voting and elections."
+  },
+  {
+    "status": "pending",
+    "number": "2024-373",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10673",
+    "eventSponsor": "American Business Immigration Coaltion Action and American Families United",
+    "locationOnCapitolGrounds": "West Side, Area 1, Area 5, Area 22, Area 27, Area 33, Area 34",
+    "startDateTime": "3/15/2024 10:30 AM",
+    "setUpDateTime": "3/15/2024 9:45 AM",
+    "endDateTime": "3/15/2024 11:30 AM",
+    "participants": 30,
+    "details": "A press conference with business leaders and California U.S. Citzen spouses of long-term immigrants to highlight the impact that family separation has had on our communities and to urge President Biden to use his executive authority to grant parole to the undocumented spouses of U.S. Citizens."
   },
   {
     "status": "approved",
@@ -6334,6 +6406,18 @@
     "endDateTime": "3/12/2024 3:00 PM",
     "participants": 150,
     "details": "CCBA hosting a Legislative Reception"
+  },
+  {
+    "status": "approved",
+    "number": "2024-63",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10290",
+    "eventSponsor": "State Scientist Day",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/9/2024 7:00 AM",
+    "setUpDateTime": "5/8/2024 3:00 PM",
+    "endDateTime": "5/9/2024 6:00 PM",
+    "participants": 3000,
+    "details": "State Scientist Day is the annual event held by the California Association of Professional Scientists (CAPS) to highlight the important work that State-employed scientists do every day to protect the State of California. CAPS invites schools from around the area to participate in all the hands-on exhibits, staffed by real-life State Scientists to engage kids in the hands-on, engaging excitement of science!"
   },
   {
     "status": "approved",
