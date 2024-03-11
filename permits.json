@@ -4825,6 +4825,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-217",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10513",
+    "eventSponsor": "Wedding Ceremony ",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "5/10/2024 2:00 PM",
+    "setUpDateTime": "5/10/2024 1:00 PM",
+    "endDateTime": "5/10/2024 4:00 PM",
+    "participants": 40,
+    "details": "A small wedding ceremony, possibly max 40(could be less) people all together. Ceremony will only last about 15 minutes max. Only music to be played is for bride to walk down the aisle to. After ceremony we would like to take pictures with our photographer around the gardens, unsure of how long that will take but will not surpass our time limit."
+  },
+  {
+    "status": "approved",
     "number": "2024-218",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10514",
     "eventSponsor": "F24 Light and Water",
@@ -6286,6 +6298,30 @@
     "endDateTime": "3/15/2024 11:30 AM",
     "participants": 30,
     "details": "A press conference with business leaders and California U.S. Citzen spouses of long-term immigrants to highlight the impact that family separation has had on our communities and to urge President Biden to use his executive authority to grant parole to the undocumented spouses of U.S. Citizens."
+  },
+  {
+    "status": "pending",
+    "number": "2024-375",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10675",
+    "eventSponsor": "International Falsely Accused Day",
+    "locationOnCapitolGrounds": "Advocates for the Falsely Accused",
+    "startDateTime": "3/13/2024 11:00 AM",
+    "setUpDateTime": "3/13/2024 9:00 AM",
+    "endDateTime": "3/13/2024 3:00 PM",
+    "participants": 25,
+    "details": "International Falsely Accused Day - speakers, music and literature to raise awareness of the prevalence of false accusations in our legal system and offer support to the falsely accused."
+  },
+  {
+    "status": "pending",
+    "number": "2024-376",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10676",
+    "eventSponsor": "Wedding Elopement Ceremony",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "3/13/2024 5:45 PM",
+    "setUpDateTime": "3/13/2024 5:45 PM",
+    "endDateTime": "3/13/2024 6:30 PM",
+    "participants": 12,
+    "details": "Wedding elopement ceremony with bride and groom and immediate families in the world peace rose garden. No chairs or decorations."
   },
   {
     "status": "approved",
