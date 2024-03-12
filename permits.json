@@ -5725,6 +5725,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-307",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10604",
+    "eventSponsor": "Kendall Wedding Vows",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "5/11/2024 3:30 PM",
+    "setUpDateTime": "5/11/2024 2:30 PM",
+    "endDateTime": "5/11/2024 5:30 PM",
+    "participants": 40,
+    "details": "Emily Swinsick and Travis Kendall will be saying their wedding vows under the eucalyptus trees. We will have 35 guests and may or may not have seats. There will be minimal decor if any."
+  },
+  {
+    "status": "approved",
     "number": "2024-308",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10605",
     "eventSponsor": "SEIU California ",
@@ -5760,14 +5772,14 @@
     "details": "Wedding ceremony"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-310",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10607",
     "eventSponsor": "BSA Scout Troop 1625 ",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "2/16/2024 10:00 AM",
-    "setUpDateTime": "2/16/2024 9:00 AM",
-    "endDateTime": "2/16/2024 12:00 PM",
+    "startDateTime": "5/11/2024 9:00 AM",
+    "setUpDateTime": "5/11/2024 8:30 AM",
+    "endDateTime": "5/11/2024 12:00 PM",
     "participants": 100,
     "details": "5 female scout troops being honored for achieving Eagle Scout status."
   },
@@ -5878,6 +5890,18 @@
     "endDateTime": "3/22/2024 9:45 PM",
     "participants": 50,
     "details": "Hope Fest 2024 - Set up of stage & sound."
+  },
+  {
+    "status": "approved",
+    "number": "2024-328",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10626",
+    "eventSponsor": "VSA Bikeathon 2024",
+    "locationOnCapitolGrounds": "Area 5",
+    "startDateTime": "5/11/2024 11:00 AM",
+    "setUpDateTime": "5/11/2024 10:00 AM",
+    "endDateTime": "5/11/2024 3:00 PM",
+    "participants": 50,
+    "details": "The Vietnamese Student Association is hosting our annual bikathon event where bikers will bike from Davis to the Capital in Sacramento and then back to Davis. Bikers will be accompanied by drivers and volunteers for support."
   },
   {
     "status": "approved",
@@ -6008,7 +6032,7 @@
     "startDateTime": "4/4/2024 10:00 AM",
     "setUpDateTime": "4/4/2024 8:00 AM",
     "endDateTime": "4/4/2024 11:30 AM",
-    "participants": 100,
+    "participants": 250,
     "details": "Rally for Protecting Kids from Gender Intervention.  Guest Speakers from 10am to 11am."
   },
   {
@@ -6161,9 +6185,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10657",
     "eventSponsor": "Climate Bond",
     "locationOnCapitolGrounds": "Other",
-    "startDateTime": "3/22/2024 4:00 AM",
-    "setUpDateTime": "3/22/2024 4:00 AM",
-    "endDateTime": "3/22/2024 4:00 AM",
+    "startDateTime": "4/27/2024 4:00 AM",
+    "setUpDateTime": "4/27/2024 4:00 AM",
+    "endDateTime": "4/27/2024 4:00 AM",
     "participants": 40,
     "details": "A press conference with legislators, advocates, and activists urging lawmakers and the governor to put a climate bond on the November ballot."
   },
@@ -6288,7 +6312,7 @@
     "details": "The CA Secretary of State is launching a new voter education and outreach program. This event will be a voter registration drive to provide people with information about voting and elections. It will consist of SOS staff putting up the popup tent and having voter registration cards available, as well as engaging with voters and potential voters to answer questions about the new program, voting and elections."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-373",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10673",
     "eventSponsor": "American Business Immigration Coaltion Action and American Families United",
@@ -6305,9 +6329,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10675",
     "eventSponsor": "International Falsely Accused Day",
     "locationOnCapitolGrounds": "Advocates for the Falsely Accused",
-    "startDateTime": "3/13/2024 11:00 AM",
-    "setUpDateTime": "3/13/2024 9:00 AM",
-    "endDateTime": "3/13/2024 3:00 PM",
+    "startDateTime": "3/30/2024 4:00 AM",
+    "setUpDateTime": "3/30/2024 4:00 AM",
+    "endDateTime": "3/30/2024 4:00 AM",
     "participants": 25,
     "details": "International Falsely Accused Day - speakers, music and literature to raise awareness of the prevalence of false accusations in our legal system and offer support to the falsely accused."
   },
@@ -6317,11 +6341,47 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10676",
     "eventSponsor": "Wedding Elopement Ceremony",
     "locationOnCapitolGrounds": "Area 1",
-    "startDateTime": "3/13/2024 5:45 PM",
-    "setUpDateTime": "3/13/2024 5:45 PM",
-    "endDateTime": "3/13/2024 6:30 PM",
+    "startDateTime": "3/30/2024 4:00 AM",
+    "setUpDateTime": "3/30/2024 4:00 AM",
+    "endDateTime": "3/30/2024 4:00 AM",
     "participants": 12,
     "details": "Wedding elopement ceremony with bride and groom and immediate families in the world peace rose garden. No chairs or decorations."
+  },
+  {
+    "status": "pending",
+    "number": "2024-377",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10677",
+    "eventSponsor": "SB 268 Press Conference",
+    "locationOnCapitolGrounds": "National Sexual Assault Awareness Month ",
+    "startDateTime": "4/24/2024 10:00 AM",
+    "setUpDateTime": "4/24/2024 8:45 AM",
+    "endDateTime": "4/24/2024 11:00 AM",
+    "participants": 50,
+    "details": "This press conference will focus on what SB 268 would do when passed, with regard to making the rape of an intoxicated person a violent felony. This press conference is also going to be tied to National Sexual Assault Awareness Month - the Sacramento County Sheriff is expected to speak along with Senator Marie Alvarado-Gil and other members."
+  },
+  {
+    "status": "pending",
+    "number": "2024-379",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10679",
+    "eventSponsor": "Strategy 6",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/6/2024 5:30 PM",
+    "setUpDateTime": "4/6/2024 5:15 PM",
+    "endDateTime": "4/6/2024 7:15 PM",
+    "participants": 50,
+    "details": "A rally in support of political prisoners and a rally against the war."
+  },
+  {
+    "status": "pending",
+    "number": "2024-380",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10680",
+    "eventSponsor": "Christians Lenten Pilgrimage for Gaza",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "3/24/2024 3:00 PM",
+    "setUpDateTime": "3/24/2024 3:00 PM",
+    "endDateTime": "3/24/2024 3:00 PM",
+    "participants": 40,
+    "details": "Lenten gathering and pilgrimage in support of Palestinian Christians.  No loudspeakers or chanting. Prayers by local ministers. Testimony by families."
   },
   {
     "status": "approved",
@@ -6438,7 +6498,7 @@
     "eventSponsor": "California Craft Brewers Association Southwest Side",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "3/12/2024 12:00 PM",
-    "setUpDateTime": "3/12/2024 8:00 AM",
+    "setUpDateTime": "3/12/2024 7:00 AM",
     "endDateTime": "3/12/2024 3:00 PM",
     "participants": 150,
     "details": "CCBA hosting a Legislative Reception"
