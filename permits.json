@@ -4121,9 +4121,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10425",
     "eventSponsor": "League of California Cities",
     "locationOnCapitolGrounds": "Area 22, Area 33",
-    "startDateTime": "4/17/2024 10:00 AM",
-    "setUpDateTime": "4/17/2024 8:15 AM",
-    "endDateTime": "4/17/2024 12:00 PM",
+    "startDateTime": "4/17/2024 11:30 AM",
+    "setUpDateTime": "4/17/2024 10:00 AM",
+    "endDateTime": "4/17/2024 1:00 PM",
     "participants": 120,
     "details": "Member rally in support of city advocacy -- media is invited."
   },
@@ -4143,11 +4143,11 @@
     "status": "approved",
     "number": "2024-136",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10428",
-    "eventSponsor": "League of California Cities",
+    "eventSponsor": "League of California Cities- Southwest Side",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "4/18/2024 10:00 AM",
-    "setUpDateTime": "4/18/2024 8:00 AM",
-    "endDateTime": "4/18/2024 12:00 PM",
+    "startDateTime": "4/18/2024 11:30 AM",
+    "setUpDateTime": "4/18/2024 10:00 AM",
+    "endDateTime": "4/18/2024 1:00 PM",
     "participants": 120,
     "details": "Member rally with press invited.  This will be on the SOUTHWEST side near N Street across from the LOB."
   },
@@ -4236,7 +4236,7 @@
     "details": "Interfaith Rally in Solidarity with Unhoused People.  Using fence pieces as art work."
   },
   {
-    "status": "approved",
+    "status": "pending",
     "number": "2024-15",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9936",
     "eventSponsor": "CA Moves Day",
@@ -6101,10 +6101,10 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10646",
     "eventSponsor": "Capitol Leadership Awards- West Steps",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "4/30/2024 5:00 PM",
-    "setUpDateTime": "4/30/2024 3:00 PM",
-    "endDateTime": "4/30/2024 9:00 PM",
-    "participants": 300,
+    "startDateTime": "4/25/2024 5:00 PM",
+    "setUpDateTime": "4/25/2024 3:00 PM",
+    "endDateTime": "4/25/2024 9:00 PM",
+    "participants": 301,
     "details": "This event will honor high school seniors in SD08 for exhibiting outstanding leadership."
   },
   {
@@ -6382,6 +6382,30 @@
     "endDateTime": "3/24/2024 3:00 PM",
     "participants": 40,
     "details": "Lenten gathering and pilgrimage in support of Palestinian Christians.  No loudspeakers or chanting. Prayers by local ministers. Testimony by families."
+  },
+  {
+    "status": "pending",
+    "number": "2024-381",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10681",
+    "eventSponsor": "ACA 16 Press Conference",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "3/15/2024 12:15 PM",
+    "setUpDateTime": "3/15/2024 12:15 PM",
+    "endDateTime": "3/15/2024 1:15 PM",
+    "participants": 150,
+    "details": "This is going to be a Press Conference for ACA 16. This is a Constitutional Amendment that will be heard in the Natural Resources that same day."
+  },
+  {
+    "status": "pending",
+    "number": "2024-384",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10684",
+    "eventSponsor": "Wedding ",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "3/15/2024 1:00 PM",
+    "setUpDateTime": "3/15/2024 11:00 AM",
+    "endDateTime": "3/15/2024 3:00 PM",
+    "participants": 100,
+    "details": "Wedding event"
   },
   {
     "status": "approved",
