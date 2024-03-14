@@ -3640,12 +3640,12 @@
     "number": "2023-918",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10373",
     "eventSponsor": "The Arc of Calif- Southwest Side",
-    "locationOnCapitolGrounds": "West Side, Area 27, Area 34",
+    "locationOnCapitolGrounds": "West Side",
     "startDateTime": "4/10/2024 9:00 AM",
     "setUpDateTime": "4/9/2024 8:00 AM",
     "endDateTime": "4/10/2024 6:00 PM",
     "participants": 200,
-    "details": "Annual Rally for the Disability population of Calif.  This will be on Southwest Side."
+    "details": "Annual Rally for the Disability population of Calif.  This will be on Southwest Side toward 10th and N."
   },
   {
     "status": "approved",
@@ -4057,6 +4057,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-121",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10403",
+    "eventSponsor": "LGBTQ Press Conference",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/13/2024 11:00 AM",
+    "setUpDateTime": "5/13/2024 9:00 AM",
+    "endDateTime": "5/13/2024 1:00 PM",
+    "participants": 100,
+    "details": "LGBTQ Advocacy Day brings together LGBTQ community members, organizations and allies to advocate for legislation that will positively impact LGBTQ Californians."
+  },
+  {
+    "status": "approved",
     "number": "2024-122",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10404",
     "eventSponsor": "LGBTQ Advocacy Day",
@@ -4182,7 +4194,7 @@
     "eventSponsor": "American Cancer Society Cancer Action Network Lobby Day",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "4/10/2024 8:00 AM",
-    "setUpDateTime": "4/9/2024 12:00 PM",
+    "setUpDateTime": "4/9/2024 8:00 AM",
     "endDateTime": "4/10/2024 5:00 PM",
     "participants": 130,
     "details": "This is our annual Capitol Day Event"
@@ -4236,7 +4248,7 @@
     "details": "Interfaith Rally in Solidarity with Unhoused People.  Using fence pieces as art work."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-15",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9936",
     "eventSponsor": "CA Moves Day",
@@ -5009,10 +5021,10 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10528",
     "eventSponsor": "Detrans Awareness day",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "3/14/2024 11:00 AM",
-    "setUpDateTime": "3/14/2024 8:30 AM",
-    "endDateTime": "3/14/2024 3:00 PM",
-    "participants": 250,
+    "startDateTime": "3/14/2024 12:00 PM",
+    "setUpDateTime": "3/14/2024 10:00 AM",
+    "endDateTime": "3/14/2024 2:00 PM",
+    "participants": 100,
     "details": "Rally for celebration of detransitioners"
   },
   {
@@ -5050,6 +5062,18 @@
     "endDateTime": "1/25/2024 2:30 PM",
     "participants": 3,
     "details": "Capturing the life of a Spain born person now in California."
+  },
+  {
+    "status": "approved",
+    "number": "2024-24",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10021",
+    "eventSponsor": "CNA California Lobby Day ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/14/2024 8:00 AM",
+    "setUpDateTime": "5/13/2024 8:00 AM",
+    "endDateTime": "5/14/2024 7:00 PM",
+    "participants": 300,
+    "details": "Nurses meeting with member of state assembly. Similar to 2023, we will have a tent, tables for lunch, and a stage for speeches. Actual event is until 3pm then clean up."
   },
   {
     "status": "approved",
@@ -6133,6 +6157,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-353",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10651",
+    "eventSponsor": "Bigelow Wedding",
+    "locationOnCapitolGrounds": "Area 22, Area 27",
+    "startDateTime": "5/13/2024 1:00 PM",
+    "setUpDateTime": "5/13/2024 11:00 AM",
+    "endDateTime": "5/13/2024 4:00 PM",
+    "participants": 50,
+    "details": "Small intimate wedding near Memorial Grove by the bell and statue that says This Grove of Trees. 50 people would include all guests, photographer and officiant."
+  },
+  {
+    "status": "approved",
     "number": "2024-354",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10652",
     "eventSponsor": "New California State",
@@ -6336,19 +6372,19 @@
     "details": "International Falsely Accused Day - speakers, music and literature to raise awareness of the prevalence of false accusations in our legal system and offer support to the falsely accused."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-376",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10676",
-    "eventSponsor": "Wedding Elopement Ceremony",
+    "eventSponsor": "Nocetti Wedding Elopement Ceremony",
     "locationOnCapitolGrounds": "Area 1",
-    "startDateTime": "3/30/2024 4:00 AM",
-    "setUpDateTime": "3/30/2024 4:00 AM",
-    "endDateTime": "3/30/2024 4:00 AM",
+    "startDateTime": "5/11/2024 5:45 PM",
+    "setUpDateTime": "5/11/2024 5:30 PM",
+    "endDateTime": "5/11/2024 6:45 PM",
     "participants": 12,
     "details": "Wedding elopement ceremony with bride and groom and immediate families in the world peace rose garden. No chairs or decorations."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-377",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10677",
     "eventSponsor": "SB 268 Press Conference",
@@ -6360,7 +6396,7 @@
     "details": "This press conference will focus on what SB 268 would do when passed, with regard to making the rape of an intoxicated person a violent felony. This press conference is also going to be tied to National Sexual Assault Awareness Month - the Sacramento County Sheriff is expected to speak along with Senator Marie Alvarado-Gil and other members."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-379",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10679",
     "eventSponsor": "Strategy 6",
@@ -6372,28 +6408,28 @@
     "details": "A rally in support of political prisoners and a rally against the war."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-380",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10680",
     "eventSponsor": "Christians Lenten Pilgrimage for Gaza",
-    "locationOnCapitolGrounds": "Area 1",
+    "locationOnCapitolGrounds": "Area 1, Area 5",
     "startDateTime": "3/24/2024 3:00 PM",
     "setUpDateTime": "3/24/2024 3:00 PM",
-    "endDateTime": "3/24/2024 3:00 PM",
+    "endDateTime": "3/24/2024 6:00 PM",
     "participants": 40,
     "details": "Lenten gathering and pilgrimage in support of Palestinian Christians.  No loudspeakers or chanting. Prayers by local ministers. Testimony by families."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-381",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10681",
-    "eventSponsor": "ACA 16 Press Conference",
-    "locationOnCapitolGrounds": "Other",
-    "startDateTime": "3/15/2024 12:15 PM",
-    "setUpDateTime": "3/15/2024 12:15 PM",
-    "endDateTime": "3/15/2024 1:15 PM",
+    "eventSponsor": "ACA 16 Press Conference-southwest side",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/1/2024 12:00 PM",
+    "setUpDateTime": "4/1/2024 12:00 PM",
+    "endDateTime": "4/1/2024 1:00 PM",
     "participants": 150,
-    "details": "This is going to be a Press Conference for ACA 16. This is a Constitutional Amendment that will be heard in the Natural Resources that same day."
+    "details": "This is going to be a Press Conference for ACA 16. This is a Constitutional Amendment that will be heard in the Natural Resources that same day.  Tentatively this will be on the southwest side."
   },
   {
     "status": "pending",
@@ -6406,6 +6442,66 @@
     "endDateTime": "3/15/2024 3:00 PM",
     "participants": 100,
     "details": "Wedding event"
+  },
+  {
+    "status": "approved",
+    "number": "2024-385",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10685",
+    "eventSponsor": "Recital for Imran Khan of Pakistan",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "3/24/2024 3:30 PM",
+    "setUpDateTime": "3/24/2024 3:00 PM",
+    "endDateTime": "3/24/2024 5:00 PM",
+    "participants": 20,
+    "details": "Recital of Poetry and leafletting to save the democracy in Pakistan. Life of its most revered leader, ex Prime Minister Imran Khan is in imminent danger from the Military establishment of Paksitan."
+  },
+  {
+    "status": "pending",
+    "number": "2024-386",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10686",
+    "eventSponsor": "Press Conference Office of Senator Menjivar",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "4/17/2024 8:00 AM",
+    "setUpDateTime": "4/17/2024 7:00 AM",
+    "endDateTime": "4/17/2024 9:15 AM",
+    "participants": 20,
+    "details": "Press conference for one of Senator Menjivar's bills."
+  },
+  {
+    "status": "approved",
+    "number": "2024-388",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10688",
+    "eventSponsor": "Unchained At Last. Assemblymember Petrie Norris",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "3/19/2024 12:00 PM",
+    "setUpDateTime": "3/19/2024 10:00 AM",
+    "endDateTime": "3/19/2024 1:30 PM",
+    "participants": 50,
+    "details": "Press event with Assemblymember Petrie Norris's office and nonprofit organization Unchained At Last. Purpose of event is to talk about AB2924, in an effort to end child marriage in California. The Assemblymember, Capitol staff, survivors, the nonprofit members, press, and Bright Light Strat team will be present."
+  },
+  {
+    "status": "approved",
+    "number": "2024-389",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10689",
+    "eventSponsor": "Smart Solutions Press Conference- Southwest Side",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/2/2024 8:00 AM",
+    "setUpDateTime": "4/2/2024 6:30 AM",
+    "endDateTime": "4/2/2024 9:00 AM",
+    "participants": 50,
+    "details": "Press conference unveiling Smart Solutions policy platform. This will be on the Southwest Side closer to N Street."
+  },
+  {
+    "status": "pending",
+    "number": "2024-390",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10690",
+    "eventSponsor": "Wedding Ceremony PottsWhitten",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/26/2024 11:00 AM",
+    "setUpDateTime": "4/26/2024 10:30 AM",
+    "endDateTime": "4/26/2024 11:45 AM",
+    "participants": 12,
+    "details": "Quick Wedding ceremony"
   },
   {
     "status": "approved",
