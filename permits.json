@@ -6456,16 +6456,16 @@
     "details": "Recital of Poetry and leafletting to save the democracy in Pakistan. Life of its most revered leader, ex Prime Minister Imran Khan is in imminent danger from the Military establishment of Paksitan."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-386",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10686",
     "eventSponsor": "Press Conference Office of Senator Menjivar",
-    "locationOnCapitolGrounds": "Other",
+    "locationOnCapitolGrounds": "West Side",
     "startDateTime": "4/17/2024 8:00 AM",
     "setUpDateTime": "4/17/2024 7:00 AM",
     "endDateTime": "4/17/2024 9:15 AM",
     "participants": 20,
-    "details": "Press conference for one of Senator Menjivar's bills."
+    "details": "Press conference for one of Senator Menjivar's bills. West Steps."
   },
   {
     "status": "approved",
@@ -6502,6 +6502,78 @@
     "endDateTime": "4/26/2024 11:45 AM",
     "participants": 12,
     "details": "Quick Wedding ceremony"
+  },
+  {
+    "status": "pending",
+    "number": "2024-392",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10693",
+    "eventSponsor": "Save Our Salmon Fisheries",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/12/2024 8:00 AM",
+    "setUpDateTime": "4/12/2024 7:00 AM",
+    "endDateTime": "4/12/2024 10:00 AM",
+    "participants": 500,
+    "details": "Rally of commercial and recreational salmon anglers supporting efforts to promote sustainable catch and recreation"
+  },
+  {
+    "status": "pending",
+    "number": "2024-394",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10695",
+    "eventSponsor": "JROTC Color Guard Competition",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/4/2024 8:00 AM",
+    "setUpDateTime": "5/4/2024 7:00 AM",
+    "endDateTime": "5/4/2024 1:30 PM",
+    "participants": 100,
+    "details": "Event will be a Junior Reserve Officers Training Corps (JROTC) Color Guard competition, which is a showcase of precision drill and ceremony performed by regional area high school students in JROTC Color Guard teams. Teams will compete in routines that involve synchronized movements of the national and state flags, and rifle handling, in accordance with applicable team military regulations."
+  },
+  {
+    "status": "pending",
+    "number": "2024-395",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10696",
+    "eventSponsor": "Proposal",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "3/17/2024 5:00 PM",
+    "setUpDateTime": "3/17/2024 1:00 PM",
+    "endDateTime": "3/17/2024 7:00 PM",
+    "participants": 15,
+    "details": "Proposal"
+  },
+  {
+    "status": "pending",
+    "number": "2024-396",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10697",
+    "eventSponsor": "Proposal",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "3/21/2024 5:00 PM",
+    "setUpDateTime": "3/21/2024 12:00 PM",
+    "endDateTime": "3/21/2024 7:00 PM",
+    "participants": 15,
+    "details": "Proposal"
+  },
+  {
+    "status": "pending",
+    "number": "2024-397",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10698",
+    "eventSponsor": "Coalition for Liberated Ethnic Studies Press Conference",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "3/17/2024 4:00 PM",
+    "setUpDateTime": "3/17/2024 2:30 PM",
+    "endDateTime": "3/17/2024 5:30 PM",
+    "participants": 100,
+    "details": "Press conference in support of Ethnic Studies in K-12 schools in California."
+  },
+  {
+    "status": "approved",
+    "number": "2024-41",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10168",
+    "eventSponsor": "Mental Health Matters Day",
+    "locationOnCapitolGrounds": "Area 1, Area 5, Area 33",
+    "startDateTime": "5/15/2024 8:00 AM",
+    "setUpDateTime": "5/14/2024 8:00 AM",
+    "endDateTime": "5/16/2024 3:00 PM",
+    "participants": 600,
+    "details": "A free annual Mental Health event designed to reduce stigma and promote access to mental health. The event will include exhibit booths (10x10 canopy tents (weighted)), a stage, a video wall, keynote speaker, other speakers and entertainment."
   },
   {
     "status": "approved",
