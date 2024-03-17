@@ -5065,6 +5065,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-237",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10533",
+    "eventSponsor": "CA Department of Aging",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/16/2024 9:00 AM",
+    "setUpDateTime": "5/16/2024 6:00 AM",
+    "endDateTime": "5/16/2024 5:00 PM",
+    "participants": 100,
+    "details": "Celebrating 50 years of services to older adults, the CA Dept of Aging would like to host a resource fair that will provide public information on aging-related services."
+  },
+  {
+    "status": "approved",
     "number": "2024-238",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10534",
     "eventSponsor": "La Cometa TV",
@@ -6612,16 +6624,16 @@
     "details": "Save the Salmon Fisheries"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-400",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10701",
-    "eventSponsor": "Protect Victims",
-    "locationOnCapitolGrounds": "Other",
+    "eventSponsor": "Protect Victims.  In front of the Library and Courts Building.",
+    "locationOnCapitolGrounds": "Traffic Circle",
     "startDateTime": "3/20/2024 10:30 AM",
     "setUpDateTime": "3/20/2024 9:00 AM",
     "endDateTime": "3/20/2024 11:30 AM",
     "participants": 20,
-    "details": "Protect Victims"
+    "details": "Protect Victims.  This will be in front of the Library and Courts Building."
   },
   {
     "status": "pending",
