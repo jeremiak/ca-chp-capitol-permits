@@ -5845,6 +5845,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-311",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10608",
+    "eventSponsor": "Perris High School Band Concert",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/17/2024 11:00 AM",
+    "setUpDateTime": "5/17/2024 10:30 AM",
+    "endDateTime": "5/17/2024 1:00 PM",
+    "participants": 32,
+    "details": "We would like to put on a band concert of traditional concert band literature on the steps of the Capitol building or on the lawn area near the building as part of our Concert Tour that we are doing in May 2024 in the Northern California region."
+  },
+  {
+    "status": "approved",
     "number": "2024-313",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10610",
     "eventSponsor": "Karma Automotive Day-Southwest Side closer to 10th and N",
@@ -6648,6 +6660,18 @@
     "details": "Sex Workers oppose to criminalization Rally at the Capital Steps Rally Speakers 5-10 speakers, to focus on current proposed bills and ideologies that negatively impact sex workers and our communities."
   },
   {
+    "status": "pending",
+    "number": "2024-402",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10703",
+    "eventSponsor": "Prayer Rally at the Capitol",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/26/2024 9:00 AM",
+    "setUpDateTime": "4/26/2024 9:00 AM",
+    "endDateTime": "4/26/2024 9:00 AM",
+    "participants": 100,
+    "details": "Religious congregation praying  for California at the Capitol Building"
+  },
+  {
     "status": "approved",
     "number": "2024-41",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10168",
@@ -6838,6 +6862,18 @@
     "endDateTime": "3/6/2024 6:00 PM",
     "participants": 300,
     "details": "Annual Hydrogen Village event to showcase hydrogen electric vehicles both, light, medium, heavy-duty, along with trailers, forklifts and banner displays."
+  },
+  {
+    "status": "approved",
+    "number": "2024-77",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10322",
+    "eventSponsor": "Angela and Darren Wedding Rehearsal",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "5/17/2024 4:30 PM",
+    "setUpDateTime": "5/17/2024 4:00 PM",
+    "endDateTime": "5/17/2024 6:30 PM",
+    "participants": 30,
+    "details": "We will be having a small wedding ceremony the next day and want to rehearse the ceremony."
   },
   {
     "status": "approved",
