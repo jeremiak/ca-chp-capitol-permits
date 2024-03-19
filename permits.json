@@ -1876,7 +1876,7 @@
     "number": "2023-769",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10164",
     "eventSponsor": "AFSP California State Capitol Day- Southwest Side",
-    "locationOnCapitolGrounds": "West Side, Traffic Circle",
+    "locationOnCapitolGrounds": "West Side",
     "startDateTime": "3/19/2024 1:00 PM",
     "setUpDateTime": "3/19/2024 1:00 PM",
     "endDateTime": "3/19/2024 4:30 PM",
@@ -4488,14 +4488,14 @@
     "details": "Wedding"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-177",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10473",
-    "eventSponsor": "Anniversary Celebration of the State Capitol World Peace Rose Garden",
+    "eventSponsor": "Anniversary Celebration of the State Capitol World Peace Rose Garden.  This will end at 2pm.",
     "locationOnCapitolGrounds": "Area 5",
-    "startDateTime": "2/3/2024 4:00 AM",
-    "setUpDateTime": "2/3/2024 4:00 AM",
-    "endDateTime": "2/3/2024 4:00 AM",
+    "startDateTime": "5/18/2024 12:00 PM",
+    "setUpDateTime": "5/18/2024 9:00 AM",
+    "endDateTime": "5/18/2024 4:00 PM",
     "participants": 200,
     "details": "The celebration is to promote peace in our community. It will consists of multicultural performances, interfaith ceremony, Qualities of Peace activity with youth, guest speakers, and a rose petal toss"
   },
@@ -6289,6 +6289,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-36",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10146",
+    "eventSponsor": "Angela and Darren Wedding Ceremony",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "5/18/2024 2:00 PM",
+    "setUpDateTime": "5/18/2024 1:30 PM",
+    "endDateTime": "5/18/2024 4:30 PM",
+    "participants": 30,
+    "details": "We will be having a small wedding ceremony and taking photos after."
+  },
+  {
+    "status": "approved",
     "number": "2024-362",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10660",
     "eventSponsor": "California Hunger Action Coalition Action Week- Southwest Side ",
@@ -6628,10 +6640,10 @@
     "number": "2024-399",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10700",
     "eventSponsor": "Save the Salmon Fisheries",
-    "locationOnCapitolGrounds": "Other",
-    "startDateTime": "4/23/2024 8:00 AM",
-    "setUpDateTime": "4/23/2024 6:30 AM",
-    "endDateTime": "4/23/2024 10:00 AM",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/11/2024 8:00 AM",
+    "setUpDateTime": "4/11/2024 6:00 AM",
+    "endDateTime": "4/11/2024 12:00 PM",
     "participants": 450,
     "details": "Save the Salmon Fisheries"
   },
@@ -6660,16 +6672,28 @@
     "details": "Sex Workers oppose to criminalization Rally at the Capital Steps Rally Speakers 5-10 speakers, to focus on current proposed bills and ideologies that negatively impact sex workers and our communities."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-402",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10703",
     "eventSponsor": "Prayer Rally at the Capitol",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "4/26/2024 9:00 AM",
-    "setUpDateTime": "4/26/2024 9:00 AM",
-    "endDateTime": "4/26/2024 9:00 AM",
+    "startDateTime": "4/26/2024 1:00 PM",
+    "setUpDateTime": "4/26/2024 12:30 PM",
+    "endDateTime": "4/26/2024 4:00 PM",
     "participants": 100,
-    "details": "Religious congregation praying  for California at the Capitol Building"
+    "details": "Religious congregation praying  for California at the Capitol Building."
+  },
+  {
+    "status": "approved",
+    "number": "2024-403",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10704",
+    "eventSponsor": "Chief Justice Rose Bird Plaque unveiling",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "5/7/2024 10:00 AM",
+    "setUpDateTime": "5/7/2024 9:00 AM",
+    "endDateTime": "5/7/2024 12:00 PM",
+    "participants": 100,
+    "details": "Senator Steve Glaze will unveil a new plaque honoring ex-Chief Justice Rose Bird at the Capitol Rose Garden. He and others will speak in her honor."
   },
   {
     "status": "approved",
