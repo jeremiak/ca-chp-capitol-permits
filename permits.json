@@ -4356,7 +4356,7 @@
     "details": "We are requesting for the red sand to be on the cracks of the west wing of the Capitol building for no more than 4 days. We will have 1 or 2 A-frames to describe the project near the sand for people to read on the initiative."
   },
   {
-    "status": "approved",
+    "status": "pending",
     "number": "2024-163",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10459",
     "eventSponsor": "Maxx Zahir ",
@@ -4364,7 +4364,7 @@
     "startDateTime": "4/1/2024 8:00 AM",
     "setUpDateTime": "4/1/2024 7:00 AM",
     "endDateTime": "4/1/2024 7:00 PM",
-    "participants": 55,
+    "participants": 50,
     "details": "Demonstration highlighting the sharp rise in homeless and mentally dysfunctional population."
   },
   {
@@ -5266,6 +5266,18 @@
     "endDateTime": "5/15/2024 3:00 PM",
     "participants": 150,
     "details": "Rally day to end poverty for children and families, sponsored by End Child Poverty California.  This will be on the SOUTHWEST side closer to 10th and N Street side of the Capitol."
+  },
+  {
+    "status": "approved",
+    "number": "2024-257",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10553",
+    "eventSponsor": "NorCal AIDS Cycle",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/19/2024 9:30 AM",
+    "setUpDateTime": "5/19/2024 9:30 AM",
+    "endDateTime": "5/19/2024 3:00 PM",
+    "participants": 100,
+    "details": "Cycling event raising money for AIDS research in the greater Sacramento area. This is our 20th year anniversary and we have previously started at the Capitol or hosted events and would like to tie that back in this year. The cyclists will be finishing a 4 day cycling event where their family will come in and cheer them on at as they make their way to the Capitol. We will hand out awards, light refreshments (all packaged) and water or sodas. A small microphone and speaker will be used for light music and concluding remarks."
   },
   {
     "status": "approved",
@@ -6697,6 +6709,42 @@
   },
   {
     "status": "approved",
+    "number": "2024-406",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10708",
+    "eventSponsor": "Steve Hilton Press Conference",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "3/26/2024 11:00 AM",
+    "setUpDateTime": "3/26/2024 10:30 AM",
+    "endDateTime": "3/26/2024 12:00 PM",
+    "participants": 5,
+    "details": "Press Conference for Steve Hilton to announce housing policies"
+  },
+  {
+    "status": "approved",
+    "number": "2024-408",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10710",
+    "eventSponsor": "Legislative Announcement- Southwest Side",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/15/2024 1:30 PM",
+    "setUpDateTime": "4/15/2024 1:00 PM",
+    "endDateTime": "4/15/2024 3:00 PM",
+    "participants": 15,
+    "details": "Press conference to announce legislation.  This will be on the southwest side closer to N Street."
+  },
+  {
+    "status": "approved",
+    "number": "2024-409",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10711",
+    "eventSponsor": "Legislation Announcement- Northwest Side",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/23/2024 8:30 AM",
+    "setUpDateTime": "4/23/2024 8:00 AM",
+    "endDateTime": "4/23/2024 10:00 AM",
+    "participants": 15,
+    "details": "press conference to announce legislation. This will be on the northwest side, closer to L Street."
+  },
+  {
+    "status": "approved",
     "number": "2024-41",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10168",
     "eventSponsor": "Mental Health Matters Day",
@@ -6706,6 +6754,30 @@
     "endDateTime": "5/16/2024 3:00 PM",
     "participants": 600,
     "details": "A free annual Mental Health event designed to reduce stigma and promote access to mental health. The event will include exhibit booths (10x10 canopy tents (weighted)), a stage, a video wall, keynote speaker, other speakers and entertainment."
+  },
+  {
+    "status": "approved",
+    "number": "2024-410",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10712",
+    "eventSponsor": "Legislation Announcement- Southwest Side Closer to N Street.",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/16/2024 9:00 AM",
+    "setUpDateTime": "4/16/2024 8:00 AM",
+    "endDateTime": "4/16/2024 10:00 AM",
+    "participants": 15,
+    "details": "Press conference on legislation.  This will be on the Southwest Side closer to N Street."
+  },
+  {
+    "status": "pending",
+    "number": "2024-412",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10714",
+    "eventSponsor": "Good Friday Procession of the Cross",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "3/29/2024 9:45 AM",
+    "setUpDateTime": "3/29/2024 9:30 AM",
+    "endDateTime": "3/29/2024 9:45 AM",
+    "participants": 50,
+    "details": "Process to the West Steps of the Capitol.  We read scripture, meditations and sing a liturgical song.  We process to two other locations in the capitol grounds and repeat the above.  We exit and approx 1115 by 12 and L street.  We carry a wooden cross 4x6 and use a small megaphone so participants can hear readings and meditations.  We process in silence between stations."
   },
   {
     "status": "approved",
