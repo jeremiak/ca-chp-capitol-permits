@@ -750,8 +750,8 @@
     "eventSponsor": "Nurse Rally for Nurses Week-United Nurses Associations of CA",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "5/7/2024 10:00 AM",
-    "setUpDateTime": "5/7/2024 6:00 AM",
-    "endDateTime": "5/7/2024 1:00 PM",
+    "setUpDateTime": "5/7/2024 7:00 AM",
+    "endDateTime": "5/7/2024 2:00 PM",
     "participants": 500,
     "details": "Rally regarding our legislative priorities for National Nurses Week"
   },
@@ -3749,8 +3749,8 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10395",
     "eventSponsor": "ACLU Action Conference ",
     "locationOnCapitolGrounds": "Area 1, Area 5",
-    "startDateTime": "4/29/2024 8:00 AM",
-    "setUpDateTime": "4/29/2024 8:00 AM",
+    "startDateTime": "4/29/2024 12:00 PM",
+    "setUpDateTime": "4/29/2024 9:00 AM",
     "endDateTime": "4/29/2024 5:00 PM",
     "participants": 300,
     "details": "ACLU California Action will host it's annual Lobby day on priority bills."
@@ -4580,7 +4580,7 @@
     "startDateTime": "3/21/2024 10:00 AM",
     "setUpDateTime": "3/21/2024 7:00 AM",
     "endDateTime": "3/21/2024 12:30 PM",
-    "participants": 75,
+    "participants": 110,
     "details": "Ceremony honoring children who called 9-1-1 and first responders who either assisted with the call or participated in  a different event.  CHP, CalOES, Legislators, and other dignitaries participate at the event.  Tim Brown, former NFL wide receiver for the Oakland Raiders, is the National Chairman of the organization and will be hosting the event."
   },
   {
@@ -5689,6 +5689,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-295",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10592",
+    "eventSponsor": "Panda Express Day at the Capitol",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/20/2024 11:30 AM",
+    "setUpDateTime": "5/20/2024 8:00 AM",
+    "endDateTime": "5/20/2024 3:00 PM",
+    "participants": 200,
+    "details": "Panda Express will offer free lunch to Legislators and staff during API Heritage Month"
+  },
+  {
+    "status": "approved",
     "number": "2024-299",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10596",
     "eventSponsor": "Retirement Ceremony- Lt Col Daniel Reed-CA Air Nation Guard",
@@ -6217,6 +6229,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-351",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10649",
+    "eventSponsor": "Beagle Freedom Project",
+    "locationOnCapitolGrounds": "Southwest Side",
+    "startDateTime": "5/20/2024 11:00 AM",
+    "setUpDateTime": "5/20/2024 10:30 AM",
+    "endDateTime": "5/20/2024 4:00 PM",
+    "participants": 50,
+    "details": "Beagle day at the capitol. Beagle Freedom Project rescue will bring rescued beagles to be enjoyed by legislatures and legislative staff.  This will be on the southwest side closer to N Street"
+  },
+  {
+    "status": "approved",
     "number": "2024-352",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10650",
     "eventSponsor": "Fresno Association of Realtors ",
@@ -6593,9 +6617,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10693",
     "eventSponsor": "Save Our Salmon Fisheries",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "4/12/2024 8:00 AM",
-    "setUpDateTime": "4/12/2024 7:00 AM",
-    "endDateTime": "4/12/2024 12:00 PM",
+    "startDateTime": "4/11/2024 8:00 AM",
+    "setUpDateTime": "4/11/2024 6:00 AM",
+    "endDateTime": "4/11/2024 12:00 PM",
     "participants": 250,
     "details": "Rally of commercial and recreational salmon anglers supporting efforts to promote sustainable catch and recreation"
   },
@@ -6768,16 +6792,40 @@
     "details": "Press conference on legislation.  This will be on the Southwest Side closer to N Street."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-412",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10714",
     "eventSponsor": "Good Friday Procession of the Cross",
-    "locationOnCapitolGrounds": "Other",
+    "locationOnCapitolGrounds": "West Side, Area 5, Area 34",
     "startDateTime": "3/29/2024 9:45 AM",
     "setUpDateTime": "3/29/2024 9:30 AM",
-    "endDateTime": "3/29/2024 9:45 AM",
+    "endDateTime": "3/29/2024 12:15 PM",
     "participants": 50,
-    "details": "Process to the West Steps of the Capitol.  We read scripture, meditations and sing a liturgical song.  We process to two other locations in the capitol grounds and repeat the above.  We exit and approx 1115 by 12 and L street.  We carry a wooden cross 4x6 and use a small megaphone so participants can hear readings and meditations.  We process in silence between stations."
+    "details": "Process to the upper West Steps close to the Capitol.  We read scripture, meditations and sing a liturgical song.  We process to two other locations in the capitol grounds and repeat the above.  We exit and approx 1115 by 12 and L street.  We carry a wooden cross 4x6 and use a small megaphone so participants can hear readings and meditations.  We process in silence between stations."
+  },
+  {
+    "status": "approved",
+    "number": "2024-413",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10715",
+    "eventSponsor": "Latina Action Day",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/7/2024 4:00 PM",
+    "setUpDateTime": "5/7/2024 4:00 PM",
+    "endDateTime": "5/7/2024 7:00 PM",
+    "participants": 150,
+    "details": "Participants for Latina Action Day, set to take place at the SAFE Credit Union Convention Center will walk the steps on the West Side for a photo opportunity to commemorate HOPE's 30th Annual Latina Action Day."
+  },
+  {
+    "status": "pending",
+    "number": "2024-415",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10718",
+    "eventSponsor": "Christians United for Israel",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "3/23/2024 3:15 PM",
+    "setUpDateTime": "3/26/2024 3:00 PM",
+    "endDateTime": "3/23/2024 5:30 PM",
+    "participants": 25,
+    "details": "WAVING FLAGS to support Israel.  card table of info"
   },
   {
     "status": "approved",
