@@ -5077,6 +5077,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-236",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10532",
+    "eventSponsor": "Water Justice Rally",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/22/2024 10:30 AM",
+    "setUpDateTime": "5/22/2024 9:00 AM",
+    "endDateTime": "5/22/2024 2:00 PM",
+    "participants": 100,
+    "details": "Press event and rally for water justice"
+  },
+  {
+    "status": "approved",
     "number": "2024-237",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10533",
     "eventSponsor": "CA Department of Aging",
@@ -5712,7 +5724,7 @@
     "details": "Panda Express will offer free lunch to Legislators and staff during API Heritage Month"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-299",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10596",
     "eventSponsor": "Retirement Ceremony- Lt Col Daniel Reed-CA Air Nation Guard",
@@ -6708,16 +6720,16 @@
     "details": "Protect Victims.  This will be in front of the Library and Courts Building."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-401",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10702",
-    "eventSponsor": "Sex workers Opposed To Criminalization  Erotic Service Providers Legal, Education and Research Project ",
+    "eventSponsor": "Sex workers Opposed To Criminalization Erotic Service Providers Legal, Education and Research Project.  Northwest Side",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "4/23/2024 11:00 AM",
-    "setUpDateTime": "4/23/2024 11:00 AM",
-    "endDateTime": "4/23/2024 1:00 PM",
+    "startDateTime": "4/23/2024 10:30 AM",
+    "setUpDateTime": "4/23/2024 10:30 AM",
+    "endDateTime": "4/23/2024 12:00 PM",
     "participants": 30,
-    "details": "Sex Workers oppose to criminalization Rally at the Capital Steps Rally Speakers 5-10 speakers, to focus on current proposed bills and ideologies that negatively impact sex workers and our communities."
+    "details": "Sex Workers oppose to criminalization Rally at the Capital Steps Rally Speakers 5-10 speakers, to focus on current proposed bills and ideologies that negatively impact sex workers and our communities.  This is on the Northwest Side."
   },
   {
     "status": "approved",
@@ -6840,11 +6852,11 @@
     "details": "WAVING FLAGS to support Israel.  card table of info"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-418",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10721",
     "eventSponsor": "Housing Now Lobby Day Press Conference",
-    "locationOnCapitolGrounds": "Other",
+    "locationOnCapitolGrounds": "Area 33",
     "startDateTime": "4/29/2024 12:30 PM",
     "setUpDateTime": "4/29/2024 12:00 PM",
     "endDateTime": "4/29/2024 1:30 PM",
@@ -6864,16 +6876,52 @@
     "details": "On Friday we will be setting up for Hopefest 2024.  Stage set up, fencing etc.  We will also have a sound check, prayer and worship service in the evening in preparation for tomorrow."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-420",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10723",
     "eventSponsor": "Christal and Torrien's Wedding",
-    "locationOnCapitolGrounds": "Area 1, Area 5, Area 22",
-    "startDateTime": "3/24/2024 10:00 AM",
-    "setUpDateTime": "3/24/2024 10:00 AM",
-    "endDateTime": "3/24/2024 1:00 PM",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "3/28/2024 11:00 AM",
+    "setUpDateTime": "3/28/2024 10:00 AM",
+    "endDateTime": "3/28/2024 1:00 PM",
     "participants": 40,
     "details": "This is the union of Christal Lee and Torrien Eubanks"
+  },
+  {
+    "status": "approved",
+    "number": "2024-422",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10725",
+    "eventSponsor": "Strength, Power and Hope Lideres Campesinas Legislative Day and Day of Action",
+    "locationOnCapitolGrounds": "Area 27",
+    "startDateTime": "4/22/2024 8:00 AM",
+    "setUpDateTime": "4/22/2024 7:45 AM",
+    "endDateTime": "4/22/2024 2:00 PM",
+    "participants": 75,
+    "details": "Press conference for Legislative Day Farmworker women from across the state gather to discuss necessary changes."
+  },
+  {
+    "status": "approved",
+    "number": "2024-423",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10726",
+    "eventSponsor": "Rally Against Antisemitism",
+    "locationOnCapitolGrounds": "Area 1, Area 5, Area 22, Area 27, Area 33, Area 34",
+    "startDateTime": "5/14/2024 2:00 PM",
+    "setUpDateTime": "5/14/2024 12:00 PM",
+    "endDateTime": "5/14/2024 5:00 PM",
+    "participants": 450,
+    "details": "This will be a rally with a variety of speakers to call out antisemitism across California."
+  },
+  {
+    "status": "pending",
+    "number": "2024-425",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10728",
+    "eventSponsor": "Worker Canvassing Kick Off",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "4/3/2024 11:00 AM",
+    "setUpDateTime": "4/3/2024 8:00 AM",
+    "endDateTime": "4/3/2024 12:00 PM",
+    "participants": 75,
+    "details": "Kick off worker organizing canvas"
   },
   {
     "status": "approved",
