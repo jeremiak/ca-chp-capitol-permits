@@ -4705,6 +4705,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-197",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10493",
+    "eventSponsor": "Rally in support of Ukraine",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/24/2024 6:00 PM",
+    "setUpDateTime": "5/24/2024 5:00 PM",
+    "endDateTime": "5/24/2024 9:45 PM",
+    "participants": 150,
+    "details": "Solidarity Rally in Support of Ukraine"
+  },
+  {
+    "status": "approved",
     "number": "2024-200",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10496",
     "eventSponsor": "Missing and Murdered Indigenous People Press Conference",
