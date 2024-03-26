@@ -4081,6 +4081,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-123",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10405",
+    "eventSponsor": "Serrano-Zepeda Wedding Ceremony",
+    "locationOnCapitolGrounds": "Area 22, Area 33",
+    "startDateTime": "5/25/2024 3:00 PM",
+    "setUpDateTime": "5/25/2024 1:00 PM",
+    "endDateTime": "5/25/2024 6:00 PM",
+    "participants": 125,
+    "details": "Wedding ceremony"
+  },
+  {
+    "status": "approved",
     "number": "2024-125",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10408",
     "eventSponsor": "Coalition for Humane Immigrant Rights CHIRLA",
@@ -4486,6 +4498,18 @@
     "endDateTime": "3/29/2024 5:00 PM",
     "participants": 30,
     "details": "Wedding"
+  },
+  {
+    "status": "approved",
+    "number": "2024-176",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10472",
+    "eventSponsor": "Matt and Tosh Berliner Wedding",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/25/2024 2:00 PM",
+    "setUpDateTime": "5/25/2024 1:00 PM",
+    "endDateTime": "5/25/2024 3:30 PM",
+    "participants": 150,
+    "details": "30 minute wedding on the West Capitol Steps."
   },
   {
     "status": "approved",
@@ -5530,6 +5554,18 @@
     "endDateTime": "4/2/2024 9:30 AM",
     "participants": 30,
     "details": "Asm. Ward Press Conference"
+  },
+  {
+    "status": "approved",
+    "number": "2024-276",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10572",
+    "eventSponsor": "Pacific Islander Heritage Month Luau",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/25/2024 4:30 PM",
+    "setUpDateTime": "5/25/2024 3:30 PM",
+    "endDateTime": "5/25/2024 7:30 PM",
+    "participants": 150,
+    "details": "Nonprofit organizations (EPIC & Alliance for Education Solutions) will collaborate in hosting an Asian Pacific Islander Heritage month Luau Event centering Pacific Islander cultural dances, food,  and celebratory practices all while promoting civic engagement and voting in the upcoming November elections."
   },
   {
     "status": "approved",
@@ -6934,6 +6970,30 @@
     "endDateTime": "4/3/2024 12:00 PM",
     "participants": 75,
     "details": "Kick off worker organizing canvas"
+  },
+  {
+    "status": "pending",
+    "number": "2024-426",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10730",
+    "eventSponsor": "Roots: Frequency of Freedom healthyself summer jam",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "3/28/2024 12:30 PM",
+    "setUpDateTime": "3/28/2024 6:00 AM",
+    "endDateTime": "3/28/2024 12:30 PM",
+    "participants": 1500,
+    "details": "Free Church Youth music event with live performances and speakers on mental health advocates, mentors and local Indigenous healers. With local venders"
+  },
+  {
+    "status": "pending",
+    "number": "2024-428",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10732",
+    "eventSponsor": "ACA 16 Press Conference",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "4/8/2024 12:00 PM",
+    "setUpDateTime": "4/8/2024 11:00 AM",
+    "endDateTime": "4/8/2024 1:30 PM",
+    "participants": 150,
+    "details": "This event is going to be an ACA 16 Press Conference on the West Side. It is the same day as the Natural Resources Committee Hearing."
   },
   {
     "status": "approved",
