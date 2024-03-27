@@ -4921,6 +4921,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-22",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9994",
+    "eventSponsor": "VVA Reading of the Names",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "5/26/2024 7:00 AM",
+    "setUpDateTime": "5/26/2024 6:00 AM",
+    "endDateTime": "5/26/2024 6:30 PM",
+    "participants": 200,
+    "details": "25th annual Vietnam Veterans of America Reading of the Names"
+  },
+  {
+    "status": "approved",
     "number": "2024-220",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10516",
     "eventSponsor": "Assembly Republican Caucus- Department of Labor 800 Capitol Mall",
@@ -5098,6 +5110,18 @@
     "endDateTime": "1/30/2024 11:30 AM",
     "participants": 50,
     "details": "This will be a chance for our current youth ambassadors to connect with local tribal communities and share collective cultural space. There will be a small nisenan dance group that will open up with a prayer."
+  },
+  {
+    "status": "approved",
+    "number": "2024-234",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10530",
+    "eventSponsor": "Michael and McKaylas Wedding",
+    "locationOnCapitolGrounds": "Area 33",
+    "startDateTime": "5/26/2024 3:00 PM",
+    "setUpDateTime": "5/26/2024 10:00 AM",
+    "endDateTime": "5/26/2024 6:00 PM",
+    "participants": 170,
+    "details": "Wedding ceremony for Michael and McKayla. Reception is elsewhere. Chairs, speakers and microphones, as well as wedding arch will be only items."
   },
   {
     "status": "approved",
@@ -6977,9 +7001,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10730",
     "eventSponsor": "Roots: Frequency of Freedom healthyself summer jam",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "3/28/2024 12:30 PM",
-    "setUpDateTime": "3/28/2024 6:00 AM",
-    "endDateTime": "3/28/2024 12:30 PM",
+    "startDateTime": "4/15/2024 4:00 AM",
+    "setUpDateTime": "4/15/2024 4:00 AM",
+    "endDateTime": "4/15/2024 4:00 AM",
     "participants": 1500,
     "details": "Free Church Youth music event with live performances and speakers on mental health advocates, mentors and local Indigenous healers. With local venders"
   },
@@ -6994,6 +7018,42 @@
     "endDateTime": "4/8/2024 1:30 PM",
     "participants": 150,
     "details": "This event is going to be an ACA 16 Press Conference on the West Side. It is the same day as the Natural Resources Committee Hearing."
+  },
+  {
+    "status": "pending",
+    "number": "2024-430",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10734",
+    "eventSponsor": "Tollefson Photography ",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "5/12/2024 4:00 PM",
+    "setUpDateTime": "5/12/2024 3:00 PM",
+    "endDateTime": "5/12/2024 5:00 PM",
+    "participants": 5,
+    "details": "A maternity photoshoot"
+  },
+  {
+    "status": "pending",
+    "number": "2024-431",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10735",
+    "eventSponsor": "EdVoice",
+    "locationOnCapitolGrounds": "Area 22",
+    "startDateTime": "3/29/2024 12:00 PM",
+    "setUpDateTime": "3/29/2024 11:00 AM",
+    "endDateTime": "3/29/2024 2:00 PM",
+    "participants": 50,
+    "details": "Parents, advocates, and community leaders are meeting ahead of the Assembly Education Committee's hearing for AB 2222 to gather for lunch."
+  },
+  {
+    "status": "pending",
+    "number": "2024-432",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10736",
+    "eventSponsor": "EdVoice",
+    "locationOnCapitolGrounds": "Area 33",
+    "startDateTime": "3/29/2024 12:00 PM",
+    "setUpDateTime": "3/29/2024 11:00 AM",
+    "endDateTime": "3/29/2024 2:00 PM",
+    "participants": 50,
+    "details": "Parents, advocates, and community leaders are meeting ahead of the Assembly Education Committee's hearing for AB 2222 to gather for lunch."
   },
   {
     "status": "approved",
