@@ -6025,6 +6025,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-32",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10101",
+    "eventSponsor": "Memorial day observance 2024* Brotherhood American Combat Veterans BACV (AA) est. 1998",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "5/27/2024 9:00 AM",
+    "setUpDateTime": "5/27/2024 9:00 AM",
+    "endDateTime": "5/27/2024 4:00 PM",
+    "participants": 100,
+    "details": "Photo and illustrations exhibit of soldiers combat experience and list of local veterans KIA RVN on public display... NO PODIUM NO PROGRAM NO SPEAKERS NO ELECTED OFFICIALS INVITED ...just photos, my combat pen and ink illustrations of VIETNAM War and PERISAN Gulf War and materials for veterans benefits and PTSD assistance. Display of photos of Vietnam veterans in country as they looked then"
+  },
+  {
+    "status": "approved",
     "number": "2024-320",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10617",
     "eventSponsor": "Wedding Ceremony Mathis",
@@ -6106,6 +6118,18 @@
     "endDateTime": "2/28/2024 12:15 PM",
     "participants": 20,
     "details": "Asm Ting will announce new legislation to ban legacy admissions to CA colleges.  This will be on the SouthWest Side closer toward N Street."
+  },
+  {
+    "status": "approved",
+    "number": "2024-33",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10102",
+    "eventSponsor": "El Soldado Memorial observance ceremony * California Mexican American Veterans Memorial Foundation ",
+    "locationOnCapitolGrounds": "Area 34",
+    "startDateTime": "5/27/2024 1:00 PM",
+    "setUpDateTime": "5/27/2024 8:00 AM",
+    "endDateTime": "5/27/2024 4:00 PM",
+    "participants": 200,
+    "details": "Recognize and honor all veterans who have served and are now serving in our Armed Forces of the United States of America * invited elected officials and Dignitaries plus keynote speakers* to keep Rememberance of members of the Society of Mexican War Mothers and educate audience of the history and legacy of the efforts this special group of Mexican American women accomplished Post WWII to provide our Mexican community with this monument."
   },
   {
     "status": "approved",
@@ -6984,7 +7008,7 @@
     "details": "This will be a rally with a variety of speakers to call out antisemitism across California."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-425",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10728",
     "eventSponsor": "Worker Canvassing Kick Off",
@@ -7020,13 +7044,13 @@
     "details": "This event is going to be an ACA 16 Press Conference on the West Side. It is the same day as the Natural Resources Committee Hearing."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-430",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10734",
     "eventSponsor": "Tollefson Photography ",
     "locationOnCapitolGrounds": "Area 1",
     "startDateTime": "5/12/2024 4:00 PM",
-    "setUpDateTime": "5/12/2024 3:00 PM",
+    "setUpDateTime": "5/12/2024 2:00 PM",
     "endDateTime": "5/12/2024 5:00 PM",
     "participants": 5,
     "details": "A maternity photoshoot"
@@ -7044,16 +7068,64 @@
     "details": "Parents, advocates, and community leaders are meeting ahead of the Assembly Education Committee's hearing for AB 2222 to gather for lunch."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-432",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10736",
     "eventSponsor": "EdVoice",
-    "locationOnCapitolGrounds": "Area 33",
-    "startDateTime": "3/29/2024 12:00 PM",
-    "setUpDateTime": "3/29/2024 11:00 AM",
-    "endDateTime": "3/29/2024 2:00 PM",
+    "locationOnCapitolGrounds": "Area 27",
+    "startDateTime": "4/10/2024 12:00 PM",
+    "setUpDateTime": "4/10/2024 11:00 AM",
+    "endDateTime": "4/10/2024 2:00 PM",
     "participants": 50,
     "details": "Parents, advocates, and community leaders are meeting ahead of the Assembly Education Committee's hearing for AB 2222 to gather for lunch."
+  },
+  {
+    "status": "pending",
+    "number": "2024-433",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10737",
+    "eventSponsor": "2024 Pre-Memorial Day Celebration ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/23/2024 11:30 AM",
+    "setUpDateTime": "5/23/2024 9:30 AM",
+    "endDateTime": "5/23/2024 1:30 PM",
+    "participants": 100,
+    "details": "Pre-Memorial Day Celebration educating and advocating for honoring original efforts to honor US Civil War soldiers and the ongoing sacrifice for freedom."
+  },
+  {
+    "status": "approved",
+    "number": "2024-434",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10738",
+    "eventSponsor": "New California State",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/21/2024 11:00 AM",
+    "setUpDateTime": "4/21/2024 10:00 AM",
+    "endDateTime": "4/21/2024 1:15 PM",
+    "participants": 100,
+    "details": "New California informational Activity"
+  },
+  {
+    "status": "approved",
+    "number": "2024-435",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10739",
+    "eventSponsor": "Vietnam Veterans 50th anniversary",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "4/2/2024 12:00 PM",
+    "setUpDateTime": "4/2/2024 11:00 AM",
+    "endDateTime": "4/2/2024 3:00 PM",
+    "participants": 50,
+    "details": "Veterans Affiliated Council, will Honor Vietnam Veterans with Ceremony and Certificates."
+  },
+  {
+    "status": "pending",
+    "number": "2024-436",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10740",
+    "eventSponsor": "California Labor For Climate Jobs Rally and Lobby Day",
+    "locationOnCapitolGrounds": "Area 22",
+    "startDateTime": "5/8/2024 11:30 AM",
+    "setUpDateTime": "5/8/2024 10:00 AM",
+    "endDateTime": "5/8/2024 1:30 PM",
+    "participants": 75,
+    "details": "This will be a rally of union workers with speakers on amplified sound."
   },
   {
     "status": "approved",
