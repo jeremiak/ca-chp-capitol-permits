@@ -655,7 +655,7 @@
     "locationOnCapitolGrounds": "Area 27",
     "startDateTime": "5/7/2024 8:00 AM",
     "setUpDateTime": "5/7/2024 8:00 AM",
-    "endDateTime": "5/7/2024 2:00 PM",
+    "endDateTime": "5/7/2024 4:00 PM",
     "participants": 100,
     "details": "March at 900 am from L and 15th Street t Capitol followed by Rally at 1000 am with Legislators. Box lunches served at 1130 - 100 pm for participants"
   },
@@ -4145,9 +4145,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10425",
     "eventSponsor": "League of California Cities",
     "locationOnCapitolGrounds": "Area 22, Area 33",
-    "startDateTime": "4/17/2024 11:30 AM",
-    "setUpDateTime": "4/17/2024 10:00 AM",
-    "endDateTime": "4/17/2024 1:00 PM",
+    "startDateTime": "4/17/2024 10:00 AM",
+    "setUpDateTime": "4/17/2024 8:00 AM",
+    "endDateTime": "4/17/2024 11:30 AM",
     "participants": 120,
     "details": "Member rally in support of city advocacy -- media is invited."
   },
@@ -6097,13 +6097,25 @@
   },
   {
     "status": "approved",
+    "number": "2024-327",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10625",
+    "eventSponsor": "American Heart Associations Information and Education Day- Southwest Side",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/29/2024 8:00 AM",
+    "setUpDateTime": "5/28/2024 8:00 AM",
+    "endDateTime": "5/29/2024 8:00 PM",
+    "participants": 150,
+    "details": "We are hosting Information & Education Days at the Capitol where we will schedule participants with their legislators to discuss and inform them on issues surrounding tobacco use and cessation. Participants will move between a tent on the Capitol grounds and the Swing Space."
+  },
+  {
+    "status": "approved",
     "number": "2024-328",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10626",
     "eventSponsor": "VSA Bikeathon 2024",
     "locationOnCapitolGrounds": "Area 5",
-    "startDateTime": "5/11/2024 11:00 AM",
-    "setUpDateTime": "5/11/2024 10:00 AM",
-    "endDateTime": "5/11/2024 3:00 PM",
+    "startDateTime": "5/4/2024 11:00 AM",
+    "setUpDateTime": "5/4/2024 10:00 AM",
+    "endDateTime": "5/4/2024 3:00 PM",
     "participants": 50,
     "details": "The Vietnamese Student Association is hosting our annual bikathon event where bikers will bike from Davis to the Capital in Sacramento and then back to Davis. Bikers will be accompanied by drivers and volunteers for support."
   },
@@ -6621,7 +6633,7 @@
     "setUpDateTime": "4/24/2024 8:45 AM",
     "endDateTime": "4/24/2024 11:00 AM",
     "participants": 50,
-    "details": "This press conference will focus on what SB 268 would do when passed, with regard to making the rape of an intoxicated person a violent felony. This press conference is also going to be tied to National Sexual Assault Awareness Month - the Sacramento County Sheriff is expected to speak along with Senator Marie Alvarado-Gil and other members."
+    "details": "This press briefing will center on SB 268, which aims to classify the rape of an intoxicated individual as a violent felony. Aligned with National Sexual Assault Awareness Month, Senator Marie Alvarado-Gil and fellow members of the California Legislature, alongside several notable speakers, are slated to speak at the press conference."
   },
   {
     "status": "approved",
@@ -7032,11 +7044,11 @@
     "details": "Free Church Youth music event with live performances and speakers on mental health advocates, mentors and local Indigenous healers. With local venders"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-428",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10732",
     "eventSponsor": "ACA 16 Press Conference",
-    "locationOnCapitolGrounds": "Other",
+    "locationOnCapitolGrounds": "Area 27",
     "startDateTime": "4/8/2024 12:00 PM",
     "setUpDateTime": "4/8/2024 11:00 AM",
     "endDateTime": "4/8/2024 1:30 PM",
@@ -7080,7 +7092,7 @@
     "details": "Parents, advocates, and community leaders are meeting ahead of the Assembly Education Committee's hearing for AB 2222 to gather for lunch."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-433",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10737",
     "eventSponsor": "2024 Pre-Memorial Day Celebration ",
@@ -7116,7 +7128,7 @@
     "details": "Veterans Affiliated Council, will Honor Vietnam Veterans with Ceremony and Certificates."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-436",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10740",
     "eventSponsor": "California Labor For Climate Jobs Rally and Lobby Day",
@@ -7126,6 +7138,18 @@
     "endDateTime": "5/8/2024 1:30 PM",
     "participants": 75,
     "details": "This will be a rally of union workers with speakers on amplified sound."
+  },
+  {
+    "status": "pending",
+    "number": "2024-438",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10742",
+    "eventSponsor": "Safety Net for All Advocacy Day ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/18/2024 9:00 AM",
+    "setUpDateTime": "4/18/2024 6:00 AM",
+    "endDateTime": "4/18/2024 5:00 PM",
+    "participants": 100,
+    "details": "Safety Net for All Coalition Advocacy Day"
   },
   {
     "status": "approved",
