@@ -3961,6 +3961,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-106",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10385",
+    "eventSponsor": "VETART MHSOAC VETERAN POP UP ARTS CAFES 2024",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/29/2024 10:00 AM",
+    "setUpDateTime": "5/29/2024 6:00 AM",
+    "endDateTime": "5/29/2024 4:00 PM",
+    "participants": 100,
+    "details": "POP UP ADVOCACY EVENT FOR VETERANS WITH STATIC AND HANDS ON ART DISPLAY, SPOKEN WORD AND MUSIC."
+  },
+  {
+    "status": "approved",
     "number": "2024-107",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10386",
     "eventSponsor": "Latinos for Jesus and Family Values",
