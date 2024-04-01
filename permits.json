@@ -4297,6 +4297,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-153",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10447",
+    "eventSponsor": "Kaiser Permanente Womens Fitness Festival ",
+    "locationOnCapitolGrounds": "West Side, Traffic Circle",
+    "startDateTime": "6/2/2024 7:00 AM",
+    "setUpDateTime": "5/31/2024 7:00 AM",
+    "endDateTime": "6/2/2024 4:00 PM",
+    "participants": 3000,
+    "details": "Annual all women's 5K 10K and kid's run. Event beneficiary is WEAVE."
+  },
+  {
+    "status": "approved",
     "number": "2024-155",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10449",
     "eventSponsor": "Office of Assemblymember Carlos Villapudua",
