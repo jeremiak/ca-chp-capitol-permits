@@ -5521,6 +5521,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-268",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10564",
+    "eventSponsor": "Anniversary of Voting Rights Act for Native Americans",
+    "locationOnCapitolGrounds": "Area 1, Area 5, Area 22, Area 27, Area 33, Area 34",
+    "startDateTime": "6/1/2024 10:00 AM",
+    "setUpDateTime": "6/1/2024 7:00 AM",
+    "endDateTime": "6/1/2024 4:00 PM",
+    "participants": 500,
+    "details": "Different Native American tribes will be celebrating the 100th Anniversary of their right to vote. The celebration will include speakers, entertainment, presentations by public officials, ceremonies."
+  },
+  {
+    "status": "approved",
     "number": "2024-269",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10565",
     "eventSponsor": "Capitol Advocacy Think Big Promotional Video",
@@ -7174,6 +7186,18 @@
     "endDateTime": "4/18/2024 5:00 PM",
     "participants": 100,
     "details": "Safety Net for All Coalition Advocacy Day"
+  },
+  {
+    "status": "pending",
+    "number": "2024-439",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10744",
+    "eventSponsor": "LiUNA Build California ",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "4/4/2024 10:30 AM",
+    "setUpDateTime": "4/4/2024 10:00 AM",
+    "endDateTime": "4/4/2024 3:00 PM",
+    "participants": 4,
+    "details": "3' x 10' Banner presentation in Front to Swing Space Entrance"
   },
   {
     "status": "approved",
