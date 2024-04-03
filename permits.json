@@ -6012,16 +6012,16 @@
     "details": "We would like to put on a band concert of traditional concert band literature on the steps of the Capitol building or on the lawn area near the building as part of our Concert Tour that we are doing in May 2024 in the Northern California region."
   },
   {
-    "status": "approved",
+    "status": "pending",
     "number": "2024-313",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10610",
-    "eventSponsor": "Karma Automotive Day-Southwest Side closer to 10th and N",
+    "eventSponsor": "Karma Automotive Day-Southwest Side closer to the Capitol",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "4/29/2024 9:00 AM",
-    "setUpDateTime": "4/29/2024 8:00 AM",
-    "endDateTime": "4/29/2024 4:00 PM",
+    "startDateTime": "4/10/2024 8:00 AM",
+    "setUpDateTime": "4/10/2024 7:00 AM",
+    "endDateTime": "4/10/2024 5:00 PM",
     "participants": 10,
-    "details": "The even will be forming the public on Karma Automotive's new plans for creating clean energy jobs and how they are helping transform California into a new hub for E.V. infrastructure and job creation."
+    "details": "The even will be forming the public on Karma Automotive's new plans for creating clean energy jobs and how they are helping transform California into a new hub for E.V. infrastructure and job creation.  This will be on the sidewalk closer to the Capitol near the benches."
   },
   {
     "status": "pending",
@@ -7001,11 +7001,11 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10721",
     "eventSponsor": "Housing Now Lobby Day Press Conference",
     "locationOnCapitolGrounds": "Area 33",
-    "startDateTime": "4/29/2024 12:30 PM",
-    "setUpDateTime": "4/29/2024 12:00 PM",
-    "endDateTime": "4/29/2024 1:30 PM",
+    "startDateTime": "4/29/2024 9:00 AM",
+    "setUpDateTime": "4/29/2024 9:00 AM",
+    "endDateTime": "4/29/2024 3:00 PM",
     "participants": 400,
-    "details": "Our Organization, Housing Now! CA and our partner ACCE, will be holding our Lobby Day on April the 29th  and will need a space to hold our press conference. We would hold it from 1230-130, don't think we would need more than 30 mins to set that up."
+    "details": "Our Organization, Housing Now! CA and our partner ACCE, will be holding our Lobby Day and press conference."
   },
   {
     "status": "approved",
@@ -7062,8 +7062,8 @@
     "eventSponsor": "Worker Canvassing Kick Off",
     "locationOnCapitolGrounds": "Area 1",
     "startDateTime": "4/3/2024 11:00 AM",
-    "setUpDateTime": "4/3/2024 8:00 AM",
-    "endDateTime": "4/3/2024 12:00 PM",
+    "setUpDateTime": "4/3/2024 10:00 AM",
+    "endDateTime": "4/3/2024 1:00 PM",
     "participants": 75,
     "details": "Kick off worker organizing canvas"
   },
@@ -7210,6 +7210,30 @@
     "endDateTime": "4/16/2024 5:00 PM",
     "participants": 200,
     "details": "California Immigrant Policy Center's (CIPC) Annual Immigrant Day of Action"
+  },
+  {
+    "status": "pending",
+    "number": "2024-441",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10746",
+    "eventSponsor": "California Alliance for Digital Equity- Southwest Side",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/10/2024 9:00 AM",
+    "setUpDateTime": "4/10/2024 8:00 AM",
+    "endDateTime": "4/10/2024 4:30 PM",
+    "participants": 60,
+    "details": "Digital Equity Advocacy Day- Lobbying members of the Legislature.  This will be on the Southwest Side."
+  },
+  {
+    "status": "pending",
+    "number": "2024-442",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10747",
+    "eventSponsor": "SEIU-CIR Physician Mental Health",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "4/5/2024 9:00 AM",
+    "setUpDateTime": "4/5/2024 6:00 AM",
+    "endDateTime": "4/5/2024 4:00 PM",
+    "participants": 10,
+    "details": "Informational demonstration on physician mental health and how to break the stigma in medicine"
   },
   {
     "status": "approved",
