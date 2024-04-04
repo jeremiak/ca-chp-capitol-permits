@@ -5964,16 +5964,16 @@
     "details": "SEIU CA IHSS event with speakers"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-309",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10606",
     "eventSponsor": "LGBTQ Caucus Pride Ceremony ",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "2/16/2024 1:00 PM",
-    "setUpDateTime": "2/16/2024 12:30 PM",
-    "endDateTime": "2/16/2024 2:30 PM",
+    "startDateTime": "6/3/2024 1:00 PM",
+    "setUpDateTime": "6/3/2024 12:00 PM",
+    "endDateTime": "6/3/2024 2:30 PM",
     "participants": 100,
-    "details": "We would like for a LGBTQ Biker Group to ride down capitol mall and have 2 motorcycles allowed on the West steps where a press conference will take prior to our Pride ceremony."
+    "details": "Come celebrate Pride Month with this LGBTQ Biker Group to ride down Capitol Mall and have a press conference that will take prior to our Pride ceremony."
   },
   {
     "status": "approved",
@@ -6012,7 +6012,7 @@
     "details": "We would like to put on a band concert of traditional concert band literature on the steps of the Capitol building or on the lawn area near the building as part of our Concert Tour that we are doing in May 2024 in the Northern California region."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-313",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10610",
     "eventSponsor": "Karma Automotive Day-Southwest Side closer to the Capitol",
@@ -6021,7 +6021,7 @@
     "setUpDateTime": "4/10/2024 7:00 AM",
     "endDateTime": "4/10/2024 5:00 PM",
     "participants": 10,
-    "details": "The even will be forming the public on Karma Automotive's new plans for creating clean energy jobs and how they are helping transform California into a new hub for E.V. infrastructure and job creation.  This will be on the sidewalk closer to the Capitol near the benches."
+    "details": "The even will be forming the public on Karma Automotive's new plans for creating clean energy jobs and how they are helping transform California into a new hub for E.V. infrastructure and job creation.  This will be on the southwest side sidewalk closer to the Capitol near the benches."
   },
   {
     "status": "pending",
@@ -6480,14 +6480,14 @@
     "details": "Have wedding ceremony in the Rose garden and wedding pictures"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-359",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10657",
     "eventSponsor": "Climate Bond",
     "locationOnCapitolGrounds": "Other",
-    "startDateTime": "4/27/2024 4:00 AM",
-    "setUpDateTime": "4/27/2024 4:00 AM",
-    "endDateTime": "4/27/2024 4:00 AM",
+    "startDateTime": "5/31/2024 4:00 AM",
+    "setUpDateTime": "5/31/2024 4:00 AM",
+    "endDateTime": "5/31/2024 4:00 AM",
     "participants": 40,
     "details": "A press conference with legislators, advocates, and activists urging lawmakers and the governor to put a climate bond on the November ballot."
   },
@@ -6745,6 +6745,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-387",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10687",
+    "eventSponsor": "Moms Demand Action",
+    "locationOnCapitolGrounds": "Wear Orange",
+    "startDateTime": "6/3/2024 10:00 AM",
+    "setUpDateTime": "6/3/2024 9:00 AM",
+    "endDateTime": "6/3/2024 11:30 AM",
+    "participants": 100,
+    "details": "California Moms Demand Action, our partners and lawmaker allies will gather together to raise awareness about gun violence prevention. Join us in honoring survivors and building community around our mission to end gun violence."
+  },
+  {
+    "status": "approved",
     "number": "2024-388",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10688",
     "eventSponsor": "Unchained At Last. Assemblymember Petrie Norris",
@@ -6838,6 +6850,18 @@
     "endDateTime": "4/17/2024 6:00 PM",
     "participants": 75,
     "details": "Press conference in support of Ethnic Studies in K-12 schools in California.  This will be on the Southwest Side toward N Street on the West Side."
+  },
+  {
+    "status": "approved",
+    "number": "2024-398",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10699",
+    "eventSponsor": "California Juneteenth Flag Raising Ceremony",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "6/3/2024 11:30 AM",
+    "setUpDateTime": "6/3/2024 9:30 AM",
+    "endDateTime": "6/3/2024 1:30 PM",
+    "participants": 100,
+    "details": "2024 California Juneteenth Flag Raising Ceremony aligned with nationwide events."
   },
   {
     "status": "pending",
@@ -7181,9 +7205,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10742",
     "eventSponsor": "Safety Net for All Advocacy Day ",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "4/18/2024 9:00 AM",
-    "setUpDateTime": "4/18/2024 6:00 AM",
-    "endDateTime": "4/18/2024 5:00 PM",
+    "startDateTime": "4/26/2024 4:00 AM",
+    "setUpDateTime": "4/26/2024 4:00 AM",
+    "endDateTime": "4/26/2024 4:00 AM",
     "participants": 100,
     "details": "Safety Net for All Coalition Advocacy Day"
   },
@@ -7212,7 +7236,7 @@
     "details": "California Immigrant Policy Center's (CIPC) Annual Immigrant Day of Action"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-441",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10746",
     "eventSponsor": "California Alliance for Digital Equity- Southwest Side",
@@ -7224,16 +7248,64 @@
     "details": "Digital Equity Advocacy Day- Lobbying members of the Legislature.  This will be on the Southwest Side."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-442",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10747",
     "eventSponsor": "SEIU-CIR Physician Mental Health",
-    "locationOnCapitolGrounds": "Other",
-    "startDateTime": "4/5/2024 9:00 AM",
-    "setUpDateTime": "4/5/2024 6:00 AM",
-    "endDateTime": "4/5/2024 4:00 PM",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/21/2024 9:30 AM",
+    "setUpDateTime": "5/21/2024 9:00 AM",
+    "endDateTime": "5/21/2024 3:00 PM",
     "participants": 10,
-    "details": "Informational demonstration on physician mental health and how to break the stigma in medicine"
+    "details": "Informational demonstration on physician mental health and how to break the stigma in medicine.  This will be on the Southwest Side."
+  },
+  {
+    "status": "approved",
+    "number": "2024-443",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10748",
+    "eventSponsor": "PICO California Housing Summit",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "4/15/2024 12:00 PM",
+    "setUpDateTime": "4/15/2024 10:00 AM",
+    "endDateTime": "4/15/2024 3:30 PM",
+    "participants": 50,
+    "details": "Housing summit, with press conference, panel discussion, followed by lobby day."
+  },
+  {
+    "status": "approved",
+    "number": "2024-445",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10752",
+    "eventSponsor": "California VOCA Rally",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/30/2024 3:45 PM",
+    "setUpDateTime": "4/30/2024 3:00 PM",
+    "endDateTime": "4/30/2024 5:15 PM",
+    "participants": 200,
+    "details": "This rally will feature legislative speakers and sexual and domestic violence advocates who are working to address the gap in federal funding for crime victim services. Music will be playing, attendees will be holding signs."
+  },
+  {
+    "status": "pending",
+    "number": "2024-446",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10753",
+    "eventSponsor": "Make Polluters Pay Lobby Day",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "5/16/2024 7:00 AM",
+    "setUpDateTime": "5/16/2024 6:00 AM",
+    "endDateTime": "5/16/2024 3:00 PM",
+    "participants": 50,
+    "details": "Climate advocates, grassroots activists, and frontline community members will gather to urge legislative action to make fossil fuel polluters pay for the damage done to communities and our climate."
+  },
+  {
+    "status": "pending",
+    "number": "2024-448",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10755",
+    "eventSponsor": "Service Employees International Union",
+    "locationOnCapitolGrounds": "AB 2364 Press Conference",
+    "startDateTime": "4/6/2024 12:00 PM",
+    "setUpDateTime": "4/6/2024 11:00 AM",
+    "endDateTime": "4/6/2024 1:00 PM",
+    "participants": 200,
+    "details": "Press conference for a SEIU sponsored bill, AB 2364 (Luz Rivas)"
   },
   {
     "status": "approved",
@@ -7422,7 +7494,7 @@
     "eventSponsor": "Livival at The Capital",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "4/6/2024 12:00 PM",
-    "setUpDateTime": "4/6/2024 11:00 AM",
+    "setUpDateTime": "4/6/2024 10:00 AM",
     "endDateTime": "4/6/2024 5:00 PM",
     "participants": 75,
     "details": "Christian concert and speaking event. Theme will be about the cross and what it means for the speakers. Poetry and dancing will be part of this event as well."
