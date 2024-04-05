@@ -648,16 +648,16 @@
     "details": "An event with a dozen speakers promoting the value of unborn babies and opposing abortion."
   },
   {
-    "status": "approved",
+    "status": "pending",
     "number": "2023-545",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9911",
     "eventSponsor": "Vision y Compromiso March and Rally",
     "locationOnCapitolGrounds": "Area 27",
     "startDateTime": "5/7/2024 8:00 AM",
-    "setUpDateTime": "5/7/2024 8:00 AM",
+    "setUpDateTime": "5/7/2024 7:00 AM",
     "endDateTime": "5/7/2024 4:00 PM",
     "participants": 100,
-    "details": "March at 900 am from L and 15th Street t Capitol followed by Rally at 1000 am with Legislators. Box lunches served at 1130 - 100 pm for participants"
+    "details": "March around the Capitol."
   },
   {
     "status": "approved",
@@ -3642,10 +3642,10 @@
     "eventSponsor": "The Arc of Calif- Southwest Side",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "4/10/2024 9:00 AM",
-    "setUpDateTime": "4/9/2024 8:00 AM",
+    "setUpDateTime": "4/9/2024 10:00 AM",
     "endDateTime": "4/10/2024 6:00 PM",
     "participants": 200,
-    "details": "Annual Rally for the Disability population of Calif.  This will be on Southwest Side toward 10th and N."
+    "details": "Annual Rally for the Disability population of Calif.  This will be on Southwest Side toward 10th and N on the 10th Street side."
   },
   {
     "status": "approved",
@@ -7301,11 +7301,11 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10755",
     "eventSponsor": "Service Employees International Union",
     "locationOnCapitolGrounds": "AB 2364 Press Conference",
-    "startDateTime": "4/6/2024 12:00 PM",
-    "setUpDateTime": "4/6/2024 11:00 AM",
-    "endDateTime": "4/6/2024 1:00 PM",
-    "participants": 200,
-    "details": "Press conference for a SEIU sponsored bill, AB 2364 (Luz Rivas)"
+    "startDateTime": "4/17/2024 10:00 AM",
+    "setUpDateTime": "4/17/2024 9:00 AM",
+    "endDateTime": "4/17/2024 4:00 PM",
+    "participants": 150,
+    "details": "Press conference for a SEIU sponsored bill, AB 2364 (Luz Rivas).  Press conference.  This will be on the northwest side."
   },
   {
     "status": "approved",
@@ -7318,6 +7318,54 @@
     "endDateTime": "4/25/2024 6:00 PM",
     "participants": 600,
     "details": "Honoring 191 Fallen Caltrans Workers"
+  },
+  {
+    "status": "pending",
+    "number": "2024-450",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10757",
+    "eventSponsor": "AB 2364",
+    "locationOnCapitolGrounds": "End Janitorial Exploitation and Abuse Act Press Conference",
+    "startDateTime": "4/7/2024 11:30 AM",
+    "setUpDateTime": "4/7/2024 11:15 AM",
+    "endDateTime": "4/7/2024 12:15 PM",
+    "participants": 30,
+    "details": "SEIU and USWW are having a lobbying day for AB 2364 the End Janitorial Exploitation and Abuse Act by Assemblywoman Luz Rivas. SEIU and USWW would like to hold a press conference at the West Steps."
+  },
+  {
+    "status": "pending",
+    "number": "2024-451",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10758",
+    "eventSponsor": "AB 2808 Press Conference",
+    "locationOnCapitolGrounds": "Asm. Buffy WIcks ",
+    "startDateTime": "4/7/2024 10:00 AM",
+    "setUpDateTime": "4/7/2024 9:00 AM",
+    "endDateTime": "4/7/2024 11:00 AM",
+    "participants": 30,
+    "details": "Press conference on AB 2808, Asm. Wicks' event ticketing bill."
+  },
+  {
+    "status": "pending",
+    "number": "2024-453",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10760",
+    "eventSponsor": "Ducks Unlimited Day of Advocacy",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "4/17/2024 12:15 PM",
+    "setUpDateTime": "4/17/2024 11:45 AM",
+    "endDateTime": "4/17/2024 12:45 PM",
+    "participants": 50,
+    "details": "We will be meeting to discuss teams, assignments, logistics, and take pictures."
+  },
+  {
+    "status": "pending",
+    "number": "2024-454",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10761",
+    "eventSponsor": "Not These Cuts, Not These Kids Rally",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "4/15/2024 1:30 PM",
+    "setUpDateTime": "4/15/2024 1:15 PM",
+    "endDateTime": "4/15/2024 2:30 PM",
+    "participants": 50,
+    "details": "Current and former foster youth (with chaperones) standing and holding signs and speaking out against proposed budget cuts to foster youth programs"
   },
   {
     "status": "approved",
@@ -7606,6 +7654,18 @@
     "endDateTime": "4/18/2024 1:00 PM",
     "participants": 100,
     "details": "A rally with elected officials speaking to bring awareness to construction industry tax fraud"
+  },
+  {
+    "status": "approved",
+    "number": "2024-90",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10353",
+    "eventSponsor": "California Association of Nonprofits",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "6/5/2024 8:00 AM",
+    "setUpDateTime": "6/4/2024 7:00 AM",
+    "endDateTime": "6/5/2024 8:00 PM",
+    "participants": 400,
+    "details": "California Nonprofit of the Year luncheon with legislators and selected nonprofits from their district. Eating lunch at round tables under a large tent with a stage and speaking program."
   },
   {
     "status": "approved",
