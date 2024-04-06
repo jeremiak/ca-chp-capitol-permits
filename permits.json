@@ -750,9 +750,9 @@
     "eventSponsor": "Nurse Rally for Nurses Week-United Nurses Associations of CA",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "5/7/2024 10:00 AM",
-    "setUpDateTime": "5/7/2024 7:00 AM",
+    "setUpDateTime": "5/7/2024 8:30 AM",
     "endDateTime": "5/7/2024 2:00 PM",
-    "participants": 500,
+    "participants": 450,
     "details": "Rally regarding our legislative priorities for National Nurses Week"
   },
   {
@@ -3724,10 +3724,10 @@
     "number": "2023-925",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10384",
     "eventSponsor": "California Denim Day Rally",
-    "locationOnCapitolGrounds": "Area 27, Area 34",
+    "locationOnCapitolGrounds": "West Side",
     "startDateTime": "4/24/2024 9:00 AM",
     "setUpDateTime": "4/24/2024 8:00 AM",
-    "endDateTime": "4/24/2024 5:00 PM",
+    "endDateTime": "4/24/2024 12:00 PM",
     "participants": 200,
     "details": "This year, California will be recognizing the 25th anniversary of Denim Day. A day during Sexual Assault Awareness Month dedicated to supporting survivors of sexual violence and calling for an end to sexual assault. VALOR will be inviting legislators, advocates, and community members to gather for a rally where participants will hear from speakers about the importance of preventing and ending sexual violence. Amplified music will be playing. The rally will be from 10-1130am."
   },
@@ -4020,7 +4020,7 @@
     "details": "Muslim Day at the Capitol brings the community member from across the state of CA to come to the capitol to have an opportunity to meet their state legislators to discuss issues of concern and help bring positive change."
   },
   {
-    "status": "approved",
+    "status": "pending",
     "number": "2024-116",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10397",
     "eventSponsor": "Survivors Speak 2024",
@@ -4028,7 +4028,7 @@
     "startDateTime": "4/23/2024 8:00 AM",
     "setUpDateTime": "4/22/2024 3:00 PM",
     "endDateTime": "4/23/2024 6:00 PM",
-    "participants": 150,
+    "participants": 160,
     "details": "Survivors Speak California 2024 is hosted by Crime Survivors for Safety and Justice, a national network of crime survivors joining together to create healing communities and shape public policy."
   },
   {
@@ -6939,12 +6939,12 @@
     "status": "approved",
     "number": "2024-408",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10710",
-    "eventSponsor": "Legislative Announcement- Southwest Side",
-    "locationOnCapitolGrounds": "West Side",
+    "eventSponsor": "SB 1043",
+    "locationOnCapitolGrounds": "Reforming Teen Facilities Legislative Announcement- Southwest Side",
     "startDateTime": "4/15/2024 1:30 PM",
     "setUpDateTime": "4/15/2024 1:00 PM",
     "endDateTime": "4/15/2024 3:00 PM",
-    "participants": 15,
+    "participants": 100,
     "details": "Press conference to announce legislation.  This will be on the southwest side closer to N Street."
   },
   {
@@ -7260,7 +7260,7 @@
     "details": "Informational demonstration on physician mental health and how to break the stigma in medicine.  This will be on the Southwest Side."
   },
   {
-    "status": "approved",
+    "status": "pending",
     "number": "2024-443",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10748",
     "eventSponsor": "PICO California Housing Summit",
@@ -7268,7 +7268,7 @@
     "startDateTime": "4/15/2024 12:00 PM",
     "setUpDateTime": "4/15/2024 10:00 AM",
     "endDateTime": "4/15/2024 3:30 PM",
-    "participants": 50,
+    "participants": 75,
     "details": "Housing summit, with press conference, panel discussion, followed by lobby day."
   },
   {
@@ -7284,16 +7284,16 @@
     "details": "This rally will feature legislative speakers and sexual and domestic violence advocates who are working to address the gap in federal funding for crime victim services. Music will be playing, attendees will be holding signs."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-446",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10753",
-    "eventSponsor": "Make Polluters Pay Lobby Day",
-    "locationOnCapitolGrounds": "Other",
-    "startDateTime": "5/16/2024 7:00 AM",
-    "setUpDateTime": "5/16/2024 6:00 AM",
-    "endDateTime": "5/16/2024 3:00 PM",
+    "eventSponsor": "Make Polluters Pay Lobby Day- Southwest Side",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/14/2024 10:00 AM",
+    "setUpDateTime": "5/14/2024 8:00 AM",
+    "endDateTime": "5/14/2024 4:00 PM",
     "participants": 50,
-    "details": "Climate advocates, grassroots activists, and frontline community members will gather to urge legislative action to make fossil fuel polluters pay for the damage done to communities and our climate."
+    "details": "Climate advocates, grassroots activists, and frontline community members will gather to urge legislative action to make fossil fuel polluters pay for the damage done to communities and our climate.  This will be on the southwest side closer to N Street."
   },
   {
     "status": "pending",
@@ -7332,40 +7332,88 @@
     "details": "SEIU and USWW are having a lobbying day for AB 2364 the End Janitorial Exploitation and Abuse Act by Assemblywoman Luz Rivas. SEIU and USWW would like to hold a press conference at the West Steps."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-451",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10758",
     "eventSponsor": "AB 2808 Press Conference",
     "locationOnCapitolGrounds": "Asm. Buffy WIcks ",
-    "startDateTime": "4/7/2024 10:00 AM",
-    "setUpDateTime": "4/7/2024 9:00 AM",
-    "endDateTime": "4/7/2024 11:00 AM",
+    "startDateTime": "4/8/2024 10:00 AM",
+    "setUpDateTime": "4/8/2024 9:00 AM",
+    "endDateTime": "4/8/2024 12:00 PM",
     "participants": 30,
     "details": "Press conference on AB 2808, Asm. Wicks' event ticketing bill."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-453",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10760",
     "eventSponsor": "Ducks Unlimited Day of Advocacy",
-    "locationOnCapitolGrounds": "Other",
+    "locationOnCapitolGrounds": "West Side",
     "startDateTime": "4/17/2024 12:15 PM",
     "setUpDateTime": "4/17/2024 11:45 AM",
     "endDateTime": "4/17/2024 12:45 PM",
     "participants": 50,
-    "details": "We will be meeting to discuss teams, assignments, logistics, and take pictures."
+    "details": "We will be meeting to discuss teams, assignments, logistics, and take pictures.  This will be on the southwest side closer to N Street."
   },
   {
     "status": "pending",
     "number": "2024-454",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10761",
-    "eventSponsor": "Not These Cuts, Not These Kids Rally",
-    "locationOnCapitolGrounds": "Other",
+    "eventSponsor": "Not These Cuts, Not These Kids Rally- Northwest Side on the L Street Side",
+    "locationOnCapitolGrounds": "West Side",
     "startDateTime": "4/15/2024 1:30 PM",
     "setUpDateTime": "4/15/2024 1:15 PM",
     "endDateTime": "4/15/2024 2:30 PM",
-    "participants": 50,
-    "details": "Current and former foster youth (with chaperones) standing and holding signs and speaking out against proposed budget cuts to foster youth programs"
+    "participants": 60,
+    "details": "Current and former foster youth (with chaperones) standing and holding signs and speaking out against proposed budget cuts to foster youth programs.  Northwest side on the L Street Side."
+  },
+  {
+    "status": "approved",
+    "number": "2024-455",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10762",
+    "eventSponsor": "Asm. Bill Essayli Press Conference- Northwest Side",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/23/2024 12:30 PM",
+    "setUpDateTime": "4/23/2024 12:00 PM",
+    "endDateTime": "4/23/2024 1:30 PM",
+    "participants": 40,
+    "details": "Asm. Bill Essayli Press Conference Announcing Legislation.  This will be on the northwest side- closer to L Street."
+  },
+  {
+    "status": "approved",
+    "number": "2024-456",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10763",
+    "eventSponsor": "California State Senate- Southwest Side closer to N Street. ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/22/2024 9:30 AM",
+    "setUpDateTime": "4/22/2024 8:30 AM",
+    "endDateTime": "4/22/2024 10:00 AM",
+    "participants": 15,
+    "details": "Announcement of animal rights bill.  This will be on the Southwest Side across from the LOB on Capitol Grounds."
+  },
+  {
+    "status": "pending",
+    "number": "2024-457",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10764",
+    "eventSponsor": "Parkinsons Foundation",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/18/2024 6:00 AM",
+    "setUpDateTime": "5/17/2024 9:00 AM",
+    "endDateTime": "5/18/2024 3:00 PM",
+    "participants": 350,
+    "details": "The Parkinson's Foundation Moving Day is 5K walk open to the public. We did this event on capitol grounds in 2018. The event is to raise funds to fight Parkinson's Disease and provide resources for families."
+  },
+  {
+    "status": "pending",
+    "number": "2024-458",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10765",
+    "eventSponsor": "Big City Mayors Coalition",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/23/2024 10:00 AM",
+    "setUpDateTime": "4/23/2024 9:00 AM",
+    "endDateTime": "4/23/2024 12:00 PM",
+    "participants": 30,
+    "details": "Press conference with the mayors of California's 13 largest cities."
   },
   {
     "status": "approved",
@@ -7695,7 +7743,7 @@
     "status": "approved",
     "number": "2024-95",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10359",
-    "eventSponsor": "American Heart Association Heart at the Capitol Day",
+    "eventSponsor": "American Heart Association Heart at the Capitol Day- Southwest Side",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "5/7/2024 8:00 AM",
     "setUpDateTime": "5/7/2024 6:00 AM",
