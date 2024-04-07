@@ -4704,14 +4704,14 @@
     "details": "Sacramento State alumni and friends who work in and around the Capitol, or focused in the area of government, eating and mixing on the Capitol grounds."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-193",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10489",
     "eventSponsor": "ALS Association CEO SOAK",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "1/12/2024 8:00 AM",
-    "setUpDateTime": "1/12/2024 8:00 AM",
-    "endDateTime": "1/12/2024 12:00 PM",
+    "startDateTime": "6/6/2024 8:00 AM",
+    "setUpDateTime": "6/6/2024 7:00 AM",
+    "endDateTime": "6/6/2024 12:00 PM",
     "participants": 75,
     "details": "ALS Association event where we are honoring those impacted by ALS."
   },
