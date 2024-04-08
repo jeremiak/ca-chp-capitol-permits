@@ -2557,6 +2557,18 @@
   },
   {
     "status": "approved",
+    "number": "2023-825",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10227",
+    "eventSponsor": "Alumni Event",
+    "locationOnCapitolGrounds": "California State University",
+    "startDateTime": "6/7/2024 8:30 AM",
+    "setUpDateTime": "6/7/2024 7:30 AM",
+    "endDateTime": "6/7/2024 11:30 AM",
+    "participants": 100,
+    "details": "Alumni networking event with donuts and coffee"
+  },
+  {
+    "status": "approved",
     "number": "2023-826",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10229",
     "eventSponsor": "Fenta Nah 1st annual fentanyl awareness fall festival",
@@ -7113,7 +7125,7 @@
     "setUpDateTime": "4/8/2024 11:00 AM",
     "endDateTime": "4/8/2024 1:30 PM",
     "participants": 150,
-    "details": "This event is going to be an ACA 16 Press Conference on the West Side. It is the same day as the Natural Resources Committee Hearing."
+    "details": "This event is going to be an ACA 16 Press Conference. It is the same day as the Natural Resources Committee Hearing."
   },
   {
     "status": "approved",
