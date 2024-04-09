@@ -657,7 +657,7 @@
     "setUpDateTime": "5/7/2024 7:00 AM",
     "endDateTime": "5/7/2024 4:00 PM",
     "participants": 100,
-    "details": "March around the Capitol."
+    "details": "Rally"
   },
   {
     "status": "approved",
@@ -3654,7 +3654,7 @@
     "eventSponsor": "The Arc of Calif- Southwest Side",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "4/10/2024 9:00 AM",
-    "setUpDateTime": "4/9/2024 10:00 AM",
+    "setUpDateTime": "4/9/2024 8:00 AM",
     "endDateTime": "4/10/2024 6:00 PM",
     "participants": 200,
     "details": "Annual Rally for the Disability population of Calif.  This will be on Southwest Side toward 10th and N on the 10th Street side."
@@ -4892,7 +4892,7 @@
     "startDateTime": "5/7/2024 9:00 AM",
     "setUpDateTime": "5/7/2024 7:00 AM",
     "endDateTime": "5/7/2024 5:00 PM",
-    "participants": 100,
+    "participants": 150,
     "details": "California Ocean Day is an annual event that started in 2005. Environmental groups bring together elected officials and ocean-loving Californians to stand up for our ocean. (Main Groups involved Environment California, Monterey Bay Aquarium, Surfrider, Azul, COARE, CSU COAST, CALPIRG Students)"
   },
   {
@@ -6817,6 +6817,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-393",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10694",
+    "eventSponsor": "Wedding Pictures",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "6/8/2024 1:00 PM",
+    "setUpDateTime": "6/8/2024 12:30 PM",
+    "endDateTime": "6/8/2024 4:00 PM",
+    "participants": 25,
+    "details": "Taking wedding photos in the capitol rose garden before our wedding ceremony at a local venue a few blocks away. Couple, bridal party, and family will be attending"
+  },
+  {
+    "status": "approved",
     "number": "2024-394",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10695",
     "eventSponsor": "JROTC Color Guard Competition",
@@ -7242,9 +7254,9 @@
     "eventSponsor": "Immigrant Day of Action",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "4/16/2024 9:00 AM",
-    "setUpDateTime": "4/16/2024 7:00 AM",
-    "endDateTime": "4/16/2024 5:00 PM",
-    "participants": 200,
+    "setUpDateTime": "4/16/2024 6:00 AM",
+    "endDateTime": "4/16/2024 6:00 PM",
+    "participants": 500,
     "details": "California Immigrant Policy Center's (CIPC) Annual Immigrant Day of Action"
   },
   {
@@ -7301,9 +7313,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10753",
     "eventSponsor": "Make Polluters Pay Lobby Day- Southwest Side",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "5/14/2024 10:00 AM",
-    "setUpDateTime": "5/14/2024 8:00 AM",
-    "endDateTime": "5/14/2024 4:00 PM",
+    "startDateTime": "5/16/2024 10:00 AM",
+    "setUpDateTime": "5/16/2024 8:00 AM",
+    "endDateTime": "5/16/2024 4:00 PM",
     "participants": 50,
     "details": "Climate advocates, grassroots activists, and frontline community members will gather to urge legislative action to make fossil fuel polluters pay for the damage done to communities and our climate.  This will be on the southwest side closer to N Street."
   },
@@ -7428,6 +7440,30 @@
     "details": "Press conference with the mayors of California's 13 largest cities."
   },
   {
+    "status": "pending",
+    "number": "2024-460",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10767",
+    "eventSponsor": "CA DDS Person Centered Planning Photo Shoot",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "4/15/2024 11:00 AM",
+    "setUpDateTime": "4/15/2024 10:00 AM",
+    "endDateTime": "4/15/2024 1:30 PM",
+    "participants": 10,
+    "details": "Father and son on the Capitol steps and walking the grounds."
+  },
+  {
+    "status": "pending",
+    "number": "2024-462",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10769",
+    "eventSponsor": "Cesar and Lupitas  Proposal Day",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "4/11/2024 4:45 PM",
+    "setUpDateTime": "4/11/2024 4:45 PM",
+    "endDateTime": "4/11/2024 6:30 PM",
+    "participants": 10,
+    "details": "Marriage Proposal"
+  },
+  {
     "status": "approved",
     "number": "2024-48",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10248",
@@ -7498,6 +7534,18 @@
     "endDateTime": "2/6/2024 4:00 PM",
     "participants": 50,
     "details": "Blood drive by Vitalant"
+  },
+  {
+    "status": "approved",
+    "number": "2024-57",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10275",
+    "eventSponsor": "Let Us Worship",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "6/8/2024 6:00 PM",
+    "setUpDateTime": "6/8/2024 7:00 AM",
+    "endDateTime": "6/8/2024 10:00 PM",
+    "participants": 3000,
+    "details": "This prayer and worship event is centered on the praise of Jesus Christ. Music, and prayer for community, state, and elected officials. The event will start with worship music with our artist and band and go back and forth between thoughtful prayer and prayer for attendees.  Expected to go 6pm-830pm."
   },
   {
     "status": "approved",
