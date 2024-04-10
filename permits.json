@@ -648,16 +648,16 @@
     "details": "An event with a dozen speakers promoting the value of unborn babies and opposing abortion."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2023-545",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9911",
-    "eventSponsor": "Vision y Compromiso March and Rally",
-    "locationOnCapitolGrounds": "Area 27",
+    "eventSponsor": "Vision y Compromiso Rally.  This will be on the Northwest Side closer to L Street. ",
+    "locationOnCapitolGrounds": "West Side",
     "startDateTime": "5/7/2024 8:00 AM",
     "setUpDateTime": "5/7/2024 7:00 AM",
     "endDateTime": "5/7/2024 4:00 PM",
     "participants": 100,
-    "details": "Rally"
+    "details": "Rally with Aztec dancers.  This is on the Northwest Side closer to L Street."
   },
   {
     "status": "approved",
@@ -4231,7 +4231,7 @@
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "4/10/2024 8:00 AM",
     "setUpDateTime": "4/9/2024 8:00 AM",
-    "endDateTime": "4/10/2024 5:00 PM",
+    "endDateTime": "4/10/2024 9:00 PM",
     "participants": 130,
     "details": "This is our annual Capitol Day Event"
   },
@@ -6144,7 +6144,7 @@
     "details": "Hope Fest 2024 - Set up of stage & sound."
   },
   {
-    "status": "approved",
+    "status": "pending",
     "number": "2024-327",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10625",
     "eventSponsor": "American Heart Associations Information and Education Day- Southwest Side",
@@ -6152,7 +6152,7 @@
     "startDateTime": "5/29/2024 8:00 AM",
     "setUpDateTime": "5/28/2024 8:00 AM",
     "endDateTime": "5/29/2024 8:00 PM",
-    "participants": 150,
+    "participants": 300,
     "details": "We are hosting Information & Education Days at the Capitol where we will schedule participants with their legislators to discuss and inform them on issues surrounding tobacco use and cessation. Participants will move between a tent on the Capitol grounds and the Swing Space."
   },
   {
@@ -6322,6 +6322,18 @@
     "endDateTime": "3/2/2024 4:00 PM",
     "participants": 20,
     "details": "Brief vow exchange between my fiance and I."
+  },
+  {
+    "status": "approved",
+    "number": "2024-342",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10640",
+    "eventSponsor": "Impact Sac- Violence Prevention and Awareness",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "6/9/2024 10:00 AM",
+    "setUpDateTime": "6/9/2024 8:00 AM",
+    "endDateTime": "6/9/2024 3:00 PM",
+    "participants": 75,
+    "details": "An all age event with relevant activities for teenagers. The event will raise awareness and provide resources for people and families affected by violence, gun violence in particular. There will be guest speakers, and vendors offering resources and SWAG. DJ, food, and seating will be made available for guests."
   },
   {
     "status": "pending",
@@ -7167,13 +7179,13 @@
     "status": "approved",
     "number": "2024-432",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10736",
-    "eventSponsor": "EdVoice",
-    "locationOnCapitolGrounds": "Area 27",
-    "startDateTime": "4/10/2024 12:00 PM",
-    "setUpDateTime": "4/10/2024 11:00 AM",
-    "endDateTime": "4/10/2024 2:00 PM",
+    "eventSponsor": "EdVoice- Southwest Side closer to N Street.",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/17/2024 12:00 PM",
+    "setUpDateTime": "4/17/2024 11:00 AM",
+    "endDateTime": "4/17/2024 1:30 PM",
     "participants": 50,
-    "details": "Parents, advocates, and community leaders are meeting ahead of the Assembly Education Committee's hearing for AB 2222 to gather for lunch."
+    "details": "Parents, advocates, and community leaders are meeting ahead of the Assembly Education Committee's hearing for AB 2222 to gather for lunch.  This will be on the southwest side closer to N Street."
   },
   {
     "status": "approved",
@@ -7229,9 +7241,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10742",
     "eventSponsor": "Safety Net for All Advocacy Day ",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "4/26/2024 4:00 AM",
-    "setUpDateTime": "4/26/2024 4:00 AM",
-    "endDateTime": "4/26/2024 4:00 AM",
+    "startDateTime": "4/18/2024 8:00 AM",
+    "setUpDateTime": "4/18/2024 8:00 AM",
+    "endDateTime": "4/18/2024 6:00 PM",
     "participants": 100,
     "details": "Safety Net for All Coalition Advocacy Day"
   },
@@ -7284,7 +7296,7 @@
     "details": "Informational demonstration on physician mental health and how to break the stigma in medicine.  This will be on the Southwest Side."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-443",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10748",
     "eventSponsor": "PICO California Housing Summit",
@@ -7320,7 +7332,7 @@
     "details": "Climate advocates, grassroots activists, and frontline community members will gather to urge legislative action to make fossil fuel polluters pay for the damage done to communities and our climate.  This will be on the southwest side closer to N Street."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-448",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10755",
     "eventSponsor": "Service Employees International Union",
@@ -7440,11 +7452,11 @@
     "details": "Press conference with the mayors of California's 13 largest cities."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-460",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10767",
     "eventSponsor": "CA DDS Person Centered Planning Photo Shoot",
-    "locationOnCapitolGrounds": "Other",
+    "locationOnCapitolGrounds": "West Side",
     "startDateTime": "4/15/2024 11:00 AM",
     "setUpDateTime": "4/15/2024 10:00 AM",
     "endDateTime": "4/15/2024 1:30 PM",
@@ -7452,16 +7464,28 @@
     "details": "Father and son on the Capitol steps and walking the grounds."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-462",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10769",
     "eventSponsor": "Cesar and Lupitas  Proposal Day",
     "locationOnCapitolGrounds": "Area 1",
-    "startDateTime": "4/11/2024 4:45 PM",
-    "setUpDateTime": "4/11/2024 4:45 PM",
-    "endDateTime": "4/11/2024 6:30 PM",
+    "startDateTime": "4/30/2024 4:45 PM",
+    "setUpDateTime": "4/30/2024 4:30 PM",
+    "endDateTime": "4/30/2024 6:30 PM",
     "participants": 10,
     "details": "Marriage Proposal"
+  },
+  {
+    "status": "pending",
+    "number": "2024-463",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10770",
+    "eventSponsor": "Global Youth Climate Strike Sacramento",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "4/12/2024 2:15 PM",
+    "setUpDateTime": "4/12/2024 11:15 AM",
+    "endDateTime": "4/12/2024 2:30 PM",
+    "participants": 40,
+    "details": "Twice a year, Fridays for Future hosts a climate strike across the globe to garner youth involvement within the Climate Movement. This year, the Spring Global Climate Strike will take place on April 19. Youth organizer from across the state have been planning this event. This event is for youth, by the youth. We will begin our strike at Crocker Park. We will make our way to the Natural Resources Building as our second stop. Our final stop will be on the Capitol Mall. We will have youth speakers at each spot as this event is to amplify youth voices. Our strike will take place on the side-walks."
   },
   {
     "status": "approved",
