@@ -628,7 +628,7 @@
     "number": "2023-540",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9902",
     "eventSponsor": "Niko and Julianne’s Wedding",
-    "locationOnCapitolGrounds": "Area 1, Area 22, Area 33",
+    "locationOnCapitolGrounds": "Area 22",
     "startDateTime": "4/20/2024 4:00 PM",
     "setUpDateTime": "4/20/2024 2:00 PM",
     "endDateTime": "4/20/2024 5:30 PM",
@@ -4032,7 +4032,7 @@
     "details": "Muslim Day at the Capitol brings the community member from across the state of CA to come to the capitol to have an opportunity to meet their state legislators to discuss issues of concern and help bring positive change."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-116",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10397",
     "eventSponsor": "Survivors Speak 2024",
@@ -6144,7 +6144,7 @@
     "details": "Hope Fest 2024 - Set up of stage & sound."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-327",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10625",
     "eventSponsor": "American Heart Associations Information and Education Day- Southwest Side",
@@ -6732,6 +6732,18 @@
     "details": "This is going to be a Press Conference for ACA 16. This is a Constitutional Amendment that will be heard in the Natural Resources that same day.  Tentatively this will be on the southwest side."
   },
   {
+    "status": "approved",
+    "number": "2024-383",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10683",
+    "eventSponsor": "SEIU California",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "6/11/2024 8:00 AM",
+    "setUpDateTime": "6/10/2024 2:00 PM",
+    "endDateTime": "6/11/2024 8:00 PM",
+    "participants": 2000,
+    "details": "Rally around the budget"
+  },
+  {
     "status": "pending",
     "number": "2024-384",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10684",
@@ -7260,7 +7272,7 @@
     "details": "3' x 10' Banner presentation in Front to Swing Space Entrance"
   },
   {
-    "status": "approved",
+    "status": "pending",
     "number": "2024-44",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10200",
     "eventSponsor": "Immigrant Day of Action",
@@ -7287,7 +7299,7 @@
     "status": "approved",
     "number": "2024-442",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10747",
-    "eventSponsor": "SEIU-CIR Physician Mental Health",
+    "eventSponsor": "SEIU-CIR Physician Mental Health Southwest Side",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "5/21/2024 9:30 AM",
     "setUpDateTime": "5/21/2024 9:00 AM",
@@ -7383,7 +7395,7 @@
     "status": "approved",
     "number": "2024-453",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10760",
-    "eventSponsor": "Ducks Unlimited Day of Advocacy",
+    "eventSponsor": "Ducks Unlimited Day of Advocacy- Southwest Side",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "4/17/2024 12:15 PM",
     "setUpDateTime": "4/17/2024 11:45 AM",
@@ -7479,13 +7491,85 @@
     "status": "pending",
     "number": "2024-463",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10770",
-    "eventSponsor": "Global Youth Climate Strike Sacramento",
+    "eventSponsor": "Global Youth Climate Strike Sacramento- Natural Resources Building",
     "locationOnCapitolGrounds": "Other",
-    "startDateTime": "4/12/2024 2:15 PM",
-    "setUpDateTime": "4/12/2024 11:15 AM",
-    "endDateTime": "4/12/2024 2:30 PM",
-    "participants": 40,
+    "startDateTime": "4/19/2024 11:00 AM",
+    "setUpDateTime": "4/19/2024 11:00 AM",
+    "endDateTime": "4/19/2024 3:00 PM",
+    "participants": 200,
     "details": "Twice a year, Fridays for Future hosts a climate strike across the globe to garner youth involvement within the Climate Movement. This year, the Spring Global Climate Strike will take place on April 19. Youth organizer from across the state have been planning this event. This event is for youth, by the youth. We will begin our strike at Crocker Park. We will make our way to the Natural Resources Building as our second stop. Our final stop will be on the Capitol Mall. We will have youth speakers at each spot as this event is to amplify youth voices. Our strike will take place on the side-walks."
+  },
+  {
+    "status": "pending",
+    "number": "2024-465",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10772",
+    "eventSponsor": "Lobby Day of Action ",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "5/1/2024 9:00 AM",
+    "setUpDateTime": "5/1/2024 8:00 AM",
+    "endDateTime": "5/1/2024 5:00 PM",
+    "participants": 75,
+    "details": "Press Conference (and rally)"
+  },
+  {
+    "status": "pending",
+    "number": "2024-466",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10773",
+    "eventSponsor": "Lobby Day of Action ",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "5/2/2024 9:00 AM",
+    "setUpDateTime": "5/2/2024 8:00 AM",
+    "endDateTime": "5/2/2024 5:00 PM",
+    "participants": 75,
+    "details": "Press Conference (rally)"
+  },
+  {
+    "status": "approved",
+    "number": "2024-467",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10774",
+    "eventSponsor": "Assembly Republican Caucus- Southwest Side",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/17/2024 9:00 AM",
+    "setUpDateTime": "4/17/2024 8:00 AM",
+    "endDateTime": "4/17/2024 10:00 AM",
+    "participants": 20,
+    "details": "Assembly Republican Oppose Legislation.  This will be on the Southwest Side closer to N."
+  },
+  {
+    "status": "approved",
+    "number": "2024-468",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10775",
+    "eventSponsor": "CA Tourism Month Photo Op",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/23/2024 1:30 PM",
+    "setUpDateTime": "5/23/2024 1:30 PM",
+    "endDateTime": "5/23/2024 4:00 PM",
+    "participants": 40,
+    "details": "LPA will host a photo booth and hand out ice cream in celebration of California Tourism Month."
+  },
+  {
+    "status": "pending",
+    "number": "2024-469",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10776",
+    "eventSponsor": "Nicole and Geoffrey Engagement",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "4/13/2024 6:00 PM",
+    "setUpDateTime": "5/20/2024 5:00 PM",
+    "endDateTime": "4/13/2024 7:30 PM",
+    "participants": 15,
+    "details": "World Peace Rose Garden - Proposal event at the Square Peace Pavilion."
+  },
+  {
+    "status": "pending",
+    "number": "2024-470",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10777",
+    "eventSponsor": "Nicole and Geoffrey Engagement",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "5/20/2024 6:00 PM",
+    "setUpDateTime": "5/20/2024 5:00 PM",
+    "endDateTime": "5/20/2024 7:30 PM",
+    "participants": 15,
+    "details": "World Peace Rose Garden - Proposal event at the Square Peace Pavilion"
   },
   {
     "status": "approved",
