@@ -4168,7 +4168,7 @@
     "number": "2024-134",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10425",
     "eventSponsor": "League of California Cities",
-    "locationOnCapitolGrounds": "Area 22, Area 33",
+    "locationOnCapitolGrounds": "Area 22",
     "startDateTime": "4/17/2024 10:00 AM",
     "setUpDateTime": "4/17/2024 8:00 AM",
     "endDateTime": "4/17/2024 11:30 AM",
@@ -7248,16 +7248,16 @@
     "details": "This will be a rally of union workers with speakers on amplified sound."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-438",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10742",
-    "eventSponsor": "Safety Net for All Advocacy Day ",
+    "eventSponsor": "Safety Net for All Advocacy Day- Under the trees between Capitol and N",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "4/18/2024 8:00 AM",
     "setUpDateTime": "4/18/2024 8:00 AM",
     "endDateTime": "4/18/2024 6:00 PM",
     "participants": 100,
-    "details": "Safety Net for All Coalition Advocacy Day"
+    "details": "Safety Net for All Coalition Advocacy Day.  This will be under the trees between Capitol Avenue and N Street."
   },
   {
     "status": "pending",
@@ -7272,7 +7272,7 @@
     "details": "3' x 10' Banner presentation in Front to Swing Space Entrance"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-44",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10200",
     "eventSponsor": "Immigrant Day of Action",
@@ -7349,11 +7349,11 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10755",
     "eventSponsor": "Service Employees International Union",
     "locationOnCapitolGrounds": "AB 2364 Press Conference",
-    "startDateTime": "4/17/2024 10:00 AM",
-    "setUpDateTime": "4/17/2024 9:00 AM",
+    "startDateTime": "4/17/2024 9:00 AM",
+    "setUpDateTime": "4/17/2024 7:00 AM",
     "endDateTime": "4/17/2024 4:00 PM",
     "participants": 150,
-    "details": "Press conference for a SEIU sponsored bill, AB 2364 (Luz Rivas).  Press conference.  This will be on the northwest side."
+    "details": "Press conference for a SEIU sponsored bill, AB 2364 (Luz Rivas).  Press conference."
   },
   {
     "status": "approved",
@@ -7488,7 +7488,7 @@
     "details": "Marriage Proposal"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-463",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10770",
     "eventSponsor": "Global Youth Climate Strike Sacramento- Natural Resources Building",
@@ -7500,11 +7500,11 @@
     "details": "Twice a year, Fridays for Future hosts a climate strike across the globe to garner youth involvement within the Climate Movement. This year, the Spring Global Climate Strike will take place on April 19. Youth organizer from across the state have been planning this event. This event is for youth, by the youth. We will begin our strike at Crocker Park. We will make our way to the Natural Resources Building as our second stop. Our final stop will be on the Capitol Mall. We will have youth speakers at each spot as this event is to amplify youth voices. Our strike will take place on the side-walks."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-465",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10772",
-    "eventSponsor": "Lobby Day of Action ",
-    "locationOnCapitolGrounds": "Other",
+    "eventSponsor": "Lobby Day of Action- Voter Registration Bill",
+    "locationOnCapitolGrounds": "West Side",
     "startDateTime": "5/1/2024 9:00 AM",
     "setUpDateTime": "5/1/2024 8:00 AM",
     "endDateTime": "5/1/2024 5:00 PM",
@@ -7512,16 +7512,16 @@
     "details": "Press Conference (and rally)"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-466",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10773",
-    "eventSponsor": "Lobby Day of Action ",
-    "locationOnCapitolGrounds": "Other",
+    "eventSponsor": "Lobby Day of Action for Voter Registration Bill- Southwest Side",
+    "locationOnCapitolGrounds": "West Side",
     "startDateTime": "5/2/2024 9:00 AM",
     "setUpDateTime": "5/2/2024 8:00 AM",
     "endDateTime": "5/2/2024 5:00 PM",
     "participants": 75,
-    "details": "Press Conference (rally)"
+    "details": "Press Conference (rally).  Southwest Side closer to N Street."
   },
   {
     "status": "approved",
@@ -7560,7 +7560,7 @@
     "details": "World Peace Rose Garden - Proposal event at the Square Peace Pavilion."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-470",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10777",
     "eventSponsor": "Nicole and Geoffrey Engagement",
@@ -7570,6 +7570,42 @@
     "endDateTime": "5/20/2024 7:30 PM",
     "participants": 15,
     "details": "World Peace Rose Garden - Proposal event at the Square Peace Pavilion"
+  },
+  {
+    "status": "approved",
+    "number": "2024-472",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10779",
+    "eventSponsor": "Global Youth Climate Strike Sacramento- State Capitol",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/19/2024 1:00 PM",
+    "setUpDateTime": "4/19/2024 12:30 PM",
+    "endDateTime": "4/19/2024 3:00 PM",
+    "participants": 200,
+    "details": "Twice a year, Fridays for Future hosts a climate strike across the globe to garner youth involvement within the Climate Movement. This year, the Spring Global Climate Strike will take place on April 19. Youth organizer from across the state have been planning this event. This event is for youth, by the youth. We will begin our strike at Crocker Park. We will make our way to the Natural Resources Building as our second stop. Our final stop will be on the Capitol Mall. We will have youth speakers at each spot as this event is to amplify youth voices. Our strike will take place on the side-walks."
+  },
+  {
+    "status": "approved",
+    "number": "2024-473",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10780",
+    "eventSponsor": "Press Conference for Assembly Bill 2999 Healthy Homework Act- Southwest Side",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/24/2024 11:45 AM",
+    "setUpDateTime": "4/24/2024 11:30 AM",
+    "endDateTime": "4/24/2024 12:45 PM",
+    "participants": 25,
+    "details": "The event is a Press Conference for Assembly Bill 2999 Healthy Homework Act. Assemblymembers, School Staff, and School administrators will come together to speak on the bill. Along with groups of children to show support for the legislation. There will also be press and cameras in attendance."
+  },
+  {
+    "status": "pending",
+    "number": "2024-474",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10781",
+    "eventSponsor": "Empey Fleming Wedding",
+    "locationOnCapitolGrounds": "Area 33, Area 34",
+    "startDateTime": "5/18/2024 3:00 PM",
+    "setUpDateTime": "5/18/2024 3:00 PM",
+    "endDateTime": "5/18/2024 4:00 PM",
+    "participants": 20,
+    "details": "Wedding photograghs"
   },
   {
     "status": "approved",
