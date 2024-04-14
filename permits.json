@@ -4909,6 +4909,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-215",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10511",
+    "eventSponsor": "California Catholic Conference",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "6/13/2024 10:00 AM",
+    "setUpDateTime": "6/13/2024 9:30 AM",
+    "endDateTime": "6/13/2024 2:30 PM",
+    "participants": 75,
+    "details": "Lobby Day for California Catholics. Small rally on West Steps, box lunches, by invite only."
+  },
+  {
+    "status": "approved",
     "number": "2024-216",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10512",
     "eventSponsor": "XSIGHT Productions",
@@ -5350,6 +5362,18 @@
     "endDateTime": "1/28/2024 1:30 PM",
     "participants": 100,
     "details": "Annual Employee Picnic and Appreciation event"
+  },
+  {
+    "status": "approved",
+    "number": "2024-253",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10549",
+    "eventSponsor": "CDPH HRD",
+    "locationOnCapitolGrounds": "Area 5",
+    "startDateTime": "6/12/2024 11:00 AM",
+    "setUpDateTime": "6/12/2024 9:00 AM",
+    "endDateTime": "6/12/2024 1:30 PM",
+    "participants": 100,
+    "details": "Annual Employee appreciation picnic"
   },
   {
     "status": "approved",
@@ -7393,6 +7417,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-452",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10759",
+    "eventSponsor": "Rivian Demo Day 2024",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "6/12/2024 9:00 AM",
+    "setUpDateTime": "6/12/2024 8:00 AM",
+    "endDateTime": "6/12/2024 2:00 PM",
+    "participants": 30,
+    "details": "Rivian will host a 2024 Demo Day on the West Steps. This year, Rivian has secured three vehicles for display. These vehicles are the R1T truck, R1S SUV, and the Electric Delivery Vehicle."
+  },
+  {
+    "status": "approved",
     "number": "2024-453",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10760",
     "eventSponsor": "Ducks Unlimited Day of Advocacy- Southwest Side",
@@ -7452,16 +7488,16 @@
     "details": "The Parkinson's Foundation Moving Day is 5K walk open to the public. We did this event on capitol grounds in 2018. The event is to raise funds to fight Parkinson's Disease and provide resources for families."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-458",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10765",
-    "eventSponsor": "Big City Mayors Coalition",
+    "eventSponsor": "Big City Mayors Coalition- Southwest Side closer to the Capitol",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "4/23/2024 10:00 AM",
-    "setUpDateTime": "4/23/2024 9:00 AM",
-    "endDateTime": "4/23/2024 12:00 PM",
+    "startDateTime": "4/23/2024 11:45 AM",
+    "setUpDateTime": "4/23/2024 11:00 AM",
+    "endDateTime": "4/23/2024 12:45 PM",
     "participants": 30,
-    "details": "Press conference with the mayors of California's 13 largest cities."
+    "details": "Press conference with the mayors of California's 13 largest cities.  This will be on the southwest corner closer to the Capitol."
   },
   {
     "status": "approved",
@@ -7596,16 +7632,76 @@
     "details": "The event is a Press Conference for Assembly Bill 2999 Healthy Homework Act. Assemblymembers, School Staff, and School administrators will come together to speak on the bill. Along with groups of children to show support for the legislation. There will also be press and cameras in attendance."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-474",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10781",
-    "eventSponsor": "Empey Fleming Wedding",
+    "eventSponsor": "Empey Fleming Wedding Photos",
     "locationOnCapitolGrounds": "Area 33, Area 34",
     "startDateTime": "5/18/2024 3:00 PM",
     "setUpDateTime": "5/18/2024 3:00 PM",
     "endDateTime": "5/18/2024 4:00 PM",
     "participants": 20,
     "details": "Wedding photograghs"
+  },
+  {
+    "status": "pending",
+    "number": "2024-475",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10782",
+    "eventSponsor": "Earth Day Picnic hosted by the Sacramento Semester Program Alumni Association- Southwest Side across from LOB",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "4/24/2024 12:00 PM",
+    "setUpDateTime": "4/24/2024 11:30 AM",
+    "endDateTime": "4/24/2024 1:00 PM",
+    "participants": 40,
+    "details": "We're planning on buying some pizza and doing a picnic with folks who work in the Legislature.  This will be on the south side of the property across from the LOB."
+  },
+  {
+    "status": "pending",
+    "number": "2024-476",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10783",
+    "eventSponsor": "Asm. Ward",
+    "locationOnCapitolGrounds": "Area 34, Other",
+    "startDateTime": "4/15/2024 10:30 AM",
+    "setUpDateTime": "4/15/2024 9:00 AM",
+    "endDateTime": "4/15/2024 11:15 AM",
+    "participants": 50,
+    "details": "Asm. Ward press conference"
+  },
+  {
+    "status": "pending",
+    "number": "2024-477",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10784",
+    "eventSponsor": "Protect the Progress CCLN and the Capitol Coalition",
+    "locationOnCapitolGrounds": "Area 5, Area 22, Area 27, Area 33, Area 34",
+    "startDateTime": "5/21/2024 10:00 AM",
+    "setUpDateTime": "5/21/2024 9:30 AM",
+    "endDateTime": "5/21/2024 12:30 PM",
+    "participants": 300,
+    "details": "Rally for the direct support professionals that work with the developmentally disabled. To call attention to their lwo wages"
+  },
+  {
+    "status": "pending",
+    "number": "2024-478",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10785",
+    "eventSponsor": "Climate Budget Defense Press Conference",
+    "locationOnCapitolGrounds": "Area 22",
+    "startDateTime": "4/24/2024 1:15 PM",
+    "setUpDateTime": "4/24/2024 1:00 PM",
+    "endDateTime": "4/24/2024 1:45 PM",
+    "participants": 15,
+    "details": "Press conference with legislative champions to defend the climate budget. Environment California, the Climate Center and more"
+  },
+  {
+    "status": "pending",
+    "number": "2024-479",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10786",
+    "eventSponsor": "Diverse Women In Political Science ",
+    "locationOnCapitolGrounds": "Area 22",
+    "startDateTime": "5/3/2024 5:00 PM",
+    "setUpDateTime": "5/3/2024 4:00 PM",
+    "endDateTime": "5/3/2024 7:00 PM",
+    "participants": 13,
+    "details": "End of the year banquet for club members. We will be sitting on blankets and bringing food and flowers and such to decorate our area."
   },
   {
     "status": "approved",
@@ -7618,6 +7714,42 @@
     "endDateTime": "4/17/2024 4:00 PM",
     "participants": 200,
     "details": "Californians for the Arts (a statewide advocacy 501(c)3 advocacy organization for arts and culture) will organize a press conference and ACCM Advocacy Day rally for citizen advocates. The event will include speakers and performers. Following a roughly 90 minute program the advocates will parade over to meet with various senate and assembly member offices. A smaller group will remain in the park until 4pm as a checkin location for the advocates as they come and go from different meetings.  I am trying to reserve both 4-16 and 4-17 but the system won't seem to let me."
+  },
+  {
+    "status": "pending",
+    "number": "2024-481",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10788",
+    "eventSponsor": "LGBTQ Caucus Event",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/21/2024 4:45 PM",
+    "setUpDateTime": "5/21/2024 4:15 PM",
+    "endDateTime": "5/21/2024 6:45 PM",
+    "participants": 100,
+    "details": "Press Conference for the LGBTQ Caucus"
+  },
+  {
+    "status": "pending",
+    "number": "2024-482",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10789",
+    "eventSponsor": "LGBTQ Caucus Event",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/22/2024 2:45 PM",
+    "setUpDateTime": "5/22/2024 2:15 PM",
+    "endDateTime": "5/22/2024 5:00 PM",
+    "participants": 100,
+    "details": "LGBTQ Caucus Press Conference"
+  },
+  {
+    "status": "pending",
+    "number": "2024-483",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10790",
+    "eventSponsor": "LGBTQ Caucus Event",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/22/2024 7:30 AM",
+    "setUpDateTime": "5/22/2024 7:00 AM",
+    "endDateTime": "5/22/2024 8:45 AM",
+    "participants": 100,
+    "details": "LGBTQ Caucus Press conference"
   },
   {
     "status": "approved",
