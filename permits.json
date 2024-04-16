@@ -6252,16 +6252,16 @@
     "details": "Press event for the Health4All campaign"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-333",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10631",
-    "eventSponsor": "Praise at the Capitol ",
+    "eventSponsor": "Praise at the Capitol- Under the Trees",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "2/25/2024 10:00 AM",
-    "setUpDateTime": "2/25/2024 7:00 AM",
-    "endDateTime": "2/25/2024 10:00 AM",
+    "startDateTime": "6/15/2024 10:00 AM",
+    "setUpDateTime": "6/15/2024 7:00 AM",
+    "endDateTime": "6/15/2024 6:00 PM",
     "participants": 100,
-    "details": "Faith-based musical performances by individuals, bands, groups, and choirs through live performances."
+    "details": "Faith-based musical performances by individuals, bands, groups, and choirs through live performances.  This will be under the trees closer to the N Street Side."
   },
   {
     "status": "pending",
@@ -7513,6 +7513,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-461",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10768",
+    "eventSponsor": "Tsonis Proposal",
+    "locationOnCapitolGrounds": "Area 27",
+    "startDateTime": "6/15/2024 10:00 AM",
+    "setUpDateTime": "6/15/2024 9:00 AM",
+    "endDateTime": "6/15/2024 11:45 AM",
+    "participants": 30,
+    "details": "Marriage proposal"
+  },
+  {
+    "status": "approved",
     "number": "2024-462",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10769",
     "eventSponsor": "Cesar and Lupitas  Proposal Day",
@@ -7668,11 +7680,11 @@
     "details": "Asm. Ward press conference"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-477",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10784",
     "eventSponsor": "Protect the Progress CCLN and the Capitol Coalition",
-    "locationOnCapitolGrounds": "Area 5, Area 22, Area 27, Area 33, Area 34",
+    "locationOnCapitolGrounds": "Area 27",
     "startDateTime": "5/21/2024 10:00 AM",
     "setUpDateTime": "5/21/2024 9:30 AM",
     "endDateTime": "5/21/2024 12:30 PM",
@@ -7680,11 +7692,11 @@
     "details": "Rally for the direct support professionals that work with the developmentally disabled. To call attention to their lwo wages"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-478",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10785",
     "eventSponsor": "Climate Budget Defense Press Conference",
-    "locationOnCapitolGrounds": "Area 22",
+    "locationOnCapitolGrounds": "Southwest side",
     "startDateTime": "4/24/2024 1:15 PM",
     "setUpDateTime": "4/24/2024 1:00 PM",
     "endDateTime": "4/24/2024 1:45 PM",
@@ -7692,7 +7704,7 @@
     "details": "Press conference with legislative champions to defend the climate budget. Environment California, the Climate Center and more"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-479",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10786",
     "eventSponsor": "Diverse Women In Political Science ",
@@ -7709,8 +7721,8 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10248",
     "eventSponsor": "ACCM Advocacy Day Press Rally ",
     "locationOnCapitolGrounds": "Area 27, Area 34",
-    "startDateTime": "4/17/2024 7:00 AM",
-    "setUpDateTime": "4/16/2024 7:00 AM",
+    "startDateTime": "4/17/2024 8:00 AM",
+    "setUpDateTime": "4/17/2024 7:00 AM",
     "endDateTime": "4/17/2024 4:00 PM",
     "participants": 200,
     "details": "Californians for the Arts (a statewide advocacy 501(c)3 advocacy organization for arts and culture) will organize a press conference and ACCM Advocacy Day rally for citizen advocates. The event will include speakers and performers. Following a roughly 90 minute program the advocates will parade over to meet with various senate and assembly member offices. A smaller group will remain in the park until 4pm as a checkin location for the advocates as they come and go from different meetings.  I am trying to reserve both 4-16 and 4-17 but the system won't seem to let me."
@@ -7740,16 +7752,16 @@
     "details": "LGBTQ Caucus Press Conference"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-483",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10790",
     "eventSponsor": "LGBTQ Caucus Event",
-    "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "5/22/2024 7:30 AM",
-    "setUpDateTime": "5/22/2024 7:00 AM",
-    "endDateTime": "5/22/2024 8:45 AM",
-    "participants": 100,
-    "details": "LGBTQ Caucus Press conference"
+    "locationOnCapitolGrounds": "Southwest Corner",
+    "startDateTime": "5/22/2024 10:00 AM",
+    "setUpDateTime": "5/22/2024 9:00 AM",
+    "endDateTime": "5/22/2024 11:00 AM",
+    "participants": 50,
+    "details": "LGBTQ Caucus Press conference will be held in the southwest corner."
   },
   {
     "status": "pending",
@@ -7764,7 +7776,7 @@
     "details": "We are a Spirtual Temple of African Traditional Religion.We observe every year National Day of Prayer.I am the Vice-President of the U.S. chapter of ARSADIC."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-485",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10792",
     "eventSponsor": "Wedding Photography Session",
