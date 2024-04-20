@@ -4165,6 +4165,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-131",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10416",
+    "eventSponsor": "2024 California State Capitol Juneteenth Celebration ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "6/19/2024 11:00 AM",
+    "setUpDateTime": "6/19/2024 9:00 AM",
+    "endDateTime": "6/19/2024 9:00 PM",
+    "participants": 250,
+    "details": "Annual Juneteenth Celebration -"
+  },
+  {
+    "status": "approved",
     "number": "2024-134",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10425",
     "eventSponsor": "League of California Cities",
@@ -7846,6 +7858,42 @@
     "endDateTime": "4/21/2024 4:30 PM",
     "participants": 65,
     "details": "Honor Guard and flag folding for USMC Sargent Wayne A. Guerin"
+  },
+  {
+    "status": "pending",
+    "number": "2024-493",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10803",
+    "eventSponsor": "New California State",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/3/2024 11:00 AM",
+    "setUpDateTime": "5/3/2024 10:00 AM",
+    "endDateTime": "5/3/2024 1:00 PM",
+    "participants": 200,
+    "details": "New California Educational information"
+  },
+  {
+    "status": "pending",
+    "number": "2024-494",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10805",
+    "eventSponsor": "Legislation Announcement ",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "4/24/2024 8:00 AM",
+    "setUpDateTime": "4/24/2024 7:00 AM",
+    "endDateTime": "4/24/2024 9:00 AM",
+    "participants": 10,
+    "details": "Announcement of legislation for Senator Ochoa Bogh."
+  },
+  {
+    "status": "pending",
+    "number": "2024-495",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10806",
+    "eventSponsor": "Wayne Guerin Ceremony of Life",
+    "locationOnCapitolGrounds": "Area 1, Area 34",
+    "startDateTime": "5/11/2024 7:00 PM",
+    "setUpDateTime": "5/11/2024 7:00 PM",
+    "endDateTime": "5/11/2024 7:00 PM",
+    "participants": 50,
+    "details": "Honor Guard,  playing of taps, presentation of flag,  after a ceremony across the street at the Hyatt"
   },
   {
     "status": "approved",
