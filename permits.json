@@ -4837,6 +4837,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-204",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10500",
+    "eventSponsor": "Vazquez Wedding Ceremony",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "6/20/2024 2:00 PM",
+    "setUpDateTime": "6/20/2024 12:30 PM",
+    "endDateTime": "6/20/2024 3:00 PM",
+    "participants": 30,
+    "details": "Small Wedding Ceremony"
+  },
+  {
+    "status": "approved",
     "number": "2024-205",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10501",
     "eventSponsor": "California Beer and Beverage Distributors",
@@ -7841,23 +7853,23 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10800",
     "eventSponsor": "Assemblymember Stephanie Nguyen",
     "locationOnCapitolGrounds": "Area 34",
-    "startDateTime": "4/21/2024 1:30 PM",
-    "setUpDateTime": "4/21/2024 1:00 PM",
-    "endDateTime": "4/21/2024 2:30 PM",
+    "startDateTime": "4/25/2024 1:30 PM",
+    "setUpDateTime": "4/25/2024 1:00 PM",
+    "endDateTime": "4/25/2024 2:30 PM",
     "participants": 30,
     "details": "Press conference for ASM Nguyen's AB 2576"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-491",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10801",
     "eventSponsor": "Wayne Guerin Ceremony of Life",
-    "locationOnCapitolGrounds": "Area 22, Area 34",
-    "startDateTime": "4/21/2024 3:30 PM",
-    "setUpDateTime": "4/21/2024 3:00 PM",
-    "endDateTime": "4/21/2024 4:30 PM",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "5/11/2024 7:00 PM",
+    "setUpDateTime": "5/11/2024 7:00 PM",
+    "endDateTime": "5/11/2024 8:00 PM",
     "participants": 65,
-    "details": "Honor Guard and flag folding for USMC Sargent Wayne A. Guerin"
+    "details": "Honor Guard and flag folding for USMC Sergeant Wayne A. Guerin"
   },
   {
     "status": "pending",
@@ -7894,6 +7906,30 @@
     "endDateTime": "5/11/2024 7:00 PM",
     "participants": 50,
     "details": "Honor Guard,  playing of taps, presentation of flag,  after a ceremony across the street at the Hyatt"
+  },
+  {
+    "status": "pending",
+    "number": "2024-498",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10809",
+    "eventSponsor": "Ride of Silence Sacramento",
+    "locationOnCapitolGrounds": "Area 5",
+    "startDateTime": "4/22/2024 6:30 PM",
+    "setUpDateTime": "4/22/2024 6:00 PM",
+    "endDateTime": "4/22/2024 9:30 PM",
+    "participants": 100,
+    "details": "Meet up location for an annual ride to honor bicyclists that have been injured or killed while riding. We will have a small ceremony and provide instructions to riders and then depart the area by 1915 hrs.  The ride will return at approximately 2130 hrs. We will ensure that the area is clean and then depart for home.  This is the same event last year ref Permit Number 2023-495. We will have display of number of people killed on the lawn north of the Rose Garden Gazebo."
+  },
+  {
+    "status": "pending",
+    "number": "2024-499",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10810",
+    "eventSponsor": "Memorial Day Worship through music",
+    "locationOnCapitolGrounds": "MCCS",
+    "startDateTime": "5/25/2024 4:00 PM",
+    "setUpDateTime": "5/25/2024 3:00 PM",
+    "endDateTime": "5/25/2024 7:00 PM",
+    "participants": 100,
+    "details": "Memorial Day prayer and worship by Myanmar Christian Church of Sacramento community."
   },
   {
     "status": "approved",
