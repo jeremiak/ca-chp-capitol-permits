@@ -3737,7 +3737,7 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10384",
     "eventSponsor": "California Denim Day Rally",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "4/24/2024 9:00 AM",
+    "startDateTime": "4/24/2024 9:30 AM",
     "setUpDateTime": "4/24/2024 8:00 AM",
     "endDateTime": "4/24/2024 12:00 PM",
     "participants": 200,
@@ -4959,7 +4959,7 @@
     "status": "approved",
     "number": "2024-217",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10513",
-    "eventSponsor": "Wedding Ceremony ",
+    "eventSponsor": "Jegglie Wedding Ceremony ",
     "locationOnCapitolGrounds": "Area 1",
     "startDateTime": "5/10/2024 2:00 PM",
     "setUpDateTime": "5/10/2024 1:00 PM",
@@ -6142,6 +6142,18 @@
     "endDateTime": "4/27/2024 2:30 PM",
     "participants": 20,
     "details": "Wedding ceremony"
+  },
+  {
+    "status": "approved",
+    "number": "2024-321",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10618",
+    "eventSponsor": "Velazquez Wedding",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "6/22/2024 3:00 PM",
+    "setUpDateTime": "6/22/2024 3:00 PM",
+    "endDateTime": "6/22/2024 5:00 PM",
+    "participants": 20,
+    "details": "Wedding ceremony. Vows and family photos.  No decorations or chairs will be used."
   },
   {
     "status": "pending",
@@ -7673,8 +7685,8 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10780",
     "eventSponsor": "Press Conference for Assembly Bill 2999 Healthy Homework Act- Southwest Side",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "4/24/2024 11:45 AM",
-    "setUpDateTime": "4/24/2024 11:30 AM",
+    "startDateTime": "4/24/2024 12:00 PM",
+    "setUpDateTime": "4/24/2024 11:45 AM",
     "endDateTime": "4/24/2024 12:45 PM",
     "participants": 25,
     "details": "The event is a Press Conference for Assembly Bill 2999 Healthy Homework Act. Assemblymembers, School Staff, and School administrators will come together to speak on the bill. Along with groups of children to show support for the legislation. There will also be press and cameras in attendance."
@@ -7872,7 +7884,7 @@
     "details": "Honor Guard and flag folding for USMC Sergeant Wayne A. Guerin"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-493",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10803",
     "eventSponsor": "New California State",
@@ -7880,20 +7892,20 @@
     "startDateTime": "5/3/2024 11:00 AM",
     "setUpDateTime": "5/3/2024 10:00 AM",
     "endDateTime": "5/3/2024 1:00 PM",
-    "participants": 200,
+    "participants": 100,
     "details": "New California Educational information"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-494",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10805",
-    "eventSponsor": "Legislation Announcement ",
-    "locationOnCapitolGrounds": "Other",
+    "eventSponsor": "Legislation Announcement",
+    "locationOnCapitolGrounds": "Southwest Side",
     "startDateTime": "4/24/2024 8:00 AM",
     "setUpDateTime": "4/24/2024 7:00 AM",
     "endDateTime": "4/24/2024 9:00 AM",
     "participants": 10,
-    "details": "Announcement of legislation for Senator Ochoa Bogh."
+    "details": "Announcement of legislation for Senator Ochoa Bogh.  This will be on the southwest side closer to N Street on the West Side."
   },
   {
     "status": "pending",
@@ -7942,6 +7954,54 @@
     "endDateTime": "4/27/2024 6:30 PM",
     "participants": 120,
     "details": "Marriage ceremony for family and friends. Chairs will be setup. Small string quartet and amplified sound will be held for approximately 1 hour."
+  },
+  {
+    "status": "pending",
+    "number": "2024-501",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10812",
+    "eventSponsor": "Assemblymember Reggie Jones-Sawyer",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "5/6/2024 2:30 PM",
+    "setUpDateTime": "5/6/2024 2:00 PM",
+    "endDateTime": "5/6/2024 3:30 PM",
+    "participants": 100,
+    "details": "Legislative Press Conference on West Steps for ACR 179 (Jones-Sawyer) relative to the 50th anniversary of the enactment of protections for persons with disabilities."
+  },
+  {
+    "status": "pending",
+    "number": "2024-503",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10814",
+    "eventSponsor": "Lobby Day of Action   ",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "5/22/2024 8:00 AM",
+    "setUpDateTime": "5/22/2024 8:00 AM",
+    "endDateTime": "5/22/2024 3:00 PM",
+    "participants": 150,
+    "details": "Press Conference and Rally in support of the SB299 Bill (cademocracy.org)"
+  },
+  {
+    "status": "pending",
+    "number": "2024-504",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10815",
+    "eventSponsor": "Family Rights Campaign Against Family Court and CPS",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/30/2024 11:00 AM",
+    "setUpDateTime": "5/30/2024 10:00 AM",
+    "endDateTime": "5/30/2024 5:00 PM",
+    "participants": 100,
+    "details": "Family Rights Campaign Against the Abuses of Family Court and CPS"
+  },
+  {
+    "status": "pending",
+    "number": "2024-505",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10816",
+    "eventSponsor": "Ukrainian Independece Day",
+    "locationOnCapitolGrounds": "Sacramento Capitol Celebration",
+    "startDateTime": "4/26/2024 5:30 PM",
+    "setUpDateTime": "4/26/2024 8:00 AM",
+    "endDateTime": "4/26/2024 9:45 PM",
+    "participants": 2000,
+    "details": "Ukrainian American House together with the San Francisco Consulate would like to host a celebration concert and benefit to raise awareness about Ukraine's independence. We would like to gather community members to enjoy Ukrainian culture, food and fundraise to support refugees in Sacramento."
   },
   {
     "status": "approved",
