@@ -3054,9 +3054,9 @@
     "eventSponsor": "Stand Up For The Arts Day",
     "locationOnCapitolGrounds": "Area 27, Area 34",
     "startDateTime": "4/30/2024 8:00 AM",
-    "setUpDateTime": "4/30/2024 8:00 AM",
-    "endDateTime": "4/30/2024 8:00 PM",
-    "participants": 250,
+    "setUpDateTime": "4/30/2024 6:00 AM",
+    "endDateTime": "4/30/2024 6:00 PM",
+    "participants": 240,
     "details": "This event is to inform the Legislature of the necessity to continue to support the visual and performing arts, including music, in our public school classrooms. Students representing dance, theatre, music and art will be performing on this day."
   },
   {
@@ -4269,7 +4269,7 @@
     "setUpDateTime": "5/4/2024 2:00 PM",
     "endDateTime": "5/4/2024 7:45 PM",
     "participants": 200,
-    "details": "Gospel concert"
+    "details": "Gospel concert with several community choirs and other artists.  Prayer and worship time."
   },
   {
     "status": "approved",
@@ -4681,6 +4681,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-187",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10483",
+    "eventSponsor": "The Law Enforcement Torch Run for Special Olympics Capitol Ceremony",
+    "locationOnCapitolGrounds": "West Side, Other",
+    "startDateTime": "6/24/2024 10:00 AM",
+    "setUpDateTime": "6/24/2024 8:15 AM",
+    "endDateTime": "6/24/2024 12:15 PM",
+    "participants": 150,
+    "details": "The Law Enforcement Torch Run for Special Olympics - Capitol Ceremony is a community event, with a formal program that includes dignitaries & guest speakers to raise awareness for Special Olympics (children & adults with intellectual disabilities) and the partnership with Law Enforcement."
+  },
+  {
+    "status": "approved",
     "number": "2024-188",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10484",
     "eventSponsor": "Ash Wednesday with Bishop Jaime Soto",
@@ -4789,6 +4801,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-198",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10494",
+    "eventSponsor": "Rally in support of Ukraine",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "6/24/2024 6:00 PM",
+    "setUpDateTime": "6/24/2024 5:00 PM",
+    "endDateTime": "6/24/2024 9:45 PM",
+    "participants": 150,
+    "details": "Solidarity Rally in support of Ukraine"
+  },
+  {
+    "status": "approved",
     "number": "2024-200",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10496",
     "eventSponsor": "Missing and Murdered Indigenous People Press Conference",
@@ -4848,7 +4872,7 @@
     "details": "Small Wedding Ceremony"
   },
   {
-    "status": "approved",
+    "status": "pending",
     "number": "2024-205",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10501",
     "eventSponsor": "California Beer and Beverage Distributors",
@@ -4856,7 +4880,7 @@
     "startDateTime": "5/15/2024 10:00 AM",
     "setUpDateTime": "5/15/2024 6:00 AM",
     "endDateTime": "5/15/2024 5:00 PM",
-    "participants": 400,
+    "participants": 425,
     "details": "Picnic in the park as part of Legislative Day"
   },
   {
@@ -7133,9 +7157,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10721",
     "eventSponsor": "Housing Now Lobby Day Press Conference",
     "locationOnCapitolGrounds": "Area 33",
-    "startDateTime": "4/29/2024 9:00 AM",
-    "setUpDateTime": "4/29/2024 9:00 AM",
-    "endDateTime": "4/29/2024 3:00 PM",
+    "startDateTime": "4/29/2024 11:00 AM",
+    "setUpDateTime": "4/28/2024 3:00 PM",
+    "endDateTime": "4/29/2024 6:00 PM",
     "participants": 400,
     "details": "Our Organization, Housing Now! CA and our partner ACCE, will be holding our Lobby Day and press conference."
   },
@@ -7728,16 +7752,16 @@
     "details": "Asm. Ward press conference"
   },
   {
-    "status": "approved",
+    "status": "pending",
     "number": "2024-477",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10784",
     "eventSponsor": "Protect the Progress CCLN and the Capitol Coalition",
-    "locationOnCapitolGrounds": "Area 27",
+    "locationOnCapitolGrounds": "Area 27, Area 34",
     "startDateTime": "5/21/2024 10:00 AM",
     "setUpDateTime": "5/21/2024 9:30 AM",
     "endDateTime": "5/21/2024 12:30 PM",
     "participants": 300,
-    "details": "Rally for the direct support professionals that work with the developmentally disabled. To call attention to their lwo wages"
+    "details": "Rally for the direct support professionals that work with the developmentally disabled. To call attention to their low wages"
   },
   {
     "status": "approved",
@@ -7805,9 +7829,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10790",
     "eventSponsor": "LGBTQ Caucus Event",
     "locationOnCapitolGrounds": "Southwest Corner",
-    "startDateTime": "5/22/2024 10:00 AM",
-    "setUpDateTime": "5/22/2024 9:00 AM",
-    "endDateTime": "5/22/2024 11:00 AM",
+    "startDateTime": "5/22/2024 9:00 AM",
+    "setUpDateTime": "5/22/2024 8:30 AM",
+    "endDateTime": "5/22/2024 10:00 AM",
     "participants": 50,
     "details": "LGBTQ Caucus Press conference will be held in the southwest corner."
   },
@@ -7839,16 +7863,16 @@
     "status": "pending",
     "number": "2024-486",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10794",
-    "eventSponsor": "CA Family Justice Network",
+    "eventSponsor": "CA Family Justice Network- Southwest Side",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "6/3/2024 3:00 PM",
-    "setUpDateTime": "6/3/2024 3:00 PM",
-    "endDateTime": "6/3/2024 5:00 PM",
+    "startDateTime": "6/3/2024 9:00 AM",
+    "setUpDateTime": "6/3/2024 8:00 AM",
+    "endDateTime": "6/3/2024 4:00 PM",
     "participants": 85,
     "details": "Advocacy Day for the CA Family Justice Network."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-488",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10798",
     "eventSponsor": "Mothers Day Weekend March and Rally",
@@ -7857,7 +7881,7 @@
     "setUpDateTime": "5/11/2024 8:30 AM",
     "endDateTime": "5/11/2024 12:00 PM",
     "participants": 25,
-    "details": "A non-violent march from nearby St. John's Lutheran Church and rally at the Capitol for Women and Children's Rights and Worldwide Peace."
+    "details": "A march from nearby St. John's Lutheran Church and rally at the Capitol for Women and Children's Rights and Worldwide Peace."
   },
   {
     "status": "pending",
@@ -7920,19 +7944,19 @@
     "details": "Honor Guard,  playing of taps, presentation of flag,  after a ceremony across the street at the Hyatt"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-498",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10809",
     "eventSponsor": "Ride of Silence Sacramento",
-    "locationOnCapitolGrounds": "Area 1, Area 5",
+    "locationOnCapitolGrounds": "Area 5",
     "startDateTime": "5/15/2024 6:00 PM",
     "setUpDateTime": "5/15/2024 6:00 PM",
     "endDateTime": "5/15/2024 9:00 PM",
     "participants": 100,
-    "details": "Meet up location for an annual ride to honor bicyclists that have been injured or killed while riding. We will have a small ceremony and provide instructions to riders and then depart the area by 1915 hrs.  The ride will return at approximately 2130 hrs. We will ensure that the area is clean and then depart for home.  This is the same event last year ref Permit Number 2023-495. We will have display of number of people killed on the lawn north of the Rose Garden Gazebo."
+    "details": "Meet up location for an annual ride to honor bicyclists that have been injured or killed while riding. We will have a small ceremony and provide instructions to riders and then depart the area by 1915 hrs.  The ride will return at approximately 2130 hrs. We will ensure that the area is clean and then depart for home.  We will have display of number of people killed on the lawn north closer to N and 15th near the Cactus Garden."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-499",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10810",
     "eventSponsor": "Memorial Day Worship through music",
@@ -7956,11 +7980,11 @@
     "details": "Marriage ceremony for family and friends. Chairs will be setup. Small string quartet and amplified sound will be held for approximately 1 hour."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-501",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10812",
-    "eventSponsor": "Assemblymember Reggie Jones-Sawyer",
-    "locationOnCapitolGrounds": "Other",
+    "eventSponsor": "Assemblymember Reggie Jones-Sawyer-",
+    "locationOnCapitolGrounds": "West Side",
     "startDateTime": "5/6/2024 2:30 PM",
     "setUpDateTime": "5/6/2024 2:00 PM",
     "endDateTime": "5/6/2024 3:30 PM",
@@ -7968,16 +7992,16 @@
     "details": "Legislative Press Conference on West Steps for ACR 179 (Jones-Sawyer) relative to the 50th anniversary of the enactment of protections for persons with disabilities."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-503",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10814",
-    "eventSponsor": "Lobby Day of Action   ",
-    "locationOnCapitolGrounds": "Other",
-    "startDateTime": "5/22/2024 8:00 AM",
+    "eventSponsor": "Lobby Day of Action- L Street side Northwest Side",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/22/2024 9:00 AM",
     "setUpDateTime": "5/22/2024 8:00 AM",
     "endDateTime": "5/22/2024 3:00 PM",
     "participants": 150,
-    "details": "Press Conference and Rally in support of the SB299 Bill (cademocracy.org)"
+    "details": "Press Conference and Rally in support of the SB299 Bill (cademocracy.org).  This will be on the northwest side (closer to L).  May be able set up on the southwest side after 1030am."
   },
   {
     "status": "pending",
@@ -8002,6 +8026,102 @@
     "endDateTime": "4/26/2024 9:45 PM",
     "participants": 2000,
     "details": "Ukrainian American House together with the San Francisco Consulate would like to host a celebration concert and benefit to raise awareness about Ukraine's independence. We would like to gather community members to enjoy Ukrainian culture, food and fundraise to support refugees in Sacramento."
+  },
+  {
+    "status": "approved",
+    "number": "2024-506",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10817",
+    "eventSponsor": "CA Coalition on Worker Power",
+    "locationOnCapitolGrounds": "Area 27, Area 34",
+    "startDateTime": "5/15/2024 1:00 PM",
+    "setUpDateTime": "5/15/2024 7:00 AM",
+    "endDateTime": "5/15/2024 5:00 PM",
+    "participants": 200,
+    "details": "Rally and press conference to highlight legislative priorities. Actual event 1pm-3pm"
+  },
+  {
+    "status": "approved",
+    "number": "2024-507",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10818",
+    "eventSponsor": "Youth Field Trip organized by Hmong Innovating Politics organization. Northwest Side",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "4/26/2024 11:00 AM",
+    "setUpDateTime": "4/26/2024 10:30 AM",
+    "endDateTime": "4/26/2024 4:00 PM",
+    "participants": 38,
+    "details": "Our students and staff will utilize this grassy area across from Starbucks to have lunch and do various team building activities. We will set up a few canopies due to the light rain anticipated in the early afternoon.  This will be on the northwest side across from the Starbucks."
+  },
+  {
+    "status": "pending",
+    "number": "2024-508",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10819",
+    "eventSponsor": "Lunch on the Lawn",
+    "locationOnCapitolGrounds": "School Meals for All Coalition",
+    "startDateTime": "5/23/2024 11:00 AM",
+    "setUpDateTime": "5/23/2024 9:00 AM",
+    "endDateTime": "5/23/2024 3:00 PM",
+    "participants": 200,
+    "details": "This event aims to provide members of the state legislature with a delicious, nutritious, and engaging California School Meals for All (SMFA) experience that highlights the benefits of the state's landmark program. As many members have not yet been able to visit schools to learn or experience directly SMFA's benefits to local communities, we are bringing the experience to them, including the participation of school nutrition staff and students. Students, teachers, auxiliary school staff, administrators, legislators, advocates, farmers, press and event staff will gather on a rented lawn space of the Capitol for a fresh, CA-grown, nutritious lunch prepared on site. Activities and meals will take place under a large rented tent along with tables. We will have a stage or podium set up with a sound system for featured speakers."
+  },
+  {
+    "status": "pending",
+    "number": "2024-509",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10820",
+    "eventSponsor": "Drone Shoot for California Department of Public Health",
+    "locationOnCapitolGrounds": "Area 22, Other",
+    "startDateTime": "4/28/2024 12:00 PM",
+    "setUpDateTime": "4/28/2024 11:00 AM",
+    "endDateTime": "4/28/2024 2:00 PM",
+    "participants": 1,
+    "details": "Use of drone to shoot footage for multiple upcoming video projects for CDPH.  We wish to shoot creative footage of the capitol building and capitol grounds as well as the CDPH buildings located just north of the capitol. Single drone operator. Drone operator has FAA certification, available upon request."
+  },
+  {
+    "status": "approved",
+    "number": "2024-510",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10821",
+    "eventSponsor": "Drone Shoot for California Department of Public Health",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "5/6/2024 12:00 PM",
+    "setUpDateTime": "5/6/2024 11:00 AM",
+    "endDateTime": "5/6/2024 2:00 PM",
+    "participants": 1,
+    "details": "Use of drone to shoot footage for multiple upcoming video projects for CDPH.  We wish to shoot creative footage of the capitol building and capitol grounds as well as the CDPH buildings located just north of the capitol. Single drone operator. Drone operator has FAA certification, available upon request."
+  },
+  {
+    "status": "pending",
+    "number": "2024-511",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10822",
+    "eventSponsor": "Asm. Garcia AB 2125 Press Conf",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "4/28/2024 10:30 AM",
+    "setUpDateTime": "4/28/2024 9:00 AM",
+    "endDateTime": "4/28/2024 12:00 PM",
+    "participants": 30,
+    "details": "Press conference in support of Asm. Garcia's AB 2125."
+  },
+  {
+    "status": "pending",
+    "number": "2024-512",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10823",
+    "eventSponsor": "Legislative Priorities ",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "5/29/2024 11:00 AM",
+    "setUpDateTime": "5/29/2024 10:30 AM",
+    "endDateTime": "5/29/2024 2:00 PM",
+    "participants": 75,
+    "details": "Discuss Legislative Priorities"
+  },
+  {
+    "status": "pending",
+    "number": "2024-513",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10824",
+    "eventSponsor": "A PEACEFUL PROTEST FOR WOMENS RIGHTS",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "6/24/2024 1:00 PM",
+    "setUpDateTime": "6/24/2024 12:30 PM",
+    "endDateTime": "6/24/2024 3:00 PM",
+    "participants": 150,
+    "details": "A peaceful protest against the injustices toward women and girls. We are advocating for change by showing solidarity, sharing our stories, and educating on the current injustices women and girls are faced with."
   },
   {
     "status": "approved",
@@ -8088,7 +8208,7 @@
     "details": "CCBA hosting a Legislative Reception"
   },
   {
-    "status": "approved",
+    "status": "pending",
     "number": "2024-63",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10290",
     "eventSponsor": "State Scientist Day",
@@ -8096,7 +8216,7 @@
     "startDateTime": "5/9/2024 7:00 AM",
     "setUpDateTime": "5/8/2024 3:00 PM",
     "endDateTime": "5/9/2024 6:00 PM",
-    "participants": 3000,
+    "participants": 500,
     "details": "State Scientist Day is the annual event held by the California Association of Professional Scientists (CAPS) to highlight the important work that State-employed scientists do every day to protect the State of California. CAPS invites schools from around the area to participate in all the hands-on exhibits, staffed by real-life State Scientists to engage kids in the hands-on, engaging excitement of science!"
   },
   {
@@ -8297,9 +8417,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10354",
     "eventSponsor": "Quest for Democracy",
     "locationOnCapitolGrounds": "Area 27, Area 34",
-    "startDateTime": "4/29/2024 6:45 AM",
-    "setUpDateTime": "4/29/2024 6:00 AM",
-    "endDateTime": "4/29/2024 6:30 PM",
+    "startDateTime": "4/29/2024 8:00 AM",
+    "setUpDateTime": "4/28/2024 3:00 PM",
+    "endDateTime": "4/29/2024 6:00 PM",
     "participants": 500,
     "details": "Annual Advocacy Day for people throughout California"
   },
