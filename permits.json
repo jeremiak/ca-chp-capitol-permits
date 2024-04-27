@@ -4155,13 +4155,13 @@
     "status": "approved",
     "number": "2024-13",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9930",
-    "eventSponsor": "The Satanic Temple NorCal",
+    "eventSponsor": "The Satanic Temple NorCal- near 15th and Capitol",
     "locationOnCapitolGrounds": "Area 1, Area 5",
     "startDateTime": "5/2/2024 10:00 AM",
     "setUpDateTime": "5/2/2024 8:00 AM",
     "endDateTime": "5/2/2024 6:00 PM",
     "participants": 150,
-    "details": "Speeches, rituals, information tents, performers, and congregating for National day of Prayer. will be in touch about other specifics"
+    "details": "Speeches, rituals, information tents, performers, and congregating for National day of Prayer. will be in touch about other specifics.  This will be near 15th and Capitol between the Rose Garden and the Cactus Garden."
   },
   {
     "status": "approved",
@@ -4872,7 +4872,7 @@
     "details": "Small Wedding Ceremony"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-205",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10501",
     "eventSponsor": "California Beer and Beverage Distributors",
@@ -5604,11 +5604,11 @@
     "details": "Care4All Campaign Launch.  This will be on the Southwest Side closer to N Street on the West Side."
   },
   {
-    "status": "approved",
+    "status": "pending",
     "number": "2024-268",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10564",
     "eventSponsor": "Anniversary of Voting Rights Act for Native Americans",
-    "locationOnCapitolGrounds": "Area 1, Area 5, Area 22, Area 27, Area 33, Area 34",
+    "locationOnCapitolGrounds": "Area 22, Area 33",
     "startDateTime": "6/1/2024 10:00 AM",
     "setUpDateTime": "6/1/2024 7:00 AM",
     "endDateTime": "6/1/2024 4:00 PM",
@@ -8004,7 +8004,7 @@
     "details": "Press Conference and Rally in support of the SB299 Bill (cademocracy.org).  This will be on the northwest side (closer to L).  May be able set up on the southwest side after 1030am."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-504",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10815",
     "eventSponsor": "Family Rights Campaign Against Family Court and CPS",
@@ -8069,9 +8069,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10820",
     "eventSponsor": "Drone Shoot for California Department of Public Health",
     "locationOnCapitolGrounds": "Area 22, Other",
-    "startDateTime": "4/28/2024 12:00 PM",
-    "setUpDateTime": "4/28/2024 11:00 AM",
-    "endDateTime": "4/28/2024 2:00 PM",
+    "startDateTime": "5/4/2024 4:00 AM",
+    "setUpDateTime": "5/4/2024 4:00 AM",
+    "endDateTime": "5/4/2024 4:00 AM",
     "participants": 1,
     "details": "Use of drone to shoot footage for multiple upcoming video projects for CDPH.  We wish to shoot creative footage of the capitol building and capitol grounds as well as the CDPH buildings located just north of the capitol. Single drone operator. Drone operator has FAA certification, available upon request."
   },
@@ -8092,10 +8092,10 @@
     "number": "2024-511",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10822",
     "eventSponsor": "Asm. Garcia AB 2125 Press Conf",
-    "locationOnCapitolGrounds": "Other",
-    "startDateTime": "4/28/2024 10:30 AM",
-    "setUpDateTime": "4/28/2024 9:00 AM",
-    "endDateTime": "4/28/2024 12:00 PM",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/9/2024 9:00 AM",
+    "setUpDateTime": "5/9/2024 8:00 AM",
+    "endDateTime": "5/9/2024 12:00 PM",
     "participants": 30,
     "details": "Press conference in support of Asm. Garcia's AB 2125."
   },
@@ -8122,6 +8122,18 @@
     "endDateTime": "6/24/2024 3:00 PM",
     "participants": 150,
     "details": "A peaceful protest against the injustices toward women and girls. We are advocating for change by showing solidarity, sharing our stories, and educating on the current injustices women and girls are faced with."
+  },
+  {
+    "status": "pending",
+    "number": "2024-514",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10826",
+    "eventSponsor": "J  E Wedding",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "5/25/2024 12:00 PM",
+    "setUpDateTime": "5/25/2024 10:00 AM",
+    "endDateTime": "5/25/2024 6:00 PM",
+    "participants": 50,
+    "details": "Wedding and possible small reception after"
   },
   {
     "status": "approved",
