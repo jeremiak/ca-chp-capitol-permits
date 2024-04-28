@@ -8136,6 +8136,18 @@
     "details": "Wedding and possible small reception after"
   },
   {
+    "status": "pending",
+    "number": "2024-515",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10828",
+    "eventSponsor": "Franklin Family Honoring Event",
+    "locationOnCapitolGrounds": "Area 22",
+    "startDateTime": "5/11/2024 9:00 AM",
+    "setUpDateTime": "5/11/2024 8:30 AM",
+    "endDateTime": "5/11/2024 12:30 PM",
+    "participants": 50,
+    "details": "Honoring event for the family of William Franklin Sr., whom had a statue erected in his image at the capital. A gathering of Native community from around the Yolo and Sacramento Counties."
+  },
+  {
     "status": "approved",
     "number": "2024-52",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10255",
