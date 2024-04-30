@@ -1050,7 +1050,7 @@
     "eventSponsor": "2024 CalCAPA State Legislative  Advocacy Summit",
     "locationOnCapitolGrounds": "Area 27, Area 34",
     "startDateTime": "5/1/2024 8:00 AM",
-    "setUpDateTime": "5/1/2024 6:00 AM",
+    "setUpDateTime": "4/30/2024 4:00 PM",
     "endDateTime": "5/1/2024 5:00 PM",
     "participants": 80,
     "details": "The California Community Action Partnership Association Community Action Agencies will be gathering in the state capitol to celebrate our 60th year anniversary and to meet with their representatives to discuss ongoing legislation and advocacy issues in their counties. We have 60 agencies across all 58 counties of California and envision each agency to have booth space to allow the public to inquire about their work and services, easy transportation to legislative offices and meetings, and overall camaraderie  amongst our Community Action colleagues during the annual Community Action Month."
@@ -3055,7 +3055,7 @@
     "locationOnCapitolGrounds": "Area 27, Area 34",
     "startDateTime": "4/30/2024 8:00 AM",
     "setUpDateTime": "4/30/2024 6:00 AM",
-    "endDateTime": "4/30/2024 6:00 PM",
+    "endDateTime": "4/30/2024 3:00 PM",
     "participants": 240,
     "details": "This event is to inform the Legislature of the necessity to continue to support the visual and performing arts, including music, in our public school classrooms. Students representing dance, theatre, music and art will be performing on this day."
   },
@@ -5604,11 +5604,11 @@
     "details": "Care4All Campaign Launch.  This will be on the Southwest Side closer to N Street on the West Side."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-268",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10564",
     "eventSponsor": "Anniversary of Voting Rights Act for Native Americans",
-    "locationOnCapitolGrounds": "Area 22, Area 33",
+    "locationOnCapitolGrounds": "Area 1, Area 5",
     "startDateTime": "6/1/2024 10:00 AM",
     "setUpDateTime": "6/1/2024 7:00 AM",
     "endDateTime": "6/1/2024 4:00 PM",
@@ -6565,6 +6565,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-356",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10654",
+    "eventSponsor": "Macias Wedding",
+    "locationOnCapitolGrounds": "Area 1, Area 5",
+    "startDateTime": "6/29/2024 12:00 PM",
+    "setUpDateTime": "6/29/2024 10:00 AM",
+    "endDateTime": "6/29/2024 4:00 PM",
+    "participants": 20,
+    "details": "I would like to have a wedding ceremony on the Capitol grounds right in between the Rose Garden and Cactus Garden in the Capitol Avenue."
+  },
+  {
+    "status": "approved",
     "number": "2024-357",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10655",
     "eventSponsor": "Welcome Home Vietnam Veterans- Rememberance Jose Ramos 101st Airbourne",
@@ -6618,7 +6630,7 @@
     "eventSponsor": "California Hunger Action Coalition Action Week- Southwest Side ",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "4/30/2024 12:00 PM",
-    "setUpDateTime": "4/30/2024 8:00 AM",
+    "setUpDateTime": "4/30/2024 5:00 AM",
     "endDateTime": "4/30/2024 5:00 PM",
     "participants": 200,
     "details": "The afternoon portion where we will gather and lobby the legislators.  This will be on the Southwest Side closer to N Street."
@@ -7237,6 +7249,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-427",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10731",
+    "eventSponsor": "Roots: Frequency of Freedom healthyself summer jam",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "6/29/2024 3:00 PM",
+    "setUpDateTime": "6/29/2024 6:30 AM",
+    "endDateTime": "6/29/2024 7:00 PM",
+    "participants": 750,
+    "details": "Free Church Youth music event with live performances and speakers on mental health advocates, mentors and local Indigenous healers. With local venders"
+  },
+  {
+    "status": "approved",
     "number": "2024-428",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10732",
     "eventSponsor": "ACA 16 Press Conference",
@@ -7752,7 +7776,7 @@
     "details": "Asm. Ward press conference"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-477",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10784",
     "eventSponsor": "Protect the Progress CCLN and the Capitol Coalition",
@@ -7860,7 +7884,7 @@
     "details": "Photography session of bride with groom and family between ceremony (Society Church) and Reception (Citizen Hotel)."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-486",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10794",
     "eventSponsor": "CA Family Justice Network- Southwest Side",
@@ -8052,16 +8076,16 @@
     "details": "Our students and staff will utilize this grassy area across from Starbucks to have lunch and do various team building activities. We will set up a few canopies due to the light rain anticipated in the early afternoon.  This will be on the northwest side across from the Starbucks."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-508",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10819",
     "eventSponsor": "Lunch on the Lawn",
-    "locationOnCapitolGrounds": "School Meals for All Coalition",
+    "locationOnCapitolGrounds": "School Meals for All Coalition- Southwest Side",
     "startDateTime": "5/23/2024 11:00 AM",
     "setUpDateTime": "5/23/2024 9:00 AM",
     "endDateTime": "5/23/2024 3:00 PM",
     "participants": 200,
-    "details": "This event aims to provide members of the state legislature with a delicious, nutritious, and engaging California School Meals for All (SMFA) experience that highlights the benefits of the state's landmark program. As many members have not yet been able to visit schools to learn or experience directly SMFA's benefits to local communities, we are bringing the experience to them, including the participation of school nutrition staff and students. Students, teachers, auxiliary school staff, administrators, legislators, advocates, farmers, press and event staff will gather on a rented lawn space of the Capitol for a fresh, CA-grown, nutritious lunch prepared on site. Activities and meals will take place under a large rented tent along with tables. We will have a stage or podium set up with a sound system for featured speakers."
+    "details": "This event aims to provide members of the state legislature with a delicious, nutritious, and engaging California School Meals for All (SMFA) experience that highlights the benefits of the state's landmark program. As many members have not yet been able to visit schools to learn or experience directly SMFA's benefits to local communities, we are bringing the experience to them, including the participation of school nutrition staff and students. Students, teachers, auxiliary school staff, administrators, legislators, advocates, farmers, press and event staff will gather on a rented lawn space of the Capitol for a fresh, CA-grown, nutritious lunch prepared on site.  Southwest Side"
   },
   {
     "status": "pending",
@@ -8081,9 +8105,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10821",
     "eventSponsor": "Drone Shoot for California Department of Public Health",
     "locationOnCapitolGrounds": "Other",
-    "startDateTime": "5/6/2024 12:00 PM",
-    "setUpDateTime": "5/6/2024 11:00 AM",
-    "endDateTime": "5/6/2024 2:00 PM",
+    "startDateTime": "5/5/2024 1:00 PM",
+    "setUpDateTime": "5/5/2024 1:00 PM",
+    "endDateTime": "5/5/2024 3:00 PM",
     "participants": 1,
     "details": "Use of drone to shoot footage for multiple upcoming video projects for CDPH.  We wish to shoot creative footage of the capitol building and capitol grounds as well as the CDPH buildings located just north of the capitol. Single drone operator. Drone operator has FAA certification, available upon request."
   },
@@ -8100,19 +8124,19 @@
     "details": "Press conference in support of Asm. Garcia's AB 2125."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-512",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10823",
-    "eventSponsor": "Legislative Priorities ",
-    "locationOnCapitolGrounds": "Other",
+    "eventSponsor": "Legislative Priorities- Northwest",
+    "locationOnCapitolGrounds": "West Side",
     "startDateTime": "5/29/2024 11:00 AM",
     "setUpDateTime": "5/29/2024 10:30 AM",
     "endDateTime": "5/29/2024 2:00 PM",
     "participants": 75,
-    "details": "Discuss Legislative Priorities"
+    "details": "Discuss Legislative Priorities- Northwest Side closer to L and 10th."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-513",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10824",
     "eventSponsor": "A PEACEFUL PROTEST FOR WOMENS RIGHTS",
@@ -8148,6 +8172,42 @@
     "details": "Honoring event for the family of William Franklin Sr., whom had a statue erected in his image at the capital. A gathering of Native community from around the Yolo and Sacramento Counties."
   },
   {
+    "status": "pending",
+    "number": "2024-517",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10830",
+    "eventSponsor": "Svec Wedding",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "5/31/2024 9:00 AM",
+    "setUpDateTime": "5/31/2024 8:30 AM",
+    "endDateTime": "5/31/2024 11:00 AM",
+    "participants": 6,
+    "details": "Ceremony and photography session for the Svec family."
+  },
+  {
+    "status": "pending",
+    "number": "2024-518",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10831",
+    "eventSponsor": "Ceremony ",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "5/10/2024 7:30 PM",
+    "setUpDateTime": "5/10/2024 6:00 PM",
+    "endDateTime": "5/10/2024 7:30 PM",
+    "participants": 10,
+    "details": "Wedding Ceremony"
+  },
+  {
+    "status": "pending",
+    "number": "2024-519",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10832",
+    "eventSponsor": "Smart Solutions to Fentanyl Press Conference",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "6/25/2024 10:00 AM",
+    "setUpDateTime": "6/25/2024 8:00 AM",
+    "endDateTime": "6/25/2024 8:00 PM",
+    "participants": 30,
+    "details": "Press conference in support of legislation to address opioid overdose crisis"
+  },
+  {
     "status": "approved",
     "number": "2024-52",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10255",
@@ -8158,6 +8218,18 @@
     "endDateTime": "2/27/2024 2:30 PM",
     "participants": 200,
     "details": "Association of California Airports and the Aviation Caucus host Aviation Day to promote the importance of and the benefits of aviation in California."
+  },
+  {
+    "status": "pending",
+    "number": "2024-520",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10833",
+    "eventSponsor": "ACR 179 Press Conference",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "5/9/2024 8:00 AM",
+    "setUpDateTime": "5/9/2024 7:30 AM",
+    "endDateTime": "5/9/2024 9:00 AM",
+    "participants": 40,
+    "details": "This is a press conference to highlight ACR 179 which commemorates the signing of Section 504 and to highlight the newly formed Disability Caucus."
   },
   {
     "status": "approved",
