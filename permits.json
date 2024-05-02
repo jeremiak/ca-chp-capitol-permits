@@ -6108,6 +6108,18 @@
     "details": "The even will be forming the public on Karma Automotive's new plans for creating clean energy jobs and how they are helping transform California into a new hub for E.V. infrastructure and job creation.  This will be on the southwest side sidewalk closer to the Capitol near the benches."
   },
   {
+    "status": "approved",
+    "number": "2024-314",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10611",
+    "eventSponsor": "Paid Family Leave (PFL) 20th Anniversary Family Resource Fair",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "7/1/2024 11:00 AM",
+    "setUpDateTime": "7/1/2024 10:00 AM",
+    "endDateTime": "7/1/2024 3:00 PM",
+    "participants": 200,
+    "details": "A family resource fair to celebrate the 20th anniversary of the Employment Development Department's (EDD) Paid Family Leave (PFL) program, including a speaking event with leaders of the organization."
+  },
+  {
     "status": "pending",
     "number": "2024-315",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10612",
@@ -7717,6 +7729,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-471",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10778",
+    "eventSponsor": "PFL Anniversary Advocate Press Conference",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "7/1/2024 9:00 AM",
+    "setUpDateTime": "7/1/2024 8:00 AM",
+    "endDateTime": "7/1/2024 9:45 AM",
+    "participants": 75,
+    "details": "On the 20th Anniversary of Paid Family Leave's Implementation, advocates and members of the California Work & Family Coalition will speak about the impacts of Paid Family Leave and efforts to protect and improve the program."
+  },
+  {
+    "status": "approved",
     "number": "2024-472",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10779",
     "eventSponsor": "Global Youth Climate Strike Sacramento- State Capitol",
@@ -8112,16 +8136,16 @@
     "details": "Use of drone to shoot footage for multiple upcoming video projects for CDPH.  We wish to shoot creative footage of the capitol building and capitol grounds as well as the CDPH buildings located just north of the capitol. Single drone operator. Drone operator has FAA certification, available upon request."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-511",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10822",
-    "eventSponsor": "Asm. Garcia AB 2125 Press Conf",
+    "eventSponsor": "Asm. Garcia AB 2125 Press Conf Southwest Side",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "5/9/2024 9:00 AM",
-    "setUpDateTime": "5/9/2024 8:00 AM",
+    "startDateTime": "5/9/2024 10:30 AM",
+    "setUpDateTime": "5/9/2024 10:00 AM",
     "endDateTime": "5/9/2024 12:00 PM",
     "participants": 30,
-    "details": "Press conference in support of Asm. Garcia's AB 2125."
+    "details": "Press conference in support of Asm. Garcia's AB 2125.  Southwest Side closer across from the LOB"
   },
   {
     "status": "approved",
@@ -8148,19 +8172,19 @@
     "details": "A peaceful protest against the injustices toward women and girls. We are advocating for change by showing solidarity, sharing our stories, and educating on the current injustices women and girls are faced with."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-514",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10826",
     "eventSponsor": "J  E Wedding",
     "locationOnCapitolGrounds": "Area 1",
-    "startDateTime": "5/25/2024 12:00 PM",
+    "startDateTime": "5/25/2024 1:00 PM",
     "setUpDateTime": "5/25/2024 10:00 AM",
-    "endDateTime": "5/25/2024 6:00 PM",
+    "endDateTime": "5/25/2024 5:00 PM",
     "participants": 50,
-    "details": "Wedding and possible small reception after"
+    "details": "Wedding"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-515",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10828",
     "eventSponsor": "Franklin Family Honoring Event",
@@ -8184,26 +8208,26 @@
     "details": "Ceremony and photography session for the Svec family."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-518",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10831",
-    "eventSponsor": "Ceremony ",
+    "eventSponsor": "Martinez Ceremony ",
     "locationOnCapitolGrounds": "Area 1",
-    "startDateTime": "5/10/2024 7:30 PM",
-    "setUpDateTime": "5/10/2024 6:00 PM",
-    "endDateTime": "5/10/2024 7:30 PM",
+    "startDateTime": "5/25/2024 6:00 PM",
+    "setUpDateTime": "5/25/2024 5:00 PM",
+    "endDateTime": "5/25/2024 9:00 PM",
     "participants": 10,
     "details": "Wedding Ceremony"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-519",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10832",
     "eventSponsor": "Smart Solutions to Fentanyl Press Conference",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "6/25/2024 10:00 AM",
     "setUpDateTime": "6/25/2024 8:00 AM",
-    "endDateTime": "6/25/2024 8:00 PM",
+    "endDateTime": "6/25/2024 1:00 PM",
     "participants": 30,
     "details": "Press conference in support of legislation to address opioid overdose crisis"
   },
@@ -8220,16 +8244,88 @@
     "details": "Association of California Airports and the Aviation Caucus host Aviation Day to promote the importance of and the benefits of aviation in California."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-520",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10833",
-    "eventSponsor": "ACR 179 Press Conference",
-    "locationOnCapitolGrounds": "Area 1",
+    "eventSponsor": "ACR 179 Press Conference- West Steps",
+    "locationOnCapitolGrounds": "West Side",
     "startDateTime": "5/9/2024 8:00 AM",
     "setUpDateTime": "5/9/2024 7:30 AM",
     "endDateTime": "5/9/2024 9:00 AM",
     "participants": 40,
     "details": "This is a press conference to highlight ACR 179 which commemorates the signing of Section 504 and to highlight the newly formed Disability Caucus."
+  },
+  {
+    "status": "pending",
+    "number": "2024-521",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10834",
+    "eventSponsor": "California Coalition for PANS-PANDAS Advocacy",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "6/26/2024 10:00 AM",
+    "setUpDateTime": "6/26/2024 9:00 AM",
+    "endDateTime": "6/26/2024 1:00 PM",
+    "participants": 50,
+    "details": "We will be having Advocacy Awareness Day for PANS and PANDAS autoimmune condition. We will have guest speakers."
+  },
+  {
+    "status": "pending",
+    "number": "2024-522",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10835",
+    "eventSponsor": "HWPL of Northern California",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/25/2024 9:00 AM",
+    "setUpDateTime": "5/25/2024 8:00 AM",
+    "endDateTime": "5/25/2024 11:00 AM",
+    "participants": 50,
+    "details": "We would like to use the West Side to hold a short commencement for our annual peace walk."
+  },
+  {
+    "status": "pending",
+    "number": "2024-523",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10837",
+    "eventSponsor": "Capitol City Games Unity Torch Run Kickoff ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "6/23/2024 12:00 PM",
+    "setUpDateTime": "6/23/2024 8:00 AM",
+    "endDateTime": "6/23/2024 4:00 PM",
+    "participants": 400,
+    "details": "This is the beginning of the Capitol City Games Olympics styled sports festival with the Unity Torch Run For Hope start. The Kickoff celebration will include music, special guests, exhibit booths and a fun family atmosphere to begin the first running leg of the Capitol City Games Unity Torch Run For Hope. The actual Games will be held at different venues throughout the region culminating on June 29 at Folsom High School Stadium. This event is the beginning of activities as we start the relay for a week of handoffs of the Unity Torch."
+  },
+  {
+    "status": "approved",
+    "number": "2024-524",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10838",
+    "eventSponsor": "Assembly Republican Caucus- Southwest Side",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/2/2024 9:30 AM",
+    "setUpDateTime": "5/2/2024 9:30 AM",
+    "endDateTime": "5/2/2024 11:00 AM",
+    "participants": 20,
+    "details": "Joint Legislative Republicans Press Conference- This will be on the southwest side closer to N Street on the West."
+  },
+  {
+    "status": "approved",
+    "number": "2024-525",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10839",
+    "eventSponsor": "National Action Network Sacramento and NAN Western Region- Southwest Side ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/2/2024 8:15 AM",
+    "setUpDateTime": "5/2/2024 8:00 AM",
+    "endDateTime": "5/2/2024 9:00 AM",
+    "participants": 40,
+    "details": "Ribbon cutting event for the first ever lobby day by the National Action Network Sacramento and NANA Western Region.  This will be on the Southwest Side closer to N."
+  },
+  {
+    "status": "pending",
+    "number": "2024-527",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10841",
+    "eventSponsor": "Wedding Proposal",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "5/12/2024 8:00 AM",
+    "setUpDateTime": "5/12/2024 6:00 AM",
+    "endDateTime": "5/12/2024 9:15 AM",
+    "participants": 15,
+    "details": "Wedding Proposal at the Peace Pavilion, followed by a photoshoot."
   },
   {
     "status": "approved",
@@ -8304,16 +8400,16 @@
     "details": "CCBA hosting a Legislative Reception"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-63",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10290",
-    "eventSponsor": "State Scientist Day",
+    "eventSponsor": "Rally for CAPS",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "5/9/2024 7:00 AM",
-    "setUpDateTime": "5/8/2024 3:00 PM",
-    "endDateTime": "5/9/2024 6:00 PM",
+    "startDateTime": "5/9/2024 12:00 PM",
+    "setUpDateTime": "5/9/2024 8:00 AM",
+    "endDateTime": "5/9/2024 4:00 PM",
     "participants": 500,
-    "details": "State Scientist Day is the annual event held by the California Association of Professional Scientists (CAPS) to highlight the important work that State-employed scientists do every day to protect the State of California. CAPS invites schools from around the area to participate in all the hands-on exhibits, staffed by real-life State Scientists to engage kids in the hands-on, engaging excitement of science!"
+    "details": "Rally for CAPS"
   },
   {
     "status": "approved",
