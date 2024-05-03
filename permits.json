@@ -8328,6 +8328,30 @@
     "details": "Wedding Proposal at the Peace Pavilion, followed by a photoshoot."
   },
   {
+    "status": "pending",
+    "number": "2024-528",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10842",
+    "eventSponsor": "SB1504 PRESS CONFERENCE",
+    "locationOnCapitolGrounds": "Area 27",
+    "startDateTime": "5/13/2024 12:00 PM",
+    "setUpDateTime": "5/13/2024 11:30 AM",
+    "endDateTime": "5/13/2024 1:00 PM",
+    "participants": 30,
+    "details": "PRESS CONFERENCE TO DISCUSS THE 2PT RULE  1509 WOULD ADD TO DRIVING RECORDS OF THOSE WHO EXCEED THE SPEED LIMIT BY 26 MPH OR MORE ON ROADS WITH A POSTED SPEED LIMIT OF 55 MPH OR LESS."
+  },
+  {
+    "status": "pending",
+    "number": "2024-529",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10843",
+    "eventSponsor": "Smith Wedding",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "6/22/2024 2:30 PM",
+    "setUpDateTime": "6/22/2024 11:30 AM",
+    "endDateTime": "6/22/2024 2:30 PM",
+    "participants": 40,
+    "details": "wedding ceremony"
+  },
+  {
     "status": "approved",
     "number": "2024-53",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10257",
@@ -8338,6 +8362,30 @@
     "endDateTime": "2/24/2024 5:00 PM",
     "participants": 20,
     "details": "We are hoping to gather to celebrate our engagement with a group of friends in Capitol Park for a picnic."
+  },
+  {
+    "status": "pending",
+    "number": "2024-530",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10844",
+    "eventSponsor": "Smith Wedding",
+    "locationOnCapitolGrounds": "Area 5",
+    "startDateTime": "6/22/2024 4:00 PM",
+    "setUpDateTime": "6/22/2024 3:00 PM",
+    "endDateTime": "6/22/2024 5:00 PM",
+    "participants": 40,
+    "details": "wedding ceremony"
+  },
+  {
+    "status": "pending",
+    "number": "2024-531",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10845",
+    "eventSponsor": "Corpus Christi Procession, Cathedral of the Blessed Sacrament",
+    "locationOnCapitolGrounds": "Area 22",
+    "startDateTime": "6/2/2024 11:15 AM",
+    "setUpDateTime": "6/2/2024 10:00 AM",
+    "endDateTime": "6/2/2024 12:00 PM",
+    "participants": 300,
+    "details": "Corpus Christi procession from Cathedral of the Blessed Sacrament at 1017 11th Street via 11th Street, crossing K Street and proceed down K Street Mall to 13th Street. Cross L Street at crosswalk and proceed diagonal walkway to shaded part of Area 22 under trees and return one-half hour later. Short prayer service in park. Participants will be issued pamphlets and sun umbrellas. Procession includes canopy with incense and 6 torches, none of which will be lighted according to park rules of no open flames.\nSmall PA system on wheels for cantor or song leader to lead people in quiet hymns. Many religious in habit and others will join. Some flags carried including Papal Flag and some other religious organizations. All have their own people to hold flags."
   },
   {
     "status": "approved",
