@@ -5455,7 +5455,7 @@
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "5/15/2024 9:00 AM",
     "setUpDateTime": "5/15/2024 6:00 AM",
-    "endDateTime": "5/15/2024 3:00 PM",
+    "endDateTime": "5/15/2024 5:00 PM",
     "participants": 150,
     "details": "Rally day to end poverty for children and families, sponsored by End Child Poverty California.  This will be on the SOUTHWEST side closer to 10th and N Street side of the Capitol."
   },
@@ -8268,7 +8268,7 @@
     "details": "This is a press conference to highlight ACR 179 which commemorates the signing of Section 504 and to highlight the newly formed Disability Caucus."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-521",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10834",
     "eventSponsor": "California Coalition for PANS-PANDAS Advocacy",
@@ -8292,7 +8292,7 @@
     "details": "We would like to use the West Side to hold a short commencement for our annual peace walk."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-523",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10837",
     "eventSponsor": "Capitol City Games Unity Torch Run Kickoff ",
@@ -8328,7 +8328,7 @@
     "details": "Ribbon cutting event for the first ever lobby day by the National Action Network Sacramento and NANA Western Region.  This will be on the Southwest Side closer to N."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-527",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10841",
     "eventSponsor": "Wedding Proposal",
@@ -8336,7 +8336,7 @@
     "startDateTime": "5/12/2024 8:00 AM",
     "setUpDateTime": "5/12/2024 6:00 AM",
     "endDateTime": "5/12/2024 9:15 AM",
-    "participants": 15,
+    "participants": 20,
     "details": "Wedding Proposal at the Peace Pavilion, followed by a photoshoot."
   },
   {
@@ -8360,7 +8360,7 @@
     "startDateTime": "6/22/2024 1:30 PM",
     "setUpDateTime": "6/22/2024 11:30 AM",
     "endDateTime": "6/22/2024 2:30 PM",
-    "participants": 40,
+    "participants": 45,
     "details": "wedding ceremony"
   },
   {
@@ -8410,6 +8410,30 @@
     "endDateTime": "5/8/2024 7:30 AM",
     "participants": 150,
     "details": "CHP Cadet Run.  The last run from CHP Cadets concluding 6 months of intense training at the California Highway Patrol Academy."
+  },
+  {
+    "status": "approved",
+    "number": "2024-533",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10851",
+    "eventSponsor": "Sammy's Law SB1444 & Cyberbullying SB 1504 Press Conference on Southwest Side",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/14/2024 10:00 AM",
+    "setUpDateTime": "5/14/2024 9:30 AM",
+    "endDateTime": "5/14/2024 10:30 AM",
+    "participants": 30,
+    "details": "Press conference to discuss the importance of parental controls and cyberbullying on social media.  This will be on the southwest side."
+  },
+  {
+    "status": "approved",
+    "number": "2024-534",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10852",
+    "eventSponsor": "Vets In Tech",
+    "locationOnCapitolGrounds": "Press Conference- Northwest Side Closer to L",
+    "startDateTime": "5/16/2024 8:00 AM",
+    "setUpDateTime": "5/16/2024 7:00 AM",
+    "endDateTime": "5/16/2024 12:30 PM",
+    "participants": 80,
+    "details": "We will be holding a press conference related to Military Veteran's pension benefits.  Northwest Side."
   },
   {
     "status": "approved",
