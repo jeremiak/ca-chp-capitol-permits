@@ -7469,10 +7469,10 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10753",
     "eventSponsor": "Make Polluters Pay Lobby Day- Southwest Side",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "5/16/2024 10:00 AM",
-    "setUpDateTime": "5/16/2024 8:00 AM",
-    "endDateTime": "5/16/2024 4:00 PM",
-    "participants": 50,
+    "startDateTime": "5/16/2024 8:30 AM",
+    "setUpDateTime": "5/16/2024 7:00 AM",
+    "endDateTime": "5/16/2024 10:30 AM",
+    "participants": 100,
     "details": "Climate advocates, grassroots activists, and frontline community members will gather to urge legislative action to make fossil fuel polluters pay for the damage done to communities and our climate.  This will be on the southwest side closer to N Street."
   },
   {
@@ -7800,15 +7800,15 @@
     "details": "Asm. Ward press conference"
   },
   {
-    "status": "approved",
+    "status": "pending",
     "number": "2024-477",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10784",
     "eventSponsor": "Protect the Progress CCLN and the Capitol Coalition",
-    "locationOnCapitolGrounds": "Area 27, Area 34",
+    "locationOnCapitolGrounds": "Area 5, Area 27, Area 34",
     "startDateTime": "5/21/2024 10:00 AM",
-    "setUpDateTime": "5/21/2024 9:30 AM",
-    "endDateTime": "5/21/2024 12:30 PM",
-    "participants": 300,
+    "setUpDateTime": "5/21/2024 7:00 AM",
+    "endDateTime": "5/21/2024 2:00 PM",
+    "participants": 400,
     "details": "Rally for the direct support professionals that work with the developmentally disabled. To call attention to their low wages"
   },
   {
@@ -7914,9 +7914,9 @@
     "eventSponsor": "CA Family Justice Network- Southwest Side",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "6/3/2024 9:00 AM",
-    "setUpDateTime": "6/3/2024 8:00 AM",
-    "endDateTime": "6/3/2024 4:00 PM",
-    "participants": 85,
+    "setUpDateTime": "6/3/2024 6:00 AM",
+    "endDateTime": "6/3/2024 9:00 PM",
+    "participants": 125,
     "details": "Advocacy Day for the CA Family Justice Network."
   },
   {
@@ -8055,13 +8055,13 @@
     "status": "approved",
     "number": "2024-503",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10814",
-    "eventSponsor": "Lobby Day of Action- L Street side Northwest Side",
+    "eventSponsor": "Lobby Day of Action- Southwest Side closer to N Street",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "5/22/2024 9:00 AM",
-    "setUpDateTime": "5/22/2024 8:00 AM",
+    "startDateTime": "5/22/2024 10:15 AM",
+    "setUpDateTime": "5/22/2024 10:15 AM",
     "endDateTime": "5/22/2024 3:00 PM",
     "participants": 150,
-    "details": "Press Conference and Rally in support of the SB299 Bill (cademocracy.org).  This will be on the northwest side (closer to L).  May be able set up on the southwest side after 1030am."
+    "details": "Press Conference and Rally in support of the SB299 Bill (cademocracy.org).  This will be on the southwest side closer to N."
   },
   {
     "status": "approved",
@@ -8578,6 +8578,18 @@
     "endDateTime": "4/6/2024 5:00 PM",
     "participants": 75,
     "details": "Christian concert and speaking event. Theme will be about the cross and what it means for the speakers. Poetry and dancing will be part of this event as well."
+  },
+  {
+    "status": "approved",
+    "number": "2024-79",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10326",
+    "eventSponsor": "Livival at The Capital",
+    "locationOnCapitolGrounds": "Area 22, Area 33",
+    "startDateTime": "7/7/2024 11:00 AM",
+    "setUpDateTime": "7/7/2024 10:00 AM",
+    "endDateTime": "7/7/2024 4:00 PM",
+    "participants": 50,
+    "details": "Christian concert and speaking event. Theme will be about salvation and God's love. Poetry and dancing will be part of this event as well."
   },
   {
     "status": "approved",
