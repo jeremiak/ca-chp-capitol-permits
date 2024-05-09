@@ -7624,7 +7624,7 @@
     "number": "2024-461",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10768",
     "eventSponsor": "Tsonis Proposal",
-    "locationOnCapitolGrounds": "Area 27",
+    "locationOnCapitolGrounds": "Area 1",
     "startDateTime": "6/15/2024 10:00 AM",
     "setUpDateTime": "6/15/2024 9:00 AM",
     "endDateTime": "6/15/2024 11:45 AM",
@@ -8069,9 +8069,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10815",
     "eventSponsor": "Family Rights Campaign Against Family Court and CPS",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "5/30/2024 11:00 AM",
-    "setUpDateTime": "5/30/2024 10:00 AM",
-    "endDateTime": "5/30/2024 5:00 PM",
+    "startDateTime": "6/20/2024 10:00 AM",
+    "setUpDateTime": "6/20/2024 9:00 AM",
+    "endDateTime": "6/20/2024 4:00 PM",
     "participants": 100,
     "details": "Family Rights Campaign Against the Abuses of Family Court and CPS"
   },
@@ -8434,6 +8434,30 @@
     "endDateTime": "5/16/2024 12:30 PM",
     "participants": 80,
     "details": "We will be holding a press conference related to Military Veteran's pension benefits.  Northwest Side."
+  },
+  {
+    "status": "approved",
+    "number": "2024-535",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10854",
+    "eventSponsor": "Lucid Gravity Showcase",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "6/18/2024 8:00 AM",
+    "setUpDateTime": "6/18/2024 7:00 AM",
+    "endDateTime": "6/18/2024 5:00 PM",
+    "participants": 30,
+    "details": "Lucid Motors will be hosting a vehicle showcase at the Capitol. There will be two of their newest vehicle models on display for Members as well as the public to look at. There will be some test drives as well with different vehicles but that will not be on the Capitol grounds."
+  },
+  {
+    "status": "approved",
+    "number": "2024-536",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10855",
+    "eventSponsor": "Assemblymember Haney",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/28/2024 11:30 AM",
+    "setUpDateTime": "5/28/2024 10:00 AM",
+    "endDateTime": "5/28/2024 1:30 PM",
+    "participants": 100,
+    "details": "Rally for AB 2408"
   },
   {
     "status": "approved",
