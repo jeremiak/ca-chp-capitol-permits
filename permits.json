@@ -5148,7 +5148,7 @@
     "details": "Presser"
   },
   {
-    "status": "approved",
+    "status": "pending",
     "number": "2024-23",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10017",
     "eventSponsor": "Classified School Employees Week ",
@@ -5156,7 +5156,7 @@
     "startDateTime": "5/21/2024 10:00 AM",
     "setUpDateTime": "5/21/2024 7:00 AM",
     "endDateTime": "5/21/2024 4:00 PM",
-    "participants": 200,
+    "participants": 450,
     "details": "CFT will be holding its first ever Classified School Employee Week celebration to recognizeCalifornia's classified professionals in our states' schools."
   },
   {
@@ -6116,7 +6116,7 @@
     "startDateTime": "7/1/2024 11:00 AM",
     "setUpDateTime": "7/1/2024 10:00 AM",
     "endDateTime": "7/1/2024 3:00 PM",
-    "participants": 200,
+    "participants": 150,
     "details": "A family resource fair to celebrate the 20th anniversary of the Employment Development Department's (EDD) Paid Family Leave (PFL) program, including a speaking event with leaders of the organization."
   },
   {
@@ -6485,9 +6485,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10645",
     "eventSponsor": "Sacramento Bus Trip for Education- Northwest Side",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "5/15/2024 7:00 AM",
-    "setUpDateTime": "5/15/2024 6:00 AM",
-    "endDateTime": "5/15/2024 5:00 PM",
+    "startDateTime": "5/15/2024 8:30 AM",
+    "setUpDateTime": "5/15/2024 7:00 AM",
+    "endDateTime": "5/15/2024 5:30 PM",
     "participants": 200,
     "details": "This is Senator Cortese's (Senate District 15) Annual Bus Trip to Sacramento to engage legislators, learn legislative updates and advocate on several educational issues and policies. This will be on the Northwest Side closer to L Street."
   },
@@ -7120,10 +7120,10 @@
     "number": "2024-41",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10168",
     "eventSponsor": "Mental Health Matters Day",
-    "locationOnCapitolGrounds": "Area 1, Area 5, Area 33",
+    "locationOnCapitolGrounds": "Area 22, Area 33",
     "startDateTime": "5/15/2024 8:00 AM",
-    "setUpDateTime": "5/14/2024 8:00 AM",
-    "endDateTime": "5/16/2024 3:00 PM",
+    "setUpDateTime": "5/14/2024 4:00 PM",
+    "endDateTime": "5/15/2024 6:00 PM",
     "participants": 600,
     "details": "A free annual Mental Health event designed to reduce stigma and promote access to mental health. The event will include exhibit booths (10x10 canopy tents (weighted)), a stage, a video wall, keynote speaker, other speakers and entertainment."
   },
@@ -7282,6 +7282,18 @@
     "endDateTime": "4/8/2024 1:30 PM",
     "participants": 150,
     "details": "This event is going to be an ACA 16 Press Conference. It is the same day as the Natural Resources Committee Hearing."
+  },
+  {
+    "status": "approved",
+    "number": "2024-429",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10733",
+    "eventSponsor": "California Car Wash Press Conference",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "7/9/2024 10:00 AM",
+    "setUpDateTime": "7/9/2024 8:00 AM",
+    "endDateTime": "7/9/2024 4:00 PM",
+    "participants": 75,
+    "details": "Press conference and gathering."
   },
   {
     "status": "approved",
@@ -7800,11 +7812,11 @@
     "details": "Asm. Ward press conference"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-477",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10784",
     "eventSponsor": "Protect the Progress CCLN and the Capitol Coalition",
-    "locationOnCapitolGrounds": "Area 5, Area 27, Area 34",
+    "locationOnCapitolGrounds": "Area 27, Area 34",
     "startDateTime": "5/21/2024 10:00 AM",
     "setUpDateTime": "5/21/2024 7:00 AM",
     "endDateTime": "5/21/2024 2:00 PM",
@@ -8388,7 +8400,7 @@
     "details": "wedding ceremony"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-531",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10845",
     "eventSponsor": "Corpus Christi Procession, Cathedral of the Blessed Sacrament",
@@ -8458,6 +8470,30 @@
     "endDateTime": "5/28/2024 1:30 PM",
     "participants": 100,
     "details": "Rally for AB 2408"
+  },
+  {
+    "status": "approved",
+    "number": "2024-537",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10857",
+    "eventSponsor": "UFCW Western States Council",
+    "locationOnCapitolGrounds": "Area 27, Area 34",
+    "startDateTime": "6/11/2024 9:30 AM",
+    "setUpDateTime": "6/11/2024 8:00 AM",
+    "endDateTime": "6/11/2024 12:00 PM",
+    "participants": 100,
+    "details": "AB 2223 Press Conference and lobby day"
+  },
+  {
+    "status": "approved",
+    "number": "2024-539",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10860",
+    "eventSponsor": "KIA Fly-In",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "6/17/2024 8:00 AM",
+    "setUpDateTime": "6/17/2024 7:00 AM",
+    "endDateTime": "6/17/2024 5:00 PM",
+    "participants": 50,
+    "details": "Kia will have two vehicle displays at the Capitol West Steps for Members and the public to look at."
   },
   {
     "status": "approved",
