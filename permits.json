@@ -6735,7 +6735,7 @@
     "status": "approved",
     "number": "2024-371",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10671",
-    "eventSponsor": "Promote the Vote CA Voter Registration Drive- Under the Trees on the West Side.",
+    "eventSponsor": "Promote the Vote CA Voter Registration Drive- Under the Trees just north of the Cement Area",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "5/15/2024 11:00 AM",
     "setUpDateTime": "5/15/2024 10:00 AM",
@@ -8441,10 +8441,10 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10852",
     "eventSponsor": "Vets In Tech",
     "locationOnCapitolGrounds": "Press Conference- Northwest Side Closer to L",
-    "startDateTime": "5/16/2024 8:00 AM",
-    "setUpDateTime": "5/16/2024 7:00 AM",
+    "startDateTime": "5/16/2024 11:00 AM",
+    "setUpDateTime": "5/16/2024 10:00 AM",
     "endDateTime": "5/16/2024 12:30 PM",
-    "participants": 80,
+    "participants": 50,
     "details": "We will be holding a press conference related to Military Veteran's pension benefits.  Northwest Side."
   },
   {
@@ -8508,6 +8508,30 @@
     "details": "Peace Officer Memorial. Sunday evening candlelight vigil at Memorial. Monday 1030 step off from West Steps. Honoring families of those who have given the ultimate sacrifice in the protection of those people for the State of California."
   },
   {
+    "status": "pending",
+    "number": "2024-540",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10863",
+    "eventSponsor": "Fix Our Shelters",
+    "locationOnCapitolGrounds": "Area 22",
+    "startDateTime": "5/13/2024 12:00 PM",
+    "setUpDateTime": "5/13/2024 10:45 AM",
+    "endDateTime": "5/13/2024 12:00 PM",
+    "participants": 25,
+    "details": "Press conference to support AB 2265"
+  },
+  {
+    "status": "pending",
+    "number": "2024-541",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10864",
+    "eventSponsor": "Fix Our Shelters",
+    "locationOnCapitolGrounds": "Area 22",
+    "startDateTime": "5/14/2024 12:00 PM",
+    "setUpDateTime": "5/14/2024 10:45 AM",
+    "endDateTime": "5/14/2024 12:00 PM",
+    "participants": 25,
+    "details": "Support for AB 2265"
+  },
+  {
     "status": "approved",
     "number": "2024-55",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10262",
@@ -8528,7 +8552,7 @@
     "startDateTime": "6/8/2024 6:00 PM",
     "setUpDateTime": "6/8/2024 7:00 AM",
     "endDateTime": "6/8/2024 10:00 PM",
-    "participants": 3000,
+    "participants": 2000,
     "details": "This prayer and worship event is centered on the praise of Jesus Christ. Music, and prayer for community, state, and elected officials. The event will start with worship music with our artist and band and go back and forth between thoughtful prayer and prayer for attendees.  Expected to go 6pm-830pm."
   },
   {
