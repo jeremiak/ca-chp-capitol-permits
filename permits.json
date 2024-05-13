@@ -8532,6 +8532,18 @@
     "details": "Support for AB 2265"
   },
   {
+    "status": "pending",
+    "number": "2024-545",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10868",
+    "eventSponsor": "Navalny Thursday",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/16/2024 7:00 PM",
+    "setUpDateTime": "5/16/2024 6:45 PM",
+    "endDateTime": "5/16/2024 9:00 PM",
+    "participants": 100,
+    "details": "Event for supporters of Alexei Navalny. On May 16, exactly three months ago, Putin killed Alexei Navalny. We will meet to remember a good man Alexei Navalny. People will stand with posters and talk about what is happening in Russia now, and how to stop all this horror."
+  },
+  {
     "status": "approved",
     "number": "2024-55",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10262",
