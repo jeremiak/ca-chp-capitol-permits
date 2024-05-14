@@ -7483,7 +7483,7 @@
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "5/16/2024 8:30 AM",
     "setUpDateTime": "5/16/2024 7:00 AM",
-    "endDateTime": "5/16/2024 10:30 AM",
+    "endDateTime": "5/16/2024 3:00 PM",
     "participants": 100,
     "details": "Climate advocates, grassroots activists, and frontline community members will gather to urge legislative action to make fossil fuel polluters pay for the damage done to communities and our climate.  This will be on the southwest side closer to N Street."
   },
@@ -7858,6 +7858,18 @@
     "endDateTime": "4/17/2024 4:00 PM",
     "participants": 200,
     "details": "Californians for the Arts (a statewide advocacy 501(c)3 advocacy organization for arts and culture) will organize a press conference and ACCM Advocacy Day rally for citizen advocates. The event will include speakers and performers. Following a roughly 90 minute program the advocates will parade over to meet with various senate and assembly member offices. A smaller group will remain in the park until 4pm as a checkin location for the advocates as they come and go from different meetings.  I am trying to reserve both 4-16 and 4-17 but the system won't seem to let me."
+  },
+  {
+    "status": "approved",
+    "number": "2024-480",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10787",
+    "eventSponsor": "4.1  BLESSED ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "7/13/2024 8:00 AM",
+    "setUpDateTime": "7/13/2024 6:00 AM",
+    "endDateTime": "7/13/2024 4:00 PM",
+    "participants": 200,
+    "details": "We are a faith-based 1-time event - Where local churches with gather to pray & sing on the front of the Capitol building. We will bring our own sound system, instruments, speakers, microphones, and podium. We will provide water, our own pop up tent(s), chairs & tables. We will set-up, tear down, and be responsible for cleaning after the event."
   },
   {
     "status": "pending",
@@ -8520,7 +8532,7 @@
     "details": "Press conference to support AB 2265"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-541",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10864",
     "eventSponsor": "Fix Our Shelters",
@@ -8542,6 +8554,18 @@
     "endDateTime": "5/16/2024 9:00 PM",
     "participants": 100,
     "details": "Event for supporters of Alexei Navalny. On May 16, exactly three months ago, Putin killed Alexei Navalny. We will meet to remember a good man Alexei Navalny. People will stand with posters and talk about what is happening in Russia now, and how to stop all this horror."
+  },
+  {
+    "status": "pending",
+    "number": "2024-547",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10870",
+    "eventSponsor": "Christians United for Israel",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "5/16/2024 2:30 PM",
+    "setUpDateTime": "5/16/2024 2:30 PM",
+    "endDateTime": "5/16/2024 5:00 PM",
+    "participants": 25,
+    "details": "Display USA and Israeli flags and sign supporting Israel. Will have one table for free literature."
   },
   {
     "status": "approved",
