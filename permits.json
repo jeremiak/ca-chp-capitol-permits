@@ -8544,7 +8544,7 @@
     "details": "Support for AB 2265"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-545",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10868",
     "eventSponsor": "Navalny Thursday",
@@ -8578,6 +8578,18 @@
     "endDateTime": "2/6/2024 4:00 PM",
     "participants": 50,
     "details": "Blood drive by Vitalant"
+  },
+  {
+    "status": "pending",
+    "number": "2024-552",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10877",
+    "eventSponsor": "California Product Stewardship Council",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/17/2024 10:00 AM",
+    "setUpDateTime": "5/17/2024 9:00 AM",
+    "endDateTime": "5/17/2024 2:00 PM",
+    "participants": 10,
+    "details": "Nonprofit organization (CPSC) will host a booth for the purpose of education the public regarding single-use vs reusable consumer products, including examples of each product."
   },
   {
     "status": "approved",
