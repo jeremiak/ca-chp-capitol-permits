@@ -8592,6 +8592,54 @@
     "details": "Nonprofit organization (CPSC) will host a booth for the purpose of education the public regarding single-use vs reusable consumer products, including examples of each product."
   },
   {
+    "status": "pending",
+    "number": "2024-553",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10878",
+    "eventSponsor": "Fathers Day Photoshoot",
+    "locationOnCapitolGrounds": "West Side, Other",
+    "startDateTime": "5/25/2024 11:00 AM",
+    "setUpDateTime": "5/25/2024 10:00 AM",
+    "endDateTime": "5/25/2024 12:30 PM",
+    "participants": 200,
+    "details": "A group photo of Fathers, Grandfathers, Stepfathers, Godfathers, Uncles, Girl dads to celebrate Fathers day next month."
+  },
+  {
+    "status": "pending",
+    "number": "2024-554",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10879",
+    "eventSponsor": "Kensington Park Apartments",
+    "locationOnCapitolGrounds": "Area 22",
+    "startDateTime": "5/18/2024 11:00 AM",
+    "setUpDateTime": "5/18/2024 10:30 AM",
+    "endDateTime": "5/18/2024 1:00 PM",
+    "participants": 15,
+    "details": "A free lemonade stand, handing out refreshments and flyers to promote our move in specials here at Kensington Park Apartments"
+  },
+  {
+    "status": "pending",
+    "number": "2024-555",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10880",
+    "eventSponsor": "Kensington Park Apartments",
+    "locationOnCapitolGrounds": "Area 22",
+    "startDateTime": "5/23/2024 11:00 AM",
+    "setUpDateTime": "5/23/2024 10:30 AM",
+    "endDateTime": "5/23/2024 1:15 PM",
+    "participants": 15,
+    "details": "A free lemonade stand, handing out refreshments and flyers to promote our move in specials here at Kensington Park Apartments"
+  },
+  {
+    "status": "pending",
+    "number": "2024-556",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10881",
+    "eventSponsor": "California Environmental Justice Alliance ",
+    "locationOnCapitolGrounds": "Area 27",
+    "startDateTime": "5/18/2024 6:00 PM",
+    "setUpDateTime": "5/18/2024 11:00 AM",
+    "endDateTime": "5/18/2024 6:00 PM",
+    "participants": 250,
+    "details": "Cooling center for for participants to hang out in during our lobby day."
+  },
+  {
     "status": "approved",
     "number": "2024-57",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10275",
