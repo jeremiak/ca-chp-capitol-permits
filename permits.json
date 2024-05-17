@@ -8580,19 +8580,19 @@
     "details": "Blood drive by Vitalant"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-552",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10877",
     "eventSponsor": "California Product Stewardship Council",
-    "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "5/17/2024 10:00 AM",
-    "setUpDateTime": "5/17/2024 9:00 AM",
-    "endDateTime": "5/17/2024 2:00 PM",
+    "locationOnCapitolGrounds": "Southwest corner",
+    "startDateTime": "6/17/2024 10:00 AM",
+    "setUpDateTime": "6/17/2024 9:00 AM",
+    "endDateTime": "6/17/2024 2:00 PM",
     "participants": 10,
     "details": "Nonprofit organization (CPSC) will host a booth for the purpose of education the public regarding single-use vs reusable consumer products, including examples of each product."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-553",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10878",
     "eventSponsor": "Fathers Day Photoshoot",
