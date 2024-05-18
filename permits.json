@@ -8640,6 +8640,42 @@
     "details": "Cooling center for for participants to hang out in during our lobby day."
   },
   {
+    "status": "pending",
+    "number": "2024-557",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10882",
+    "eventSponsor": "Lobby Day of Action ",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "5/20/2024 6:00 PM",
+    "setUpDateTime": "5/20/2024 8:00 AM",
+    "endDateTime": "5/20/2024 6:00 PM",
+    "participants": 150,
+    "details": "Press Conference & Rally"
+  },
+  {
+    "status": "pending",
+    "number": "2024-558",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10883",
+    "eventSponsor": "California Arts Advocates Press Conference ",
+    "locationOnCapitolGrounds": "Area 27",
+    "startDateTime": "5/29/2024 10:00 AM",
+    "setUpDateTime": "5/29/2024 7:00 AM",
+    "endDateTime": "5/29/2024 1:30 PM",
+    "participants": 100,
+    "details": "The California Arts Advocates will be holding a press conference to discuss the significance of protecting cultural arts funding."
+  },
+  {
+    "status": "pending",
+    "number": "2024-559",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10884",
+    "eventSponsor": "Renee Sava Productions, LLC",
+    "locationOnCapitolGrounds": "Area 34",
+    "startDateTime": "6/1/2024 9:30 AM",
+    "setUpDateTime": "6/1/2024 9:30 AM",
+    "endDateTime": "6/2/2024 9:30 PM",
+    "participants": 20,
+    "details": "We are Sacramento area filmmakers, filming nearby on N St., and would like an approved area to assemble throughout the day. Provided that filmmaking is considered artistic and not a commercial activity. No filming or commerce will be conducted in the park. Activities on site will consist of snacking or resting. There are no overnights. The days were combined to fit a single permit application."
+  },
+  {
     "status": "approved",
     "number": "2024-57",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10275",
