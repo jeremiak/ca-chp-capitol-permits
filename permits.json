@@ -5148,7 +5148,7 @@
     "details": "Presser"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-23",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10017",
     "eventSponsor": "Classified School Employees Week ",
@@ -8645,9 +8645,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10882",
     "eventSponsor": "Lobby Day of Action ",
     "locationOnCapitolGrounds": "Other",
-    "startDateTime": "5/20/2024 6:00 PM",
-    "setUpDateTime": "5/20/2024 8:00 AM",
-    "endDateTime": "5/20/2024 6:00 PM",
+    "startDateTime": "5/31/2024 4:00 AM",
+    "setUpDateTime": "5/31/2024 4:00 AM",
+    "endDateTime": "5/31/2024 4:00 AM",
     "participants": 150,
     "details": "Press Conference & Rally"
   },
