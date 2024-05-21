@@ -5156,7 +5156,7 @@
     "startDateTime": "5/21/2024 10:00 AM",
     "setUpDateTime": "5/21/2024 7:00 AM",
     "endDateTime": "5/21/2024 4:00 PM",
-    "participants": 450,
+    "participants": 300,
     "details": "CFT will be holding its first ever Classified School Employee Week celebration to recognizeCalifornia's classified professionals in our states' schools."
   },
   {
@@ -6053,8 +6053,8 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10606",
     "eventSponsor": "LGBTQ Caucus Pride Ceremony ",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "6/3/2024 1:00 PM",
-    "setUpDateTime": "6/3/2024 12:00 PM",
+    "startDateTime": "6/3/2024 12:00 PM",
+    "setUpDateTime": "6/3/2024 11:30 AM",
     "endDateTime": "6/3/2024 2:30 PM",
     "participants": 100,
     "details": "Come celebrate Pride Month with this LGBTQ Biker Group to ride down Capitol Mall and have a press conference that will take prior to our Pride ceremony."
@@ -7237,6 +7237,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-424",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10727",
+    "eventSponsor": "Military Commissioning Ceremony",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "7/20/2024 11:00 AM",
+    "setUpDateTime": "7/20/2024 10:00 AM",
+    "endDateTime": "7/20/2024 2:00 PM",
+    "participants": 30,
+    "details": "I will be commissioning as a Second Lieutenant in the Marine Corps. Several commissioning ceremonies have been held here in the past and I would like mine to be held here as well. It will take place at the steps. No reason to go inside. We will bring our own equipment."
+  },
+  {
+    "status": "approved",
     "number": "2024-425",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10728",
     "eventSponsor": "Worker Canvassing Kick Off",
@@ -8093,9 +8105,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10814",
     "eventSponsor": "Lobby Day of Action- Southwest Side closer to N Street",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "5/22/2024 10:15 AM",
-    "setUpDateTime": "5/22/2024 10:15 AM",
-    "endDateTime": "5/22/2024 3:00 PM",
+    "startDateTime": "6/12/2024 8:00 AM",
+    "setUpDateTime": "6/12/2024 7:30 AM",
+    "endDateTime": "6/12/2024 4:00 PM",
     "participants": 150,
     "details": "Press Conference and Rally in support of the SB299 Bill (cademocracy.org).  This will be on the southwest side closer to N."
   },
@@ -8628,16 +8640,16 @@
     "details": "A free lemonade stand, handing out refreshments and flyers to promote our move in specials here at Kensington Park Apartments"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-555",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10880",
-    "eventSponsor": "Kensington Park Apartments",
-    "locationOnCapitolGrounds": "Area 22",
+    "eventSponsor": "Kensington Park Apartments Low Income and Tax Credit Program Promtion",
+    "locationOnCapitolGrounds": "Area 33",
     "startDateTime": "5/23/2024 11:00 AM",
     "setUpDateTime": "5/23/2024 10:30 AM",
     "endDateTime": "5/23/2024 1:15 PM",
     "participants": 15,
-    "details": "A free lemonade stand, handing out refreshments and flyers to promote our move in specials here at Kensington Park Apartments"
+    "details": "A free lemonade stand, handing out refreshments and flyers to promote the low income and tax credit program at Kensington Park Apartments"
   },
   {
     "status": "pending",
@@ -8664,19 +8676,19 @@
     "details": "Press Conference & Rally"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-558",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10883",
-    "eventSponsor": "California Arts Advocates Press Conference ",
-    "locationOnCapitolGrounds": "Area 27",
-    "startDateTime": "5/29/2024 10:00 AM",
+    "eventSponsor": "California Arts Advocates Press Conference- Northwest closer to L",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/29/2024 11:00 AM",
     "setUpDateTime": "5/29/2024 7:00 AM",
-    "endDateTime": "5/29/2024 1:30 PM",
+    "endDateTime": "5/29/2024 1:00 PM",
     "participants": 100,
-    "details": "The California Arts Advocates will be holding a press conference to discuss the significance of protecting cultural arts funding."
+    "details": "The California Arts Advocates will be holding a press conference to discuss the significance of protecting cultural arts funding.  This will be on the northwest side closer to L."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-559",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10884",
     "eventSponsor": "Renee Sava Productions, LLC",
@@ -8686,6 +8698,30 @@
     "endDateTime": "6/2/2024 9:30 PM",
     "participants": 20,
     "details": "We are Sacramento area filmmakers, filming nearby on N St., and would like an approved area to assemble throughout the day. Provided that filmmaking is considered artistic and not a commercial activity. No filming or commerce will be conducted in the park. Activities on site will consist of snacking or resting. There are no overnights. The days were combined to fit a single permit application."
+  },
+  {
+    "status": "approved",
+    "number": "2024-562",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10887",
+    "eventSponsor": "Navalny Thursday",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/23/2024 6:30 PM",
+    "setUpDateTime": "5/23/2024 6:15 PM",
+    "endDateTime": "5/23/2024 8:30 PM",
+    "participants": 100,
+    "details": "Every Thursday we hold meetings for supporters of Alexei Navalny. These meetings are dedicated to remembering Alexei Navalny, a good person and a leader of the Russian opposition. Participants will stand with posters, signs and discuss the current situation in Russia, as well as ways to stop the ongoing atrocities."
+  },
+  {
+    "status": "approved",
+    "number": "2024-564",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10889",
+    "eventSponsor": "Survivors Rally for Crime Victim Services",
+    "locationOnCapitolGrounds": "Area 27, Area 34",
+    "startDateTime": "5/29/2024 10:00 AM",
+    "setUpDateTime": "5/29/2024 9:30 AM",
+    "endDateTime": "5/29/2024 10:45 AM",
+    "participants": 200,
+    "details": "Rally for crime victim services and support for funding in the June final budget for survivors of crime."
   },
   {
     "status": "approved",
