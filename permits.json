@@ -7350,9 +7350,9 @@
     "eventSponsor": "2024 Pre-Memorial Day Celebration ",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "5/23/2024 11:30 AM",
-    "setUpDateTime": "5/23/2024 9:30 AM",
-    "endDateTime": "5/23/2024 1:30 PM",
-    "participants": 100,
+    "setUpDateTime": "5/23/2024 11:00 AM",
+    "endDateTime": "5/23/2024 1:00 PM",
+    "participants": 50,
     "details": "Pre-Memorial Day Celebration educating and advocating for honoring original efforts to honor US Civil War soldiers and the ongoing sacrifice for freedom."
   },
   {
@@ -8605,6 +8605,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-550",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10873",
+    "eventSponsor": "319th Expeditionary Signal Battalion Change of Command",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "7/21/2024 9:30 AM",
+    "setUpDateTime": "7/21/2024 8:00 AM",
+    "endDateTime": "7/21/2024 6:00 PM",
+    "participants": 250,
+    "details": "Military ceremony for a change of commanding officer to a battalion. Ceremony will be followed by small reception consisting of finger foods and beverages."
+  },
+  {
+    "status": "approved",
     "number": "2024-552",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10877",
     "eventSponsor": "California Product Stewardship Council",
@@ -8716,12 +8728,24 @@
     "number": "2024-564",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10889",
     "eventSponsor": "Survivors Rally for Crime Victim Services",
-    "locationOnCapitolGrounds": "Area 27, Area 34",
-    "startDateTime": "5/29/2024 10:00 AM",
-    "setUpDateTime": "5/29/2024 9:30 AM",
-    "endDateTime": "5/29/2024 10:45 AM",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/30/2024 10:00 AM",
+    "setUpDateTime": "5/30/2024 9:30 AM",
+    "endDateTime": "5/30/2024 11:00 AM",
     "participants": 200,
     "details": "Rally for crime victim services and support for funding in the June final budget for survivors of crime."
+  },
+  {
+    "status": "pending",
+    "number": "2024-566",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10896",
+    "eventSponsor": "wedding",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "5/24/2024 6:30 PM",
+    "setUpDateTime": "5/24/2024 6:30 PM",
+    "endDateTime": "5/24/2024 10:00 AM",
+    "participants": 40,
+    "details": "Ceremony Wedding event"
   },
   {
     "status": "approved",
