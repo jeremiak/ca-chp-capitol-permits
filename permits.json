@@ -5025,7 +5025,7 @@
     "setUpDateTime": "5/26/2024 6:00 AM",
     "endDateTime": "5/26/2024 6:30 PM",
     "participants": 200,
-    "details": "25th annual Vietnam Veterans of America Reading of the Names"
+    "details": "25th annual Vietnam Veterans of America Reading of the Names.  Start reading names at 7am.  At 1145 break for an hour ceremony.  Then continue reading names until approximately 530pm."
   },
   {
     "status": "approved",
@@ -6276,13 +6276,13 @@
     "details": "Asm Ting will announce new legislation to ban legacy admissions to CA colleges.  This will be on the SouthWest Side closer toward N Street."
   },
   {
-    "status": "approved",
+    "status": "pending",
     "number": "2024-33",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10102",
     "eventSponsor": "El Soldado Memorial observance ceremony * California Mexican American Veterans Memorial Foundation ",
-    "locationOnCapitolGrounds": "Area 34",
+    "locationOnCapitolGrounds": "West Side",
     "startDateTime": "5/27/2024 1:00 PM",
-    "setUpDateTime": "5/27/2024 8:00 AM",
+    "setUpDateTime": "5/27/2024 9:00 AM",
     "endDateTime": "5/27/2024 4:00 PM",
     "participants": 200,
     "details": "Recognize and honor all veterans who have served and are now serving in our Armed Forces of the United States of America * invited elected officials and Dignitaries plus keynote speakers* to keep Rememberance of members of the Society of Mexican War Mothers and educate audience of the history and legacy of the efforts this special group of Mexican American women accomplished Post WWII to provide our Mexican community with this monument."
@@ -8748,6 +8748,42 @@
     "details": "Ceremony Wedding event"
   },
   {
+    "status": "pending",
+    "number": "2024-567",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10900",
+    "eventSponsor": "Parental Rights Press Conference",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "5/29/2024 8:00 AM",
+    "setUpDateTime": "5/29/2024 7:00 AM",
+    "endDateTime": "5/29/2024 9:00 AM",
+    "participants": 100,
+    "details": "Standing with Families against AB-1955.  The legislature has secretly put this bill in to take rights away from families.  We will be gathering to lobby then attend the Senate Health Committee hearing at 9am."
+  },
+  {
+    "status": "pending",
+    "number": "2024-568",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10901",
+    "eventSponsor": "Summer of Heat Against Wall Street Week 2",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "6/21/2024 12:00 PM",
+    "setUpDateTime": "6/21/2024 11:00 AM",
+    "endDateTime": "6/21/2024 2:00 PM",
+    "participants": 50,
+    "details": "We will be performing actions related to the national Summer of Heat Against Wall Street campaign, including a die-in, tug-of-war, and have speakers present to advocate for equity and sustainable energy."
+  },
+  {
+    "status": "pending",
+    "number": "2024-569",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10902",
+    "eventSponsor": "Summer of Heat Against Wall Street Week 3",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "6/28/2024 11:45 AM",
+    "setUpDateTime": "6/28/2024 11:00 AM",
+    "endDateTime": "6/28/2024 2:00 PM",
+    "participants": 50,
+    "details": "We will be holding an action to advocate for an equitable and sustainable transfer of energy in accordance with the nationwide Summer of Heat Against Wall Street campaign."
+  },
+  {
     "status": "approved",
     "number": "2024-57",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10275",
@@ -8758,6 +8794,42 @@
     "endDateTime": "6/8/2024 10:00 PM",
     "participants": 2000,
     "details": "This prayer and worship event is centered on the praise of Jesus Christ. Music, and prayer for community, state, and elected officials. The event will start with worship music with our artist and band and go back and forth between thoughtful prayer and prayer for attendees.  Expected to go 6pm-830pm."
+  },
+  {
+    "status": "pending",
+    "number": "2024-570",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10903",
+    "eventSponsor": "Summer of Heat Against Wall Street Week 4",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "7/5/2024 11:45 AM",
+    "setUpDateTime": "7/5/2024 11:00 AM",
+    "endDateTime": "7/5/2024 2:00 PM",
+    "participants": 50,
+    "details": "We will be holding an action in accordance with the national Summer of Heat Against Wall Street to encourage support for an equitable and sustainable transfer to hold Big Oil accountable."
+  },
+  {
+    "status": "pending",
+    "number": "2024-571",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10904",
+    "eventSponsor": "Summer of Heat Against Wall Street Week 5",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "7/12/2024 11:45 AM",
+    "setUpDateTime": "7/12/2024 11:00 AM",
+    "endDateTime": "7/12/2024 2:00 PM",
+    "participants": 50,
+    "details": "Peaceful activism event in accordance with the national Summer of Heat Against Wall street campaign"
+  },
+  {
+    "status": "pending",
+    "number": "2024-572",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10905",
+    "eventSponsor": "Summer of Heat Against Wall Street Week 6",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "7/19/2024 11:45 AM",
+    "setUpDateTime": "7/19/2024 11:00 AM",
+    "endDateTime": "7/19/2024 2:00 PM",
+    "participants": 50,
+    "details": "Peaceful action with the national Summer of Heat Against Wall Street campagin"
   },
   {
     "status": "approved",
