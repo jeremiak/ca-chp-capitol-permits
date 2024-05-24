@@ -6276,7 +6276,7 @@
     "details": "Asm Ting will announce new legislation to ban legacy admissions to CA colleges.  This will be on the SouthWest Side closer toward N Street."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-33",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10102",
     "eventSponsor": "El Soldado Memorial observance ceremony * California Mexican American Veterans Memorial Foundation ",
@@ -8741,18 +8741,18 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10896",
     "eventSponsor": "wedding",
     "locationOnCapitolGrounds": "Area 1",
-    "startDateTime": "5/24/2024 6:30 PM",
-    "setUpDateTime": "5/24/2024 6:30 PM",
-    "endDateTime": "5/24/2024 10:00 AM",
+    "startDateTime": "6/29/2024 4:00 AM",
+    "setUpDateTime": "6/29/2024 4:00 AM",
+    "endDateTime": "6/29/2024 4:00 AM",
     "participants": 40,
     "details": "Ceremony Wedding event"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-567",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10900",
     "eventSponsor": "Parental Rights Press Conference",
-    "locationOnCapitolGrounds": "Other",
+    "locationOnCapitolGrounds": "West Side",
     "startDateTime": "5/29/2024 8:00 AM",
     "setUpDateTime": "5/29/2024 7:00 AM",
     "endDateTime": "5/29/2024 9:00 AM",
@@ -8768,7 +8768,7 @@
     "startDateTime": "6/21/2024 12:00 PM",
     "setUpDateTime": "6/21/2024 11:00 AM",
     "endDateTime": "6/21/2024 2:00 PM",
-    "participants": 50,
+    "participants": 55,
     "details": "We will be performing actions related to the national Summer of Heat Against Wall Street campaign, including a die-in, tug-of-war, and have speakers present to advocate for equity and sustainable energy."
   },
   {
@@ -8830,6 +8830,18 @@
     "endDateTime": "7/19/2024 2:00 PM",
     "participants": 50,
     "details": "Peaceful action with the national Summer of Heat Against Wall Street campagin"
+  },
+  {
+    "status": "pending",
+    "number": "2024-579",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10912",
+    "eventSponsor": "Press Conf- DV bills",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/26/2024 11:00 AM",
+    "setUpDateTime": "5/26/2024 10:30 AM",
+    "endDateTime": "5/26/2024 12:00 PM",
+    "participants": 40,
+    "details": "Legislative Update on Domestic Violence Bills"
   },
   {
     "status": "approved",
