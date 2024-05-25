@@ -4813,6 +4813,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-199",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10495",
+    "eventSponsor": "Rally in support of Ukraine Sunflower Society",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "7/24/2024 6:00 PM",
+    "setUpDateTime": "7/24/2024 5:00 PM",
+    "endDateTime": "7/24/2024 9:45 PM",
+    "participants": 150,
+    "details": "Solidarity Rally in Support of Ukraine"
+  },
+  {
+    "status": "approved",
     "number": "2024-200",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10496",
     "eventSponsor": "Missing and Murdered Indigenous People Press Conference",
@@ -6845,10 +6857,10 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10683",
     "eventSponsor": "SEIU California",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "6/11/2024 8:00 AM",
+    "startDateTime": "6/11/2024 10:00 AM",
     "setUpDateTime": "6/10/2024 2:00 PM",
     "endDateTime": "6/11/2024 8:00 PM",
-    "participants": 2000,
+    "participants": 1500,
     "details": "Rally around the budget"
   },
   {
@@ -8632,11 +8644,11 @@
     "number": "2024-553",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10878",
     "eventSponsor": "Fathers Day Photoshoot",
-    "locationOnCapitolGrounds": "West Side, Other",
+    "locationOnCapitolGrounds": "West Side, Traffic Circle",
     "startDateTime": "5/25/2024 11:00 AM",
     "setUpDateTime": "5/25/2024 10:00 AM",
     "endDateTime": "5/25/2024 12:30 PM",
-    "participants": 200,
+    "participants": 100,
     "details": "A group photo of Fathers, Grandfathers, Stepfathers, Godfathers, Uncles, Girl dads to celebrate Fathers day next month."
   },
   {
@@ -8708,7 +8720,7 @@
     "startDateTime": "6/1/2024 9:30 AM",
     "setUpDateTime": "6/1/2024 9:30 AM",
     "endDateTime": "6/2/2024 9:30 PM",
-    "participants": 20,
+    "participants": 50,
     "details": "We are Sacramento area filmmakers, filming nearby on N St., and would like an approved area to assemble throughout the day. Provided that filmmaking is considered artistic and not a commercial activity. No filming or commerce will be conducted in the park. Activities on site will consist of snacking or resting. There are no overnights. The days were combined to fit a single permit application."
   },
   {
@@ -8832,16 +8844,16 @@
     "details": "Peaceful action with the national Summer of Heat Against Wall Street campagin"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-579",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10912",
-    "eventSponsor": "Press Conf- DV bills",
+    "eventSponsor": "Press Conf- DV bills Southwest Side closer to N",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "5/26/2024 11:00 AM",
-    "setUpDateTime": "5/26/2024 10:30 AM",
-    "endDateTime": "5/26/2024 12:00 PM",
+    "startDateTime": "6/6/2024 11:00 AM",
+    "setUpDateTime": "6/6/2024 10:00 AM",
+    "endDateTime": "6/6/2024 1:00 PM",
     "participants": 40,
-    "details": "Legislative Update on Domestic Violence Bills"
+    "details": "Legislative Update on Domestic Violence Bills- Southwest Side"
   },
   {
     "status": "approved",
@@ -8854,6 +8866,18 @@
     "endDateTime": "3/19/2024 8:00 PM",
     "participants": 500,
     "details": "The Capitol grounds will come alive showcasing California's agricultural bounty. California farmers and ranchers will highlight all the great food, fiber and products they produce."
+  },
+  {
+    "status": "pending",
+    "number": "2024-580",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10915",
+    "eventSponsor": "Mel Oania ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "6/2/2024 7:30 PM",
+    "setUpDateTime": "6/2/2024 7:15 PM",
+    "endDateTime": "6/2/2024 8:30 PM",
+    "participants": 2,
+    "details": "Family photographs"
   },
   {
     "status": "approved",
