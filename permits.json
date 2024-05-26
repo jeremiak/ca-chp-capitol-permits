@@ -8880,6 +8880,18 @@
     "details": "Family photographs"
   },
   {
+    "status": "pending",
+    "number": "2024-581",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10917",
+    "eventSponsor": "Sac Central Choir performance",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "7/6/2024 7:45 PM",
+    "setUpDateTime": "7/6/2024 6:00 PM",
+    "endDateTime": "7/6/2024 7:45 PM",
+    "participants": 50,
+    "details": "A small religious concert, celebrating the independence week"
+  },
+  {
     "status": "approved",
     "number": "2024-6",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9897",
