@@ -3926,14 +3926,14 @@
   {
     "status": "approved",
     "number": "2023-941",
-    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10458",
-    "eventSponsor": "California Fire Foundation",
-    "locationOnCapitolGrounds": "Area 34",
-    "startDateTime": "12/26/2023 9:30 AM",
-    "setUpDateTime": "12/26/2023 9:00 AM",
-    "endDateTime": "12/26/2023 12:30 PM",
-    "participants": 3,
-    "details": "Drone view of California firefighters Memorial in preparation for construction and determining correct location of statues."
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10444",
+    "eventSponsor": "Elopement",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "7/27/2024 11:00 AM",
+    "setUpDateTime": "7/27/2024 10:30 AM",
+    "endDateTime": "7/27/2024 12:00 PM",
+    "participants": 25,
+    "details": "Elopement with our families"
   },
   {
     "status": "approved",
@@ -6109,6 +6109,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-312",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10609",
+    "eventSponsor": "Independence Day Parade  Club Peru de Sacramento",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "7/27/2024 11:00 AM",
+    "setUpDateTime": "7/27/2024 9:00 AM",
+    "endDateTime": "7/27/2024 3:30 PM",
+    "participants": 300,
+    "details": "Civic Parade that includes a display of traditional peruvian dances and clothing."
+  },
+  {
+    "status": "approved",
     "number": "2024-313",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10610",
     "eventSponsor": "Karma Automotive Day-Southwest Side closer to the Capitol",
@@ -6612,14 +6624,14 @@
     "details": "Welcome Home Vietnam Veterans- Remembrance Jose Ramos 101st Airbourne.  Static Displays.  At 12pm is the brief presentation."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-358",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10656",
     "eventSponsor": "Martinez Wedding ",
     "locationOnCapitolGrounds": "Area 1",
-    "startDateTime": "3/3/2024 12:00 PM",
-    "setUpDateTime": "3/3/2024 12:00 PM",
-    "endDateTime": "7/27/2024 3:00 PM",
+    "startDateTime": "7/27/2024 12:30 PM",
+    "setUpDateTime": "7/27/2024 12:30 PM",
+    "endDateTime": "7/27/2024 4:00 PM",
     "participants": 60,
     "details": "Have wedding ceremony in the Rose garden and wedding pictures"
   },
