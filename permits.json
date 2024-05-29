@@ -5621,9 +5621,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10564",
     "eventSponsor": "Anniversary of Voting Rights Act for Native Americans",
     "locationOnCapitolGrounds": "Area 1, Area 5",
-    "startDateTime": "6/1/2024 10:00 AM",
-    "setUpDateTime": "6/1/2024 7:00 AM",
-    "endDateTime": "6/1/2024 4:00 PM",
+    "startDateTime": "6/1/2024 9:30 AM",
+    "setUpDateTime": "6/1/2024 6:00 AM",
+    "endDateTime": "6/1/2024 2:30 PM",
     "participants": 500,
     "details": "Different Native American tribes will be celebrating the 100th Anniversary of their right to vote. The celebration will include speakers, entertainment, presentations by public officials, ceremonies."
   },
@@ -8718,7 +8718,7 @@
     "eventSponsor": "California Arts Advocates Press Conference- Northwest closer to L",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "5/29/2024 11:00 AM",
-    "setUpDateTime": "5/29/2024 7:00 AM",
+    "setUpDateTime": "5/29/2024 8:45 AM",
     "endDateTime": "5/29/2024 1:00 PM",
     "participants": 100,
     "details": "The California Arts Advocates will be holding a press conference to discuss the significance of protecting cultural arts funding.  This will be on the northwest side closer to L."
@@ -8784,7 +8784,7 @@
     "details": "Standing with Families against AB-1955.  The legislature has secretly put this bill in to take rights away from families.  We will be gathering to lobby then attend the Senate Health Committee hearing at 9am."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-568",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10901",
     "eventSponsor": "Summer of Heat Against Wall Street Week 2",
@@ -8796,7 +8796,7 @@
     "details": "We will be performing actions related to the national Summer of Heat Against Wall Street campaign, including a die-in, tug-of-war, and have speakers present to advocate for equity and sustainable energy."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-569",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10902",
     "eventSponsor": "Summer of Heat Against Wall Street Week 3",
@@ -8820,7 +8820,7 @@
     "details": "This prayer and worship event is centered on the praise of Jesus Christ. Music, and prayer for community, state, and elected officials. The event will start with worship music with our artist and band and go back and forth between thoughtful prayer and prayer for attendees.  Expected to go 6pm-830pm."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-570",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10903",
     "eventSponsor": "Summer of Heat Against Wall Street Week 4",
@@ -8832,7 +8832,7 @@
     "details": "We will be holding an action in accordance with the national Summer of Heat Against Wall Street to encourage support for an equitable and sustainable transfer to hold Big Oil accountable."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-571",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10904",
     "eventSponsor": "Summer of Heat Against Wall Street Week 5",
@@ -8844,7 +8844,7 @@
     "details": "Peaceful activism event in accordance with the national Summer of Heat Against Wall street campaign"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-572",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10905",
     "eventSponsor": "Summer of Heat Against Wall Street Week 6",
@@ -8856,7 +8856,7 @@
     "details": "Peaceful action with the national Summer of Heat Against Wall Street campagin"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-573",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10906",
     "eventSponsor": "Summer of Heat Against Wall Street Week 7",
@@ -8892,7 +8892,7 @@
     "details": "The Capitol grounds will come alive showcasing California's agricultural bounty. California farmers and ranchers will highlight all the great food, fiber and products they produce."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-580",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10915",
     "eventSponsor": "Mel Oania ",
@@ -8914,6 +8914,42 @@
     "endDateTime": "7/6/2024 7:45 PM",
     "participants": 50,
     "details": "A small religious concert, celebrating the independence week"
+  },
+  {
+    "status": "approved",
+    "number": "2024-582",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10918",
+    "eventSponsor": "Budget Action- PICO CA ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "5/29/2024 11:00 AM",
+    "setUpDateTime": "5/29/2024 11:00 AM",
+    "endDateTime": "5/29/2024 12:00 PM",
+    "participants": 20,
+    "details": "March and Press Conference for May 29 2024 11 AM"
+  },
+  {
+    "status": "approved",
+    "number": "2024-584",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10920",
+    "eventSponsor": "Community Voices Advocacy Day ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "6/4/2024 12:00 PM",
+    "setUpDateTime": "6/4/2024 11:00 AM",
+    "endDateTime": "6/4/2024 1:00 PM",
+    "participants": 70,
+    "details": "Crystal Stairs, Inc. is a nonprofit child development agency located in Los Angeles. We have an advocacy program called Community Voices. We have planned an advocacy day for Tuesday, June 4th. From 12pm-1pm, we would like to utilize the west side of the capitol for 70 people. The 70 people includes our staff, child care providers, parents and children. From 12pm-1230pm, we will be providing boxed lunches. The set up will be picnic style for folks to enjoy their lunch and our brief program. From 1230pm-1pm, we are still confirming but hope to secure a state legislator to briefly speak and encourage the crowd of advocates and supply them with advocacy talking points. From 1245pm-1pm, we will be walking from the west side lawn to the Swing Space for our advocacy meetings."
+  },
+  {
+    "status": "approved",
+    "number": "2024-585",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10921",
+    "eventSponsor": "Wedding Huetter",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "7/13/2024 3:30 PM",
+    "setUpDateTime": "7/13/2024 1:00 PM",
+    "endDateTime": "7/13/2024 6:00 PM",
+    "participants": 20,
+    "details": "Wedding ceremony taking place with approximately 20 attendance. Maybe a tent set up for the sun."
   },
   {
     "status": "approved",
