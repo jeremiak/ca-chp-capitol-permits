@@ -7973,8 +7973,8 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10794",
     "eventSponsor": "CA Family Justice Network- Southwest Side",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "6/3/2024 9:00 AM",
-    "setUpDateTime": "6/3/2024 6:00 AM",
+    "startDateTime": "6/3/2024 8:00 AM",
+    "setUpDateTime": "6/2/2024 4:30 PM",
     "endDateTime": "6/3/2024 9:00 PM",
     "participants": 125,
     "details": "Advocacy Day for the CA Family Justice Network."
@@ -8950,6 +8950,18 @@
     "endDateTime": "7/13/2024 6:00 PM",
     "participants": 20,
     "details": "Wedding ceremony taking place with approximately 20 attendance. Maybe a tent set up for the sun."
+  },
+  {
+    "status": "pending",
+    "number": "2024-589",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10926",
+    "eventSponsor": "Short Film",
+    "locationOnCapitolGrounds": "West Side, Area 1, Area 5, Area 22, Area 27, Area 33, Area 34, Other",
+    "startDateTime": "6/29/2024 6:00 AM",
+    "setUpDateTime": "6/29/2024 6:00 AM",
+    "endDateTime": "6/29/2024 9:45 PM",
+    "participants": 4,
+    "details": "Will film short movie. Character will ride a bike from front of The Capitol to Rose Garden."
   },
   {
     "status": "approved",
