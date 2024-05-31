@@ -6132,7 +6132,7 @@
     "details": "The even will be forming the public on Karma Automotive's new plans for creating clean energy jobs and how they are helping transform California into a new hub for E.V. infrastructure and job creation.  This will be on the southwest side sidewalk closer to the Capitol near the benches."
   },
   {
-    "status": "approved",
+    "status": "pending",
     "number": "2024-314",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10611",
     "eventSponsor": "Paid Family Leave (PFL) 20th Anniversary Family Resource Fair",
@@ -6141,7 +6141,7 @@
     "setUpDateTime": "7/1/2024 10:00 AM",
     "endDateTime": "7/1/2024 3:00 PM",
     "participants": 150,
-    "details": "A family resource fair to celebrate the 20th anniversary of the Employment Development Department's (EDD) Paid Family Leave (PFL) program, including a speaking event with leaders of the organization."
+    "details": "A family resource fair to celebrate the 20th anniversary of the Employment Development Department's (EDD) Paid Family Leave (PFL) program."
   },
   {
     "status": "pending",
@@ -6869,7 +6869,7 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10683",
     "eventSponsor": "SEIU California",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "6/11/2024 10:00 AM",
+    "startDateTime": "6/11/2024 8:00 AM",
     "setUpDateTime": "6/10/2024 2:00 PM",
     "endDateTime": "6/11/2024 8:00 PM",
     "participants": 1500,
@@ -7976,8 +7976,8 @@
     "startDateTime": "6/3/2024 8:00 AM",
     "setUpDateTime": "6/2/2024 4:30 PM",
     "endDateTime": "6/3/2024 9:00 PM",
-    "participants": 125,
-    "details": "Advocacy Day for the CA Family Justice Network."
+    "participants": 100,
+    "details": "Advocacy Day for the CA Family Justice Network.  This will be a place to gather throughout the day while lobbying."
   },
   {
     "status": "approved",
@@ -8962,6 +8962,42 @@
     "endDateTime": "6/29/2024 9:45 PM",
     "participants": 4,
     "details": "Will film short movie. Character will ride a bike from front of The Capitol to Rose Garden."
+  },
+  {
+    "status": "approved",
+    "number": "2024-590",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10927",
+    "eventSponsor": "CA State Mountain Biking Month Photo Op",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "6/3/2024 3:00 PM",
+    "setUpDateTime": "6/3/2024 3:00 PM",
+    "endDateTime": "6/3/2024 4:00 PM",
+    "participants": 30,
+    "details": "Asm. Connolly's guests from the CA Mountain Biking Coalition and legislators coming and going. Photo opportunity in recognition of ACR 152 - State Mountain Biking Month."
+  },
+  {
+    "status": "pending",
+    "number": "2024-591",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10928",
+    "eventSponsor": "Strategy 6",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "6/6/2024 6:30 PM",
+    "setUpDateTime": "6/6/2024 6:15 PM",
+    "endDateTime": "6/6/2024 8:30 PM",
+    "participants": 50,
+    "details": "Rally in support of political prisoners and against the war."
+  },
+  {
+    "status": "pending",
+    "number": "2024-592",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10929",
+    "eventSponsor": "Civil Wedding",
+    "locationOnCapitolGrounds": "Area 1, Area 33",
+    "startDateTime": "6/19/2024 6:00 PM",
+    "setUpDateTime": "6/19/2024 4:30 PM",
+    "endDateTime": "6/19/2024 8:30 PM",
+    "participants": 30,
+    "details": "Civil wedding - short ceremony"
   },
   {
     "status": "approved",
