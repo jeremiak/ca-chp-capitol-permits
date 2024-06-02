@@ -6132,7 +6132,7 @@
     "details": "The even will be forming the public on Karma Automotive's new plans for creating clean energy jobs and how they are helping transform California into a new hub for E.V. infrastructure and job creation.  This will be on the southwest side sidewalk closer to the Capitol near the benches."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-314",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10611",
     "eventSponsor": "Paid Family Leave (PFL) 20th Anniversary Family Resource Fair",
@@ -8904,7 +8904,7 @@
     "details": "Family photographs"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-581",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10917",
     "eventSponsor": "Sac Central Choir performance",
@@ -8952,14 +8952,14 @@
     "details": "Wedding ceremony taking place with approximately 20 attendance. Maybe a tent set up for the sun."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-589",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10926",
     "eventSponsor": "Short Film",
     "locationOnCapitolGrounds": "West Side, Area 1, Area 5, Area 22, Area 27, Area 33, Area 34, Other",
     "startDateTime": "6/29/2024 6:00 AM",
-    "setUpDateTime": "6/29/2024 6:00 AM",
-    "endDateTime": "6/29/2024 9:45 PM",
+    "setUpDateTime": "6/29/2024 5:00 AM",
+    "endDateTime": "6/29/2024 12:00 PM",
     "participants": 4,
     "details": "Will film short movie. Character will ride a bike from front of The Capitol to Rose Garden."
   },
@@ -8976,7 +8976,7 @@
     "details": "Asm. Connolly's guests from the CA Mountain Biking Coalition and legislators coming and going. Photo opportunity in recognition of ACR 152 - State Mountain Biking Month."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-591",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10928",
     "eventSponsor": "Strategy 6",
@@ -8988,7 +8988,7 @@
     "details": "Rally in support of political prisoners and against the war."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-592",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10929",
     "eventSponsor": "Civil Wedding",
@@ -8998,6 +8998,30 @@
     "endDateTime": "6/19/2024 8:30 PM",
     "participants": 30,
     "details": "Civil wedding - short ceremony"
+  },
+  {
+    "status": "pending",
+    "number": "2024-594",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10931",
+    "eventSponsor": "SEIU CA CCPU Vigil",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "6/11/2024 6:00 PM",
+    "setUpDateTime": "6/11/2024 6:00 PM",
+    "endDateTime": "6/11/2024 10:00 PM",
+    "participants": 90,
+    "details": "Childcare worker vigil"
+  },
+  {
+    "status": "pending",
+    "number": "2024-595",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10932",
+    "eventSponsor": "Asm. Lackey and PRIDE Industries- Southwest Side",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "6/6/2024 8:00 AM",
+    "setUpDateTime": "6/6/2024 7:30 AM",
+    "endDateTime": "6/6/2024 9:30 AM",
+    "participants": 15,
+    "details": "Advocating for Developmental Disability Commnuity to keep thier jobs through this contract"
   },
   {
     "status": "approved",
