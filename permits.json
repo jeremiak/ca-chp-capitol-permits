@@ -4585,6 +4585,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-179",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10475",
+    "eventSponsor": "Rajan and keith wedding",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "8/3/2024 3:00 PM",
+    "setUpDateTime": "8/3/2024 1:00 PM",
+    "endDateTime": "8/3/2024 5:00 PM",
+    "participants": 80,
+    "details": "Wedding for a party  for 80"
+  },
+  {
+    "status": "approved",
     "number": "2024-18",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9954",
     "eventSponsor": "Youth Quest",
@@ -9024,14 +9036,14 @@
     "details": "Childcare worker vigil"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-595",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10932",
-    "eventSponsor": "Asm. Lackey and PRIDE Industries- Southwest Side",
+    "eventSponsor": "Asm. Lackey and PRIDE Industries- West Stepss",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "6/6/2024 8:00 AM",
-    "setUpDateTime": "6/6/2024 7:30 AM",
-    "endDateTime": "6/6/2024 9:30 AM",
+    "startDateTime": "6/13/2024 8:00 AM",
+    "setUpDateTime": "6/13/2024 7:30 AM",
+    "endDateTime": "6/13/2024 9:00 AM",
     "participants": 15,
     "details": "Advocating for Developmental Disability Commnuity to keep thier jobs through this contract"
   },
