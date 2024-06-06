@@ -4309,6 +4309,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-151",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10445",
+    "eventSponsor": "5th Annual California Indian Cultural Awareness Event",
+    "locationOnCapitolGrounds": "Area 22, Area 33",
+    "startDateTime": "8/5/2024 5:30 PM",
+    "setUpDateTime": "8/5/2024 2:00 PM",
+    "endDateTime": "8/5/2024 9:00 PM",
+    "participants": 300,
+    "details": "This is the 5th annual Indian Cultural Awareness Event to educate the State Legislators and State Officers of the importance of knowing the Native American Culture."
+  },
+  {
+    "status": "approved",
     "number": "2024-152",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10446",
     "eventSponsor": "California Poor Peoples Campaign",
@@ -6168,6 +6180,18 @@
     "details": "General Freight"
   },
   {
+    "status": "approved",
+    "number": "2024-317",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10614",
+    "eventSponsor": "Disc Golf Day",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/5/2024 10:00 AM",
+    "setUpDateTime": "8/5/2024 9:00 AM",
+    "endDateTime": "8/5/2024 3:00 PM",
+    "participants": 50,
+    "details": "Disc throwing demonstrations and hands-on practice sessions with a limited, no more than, 25-foot throwing distance. There will be an assigned organizer responsible for crowd control and ensuring discs do not reach more than a 25-foot distance from the spot of throwing. Informational booths hosted by select companies within the disc golf industry will be set up to provide educational information."
+  },
+  {
     "status": "pending",
     "number": "2024-318",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10615",
@@ -6876,13 +6900,13 @@
     "details": "This is going to be a Press Conference for ACA 16. This is a Constitutional Amendment that will be heard in the Natural Resources that same day.  Tentatively this will be on the southwest side."
   },
   {
-    "status": "approved",
+    "status": "pending",
     "number": "2024-383",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10683",
     "eventSponsor": "SEIU California",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "6/11/2024 8:00 AM",
-    "setUpDateTime": "6/10/2024 2:00 PM",
+    "setUpDateTime": "6/10/2024 10:00 AM",
     "endDateTime": "6/11/2024 8:00 PM",
     "participants": 1500,
     "details": "Rally around the budget"
@@ -8629,6 +8653,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-549",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10872",
+    "eventSponsor": "Assemblymember Matt Haney Press Conference",
+    "locationOnCapitolGrounds": "Southwest corner 10th and N",
+    "startDateTime": "8/5/2024 10:00 AM",
+    "setUpDateTime": "8/5/2024 9:30 AM",
+    "endDateTime": "8/5/2024 10:00 AM",
+    "participants": 50,
+    "details": "Press Conference announcing the beginning of Transgender History Month"
+  },
+  {
+    "status": "approved",
     "number": "2024-55",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10262",
     "eventSponsor": "Capitol employee Blood Drive ",
@@ -9024,7 +9060,7 @@
     "details": "Civil wedding - short ceremony"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-594",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10931",
     "eventSponsor": "SEIU CA CCPU Vigil",
@@ -9046,6 +9082,18 @@
     "endDateTime": "6/13/2024 9:00 AM",
     "participants": 15,
     "details": "Advocating for Developmental Disability Commnuity to keep thier jobs through this contract"
+  },
+  {
+    "status": "approved",
+    "number": "2024-598",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10935",
+    "eventSponsor": "  Chicano Latino Youth Leadership Project (CLYLP), Inc.  Sacramento Leadership Conference “Capitol Day”",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "7/24/2024 10:00 AM",
+    "setUpDateTime": "7/24/2024 9:30 AM",
+    "endDateTime": "7/24/2024 11:30 AM",
+    "participants": 120,
+    "details": "Annually the CLYLP and CLCAF have hosted a press conference to talk about Capitol Day. With the mission to enrich students with knowledge about California's legislative process and provide them with an interactive experience. ."
   },
   {
     "status": "approved",
