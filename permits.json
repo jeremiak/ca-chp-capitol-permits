@@ -6421,6 +6421,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-337",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10635",
+    "eventSponsor": "Disc Golf Day",
+    "locationOnCapitolGrounds": "Northwest Lawn Under Trees",
+    "startDateTime": "8/6/2024 10:00 AM",
+    "setUpDateTime": "8/6/2024 9:15 AM",
+    "endDateTime": "8/6/2024 1:00 PM",
+    "participants": 50,
+    "details": "Disc throwing demonstrations and hands-on practice sessionsb with a limited, no more than, 25-foot distance. There will be an assigned organizer responsible for crowd control and ensuring discs do not travel more than a 25-foto distance from the spot of throwing. Information booths by selects companies in the disc golf industry will be set up to provide education information."
+  },
+  {
+    "status": "approved",
     "number": "2024-338",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10636",
     "eventSponsor": "Save Market Match, and Interfaith Sustainable Food Collaborative.  West Steps close to Capitol. ",
@@ -6900,7 +6912,7 @@
     "details": "This is going to be a Press Conference for ACA 16. This is a Constitutional Amendment that will be heard in the Natural Resources that same day.  Tentatively this will be on the southwest side."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-383",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10683",
     "eventSponsor": "SEIU California",
@@ -8689,6 +8701,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-551",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10875",
+    "eventSponsor": "California Environmental Justice Alliance",
+    "locationOnCapitolGrounds": "West",
+    "startDateTime": "8/6/2024 11:00 AM",
+    "setUpDateTime": "8/6/2024 8:00 AM",
+    "endDateTime": "8/6/2024 5:30 PM",
+    "participants": 250,
+    "details": "Press conference for a Campaign for a Safe and Healthy California."
+  },
+  {
+    "status": "approved",
     "number": "2024-552",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10877",
     "eventSponsor": "California Product Stewardship Council",
@@ -9106,6 +9130,42 @@
     "endDateTime": "3/12/2024 3:00 PM",
     "participants": 150,
     "details": "CCBA hosting a Legislative Reception"
+  },
+  {
+    "status": "pending",
+    "number": "2024-601",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10938",
+    "eventSponsor": "Domestic Violence Prevention Press Conference",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "6/9/2024 9:30 AM",
+    "setUpDateTime": "6/9/2024 8:30 AM",
+    "endDateTime": "6/9/2024 10:00 AM",
+    "participants": 25,
+    "details": "Legislators and community members in support of domestic violence prevention measures"
+  },
+  {
+    "status": "pending",
+    "number": "2024-602",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10939",
+    "eventSponsor": "Kennedy24 Sacramento Volunteers",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "6/19/2024 11:00 AM",
+    "setUpDateTime": "6/19/2024 10:00 AM",
+    "endDateTime": "6/19/2024 6:00 PM",
+    "participants": 10,
+    "details": "Tabling of political information pertinent to Presidential candidate Robert F Kennedy Jr"
+  },
+  {
+    "status": "approved",
+    "number": "2024-603",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10940",
+    "eventSponsor": "Animal Advocacy Legislative Day Rally ",
+    "locationOnCapitolGrounds": "Area 22",
+    "startDateTime": "6/24/2024 11:30 AM",
+    "setUpDateTime": "6/24/2024 11:00 AM",
+    "endDateTime": "6/24/2024 2:00 PM",
+    "participants": 75,
+    "details": "Animal advocacy in support of the current animal crisis in our area."
   },
   {
     "status": "approved",
