@@ -6001,6 +6001,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-301",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10598",
+    "eventSponsor": "Boy Scouts of America",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/10/2024 9:00 AM",
+    "setUpDateTime": "8/10/2024 8:00 AM",
+    "endDateTime": "8/10/2024 12:00 PM",
+    "participants": 300,
+    "details": "We would like to hold a Scout Day at the State Capitol for local Cub Scouts and Troop Scouts. We would like to hold a rally on the West Steps and then break out into our units to take tours of the Capitol and the Swing Space, and perhaps meet some elected officials. We would like to meet at the West Steps at 9 am for a rally, and then each unit would break out into its own activity. After we break out into our units, we will not need to use the West Steps."
+  },
+  {
+    "status": "approved",
     "number": "2024-302",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10599",
     "eventSponsor": "Jesuits West California Advocacy Day- Southwest Side",
@@ -8065,6 +8077,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-492",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10802",
+    "eventSponsor": "76th Karen Martyrs Day Anniversary ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/10/2024 2:00 PM",
+    "setUpDateTime": "8/10/2024 1:00 PM",
+    "endDateTime": "8/10/2024 6:00 PM",
+    "participants": 100,
+    "details": "The California Karen Youth Connection will present the 76th Anniversary of Karen Martyrs' Day which is a celebration of Karen heroes and civilian who sacrificed their lives to fight for Karen Independence in Burma. This event is a formal ceremony to commemorate the brave leaders who gave their lives to protect the country."
+  },
+  {
+    "status": "approved",
     "number": "2024-493",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10803",
     "eventSponsor": "New California State",
@@ -8683,7 +8707,7 @@
     "locationOnCapitolGrounds": "Southwest corner 10th and N",
     "startDateTime": "8/5/2024 10:00 AM",
     "setUpDateTime": "8/5/2024 9:30 AM",
-    "endDateTime": "8/5/2024 10:00 AM",
+    "endDateTime": "8/5/2024 10:30 AM",
     "participants": 50,
     "details": "Press Conference announcing the beginning of Transgender History Month"
   },
@@ -8818,6 +8842,18 @@
     "endDateTime": "6/2/2024 9:30 PM",
     "participants": 50,
     "details": "We are Sacramento area filmmakers, filming nearby on N St., and would like an approved area to assemble throughout the day. Provided that filmmaking is considered artistic and not a commercial activity. No filming or commerce will be conducted in the park. Activities on site will consist of snacking or resting. There are no overnights. The days were combined to fit a single permit application."
+  },
+  {
+    "status": "approved",
+    "number": "2024-560",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10885",
+    "eventSponsor": "Sabbath at the Capital",
+    "locationOnCapitolGrounds": "Area 22, Area 33",
+    "startDateTime": "8/10/2024 11:00 AM",
+    "setUpDateTime": "8/10/2024 9:00 AM",
+    "endDateTime": "8/10/2024 4:00 PM",
+    "participants": 50,
+    "details": "Sabbath service with live music and speaking. We will be handing out free food."
   },
   {
     "status": "approved",
@@ -9168,11 +9204,11 @@
     "details": "Legislators and community members in support of domestic violence prevention measures"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-602",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10939",
     "eventSponsor": "Kennedy24 Sacramento Volunteers",
-    "locationOnCapitolGrounds": "Other",
+    "locationOnCapitolGrounds": "Traffic Circle",
     "startDateTime": "6/19/2024 11:00 AM",
     "setUpDateTime": "6/19/2024 10:00 AM",
     "endDateTime": "6/19/2024 6:00 PM",
@@ -9192,7 +9228,7 @@
     "details": "Animal advocacy in support of the current animal crisis in our area."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-604",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10941",
     "eventSponsor": "The Great State of New California",
@@ -9204,16 +9240,100 @@
     "details": "Constitutional Educational activity"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-605",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10942",
     "eventSponsor": "Faith Leaders for Ending Slavery",
-    "locationOnCapitolGrounds": "Area 5, Area 33",
-    "startDateTime": "6/11/2024 10:00 AM",
-    "setUpDateTime": "6/11/2024 9:15 AM",
-    "endDateTime": "6/11/2024 11:30 AM",
+    "locationOnCapitolGrounds": "Area 27",
+    "startDateTime": "6/18/2024 11:00 AM",
+    "setUpDateTime": "6/18/2024 10:30 AM",
+    "endDateTime": "6/18/2024 2:00 PM",
     "participants": 100,
     "details": "This Juneteenth, faith leaders and justice advocates will hold a press conference and rally in support of ACA  8. Afterward, we will march to the Swing Space to visit with Senators who will be voting on ACA 8 on the floor."
+  },
+  {
+    "status": "pending",
+    "number": "2024-606",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10944",
+    "eventSponsor": "Yeshua House Of Israel",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "6/30/2024 3:00 PM",
+    "setUpDateTime": "6/30/2024 2:30 PM",
+    "endDateTime": "6/30/2024 6:00 PM",
+    "participants": 7,
+    "details": "Yeshua House of Israel is a home based church Ministry taken out into the community to  preach, worship God, evangelize, fellowship, practice communion, and prayer as a team"
+  },
+  {
+    "status": "pending",
+    "number": "2024-607",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10945",
+    "eventSponsor": "Yeshua House Of Isrsel",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "7/28/2024 3:00 PM",
+    "setUpDateTime": "7/28/2024 2:15 PM",
+    "endDateTime": "7/28/2024 6:00 PM",
+    "participants": 7,
+    "details": "Yeshua House Of Israel, a home based church taking a ministry outside the walls, into the community, as a mobile church in motion seeking to preach, evangelize, worship, communion, fellowship in Jesus name"
+  },
+  {
+    "status": "approved",
+    "number": "2024-608",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10946",
+    "eventSponsor": "Press Conference for a Bill",
+    "locationOnCapitolGrounds": "Southwest near 10th at N",
+    "startDateTime": "6/24/2024 11:00 AM",
+    "setUpDateTime": "6/24/2024 10:30 AM",
+    "endDateTime": "6/24/2024 12:00 PM",
+    "participants": 40,
+    "details": "A press conference for the Assemblymember's bill."
+  },
+  {
+    "status": "pending",
+    "number": "2024-609",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10947",
+    "eventSponsor": "HRD All Staff MeetingPicnic",
+    "locationOnCapitolGrounds": "Area 1, Area 33",
+    "startDateTime": "6/13/2024 9:30 AM",
+    "setUpDateTime": "6/13/2024 8:00 AM",
+    "endDateTime": "6/13/2024 3:00 PM",
+    "participants": 90,
+    "details": "All staff team building meeting and picnic"
+  },
+  {
+    "status": "pending",
+    "number": "2024-610",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10948",
+    "eventSponsor": "HRD All Staff MeetingPicnic",
+    "locationOnCapitolGrounds": "Area 1, Area 33",
+    "startDateTime": "7/16/2024 9:30 AM",
+    "setUpDateTime": "7/16/2024 6:00 AM",
+    "endDateTime": "7/16/2024 3:00 PM",
+    "participants": 90,
+    "details": "HRD All staff meeting and picnic"
+  },
+  {
+    "status": "approved",
+    "number": "2024-611",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10949",
+    "eventSponsor": "Expedia Tourism Shoot in Sacramento",
+    "locationOnCapitolGrounds": "Area 1, Area 5, Area 22, Area 27, Area 33, Area 34",
+    "startDateTime": "6/14/2024 3:00 PM",
+    "setUpDateTime": "6/14/2024 3:00 PM",
+    "endDateTime": "6/14/2024 5:00 PM",
+    "participants": 1,
+    "details": "We are engaged by Expedia to continuously update their image library for tourist destinations globally. This project is now in its 12th year. Our photographer will be working on his own, with hand held camera equipment, and shooting general scenic and touristic still photos and short b-roll clips. Equipment on site is very minimal, so the shoot is quick and simple. We don't do interviews, commentary, use lighting, talent of props, nor do we need exclusive use of an area.  Content is provided to Expedia for them to promote tourism in the area. Photos or b-roll videos are not sold or attached to any products for sale. Examples of use could be websites, social media posts or other marketing materials. Images are always used to promote each destination positively and accurately."
+  },
+  {
+    "status": "pending",
+    "number": "2024-612",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10950",
+    "eventSponsor": "California Family Council",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "6/13/2024 9:15 AM",
+    "setUpDateTime": "6/13/2024 7:30 AM",
+    "endDateTime": "6/13/2024 9:15 AM",
+    "participants": 50,
+    "details": "Press conference to opposed AB 1955"
   },
   {
     "status": "approved",
