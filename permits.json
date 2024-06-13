@@ -9252,7 +9252,7 @@
     "details": "This Juneteenth, faith leaders and justice advocates will hold a press conference and rally in support of ACA  8. Afterward, we will march to the Swing Space to visit with Senators who will be voting on ACA 8 on the floor."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-606",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10944",
     "eventSponsor": "Yeshua House Of Israel",
@@ -9264,7 +9264,7 @@
     "details": "Yeshua House of Israel is a home based church Ministry taken out into the community to  preach, worship God, evangelize, fellowship, practice communion, and prayer as a team"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-607",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10945",
     "eventSponsor": "Yeshua House Of Isrsel",
@@ -9334,6 +9334,66 @@
     "endDateTime": "6/13/2024 9:30 AM",
     "participants": 50,
     "details": "Press conference to opposed AB 1955"
+  },
+  {
+    "status": "pending",
+    "number": "2024-614",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10952",
+    "eventSponsor": "El Soldado Memorial observance ceremony * California Mexican American Veterans Memorial Foundation ",
+    "locationOnCapitolGrounds": "West Side, Area 1, Area 5, Area 22, Area 27, Area 33, Area 34",
+    "startDateTime": "6/14/2024 1:00 PM",
+    "setUpDateTime": "6/14/2024 9:00 AM",
+    "endDateTime": "6/14/2024 4:30 PM",
+    "participants": 100,
+    "details": "Promote the Legacy of SOCIETY OF MEXICAN WAR MOTHERS who raised funds to have El Soldado monument erected at South Side MEXICAN CENTER on 6th street then relocated to current location on 10th street site across west steps State Capitol. To Honor with Respect American soldiers of proud Mexican heritage."
+  },
+  {
+    "status": "pending",
+    "number": "2024-615",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10953",
+    "eventSponsor": "CalCAPA Legislative Summit",
+    "locationOnCapitolGrounds": "Area 22, Area 27, Area 33, Area 34",
+    "startDateTime": "6/15/2024 8:00 AM",
+    "setUpDateTime": "6/15/2024 8:00 AM",
+    "endDateTime": "6/15/2024 8:00 AM",
+    "participants": 200,
+    "details": "The California Community Action Partnership Association member Community Action Agencies will be gathering at the State Capitol to meet with their legislative representatives to discuss ongoing legislation and advocacy issues in their counties. We are a membership association comprised of 60 agencies across all 58 counties of California. We will have onsite booths, staging, crowd seats, and more."
+  },
+  {
+    "status": "pending",
+    "number": "2024-616",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10954",
+    "eventSponsor": "Kennedy24 Sacramento Volunteers",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "6/19/2024 11:00 AM",
+    "setUpDateTime": "6/19/2024 10:00 AM",
+    "endDateTime": "6/19/2024 6:00 PM",
+    "participants": 10,
+    "details": "Tabling of information pertinent to Presidential candidate Robert F Kennedy Jr"
+  },
+  {
+    "status": "pending",
+    "number": "2024-617",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10955",
+    "eventSponsor": "Assembly Republicans",
+    "locationOnCapitolGrounds": "Area 27",
+    "startDateTime": "6/19/2024 8:30 AM",
+    "setUpDateTime": "6/19/2024 7:30 AM",
+    "endDateTime": "6/19/2024 9:30 AM",
+    "participants": 100,
+    "details": "Rally with law enforcement, business owners & public safety advocates to oppose amendments to public safety legislation."
+  },
+  {
+    "status": "pending",
+    "number": "2024-618",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10956",
+    "eventSponsor": "Staff Meeting",
+    "locationOnCapitolGrounds": "Area 33",
+    "startDateTime": "6/26/2024 2:00 PM",
+    "setUpDateTime": "6/26/2024 12:00 PM",
+    "endDateTime": "6/26/2024 3:30 PM",
+    "participants": 35,
+    "details": "We will be holding a staff meeting with a Water Balloon Toss competition and Root Beer float."
   },
   {
     "status": "approved",
