@@ -8041,6 +8041,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-487",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10796",
+    "eventSponsor": "Building the California Dream Alliance",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/14/2024 8:00 AM",
+    "setUpDateTime": "8/14/2024 6:00 AM",
+    "endDateTime": "8/14/2024 4:00 PM",
+    "participants": 100,
+    "details": "Annual lobby day for the Dream Alliance to meet with lawmakers to discuss priority legislation."
+  },
+  {
+    "status": "approved",
     "number": "2024-488",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10798",
     "eventSponsor": "Mothers Day Weekend March and Rally",
@@ -8441,9 +8453,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10837",
     "eventSponsor": "Capitol City Games Unity Torch Run Kickoff ",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "6/23/2024 12:00 PM",
-    "setUpDateTime": "6/23/2024 8:00 AM",
-    "endDateTime": "6/23/2024 4:00 PM",
+    "startDateTime": "6/30/2024 12:00 PM",
+    "setUpDateTime": "6/30/2024 9:00 AM",
+    "endDateTime": "6/30/2024 4:00 PM",
     "participants": 400,
     "details": "This is the beginning of the Capitol City Games Olympics styled sports festival with the Unity Torch Run For Hope start. The Kickoff celebration will include music, special guests, exhibit booths and a fun family atmosphere to begin the first running leg of the Capitol City Games Unity Torch Run For Hope. The actual Games will be held at different venues throughout the region culminating on June 29 at Folsom High School Stadium. This event is the beginning of activities as we start the relay for a week of handoffs of the Unity Torch."
   },
@@ -9257,9 +9269,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10942",
     "eventSponsor": "Faith Leaders for Ending Slavery",
     "locationOnCapitolGrounds": "Area 27",
-    "startDateTime": "6/18/2024 11:00 AM",
-    "setUpDateTime": "6/18/2024 10:30 AM",
-    "endDateTime": "6/18/2024 2:00 PM",
+    "startDateTime": "6/18/2024 9:00 AM",
+    "setUpDateTime": "6/18/2024 8:00 AM",
+    "endDateTime": "6/18/2024 10:00 AM",
     "participants": 100,
     "details": "This Juneteenth, faith leaders and justice advocates will hold a press conference and rally in support of ACA  8. Afterward, we will march to the Swing Space to visit with Senators who will be voting on ACA 8 on the floor."
   },
@@ -9418,6 +9430,30 @@
     "endDateTime": "6/16/2024 3:00 PM",
     "participants": 150,
     "details": "This event is a Capitol Day for parents, students and teachers to advocate on behalf of the visual and performing arts in our public schools."
+  },
+  {
+    "status": "approved",
+    "number": "2024-623",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10961",
+    "eventSponsor": "Sen. Gonzalez Press Conference",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "6/19/2024 10:00 AM",
+    "setUpDateTime": "6/19/2024 9:00 AM",
+    "endDateTime": "6/19/2024 11:00 AM",
+    "participants": 75,
+    "details": "Press conference with podium, and room for about 75 people"
+  },
+  {
+    "status": "pending",
+    "number": "2024-625",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10963",
+    "eventSponsor": "Fossil Free California",
+    "locationOnCapitolGrounds": "Area 22",
+    "startDateTime": "6/19/2024 8:15 AM",
+    "setUpDateTime": "6/19/2024 8:00 AM",
+    "endDateTime": "6/19/2024 3:00 PM",
+    "participants": 75,
+    "details": "Breakfast, Lunch, Photo shoot for Divestment supporters surrounding committee hearing time"
   },
   {
     "status": "approved",
