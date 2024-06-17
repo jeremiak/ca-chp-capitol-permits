@@ -9037,6 +9037,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-576",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10909",
+    "eventSponsor": "Summer of Heat Against Wall Street Week 10",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/16/2024 11:45 AM",
+    "setUpDateTime": "8/16/2024 11:00 AM",
+    "endDateTime": "8/16/2024 2:00 PM",
+    "participants": 50,
+    "details": "Peaceful activism event in accordance with the national Summer of Heat Against Wall Street campaign"
+  },
+  {
+    "status": "approved",
     "number": "2024-579",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10912",
     "eventSponsor": "Press Conf- DV bills Southwest Side closer to N",
@@ -9446,14 +9458,14 @@
   {
     "status": "pending",
     "number": "2024-625",
-    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10963",
-    "eventSponsor": "Fossil Free California",
-    "locationOnCapitolGrounds": "Area 22",
-    "startDateTime": "6/19/2024 8:15 AM",
-    "setUpDateTime": "6/19/2024 8:00 AM",
-    "endDateTime": "6/19/2024 3:00 PM",
-    "participants": 75,
-    "details": "Breakfast, Lunch, Photo shoot for Divestment supporters surrounding committee hearing time"
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10964",
+    "eventSponsor": "USAF Promotion Ceremony",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "6/30/2024 10:00 AM",
+    "setUpDateTime": "6/30/2024 9:00 AM",
+    "endDateTime": "6/30/2024 12:00 PM",
+    "participants": 25,
+    "details": "USAF Promotion Ceremony, an intro of official party, speeches, pinning on of new ranks by family members, thanks."
   },
   {
     "status": "approved",
