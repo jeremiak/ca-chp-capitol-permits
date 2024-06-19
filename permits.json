@@ -4171,7 +4171,7 @@
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "6/19/2024 11:00 AM",
     "setUpDateTime": "6/19/2024 9:00 AM",
-    "endDateTime": "6/19/2024 9:00 PM",
+    "endDateTime": "6/19/2024 4:00 PM",
     "participants": 250,
     "details": "Annual Juneteenth Celebration -"
   },
@@ -9492,19 +9492,19 @@
     "details": "Local volunteers will be gathering with signage to spread awareness for Robert F. Kennedy Jr. to be included in the presidential debates."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-627",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10966",
     "eventSponsor": "Pictures",
     "locationOnCapitolGrounds": "Area 5",
-    "startDateTime": "6/22/2024 2:30 PM",
+    "startDateTime": "6/22/2024 1:30 PM",
     "setUpDateTime": "6/22/2024 1:30 PM",
     "endDateTime": "6/22/2024 2:30 PM",
     "participants": 13,
     "details": "pictures of a Quinceanera girl and her party"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-628",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10967",
     "eventSponsor": "CA Senate Fellows",
@@ -9550,6 +9550,30 @@
     "endDateTime": "6/26/2024 2:00 PM",
     "participants": 30,
     "details": "Legislative press conference"
+  },
+  {
+    "status": "pending",
+    "number": "2024-631",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10970",
+    "eventSponsor": "Housing Road Show",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "6/21/2024 8:00 AM",
+    "setUpDateTime": "6/21/2024 7:00 AM",
+    "endDateTime": "6/21/2024 1:00 PM",
+    "participants": 50,
+    "details": "Conclusion of the Interim Housing Road Show in support of SB 1395, beginning in Southern California and ending at the West Steps of the Capitol."
+  },
+  {
+    "status": "pending",
+    "number": "2024-634",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10974",
+    "eventSponsor": "proposal",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "7/1/2024 7:30 PM",
+    "setUpDateTime": "7/1/2024 6:30 PM",
+    "endDateTime": "7/1/2024 8:00 PM",
+    "participants": 25,
+    "details": "I will be proposing to my girlfriend, there will be props, decorations, and singing."
   },
   {
     "status": "approved",
