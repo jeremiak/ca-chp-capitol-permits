@@ -9345,7 +9345,7 @@
     "setUpDateTime": "6/24/2024 10:30 AM",
     "endDateTime": "6/24/2024 12:00 PM",
     "participants": 40,
-    "details": "A press conference for the Assemblymember's bill."
+    "details": "A press conference for the Assemblymember's bill.  Southwest Side"
   },
   {
     "status": "pending",
@@ -9480,7 +9480,7 @@
     "details": "Press conference with podium, and room for about 75 people"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-624",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10962",
     "eventSponsor": "Affordable Water for All",
@@ -9567,13 +9567,13 @@
     "status": "approved",
     "number": "2024-630",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10969",
-    "eventSponsor": "Asm. Essayli press conference",
+    "eventSponsor": "Asm. Essayli press conference Southwest Side",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "6/26/2024 1:00 PM",
-    "setUpDateTime": "6/26/2024 12:30 PM",
+    "startDateTime": "6/26/2024 12:00 PM",
+    "setUpDateTime": "6/26/2024 11:30 AM",
     "endDateTime": "6/26/2024 2:00 PM",
     "participants": 30,
-    "details": "Legislative press conference"
+    "details": "Legislative press conference. This will be on the southwest side across from the LOB."
   },
   {
     "status": "approved",
@@ -9624,7 +9624,7 @@
     "details": "Press Conference opposing ACA 5"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-636",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10977",
     "eventSponsor": "End Human Trafficking",
@@ -9636,7 +9636,7 @@
     "details": "Protecting California's children and eradicating sex trafficking by stopping the sellers and buyers!"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-637",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10978",
     "eventSponsor": "California Families Rise",
@@ -9646,6 +9646,18 @@
     "endDateTime": "7/25/2024 5:00 PM",
     "participants": 200,
     "details": "Family Campaign vs. Family Court & CPS"
+  },
+  {
+    "status": "approved",
+    "number": "2024-638",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10979",
+    "eventSponsor": "Protect more ocean press conference- Southwest Side",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "6/25/2024 11:00 AM",
+    "setUpDateTime": "6/25/2024 10:00 AM",
+    "endDateTime": "6/25/2024 1:00 PM",
+    "participants": 20,
+    "details": "Press conference to call on Gov Newsom and state agencies to prioritize more highly or fully protected marine protected areas in California.  This will be on the southwest side across from the LOB."
   },
   {
     "status": "approved",
