@@ -4969,6 +4969,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-212",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10508",
+    "eventSponsor": "Roberson Wedding ",
+    "locationOnCapitolGrounds": "Area 1, Area 5",
+    "startDateTime": "8/24/2024 10:00 AM",
+    "setUpDateTime": "8/24/2024 8:00 AM",
+    "endDateTime": "8/24/2024 3:00 PM",
+    "participants": 60,
+    "details": "Wedding Ceremony and pictures."
+  },
+  {
+    "status": "approved",
     "number": "2024-213",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10509",
     "eventSponsor": "California Ocean Day",
@@ -7597,6 +7609,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-447",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10754",
+    "eventSponsor": "Garcia Wedding",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "8/24/2024 4:00 PM",
+    "setUpDateTime": "8/24/2024 3:00 PM",
+    "endDateTime": "8/24/2024 6:00 PM",
+    "participants": 15,
+    "details": "Small wedding ceremony at State Capitol park world peace rose garden"
+  },
+  {
+    "status": "approved",
     "number": "2024-448",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10755",
     "eventSponsor": "Service Employees International Union",
@@ -8199,13 +8223,13 @@
     "status": "approved",
     "number": "2024-500",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10811",
-    "eventSponsor": "Group Photo",
+    "eventSponsor": "Fork of July",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "7/3/2024 11:00 AM",
     "setUpDateTime": "7/3/2024 8:00 AM",
     "endDateTime": "7/3/2024 3:00 PM",
     "participants": 400,
-    "details": "Group Photo"
+    "details": "Luncheon for staff"
   },
   {
     "status": "approved",
@@ -8244,14 +8268,14 @@
     "details": "Family Rights Campaign Against the Abuses of Family Court and CPS"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-505",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10816",
-    "eventSponsor": "Ukrainian Independece Day",
+    "eventSponsor": "Ukrainian Independance Day",
     "locationOnCapitolGrounds": "Sacramento Capitol Celebration",
-    "startDateTime": "4/26/2024 5:30 PM",
-    "setUpDateTime": "4/26/2024 8:00 AM",
-    "endDateTime": "4/26/2024 9:45 PM",
+    "startDateTime": "8/24/2024 6:00 PM",
+    "setUpDateTime": "8/24/2024 8:00 AM",
+    "endDateTime": "8/24/2024 10:00 PM",
     "participants": 2000,
     "details": "Ukrainian American House together with the San Francisco Consulate would like to host a celebration concert and benefit to raise awareness about Ukraine's independence. We would like to gather community members to enjoy Ukrainian culture, food and fundraise to support refugees in Sacramento."
   },
@@ -9101,9 +9125,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10917",
     "eventSponsor": "Sac Central Choir performance",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "7/6/2024 7:45 PM",
+    "startDateTime": "7/6/2024 7:00 PM",
     "setUpDateTime": "7/6/2024 6:00 PM",
-    "endDateTime": "7/6/2024 7:45 PM",
+    "endDateTime": "7/6/2024 9:00 PM",
     "participants": 50,
     "details": "A small religious concert, celebrating the independence week"
   },
@@ -9658,6 +9682,30 @@
     "endDateTime": "6/25/2024 1:00 PM",
     "participants": 20,
     "details": "Press conference to call on Gov Newsom and state agencies to prioritize more highly or fully protected marine protected areas in California.  This will be on the southwest side across from the LOB."
+  },
+  {
+    "status": "pending",
+    "number": "2024-641",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10982",
+    "eventSponsor": "Filming for Transit TV Unplugged ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "7/10/2024 10:30 AM",
+    "setUpDateTime": "7/10/2024 10:15 AM",
+    "endDateTime": "7/10/2024 12:00 PM",
+    "participants": 10,
+    "details": "Will video tape walking up to the capitol and in the rotunda. Will interview Assemblymember McCarty about transit benefits."
+  },
+  {
+    "status": "pending",
+    "number": "2024-642",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10983",
+    "eventSponsor": "Clean Air Action Day",
+    "locationOnCapitolGrounds": "Central Valley Air Quality Coalition ",
+    "startDateTime": "8/15/2024 12:00 PM",
+    "setUpDateTime": "8/15/2024 11:15 AM",
+    "endDateTime": "8/15/2024 1:30 PM",
+    "participants": 40,
+    "details": "Annual Legislature education day."
   },
   {
     "status": "approved",
