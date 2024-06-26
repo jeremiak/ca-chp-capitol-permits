@@ -8226,7 +8226,7 @@
     "eventSponsor": "Fork of July",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "7/3/2024 11:00 AM",
-    "setUpDateTime": "7/3/2024 8:00 AM",
+    "setUpDateTime": "7/3/2024 5:00 AM",
     "endDateTime": "7/3/2024 3:00 PM",
     "participants": 400,
     "details": "Luncheon for staff"
@@ -9665,9 +9665,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10978",
     "eventSponsor": "California Families Rise",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "7/25/2024 11:00 AM",
-    "setUpDateTime": "7/25/2024 9:00 AM",
-    "endDateTime": "7/25/2024 5:00 PM",
+    "startDateTime": "8/15/2024 9:00 AM",
+    "setUpDateTime": "8/15/2024 8:00 AM",
+    "endDateTime": "8/15/2024 5:00 PM",
     "participants": 200,
     "details": "Family Campaign vs. Family Court & CPS"
   },
@@ -9684,7 +9684,7 @@
     "details": "Press conference to call on Gov Newsom and state agencies to prioritize more highly or fully protected marine protected areas in California.  This will be on the southwest side across from the LOB."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-641",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10982",
     "eventSponsor": "Filming for Transit TV Unplugged ",
@@ -9696,16 +9696,52 @@
     "details": "Will video tape walking up to the capitol and in the rotunda. Will interview Assemblymember McCarty about transit benefits."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-642",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10983",
     "eventSponsor": "Clean Air Action Day",
-    "locationOnCapitolGrounds": "Central Valley Air Quality Coalition ",
-    "startDateTime": "8/15/2024 12:00 PM",
-    "setUpDateTime": "8/15/2024 11:15 AM",
-    "endDateTime": "8/15/2024 1:30 PM",
+    "locationOnCapitolGrounds": "Central Valley Air Quality Coalition- Southwest Side",
+    "startDateTime": "8/14/2024 12:00 PM",
+    "setUpDateTime": "8/14/2024 11:00 AM",
+    "endDateTime": "8/14/2024 2:00 PM",
     "participants": 40,
-    "details": "Annual Legislature education day."
+    "details": "Annual Legislature education day.  This will be on the southwest side closer to N Street."
+  },
+  {
+    "status": "approved",
+    "number": "2024-643",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10984",
+    "eventSponsor": "Wedding Photos",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "6/30/2024 5:30 PM",
+    "setUpDateTime": "6/30/2024 5:00 PM",
+    "endDateTime": "6/30/2024 7:00 PM",
+    "participants": 3,
+    "details": "Wedding photos"
+  },
+  {
+    "status": "approved",
+    "number": "2024-644",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10985",
+    "eventSponsor": "Gun Violence Prevention Rally",
+    "locationOnCapitolGrounds": "Traffic Circle",
+    "startDateTime": "6/28/2024 11:00 AM",
+    "setUpDateTime": "6/28/2024 11:00 AM",
+    "endDateTime": "6/28/2024 1:00 PM",
+    "participants": 50,
+    "details": "A community event to combat the recent gun violence and uptick in crime and youth violence throughout our cities."
+  },
+  {
+    "status": "pending",
+    "number": "2024-646",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10987",
+    "eventSponsor": "CAIR",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "6/28/2024 11:00 AM",
+    "setUpDateTime": "6/28/2024 10:45 AM",
+    "endDateTime": "6/28/2024 12:00 PM",
+    "participants": 30,
+    "details": "Press Conference on bills"
   },
   {
     "status": "approved",
