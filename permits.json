@@ -6020,8 +6020,8 @@
     "startDateTime": "8/10/2024 9:00 AM",
     "setUpDateTime": "8/10/2024 8:00 AM",
     "endDateTime": "8/10/2024 12:00 PM",
-    "participants": 300,
-    "details": "We would like to hold a Scout Day at the State Capitol for local Cub Scouts and Troop Scouts. We would like to hold a rally on the West Steps and then break out into our units to take tours of the Capitol and the Swing Space, and perhaps meet some elected officials. We would like to meet at the West Steps at 9 am for a rally, and then each unit would break out into its own activity. After we break out into our units, we will not need to use the West Steps."
+    "participants": 50,
+    "details": "We would like to hold a Scout Day at the State Capitol for local Cub Scouts and Troop Scouts. We would like to hold a rally on the West Steps and then break out into our units to take tours of the Capitol and the Swing Space, and perhaps meet some elected officials. We would like to meet at the West Steps at 9 am for a rally, and then each unit would break out into its own activity."
   },
   {
     "status": "approved",
@@ -7997,11 +7997,11 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10787",
     "eventSponsor": "4.1  BLESSED ",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "7/13/2024 8:00 AM",
+    "startDateTime": "7/13/2024 10:00 AM",
     "setUpDateTime": "7/13/2024 6:00 AM",
-    "endDateTime": "7/13/2024 4:00 PM",
+    "endDateTime": "7/13/2024 3:30 PM",
     "participants": 200,
-    "details": "We are a faith-based 1-time event - Where local churches with gather to pray & sing on the front of the Capitol building. We will bring our own sound system, instruments, speakers, microphones, and podium. We will provide water, our own pop up tent(s), chairs & tables. We will set-up, tear down, and be responsible for cleaning after the event."
+    "details": "We are a faith-based 1-time event - Where local churches with gather to pray & sing on the front of the Capitol building. Event is 10-2."
   },
   {
     "status": "pending",
@@ -8757,7 +8757,7 @@
     "setUpDateTime": "8/5/2024 9:30 AM",
     "endDateTime": "8/5/2024 10:30 AM",
     "participants": 50,
-    "details": "Press Conference announcing the beginning of Transgender History Month"
+    "details": "Press Conference announcing the beginning of Transgender History Month.  This will be on the southwest side."
   },
   {
     "status": "approved",
@@ -9320,7 +9320,7 @@
     "startDateTime": "6/27/2024 11:00 AM",
     "setUpDateTime": "6/27/2024 9:00 AM",
     "endDateTime": "6/27/2024 2:00 PM",
-    "participants": 100,
+    "participants": 50,
     "details": "Constitutional Educational activity"
   },
   {
@@ -9732,16 +9732,52 @@
     "details": "A community event to combat the recent gun violence and uptick in crime and youth violence throughout our cities."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-646",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10987",
-    "eventSponsor": "CAIR",
-    "locationOnCapitolGrounds": "Other",
-    "startDateTime": "6/28/2024 11:00 AM",
-    "setUpDateTime": "6/28/2024 10:45 AM",
-    "endDateTime": "6/28/2024 12:00 PM",
+    "eventSponsor": "CAIR Press Conference- Southwest Side",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "7/1/2024 11:00 AM",
+    "setUpDateTime": "7/1/2024 10:45 AM",
+    "endDateTime": "7/1/2024 12:00 PM",
     "participants": 30,
-    "details": "Press Conference on bills"
+    "details": "Press Conference on bills.  This will be on the Southwest Side closer to N Street."
+  },
+  {
+    "status": "approved",
+    "number": "2024-647",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10989",
+    "eventSponsor": "CHP Cadet Run",
+    "locationOnCapitolGrounds": "West Side, Traffic Circle",
+    "startDateTime": "7/10/2024 6:15 AM",
+    "setUpDateTime": "7/10/2024 5:30 AM",
+    "endDateTime": "7/10/2024 7:15 AM",
+    "participants": 200,
+    "details": "CHP Cadet Run culminating over 6 months of training."
+  },
+  {
+    "status": "pending",
+    "number": "2024-648",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10990",
+    "eventSponsor": "DOFP Group Photo",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/7/2024 11:30 AM",
+    "setUpDateTime": "8/7/2024 11:00 AM",
+    "endDateTime": "8/7/2024 11:30 AM",
+    "participants": 50,
+    "details": "Requesting to utilize the capitol stairs to take a group photo."
+  },
+  {
+    "status": "pending",
+    "number": "2024-649",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10991",
+    "eventSponsor": "Seva Saphal Society",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "7/4/2024 11:00 AM",
+    "setUpDateTime": "7/4/2024 10:00 AM",
+    "endDateTime": "7/4/2024 3:00 PM",
+    "participants": 100,
+    "details": "Based on the Sikh principle of chabeel, (which is handing out free cold drinks on a hot day) and celebrating 4th of July, we would like to set up a tent in front of the capital to hand out free drinks to people walking by, and help celebrate 4th of July together. The cold drinks are essentially a sweet rose flavor drink, made from milk and a sweet grenadine."
   },
   {
     "status": "approved",
