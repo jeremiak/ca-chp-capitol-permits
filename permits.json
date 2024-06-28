@@ -9768,7 +9768,7 @@
     "details": "Requesting to utilize the capitol stairs to take a group photo."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-649",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10991",
     "eventSponsor": "Seva Saphal Society",
@@ -9776,7 +9776,7 @@
     "startDateTime": "7/4/2024 11:00 AM",
     "setUpDateTime": "7/4/2024 10:00 AM",
     "endDateTime": "7/4/2024 3:00 PM",
-    "participants": 100,
+    "participants": 25,
     "details": "Based on the Sikh principle of chabeel, (which is handing out free cold drinks on a hot day) and celebrating 4th of July, we would like to set up a tent in front of the capital to hand out free drinks to people walking by, and help celebrate 4th of July together. The cold drinks are essentially a sweet rose flavor drink, made from milk and a sweet grenadine."
   },
   {
@@ -9790,6 +9790,30 @@
     "endDateTime": "1/24/2024 9:45 PM",
     "participants": 200,
     "details": "Rally in support of Ukraine"
+  },
+  {
+    "status": "approved",
+    "number": "2024-653",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10999",
+    "eventSponsor": "Office of Assemblymember Haney- Northwest Side",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "7/1/2024 11:15 AM",
+    "setUpDateTime": "7/1/2024 11:00 AM",
+    "endDateTime": "7/1/2024 12:30 PM",
+    "participants": 20,
+    "details": "Renters' Caucus Press Conference Regarding AB 12. This is on the northwest side closer to 10th and L."
+  },
+  {
+    "status": "pending",
+    "number": "2024-654",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11000",
+    "eventSponsor": "Aldo Garcias Candlelight Vigil ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "7/17/2024 7:00 PM",
+    "setUpDateTime": "7/17/2024 6:00 PM",
+    "endDateTime": "7/17/2024 9:30 PM",
+    "participants": 200,
+    "details": "Aldo Garcia, a legislative staffer for Asm. Juan Carrillo passed away on Monday June 24th. The Capitol community is gathering for a vigil to honor and celebrate his life."
   },
   {
     "status": "approved",
