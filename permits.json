@@ -9816,16 +9816,52 @@
     "details": "Aldo Garcia, a legislative staffer for Asm. Juan Carrillo passed away on Monday June 24th. The Capitol community is gathering for a vigil to honor and celebrate his life."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-655",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11001",
-    "eventSponsor": "Ball Frost Group Photography",
+    "eventSponsor": "Ball Frost Group Photography- Northwest and Southwest Side",
     "locationOnCapitolGrounds": "Other",
-    "startDateTime": "7/1/2024 8:45 AM",
-    "setUpDateTime": "7/1/2024 8:00 AM",
-    "endDateTime": "7/1/2024 10:15 AM",
+    "startDateTime": "7/2/2024 8:00 AM",
+    "setUpDateTime": "7/2/2024 8:00 AM",
+    "endDateTime": "7/2/2024 9:00 AM",
     "participants": 8,
-    "details": "Photograph Four principals of the Ball Frost Group, (Educational advocacy group). Photographer, Assistant and Makeup person, art director."
+    "details": "Photograph Four principals of the Ball Frost Group, (Educational advocacy group). Photographer, Assistant and Makeup person, art director.  These will be on the northwest and southwest side for still pictures."
+  },
+  {
+    "status": "pending",
+    "number": "2024-656",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11002",
+    "eventSponsor": "Save Democracy, Release Imran Khan of Pakistan",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/9/2024 12:00 PM",
+    "setUpDateTime": "8/9/2024 11:00 AM",
+    "endDateTime": "8/9/2024 3:00 PM",
+    "participants": 50,
+    "details": "Podium, slide show, music, food and prayer to the above cause."
+  },
+  {
+    "status": "pending",
+    "number": "2024-657",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11003",
+    "eventSponsor": "Carey Wedding",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "8/30/2024 9:00 AM",
+    "setUpDateTime": "8/30/2024 9:00 AM",
+    "endDateTime": "8/30/2024 9:00 AM",
+    "participants": 16,
+    "details": "Small wedding at the rose garden. There will be chairs for the people attending"
+  },
+  {
+    "status": "pending",
+    "number": "2024-658",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11004",
+    "eventSponsor": "Yeshua House Of Israel",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "8/4/2024 4:00 PM",
+    "setUpDateTime": "8/4/2024 3:30 PM",
+    "endDateTime": "8/4/2024 6:00 PM",
+    "participants": 10,
+    "details": "Christian worship, evangelism, prayer, communion and church activities outside the walls"
   },
   {
     "status": "approved",
