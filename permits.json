@@ -9828,7 +9828,7 @@
     "details": "Photograph Four principals of the Ball Frost Group, (Educational advocacy group). Photographer, Assistant and Makeup person, art director.  These will be on the northwest and southwest side for still pictures."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-656",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11002",
     "eventSponsor": "Save Democracy, Release Imran Khan of Pakistan",
@@ -9840,19 +9840,19 @@
     "details": "Podium, slide show, music, food and prayer to the above cause."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-657",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11003",
     "eventSponsor": "Carey Wedding",
     "locationOnCapitolGrounds": "Area 1",
-    "startDateTime": "8/30/2024 9:00 AM",
+    "startDateTime": "8/30/2024 9:30 AM",
     "setUpDateTime": "8/30/2024 9:00 AM",
-    "endDateTime": "8/30/2024 9:00 AM",
+    "endDateTime": "8/30/2024 11:00 AM",
     "participants": 16,
     "details": "Small wedding at the rose garden. There will be chairs for the people attending"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-658",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11004",
     "eventSponsor": "Yeshua House Of Israel",
@@ -9864,7 +9864,7 @@
     "details": "Christian worship, evangelism, prayer, communion and church activities outside the walls"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-659",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11005",
     "eventSponsor": "Stand up to Domestic violence",
@@ -9886,6 +9886,30 @@
     "endDateTime": "2/24/2024 9:45 PM",
     "participants": 1000,
     "details": "Sacramento community will meet to hold a rally marking 2 years since Russia's unprovoked invasion of Ukraine"
+  },
+  {
+    "status": "pending",
+    "number": "2024-662",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11008",
+    "eventSponsor": "Change of CommandUS Army",
+    "locationOnCapitolGrounds": "Area 22, Area 34",
+    "startDateTime": "7/5/2024 10:00 AM",
+    "setUpDateTime": "7/5/2024 8:00 AM",
+    "endDateTime": "7/5/2024 12:00 PM",
+    "participants": 60,
+    "details": "We are conducting a change of command for our outgoing and ingoing Company Commanders of Capital Recruiting Company. We will be possibly hosting COL Wallace."
+  },
+  {
+    "status": "pending",
+    "number": "2024-663",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11009",
+    "eventSponsor": "US Army Change of Command",
+    "locationOnCapitolGrounds": "Area 22, Area 34",
+    "startDateTime": "8/30/2024 11:00 AM",
+    "setUpDateTime": "8/30/2024 9:00 AM",
+    "endDateTime": "8/30/2024 12:30 PM",
+    "participants": 60,
+    "details": "We are conducting a change of command for the outgoing and incoming commander for Capital Recruiting Company situated here in Sacramento. We will possibly be hosting Lieutenant Colonel Christopher Sadoski and possibly Colonel Lee Wallace."
   },
   {
     "status": "approved",
