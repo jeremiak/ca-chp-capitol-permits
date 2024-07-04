@@ -9277,6 +9277,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-60",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10281",
+    "eventSponsor": "Recovery Happens",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/4/2024 6:00 AM",
+    "setUpDateTime": "9/3/2024 8:00 AM",
+    "endDateTime": "9/4/2024 6:00 AM",
+    "participants": 1000,
+    "details": "Every September since 1992, CCAPP sponsors National Recovery Month at the California State Capital where thousands gather to increase awareness and understanding of mental health and substance use disorders and celebrate the people who recover."
+  },
+  {
+    "status": "approved",
     "number": "2024-601",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10938",
     "eventSponsor": "Domestic Violence Prevention Press Conference",
