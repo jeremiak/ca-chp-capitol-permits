@@ -9900,6 +9900,18 @@
     "details": "Sacramento community will meet to hold a rally marking 2 years since Russia's unprovoked invasion of Ukraine"
   },
   {
+    "status": "approved",
+    "number": "2024-661",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11007",
+    "eventSponsor": "Judicial Fellowship Class Photo- Sacramento State",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/6/2024 9:00 AM",
+    "setUpDateTime": "9/6/2024 9:00 AM",
+    "endDateTime": "9/6/2024 10:00 AM",
+    "participants": 13,
+    "details": "Class photos for the Judicial Fellowship Program."
+  },
+  {
     "status": "pending",
     "number": "2024-662",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11008",
@@ -9922,6 +9934,18 @@
     "endDateTime": "8/30/2024 12:30 PM",
     "participants": 60,
     "details": "We are conducting a change of command for the outgoing and incoming commander for Capital Recruiting Company situated here in Sacramento. We will possibly be hosting Lieutenant Colonel Christopher Sadoski and possibly Colonel Lee Wallace."
+  },
+  {
+    "status": "approved",
+    "number": "2024-664",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11010",
+    "eventSponsor": "Sac Central Choir performance",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/3/2024 7:00 PM",
+    "setUpDateTime": "8/3/2024 6:30 PM",
+    "endDateTime": "8/3/2024 9:00 PM",
+    "participants": 50,
+    "details": "An outdoor concert, with Christian music, featuring a choir and other music items. An event from the Seventh-day Adventist Church"
   },
   {
     "status": "approved",
