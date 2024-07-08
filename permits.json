@@ -5773,6 +5773,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-279",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10575",
+    "eventSponsor": "Crockett Wedding",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "9/7/2024 3:30 PM",
+    "setUpDateTime": "9/7/2024 3:00 PM",
+    "endDateTime": "9/7/2024 7:00 PM",
+    "participants": 80,
+    "details": "Small wedding ceremony with anywhere from 65-80 people."
+  },
+  {
+    "status": "approved",
     "number": "2024-280",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10576",
     "eventSponsor": "Fred. C. Beyer School",
@@ -6901,6 +6913,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-378",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10678",
+    "eventSponsor": "Lambert Hass Wedding",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "9/7/2024 12:30 PM",
+    "setUpDateTime": "9/7/2024 11:30 AM",
+    "endDateTime": "9/7/2024 2:30 PM",
+    "participants": 80,
+    "details": "Lambert Hass wedding with approximately 80 guests."
+  },
+  {
+    "status": "approved",
     "number": "2024-379",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10679",
     "eventSponsor": "Strategy 6",
@@ -6934,6 +6958,18 @@
     "endDateTime": "4/1/2024 1:00 PM",
     "participants": 150,
     "details": "This is going to be a Press Conference for ACA 16. This is a Constitutional Amendment that will be heard in the Natural Resources that same day.  Tentatively this will be on the southwest side."
+  },
+  {
+    "status": "approved",
+    "number": "2024-382",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10682",
+    "eventSponsor": "Northern California Walk and Roll to Cure FSHD, FSHD Society ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/7/2024 9:00 AM",
+    "setUpDateTime": "9/7/2024 7:30 AM",
+    "endDateTime": "9/7/2024 12:00 PM",
+    "participants": 50,
+    "details": "The Walk & Roll to Cure FSHD is the only event in North America that is focused on funding progress and community support for Facioscapulohumeral Muscular Dystrophy (FSHD). Led entirely by dedicated volunteers, this event is an opportunity for the entire FSHD community to come together to raise awareness and funds to reach our goal of finding a cure for FSHD by 2025. For every $1 raised, $0.91 goes to supporting patient programs and progress. This event will include light refreshments, an opening ceremony, a symbolic walk around the venue, and the opportunity for people to network."
   },
   {
     "status": "approved",
