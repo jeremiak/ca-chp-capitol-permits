@@ -4177,6 +4177,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-133",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10422",
+    "eventSponsor": "Admission Day",
+    "locationOnCapitolGrounds": "CSCMVA ",
+    "startDateTime": "9/9/2024 11:00 AM",
+    "setUpDateTime": "9/9/2024 9:30 AM",
+    "endDateTime": "9/9/2024 2:00 PM",
+    "participants": 25,
+    "details": "The California State Capitol Museum Volunteer Association would like to host Admission Day, September 9. We will hand out Capitol information, share interesting history of the state, as well as share cake and ice cream with guests."
+  },
+  {
+    "status": "approved",
     "number": "2024-134",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10425",
     "eventSponsor": "League of California Cities",
@@ -6745,6 +6757,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-360",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10658",
+    "eventSponsor": "California Admission Day",
+    "locationOnCapitolGrounds": "175th Anniversary of our 1849 California Gold Mining District",
+    "startDateTime": "9/9/2024 3:00 PM",
+    "setUpDateTime": "9/9/2024 2:30 PM",
+    "endDateTime": "9/9/2024 6:00 PM",
+    "participants": 50,
+    "details": "Celebration of 2024 California Admission Day - 1849 California Gold Mining District -"
+  },
+  {
+    "status": "approved",
     "number": "2024-362",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10660",
     "eventSponsor": "California Hunger Action Coalition Action Week- Southwest Side ",
@@ -6888,14 +6912,14 @@
     "details": ""
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-375",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10675",
     "eventSponsor": "International Falsely Accused Day",
     "locationOnCapitolGrounds": "Advocates for the Falsely Accused",
-    "startDateTime": "3/30/2024 4:00 AM",
-    "setUpDateTime": "3/30/2024 4:00 AM",
-    "endDateTime": "3/30/2024 4:00 AM",
+    "startDateTime": "9/9/2024 11:00 AM",
+    "setUpDateTime": "9/9/2024 9:00 AM",
+    "endDateTime": "9/9/2024 3:00 PM",
     "participants": 25,
     "details": "International Falsely Accused Day - speakers, music and literature to raise awareness of the prevalence of false accusations in our legal system and offer support to the falsely accused."
   },
