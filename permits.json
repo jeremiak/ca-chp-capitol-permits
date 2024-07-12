@@ -8072,7 +8072,7 @@
     "startDateTime": "7/13/2024 10:00 AM",
     "setUpDateTime": "7/13/2024 6:00 AM",
     "endDateTime": "7/13/2024 3:30 PM",
-    "participants": 200,
+    "participants": 100,
     "details": "We are a faith-based 1-time event - Where local churches with gather to pray & sing on the front of the Capitol building. Event is 10-2."
   },
   {
@@ -9111,13 +9111,13 @@
     "status": "approved",
     "number": "2024-573",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10906",
-    "eventSponsor": "Summer of Heat Against Wall Street Week 7",
+    "eventSponsor": "Summer of Heat Against Wall Street- Palestine Solidarity",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "7/26/2024 11:45 AM",
     "setUpDateTime": "7/26/2024 11:00 AM",
     "endDateTime": "7/26/2024 2:00 PM",
-    "participants": 50,
-    "details": "Peaceful activism event in accordance with the national Summer of Heat Against Wall Street campaign"
+    "participants": 75,
+    "details": "Peaceful activism event in accordance with the national Summer of Heat Against Wall Street campaign.  Join us for Palestine Solidarity."
   },
   {
     "status": "approved",
@@ -9889,6 +9889,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-651",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10994",
+    "eventSponsor": "CHP Cadet Run",
+    "locationOnCapitolGrounds": "West Side, Traffic Circle",
+    "startDateTime": "9/11/2024 6:15 AM",
+    "setUpDateTime": "9/11/2024 5:30 AM",
+    "endDateTime": "9/11/2024 7:30 PM",
+    "participants": 200,
+    "details": "CHP Cadet Run culminating over 6 months of training at the Peace Officer Memorial and West Steps."
+  },
+  {
+    "status": "approved",
     "number": "2024-653",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10999",
     "eventSponsor": "Office of Assemblymember Haney- Northwest Side",
@@ -10033,6 +10045,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-668",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11014",
+    "eventSponsor": "Boston Dynamics Robot Demonstration- Southwest Closer to N",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/15/2024 9:00 AM",
+    "setUpDateTime": "8/15/2024 8:30 AM",
+    "endDateTime": "8/15/2024 12:30 PM",
+    "participants": 15,
+    "details": "During this event, Boston Dynamics will bring the robot Spot to the West Side for a demonstration of the robot's capabilities and uses. There will be two members of the Boston Dynamics team there to answer questions and facilitate the demonstration of Spot's abilities.  This will be on the Southwest Side closer to N Street, across from the LOB."
+  },
+  {
+    "status": "approved",
     "number": "2024-67",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10298",
     "eventSponsor": "Rally in Support of Ukraine  Sunflower Society",
@@ -10042,6 +10066,18 @@
     "endDateTime": "3/24/2024 9:45 PM",
     "participants": 150,
     "details": "Rally in support of Ukraine"
+  },
+  {
+    "status": "pending",
+    "number": "2024-671",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11019",
+    "eventSponsor": "Condemn the killing of Gilaman Wazir , Afghan Activist by the State of Pakistan",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "7/14/2024 6:00 PM",
+    "setUpDateTime": "7/14/2024 6:00 PM",
+    "endDateTime": "7/14/2024 8:00 PM",
+    "participants": 500,
+    "details": "The State of Pakistan Killed a Pashtun Human Right Activist. PTM member."
   },
   {
     "status": "approved",
