@@ -10047,13 +10047,13 @@
     "status": "approved",
     "number": "2024-668",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11014",
-    "eventSponsor": "Boston Dynamics Robot Demonstration- Southwest Closer to N",
+    "eventSponsor": "Boston Dynamics Robot Demonstration- Southwest Closer to N and West Steps",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "8/15/2024 9:00 AM",
     "setUpDateTime": "8/15/2024 8:30 AM",
     "endDateTime": "8/15/2024 12:30 PM",
     "participants": 15,
-    "details": "During this event, Boston Dynamics will bring the robot Spot to the West Side for a demonstration of the robot's capabilities and uses. There will be two members of the Boston Dynamics team there to answer questions and facilitate the demonstration of Spot's abilities.  This will be on the Southwest Side closer to N Street, across from the LOB."
+    "details": "During this event, Boston Dynamics will bring the robot Spot to the West Side for a demonstration of the robot's capabilities and uses. There will be two members of the Boston Dynamics team there to answer questions and facilitate the demonstration of Spot's abilities.  This will be on the Southwest Side closer to N Street but may include demonstration on the West Steps as well as needed."
   },
   {
     "status": "approved",
@@ -10078,6 +10078,18 @@
     "endDateTime": "7/14/2024 8:00 PM",
     "participants": 500,
     "details": "The State of Pakistan Killed a Pashtun Human Right Activist. PTM member."
+  },
+  {
+    "status": "pending",
+    "number": "2024-672",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11020",
+    "eventSponsor": "California Clean Money Campaign",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/12/2024 12:00 PM",
+    "setUpDateTime": "8/12/2024 11:30 AM",
+    "endDateTime": "8/12/2024 1:15 PM",
+    "participants": 100,
+    "details": "Rally for campaign finance reform bills in legislature, including SB 24 (Umberg-Allen) and AB 270 (Lee-Cervantes) with legislative authors, supporters, and activists."
   },
   {
     "status": "approved",
