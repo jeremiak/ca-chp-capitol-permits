@@ -10045,6 +10045,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-666",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11012",
+    "eventSponsor": "Tsuru for Solidarity",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/13/2024 11:00 AM",
+    "setUpDateTime": "9/13/2024 10:00 AM",
+    "endDateTime": "9/13/2024 1:00 PM",
+    "participants": 100,
+    "details": "Rally to call for Pardon of Lam Le"
+  },
+  {
+    "status": "approved",
     "number": "2024-668",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11014",
     "eventSponsor": "Boston Dynamics Robot Demonstration- Southwest Closer to N and West Steps",
