@@ -4225,6 +4225,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-137",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10430",
+    "eventSponsor": "California Farm Academy Beginning Farmer Training Program Graduation",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/14/2024 2:00 PM",
+    "setUpDateTime": "9/14/2024 12:00 PM",
+    "endDateTime": "9/14/2024 5:00 PM",
+    "participants": 85,
+    "details": "The Center for Land-Based Learning will be graduating the 12th cohort of the Beginning Farmer Training Program."
+  },
+  {
+    "status": "approved",
     "number": "2024-138",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10431",
     "eventSponsor": "Missing and Murdered Indigenous People Candlelight Vigil",
@@ -9778,6 +9790,18 @@
     "endDateTime": "6/25/2024 1:00 PM",
     "participants": 20,
     "details": "Press conference to call on Gov Newsom and state agencies to prioritize more highly or fully protected marine protected areas in California.  This will be on the southwest side across from the LOB."
+  },
+  {
+    "status": "approved",
+    "number": "2024-64",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10292",
+    "eventSponsor": "Caldwell Wedding",
+    "locationOnCapitolGrounds": "Area 1, Area 5",
+    "startDateTime": "9/14/2024 4:00 PM",
+    "setUpDateTime": "9/14/2024 1:00 PM",
+    "endDateTime": "9/14/2024 8:00 PM",
+    "participants": 60,
+    "details": "Wedding"
   },
   {
     "status": "approved",
