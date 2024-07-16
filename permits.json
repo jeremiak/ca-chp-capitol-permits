@@ -6489,7 +6489,7 @@
     "setUpDateTime": "8/6/2024 9:15 AM",
     "endDateTime": "8/6/2024 1:00 PM",
     "participants": 50,
-    "details": "Disc throwing demonstrations and hands-on practice sessionsb with a limited, no more than, 25-foot distance. There will be an assigned organizer responsible for crowd control and ensuring discs do not travel more than a 25-foto distance from the spot of throwing. Information booths by selects companies in the disc golf industry will be set up to provide education information."
+    "details": "Disc throwing demonstrations and hands-on practice sessions with a limited, no more than, 25-foot distance. There will be an assigned organizer responsible for crowd control and ensuring discs do not travel more than a 25-foot distance from the spot of throwing. Information booths by selects companies in the disc golf industry will be set up to provide education information."
   },
   {
     "status": "approved",
@@ -9277,6 +9277,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-59",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10280",
+    "eventSponsor": "Mexico Independence Day Celebration by the Mexican Cultural Center of Northern California ",
+    "locationOnCapitolGrounds": "West Side, Traffic Circle",
+    "startDateTime": "9/15/2024 5:00 PM",
+    "setUpDateTime": "9/15/2024 8:00 AM",
+    "endDateTime": "9/15/2024 10:00 PM",
+    "participants": 2500,
+    "details": "Mexico Independence Day Celebration"
+  },
+  {
+    "status": "approved",
     "number": "2024-590",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10927",
     "eventSponsor": "CA State Mountain Biking Month Photo Op",
@@ -9941,8 +9953,8 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11000",
     "eventSponsor": "Aldo Garcias Candlelight Vigil ",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "7/17/2024 7:00 PM",
-    "setUpDateTime": "7/17/2024 6:00 PM",
+    "startDateTime": "7/17/2024 6:00 PM",
+    "setUpDateTime": "7/17/2024 5:00 PM",
     "endDateTime": "7/17/2024 9:30 PM",
     "participants": 100,
     "details": "Aldo Garcia, a legislative staffer for Asm. Juan Carrillo passed away on Monday June 24th. The Capitol community is gathering for a vigil to honor and celebrate his life.  Please only bring battery operated candles."
@@ -10116,7 +10128,7 @@
     "details": "The State of Pakistan Killed a Pashtun Human Right Activist. PTM member."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-672",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11020",
     "eventSponsor": "California Clean Money Campaign",
@@ -10124,8 +10136,56 @@
     "startDateTime": "8/12/2024 12:00 PM",
     "setUpDateTime": "8/12/2024 11:30 AM",
     "endDateTime": "8/12/2024 1:15 PM",
-    "participants": 100,
+    "participants": 75,
     "details": "Rally for campaign finance reform bills in legislature, including SB 24 (Umberg-Allen) and AB 270 (Lee-Cervantes) with legislative authors, supporters, and activists."
+  },
+  {
+    "status": "approved",
+    "number": "2024-673",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11022",
+    "eventSponsor": "MAGNIFICENT ONE",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "7/28/2024 12:00 PM",
+    "setUpDateTime": "7/28/2024 10:00 AM",
+    "endDateTime": "7/28/2024 2:00 PM",
+    "participants": 44,
+    "details": "Family Gathering"
+  },
+  {
+    "status": "pending",
+    "number": "2024-674",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11023",
+    "eventSponsor": "Conservatorship press conference",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/7/2024 9:30 AM",
+    "setUpDateTime": "8/7/2024 8:30 AM",
+    "endDateTime": "8/7/2024 10:15 AM",
+    "participants": 20,
+    "details": "Senator Rubio press conference with advocates and supporters on west steps"
+  },
+  {
+    "status": "pending",
+    "number": "2024-675",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11024",
+    "eventSponsor": "Legislative press conference",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/12/2024 9:30 AM",
+    "setUpDateTime": "8/12/2024 9:00 AM",
+    "endDateTime": "8/12/2024 10:00 AM",
+    "participants": 20,
+    "details": "Senator Susan Rubio press conference west steps"
+  },
+  {
+    "status": "pending",
+    "number": "2024-676",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11025",
+    "eventSponsor": "SB 1340 Rally",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "7/18/2024 10:00 AM",
+    "setUpDateTime": "7/18/2024 6:00 AM",
+    "endDateTime": "7/18/2024 10:00 AM",
+    "participants": 150,
+    "details": "This will be a gathering of advocates. There will be a 3 speakers speaking for 5-10 minutes each."
   },
   {
     "status": "approved",
