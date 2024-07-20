@@ -4369,6 +4369,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-154",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10448",
+    "eventSponsor": "National EMS Memorial Bike Ride",
+    "locationOnCapitolGrounds": "West Coast",
+    "startDateTime": "9/19/2024 9:00 AM",
+    "setUpDateTime": "9/19/2024 7:30 AM",
+    "endDateTime": "9/19/2024 11:30 AM",
+    "participants": 50,
+    "details": "National EMS Memorial Bike (NEMSMBR)- West Coast Day 4 Opening Ceremony to gather and ride the names of all 2024 NEMSMBR Honorees in front of the Capitol. The day's ceremony is to honor former EMS personnel that lost there life in the course of their duties. Cyclist from across the county join in a 6 day bike ride from Reno, NV to San Francisco, CA with Day 4 passing through Sacramento."
+  },
+  {
+    "status": "approved",
     "number": "2024-155",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10449",
     "eventSponsor": "Office of Assemblymember Carlos Villapudua",
