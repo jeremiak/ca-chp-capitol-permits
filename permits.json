@@ -9817,6 +9817,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-639",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10980",
+    "eventSponsor": "Vietnam Veterans of America",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "9/20/2024 12:00 PM",
+    "setUpDateTime": "9/20/2024 9:00 AM",
+    "endDateTime": "9/20/2024 5:00 PM",
+    "participants": 50,
+    "details": "POW-MIA Day Observance."
+  },
+  {
+    "status": "approved",
     "number": "2024-64",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10292",
     "eventSponsor": "Caldwell Wedding",
@@ -10282,6 +10294,18 @@
     "endDateTime": "7/21/2024 3:00 PM",
     "participants": 75,
     "details": "There is ongoing brutality against the student movements in Bangladesh.  So far 49 students have died.  Need everyone attention"
+  },
+  {
+    "status": "pending",
+    "number": "2024-686",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11035",
+    "eventSponsor": "New California State",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "7/29/2024 11:00 AM",
+    "setUpDateTime": "7/29/2024 10:15 AM",
+    "endDateTime": "7/29/2024 11:00 AM",
+    "participants": 100,
+    "details": "Educational, informational"
   },
   {
     "status": "approved",
