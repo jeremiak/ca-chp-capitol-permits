@@ -6889,6 +6889,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-370",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10669",
+    "eventSponsor": "Younger Wedding ",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "9/21/2024 1:30 PM",
+    "setUpDateTime": "9/21/2024 1:00 PM",
+    "endDateTime": "9/21/2024 3:30 PM",
+    "participants": 20,
+    "details": "Wedding ceremony at the Capitol World Peace Rose Garden."
+  },
+  {
+    "status": "approved",
     "number": "2024-371",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10671",
     "eventSponsor": "Promote the Vote CA Voter Registration Drive- Under the Trees just north of the Cement Area",
@@ -8338,6 +8350,18 @@
     "endDateTime": "5/6/2024 3:30 PM",
     "participants": 100,
     "details": "Legislative Press Conference on West Steps for ACR 179 (Jones-Sawyer) relative to the 50th anniversary of the enactment of protections for persons with disabilities."
+  },
+  {
+    "status": "approved",
+    "number": "2024-502",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10813",
+    "eventSponsor": "Fenta Nahs 2nd Annual Fentanyl Awareness Fall Fest",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/21/2024 11:00 AM",
+    "setUpDateTime": "9/21/2024 8:30 AM",
+    "endDateTime": "9/21/2024 4:00 PM",
+    "participants": 100,
+    "details": "Fenta Nah's 2nd annual Fentanyl Awareness fall Fest is community-Centered event focused on raising awareness about the dangers of fentanyl-opioid misuse. The Festival aims to bring together families, healthcare professionals, law enforcement, educators, and community leaders to share information, offer support, and create a safer Space for discussions about substance abuse prevention and recovery with The Bresha Project My Sisters Keeper Fentanyl-Opioid Addiction and Recovery Center At the fall fest, attendees can participate in a range of activities designed to promote education and awareness, such as informational workshops, panel discussions from first responders. The event also features family friendly entertainment, and wellness booths that encourage healthy lifestyle choices. By fostering a supportive environment, Fenta Nah's Fall Fest seeks to build a stronger community connections, Reduce the stigma associated with addiction, and promotes a unified approach to combating the fentanyl crisis. The ultimate goal is to educate, inspire, and empower attendees to take action and become advocates for change within their communities."
   },
   {
     "status": "approved",
@@ -10303,9 +10327,21 @@
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "7/29/2024 11:00 AM",
     "setUpDateTime": "7/29/2024 10:15 AM",
-    "endDateTime": "7/29/2024 11:00 AM",
+    "endDateTime": "7/29/2024 3:00 PM",
     "participants": 100,
     "details": "Educational, informational"
+  },
+  {
+    "status": "pending",
+    "number": "2024-687",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11036",
+    "eventSponsor": "Keysho Ann Griffin Baxter and Johnny Alvarez Ortega Wedding",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "8/16/2024 3:00 PM",
+    "setUpDateTime": "8/16/2024 1:00 PM",
+    "endDateTime": "8/16/2024 6:00 PM",
+    "participants": 50,
+    "details": "A small wedding for my daughter, Keysho Ann Griffin Baxter to Johnny Alvarez Ortega. Attendees will be immediate families and the bride and groom's closest friends. We anticipate approximately 35-40 people but no more than 50."
   },
   {
     "status": "approved",
