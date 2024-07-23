@@ -5844,14 +5844,14 @@
     "details": "Announcement of bill introduction related to plastic bags."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-282",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10578",
     "eventSponsor": "Chariot Festival",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "2/29/2024 4:00 AM",
-    "setUpDateTime": "2/29/2024 4:00 AM",
-    "endDateTime": "2/29/2024 4:00 AM",
+    "startDateTime": "9/22/2024 8:00 AM",
+    "setUpDateTime": "9/22/2024 7:00 AM",
+    "endDateTime": "9/22/2024 6:00 PM",
     "participants": 700,
     "details": "Chanting, Meditation, Chariot Festival, Music, Feast"
   },
@@ -6790,6 +6790,18 @@
     "endDateTime": "9/9/2024 6:00 PM",
     "participants": 50,
     "details": "Celebration of 2024 California Admission Day - 1849 California Gold Mining District -"
+  },
+  {
+    "status": "approved",
+    "number": "2024-361",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10659",
+    "eventSponsor": "Barton Wedding",
+    "locationOnCapitolGrounds": "Area 1, Area 5",
+    "startDateTime": "9/22/2024 9:00 AM",
+    "setUpDateTime": "9/22/2024 8:30 AM",
+    "endDateTime": "9/22/2024 12:00 PM",
+    "participants": 16,
+    "details": "Wedding ceremony"
   },
   {
     "status": "approved",
@@ -9288,7 +9300,7 @@
     "details": "Wedding ceremony taking place with approximately 20 attendance. Maybe a tent set up for the sun."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-586",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10922",
     "eventSponsor": "CA Mandela Campaign",
@@ -9773,8 +9785,8 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10973",
     "eventSponsor": "TimeDone Day",
     "locationOnCapitolGrounds": "Alliance for Safety and Justice",
-    "startDateTime": "8/21/2024 2:00 PM",
-    "setUpDateTime": "8/20/2024 8:00 AM",
+    "startDateTime": "8/21/2024 8:00 AM",
+    "setUpDateTime": "8/20/2024 2:00 PM",
     "endDateTime": "8/22/2024 2:00 PM",
     "participants": 150,
     "details": "Time Done is a nationwide membership community of 250,000 people living with past arrest or conviction. Together, we are building strong families and communities by organizing ro end post-conviction poverty. This is an advocacy day with legislative visits and display of the Time Done Box."
