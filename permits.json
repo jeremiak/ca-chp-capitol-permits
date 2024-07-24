@@ -10153,6 +10153,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-667",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11013",
+    "eventSponsor": "Animal Shelter Crisis March and Rally",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/23/2024 10:00 AM",
+    "setUpDateTime": "9/23/2024 9:00 AM",
+    "endDateTime": "9/23/2024 2:00 PM",
+    "participants": 75,
+    "details": "Peaceful march of animal advocates from California, with varying political affiliations asking Governor Newsom to declare an Animal Shelter Crisis Emergency Now!"
+  },
+  {
+    "status": "approved",
     "number": "2024-668",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11014",
     "eventSponsor": "Boston Dynamics Robot Demonstration- Southwest Closer to N and West Steps",
@@ -10205,10 +10217,10 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11022",
     "eventSponsor": "MAGNIFICENT ONE",
     "locationOnCapitolGrounds": "Area 1",
-    "startDateTime": "7/28/2024 12:00 PM",
-    "setUpDateTime": "7/28/2024 10:00 AM",
+    "startDateTime": "7/28/2024 11:30 AM",
+    "setUpDateTime": "7/28/2024 9:30 AM",
     "endDateTime": "7/28/2024 2:00 PM",
-    "participants": 44,
+    "participants": 35,
     "details": "Family Gathering"
   },
   {
@@ -10332,7 +10344,7 @@
     "details": "There is ongoing brutality against the student movements in Bangladesh.  So far 49 students have died.  Need everyone attention"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-686",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11035",
     "eventSponsor": "New California State",
@@ -10354,6 +10366,42 @@
     "endDateTime": "8/16/2024 6:00 PM",
     "participants": 50,
     "details": "A small wedding for my daughter, Keysho Ann Griffin Baxter to Johnny Alvarez Ortega. Attendees will be immediate families and the bride and groom's closest friends. We anticipate approximately 35-40 people but no more than 50."
+  },
+  {
+    "status": "pending",
+    "number": "2024-688",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11039",
+    "eventSponsor": "Fearless in Jesus name Prayer March for to Protect the Children",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/17/2024 11:15 AM",
+    "setUpDateTime": "8/17/2024 6:00 AM",
+    "endDateTime": "8/17/2024 5:00 PM",
+    "participants": 50,
+    "details": "Prayer event with live music and resources for parents"
+  },
+  {
+    "status": "approved",
+    "number": "2024-690",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11041",
+    "eventSponsor": "Community Protest Against Netanyahus Speech to Congress",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "7/24/2024 1:00 PM",
+    "setUpDateTime": "7/24/2024 12:30 PM",
+    "endDateTime": "7/24/2024 3:00 PM",
+    "participants": 50,
+    "details": "Protest against Netanyahu's speech to Congress"
+  },
+  {
+    "status": "approved",
+    "number": "2024-692",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11043",
+    "eventSponsor": "Wedding Vows",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "7/29/2024 5:00 PM",
+    "setUpDateTime": "7/29/2024 4:00 PM",
+    "endDateTime": "7/29/2024 7:00 PM",
+    "participants": 6,
+    "details": "Wedding Vows."
   },
   {
     "status": "approved",
