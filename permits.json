@@ -6841,6 +6841,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-365",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10663",
+    "eventSponsor": "California WIC Association",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/24/2024 10:00 AM",
+    "setUpDateTime": "9/24/2024 6:00 AM",
+    "endDateTime": "9/24/2024 4:30 PM",
+    "participants": 150,
+    "details": "Celebration of the 50th Anniversary of the WIC program."
+  },
+  {
+    "status": "approved",
     "number": "2024-366",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10664",
     "eventSponsor": "Quinceanera ",
@@ -8921,11 +8933,11 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10875",
     "eventSponsor": "California Environmental Justice Alliance",
     "locationOnCapitolGrounds": "West",
-    "startDateTime": "8/6/2024 11:00 AM",
-    "setUpDateTime": "8/6/2024 8:00 AM",
-    "endDateTime": "8/6/2024 5:30 PM",
+    "startDateTime": "8/6/2024 10:00 AM",
+    "setUpDateTime": "8/6/2024 10:00 AM",
+    "endDateTime": "8/6/2024 11:00 AM",
     "participants": 250,
-    "details": "Press conference for a Campaign for a Safe and Healthy California."
+    "details": "Group Photo for a Campaign for a Safe and Healthy California."
   },
   {
     "status": "approved",
@@ -9648,6 +9660,18 @@
     "details": "We will be holding a staff meeting with Root Beer floats."
   },
   {
+    "status": "approved",
+    "number": "2024-619",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10957",
+    "eventSponsor": "Sunflower Society's Rally in Support of Ukraine",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/24/2024 7:00 PM",
+    "setUpDateTime": "9/24/2024 6:00 PM",
+    "endDateTime": "9/24/2024 9:45 PM",
+    "participants": 150,
+    "details": "Solidarity Rally in support of Ukraine by Sunflower Society"
+  },
+  {
     "status": "pending",
     "number": "2024-620",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10958",
@@ -10320,13 +10344,13 @@
     "details": "The Jewish Community will be in Sacramento on August 5th to meet with legislators to encourage their support for the community's top priorities. We would like to use the West Side of the State Capitol as a gathering and event space for the day."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-684",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11033",
     "eventSponsor": "Peaceful Beats Hosted by Bridges of Hope",
     "locationOnCapitolGrounds": "Area 1, Area 5",
-    "startDateTime": "8/10/2024 1:00 PM",
-    "setUpDateTime": "8/10/2024 12:00 PM",
+    "startDateTime": "8/10/2024 5:00 PM",
+    "setUpDateTime": "8/10/2024 3:00 PM",
     "endDateTime": "8/10/2024 9:30 PM",
     "participants": 90,
     "details": "Peaceful Beats will bring in the youth in the community giving them hygiene kits, back packs, a safe environment and give them other community partners information. live music and tables will be used"
@@ -10356,7 +10380,7 @@
     "details": "Educational, informational"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-687",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11036",
     "eventSponsor": "Keysho Ann Griffin Baxter and Johnny Alvarez Ortega Wedding",
@@ -10368,16 +10392,16 @@
     "details": "A small wedding for my daughter, Keysho Ann Griffin Baxter to Johnny Alvarez Ortega. Attendees will be immediate families and the bride and groom's closest friends. We anticipate approximately 35-40 people but no more than 50."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-688",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11039",
     "eventSponsor": "Fearless in Jesus name Prayer March for to Protect the Children",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "8/17/2024 11:15 AM",
-    "setUpDateTime": "8/17/2024 6:00 AM",
+    "startDateTime": "8/17/2024 11:00 AM",
+    "setUpDateTime": "8/17/2024 9:00 AM",
     "endDateTime": "8/17/2024 5:00 PM",
     "participants": 50,
-    "details": "Prayer event with live music and resources for parents"
+    "details": "Prayer event with live music and resources for parents.  11am start.  Probably end closer to 3 or earlier"
   },
   {
     "status": "approved",
@@ -10402,6 +10426,18 @@
     "endDateTime": "7/29/2024 7:00 PM",
     "participants": 6,
     "details": "Wedding Vows."
+  },
+  {
+    "status": "pending",
+    "number": "2024-693",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11046",
+    "eventSponsor": "Fight domestic terror ",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "8/5/2024 11:00 AM",
+    "setUpDateTime": "8/5/2024 10:30 AM",
+    "endDateTime": "8/5/2024 12:00 PM",
+    "participants": 12,
+    "details": "How to resist white nationalism and protecting our democracy"
   },
   {
     "status": "approved",
