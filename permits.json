@@ -7405,6 +7405,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-416",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10719",
+    "eventSponsor": "National Day of Remebrance for Murder Victims",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/25/2024 4:30 PM",
+    "setUpDateTime": "9/25/2024 4:00 PM",
+    "endDateTime": "9/25/2024 9:45 PM",
+    "participants": 150,
+    "details": "Event held for homicide survivors and their families to remember victims and spread awareness. There will be A reading of names and speakers talking about their experience as A homicide survivor. There will also be tables or booths for other organizations to share resources."
+  },
+  {
+    "status": "approved",
     "number": "2024-418",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10721",
     "eventSponsor": "Housing Now Lobby Day Press Conference",
@@ -8302,6 +8314,18 @@
     "endDateTime": "5/11/2024 7:00 PM",
     "participants": 50,
     "details": "Honor Guard,  playing of taps, presentation of flag,  after a ceremony across the street at the Hyatt"
+  },
+  {
+    "status": "approved",
+    "number": "2024-496",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10807",
+    "eventSponsor": "Open Enrollment Benefits Fair",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/25/2024 10:00 AM",
+    "setUpDateTime": "9/25/2024 8:00 AM",
+    "endDateTime": "9/25/2024 2:00 PM",
+    "participants": 200,
+    "details": "The Open Enrollment Benefits Fair supports the annual Open Enrollment season. During the fair, state employees will have the opportunity to meet with benefit program vendors and CalPERS health plan carriers to gather benefit information and ask questions."
   },
   {
     "status": "approved",
@@ -10345,6 +10369,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-683",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11032",
+    "eventSponsor": "National Day of Remembrance for Murder Victims",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "9/25/2024 11:00 AM",
+    "setUpDateTime": "9/25/2024 9:00 AM",
+    "endDateTime": "9/25/2024 2:00 PM",
+    "participants": 100,
+    "details": "Memorial event to honor our loved ones who have died by violence."
+  },
+  {
+    "status": "approved",
     "number": "2024-684",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11033",
     "eventSponsor": "Peaceful Beats Hosted by Bridges of Hope",
@@ -10438,6 +10474,66 @@
     "endDateTime": "8/5/2024 12:00 PM",
     "participants": 12,
     "details": "How to resist white nationalism and protecting our democracy"
+  },
+  {
+    "status": "pending",
+    "number": "2024-695",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11048",
+    "eventSponsor": "Strategy 6",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/6/2024 6:30 PM",
+    "setUpDateTime": "8/6/2024 6:15 PM",
+    "endDateTime": "8/6/2024 8:30 PM",
+    "participants": 50,
+    "details": "Rally in support of political prisoners and against the war."
+  },
+  {
+    "status": "pending",
+    "number": "2024-696",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11049",
+    "eventSponsor": "SEXYCIZE",
+    "locationOnCapitolGrounds": "DANCE EXERCISE CLASS",
+    "startDateTime": "8/8/2024 6:00 PM",
+    "setUpDateTime": "8/8/2024 6:00 PM",
+    "endDateTime": "8/8/2024 6:00 PM",
+    "participants": 50,
+    "details": "Exercise class once a week, Thursday, for the month of August  to support womens' health ages 16 and up"
+  },
+  {
+    "status": "pending",
+    "number": "2024-697",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11050",
+    "eventSponsor": "SEXYCIZE",
+    "locationOnCapitolGrounds": "DANCE EXERCISE CLASS",
+    "startDateTime": "8/15/2024 7:00 PM",
+    "setUpDateTime": "8/15/2024 6:00 PM",
+    "endDateTime": "8/15/2024 8:30 PM",
+    "participants": 50,
+    "details": "Exercise class once a week, Thursday, for the month of August to promote womens' health ages 16 yrs old and up."
+  },
+  {
+    "status": "pending",
+    "number": "2024-698",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11051",
+    "eventSponsor": "SEXYCIZE",
+    "locationOnCapitolGrounds": "DANCE EXERCISE CLASS",
+    "startDateTime": "8/22/2024 7:00 PM",
+    "setUpDateTime": "8/22/2024 6:00 PM",
+    "endDateTime": "8/22/2024 8:30 PM",
+    "participants": 50,
+    "details": "Exercise class once a week for the month of August to promote womens' health for ages 16 years old and up."
+  },
+  {
+    "status": "pending",
+    "number": "2024-699",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11052",
+    "eventSponsor": "SEXYCIZE",
+    "locationOnCapitolGrounds": "DANCE EXERCISE CLASS",
+    "startDateTime": "8/29/2024 7:00 PM",
+    "setUpDateTime": "8/29/2024 6:00 PM",
+    "endDateTime": "8/29/2024 8:30 PM",
+    "participants": 50,
+    "details": "Exercise class once a week, Thursday, for the month of August to promote womens' health ages 16 years old and up"
   },
   {
     "status": "approved",
