@@ -9879,11 +9879,11 @@
     "status": "approved",
     "number": "2024-637",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10978",
-    "eventSponsor": "California Families Rise",
+    "eventSponsor": "Parents Against CPS Corruption ",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "8/15/2024 9:00 AM",
-    "setUpDateTime": "8/15/2024 8:00 AM",
-    "endDateTime": "8/15/2024 5:00 PM",
+    "startDateTime": "9/26/2024 10:00 AM",
+    "setUpDateTime": "9/26/2024 8:00 AM",
+    "endDateTime": "9/26/2024 5:00 PM",
     "participants": 200,
     "details": "Family Campaign vs. Family Court & CPS"
   },
@@ -10476,7 +10476,7 @@
     "details": "How to resist white nationalism and protecting our democracy"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-695",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11048",
     "eventSponsor": "Strategy 6",
@@ -10485,22 +10485,22 @@
     "setUpDateTime": "8/6/2024 6:15 PM",
     "endDateTime": "8/6/2024 8:30 PM",
     "participants": 50,
-    "details": "Rally in support of political prisoners and against the war."
+    "details": "Rally in support of political prisoners and against the war in Russia and Belarus."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-696",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11049",
     "eventSponsor": "SEXYCIZE",
     "locationOnCapitolGrounds": "DANCE EXERCISE CLASS",
-    "startDateTime": "8/8/2024 6:00 PM",
+    "startDateTime": "8/8/2024 7:00 PM",
     "setUpDateTime": "8/8/2024 6:00 PM",
-    "endDateTime": "8/8/2024 6:00 PM",
+    "endDateTime": "8/8/2024 8:30 PM",
     "participants": 50,
     "details": "Exercise class once a week, Thursday, for the month of August  to support womens' health ages 16 and up"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-697",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11050",
     "eventSponsor": "SEXYCIZE",
@@ -10512,7 +10512,7 @@
     "details": "Exercise class once a week, Thursday, for the month of August to promote womens' health ages 16 yrs old and up."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-698",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11051",
     "eventSponsor": "SEXYCIZE",
@@ -10524,7 +10524,7 @@
     "details": "Exercise class once a week for the month of August to promote womens' health for ages 16 years old and up."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-699",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11052",
     "eventSponsor": "SEXYCIZE",
@@ -10534,6 +10534,18 @@
     "endDateTime": "8/29/2024 8:30 PM",
     "participants": 50,
     "details": "Exercise class once a week, Thursday, for the month of August to promote womens' health ages 16 years old and up"
+  },
+  {
+    "status": "approved",
+    "number": "2024-700",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11053",
+    "eventSponsor": "Protest against Bangladesh government brutality on Students",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/4/2024 11:00 AM",
+    "setUpDateTime": "8/4/2024 10:00 AM",
+    "endDateTime": "8/4/2024 1:00 PM",
+    "participants": 100,
+    "details": "Protest against the authoritarian regime in Bangladesh who is mass killing students"
   },
   {
     "status": "approved",
