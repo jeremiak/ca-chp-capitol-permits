@@ -9589,6 +9589,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-61",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10282",
+    "eventSponsor": "Native American Day",
+    "locationOnCapitolGrounds": "West Side, Traffic Circle",
+    "startDateTime": "9/27/2024 10:00 AM",
+    "setUpDateTime": "9/27/2024 6:00 AM",
+    "endDateTime": "9/27/2024 7:00 PM",
+    "participants": 750,
+    "details": "To celebrate the first peoples of California"
+  },
+  {
+    "status": "approved",
     "number": "2024-610",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10948",
     "eventSponsor": "HRD All Staff MeetingPicnic",
@@ -9622,6 +9634,18 @@
     "endDateTime": "6/13/2024 9:30 AM",
     "participants": 50,
     "details": "Press conference to opposed AB 1955"
+  },
+  {
+    "status": "approved",
+    "number": "2024-613",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10951",
+    "eventSponsor": "East Bay Regional Park District Sacramento Appreciation Luncheon",
+    "locationOnCapitolGrounds": "Area 27",
+    "startDateTime": "9/27/2024 12:00 PM",
+    "setUpDateTime": "9/27/2024 10:00 AM",
+    "endDateTime": "9/27/2024 3:30 PM",
+    "participants": 30,
+    "details": "The East Bay Regional Park District hosts our state partners annually at our Sacramento Appreciation Luncheon to discuss park and trail activities, issues and programs.  All East Bay elected offices are invited to attend."
   },
   {
     "status": "pending",
@@ -10606,6 +10630,18 @@
     "endDateTime": "4/13/2024 6:30 PM",
     "participants": 65,
     "details": "Personal wedding in the World Peace Rose Garden with seating arranged between the North West white arch entry way and the Vietnam Memorial. Expecting chairs to be setup about 1-2 hours before walking ceremony and cleaned up immediately following conclusion of ceremony."
+  },
+  {
+    "status": "approved",
+    "number": "2024-81",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10328",
+    "eventSponsor": "California Indian Day gathering",
+    "locationOnCapitolGrounds": "Area 27",
+    "startDateTime": "9/27/2024 5:30 PM",
+    "setUpDateTime": "9/27/2024 5:00 PM",
+    "endDateTime": "9/27/2024 9:00 PM",
+    "participants": 100,
+    "details": "A gathering of California Native community members to honor and celebrate California Indian Day. There will be two California Dance groups dancing in recognition of the day."
   },
   {
     "status": "approved",
