@@ -9108,6 +9108,18 @@
     "details": "Rally for crime victim services and support for funding in the June final budget for survivors of crime."
   },
   {
+    "status": "approved",
+    "number": "2024-565",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10895",
+    "eventSponsor": "Arthur Wedding",
+    "locationOnCapitolGrounds": "Area 5",
+    "startDateTime": "9/28/2024 11:00 AM",
+    "setUpDateTime": "9/28/2024 9:00 AM",
+    "endDateTime": "9/28/2024 1:30 PM",
+    "participants": 40,
+    "details": "Wedding ceremony"
+  },
+  {
     "status": "pending",
     "number": "2024-566",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10896",
@@ -10570,6 +10582,30 @@
     "endDateTime": "8/4/2024 1:00 PM",
     "participants": 100,
     "details": "Protest against the authoritarian regime in Bangladesh who is mass killing students"
+  },
+  {
+    "status": "pending",
+    "number": "2024-702",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11057",
+    "eventSponsor": "Yeshua House Of Israel",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "7/31/2024 4:00 PM",
+    "setUpDateTime": "7/31/2024 3:30 PM",
+    "endDateTime": "7/31/2024 6:00 PM",
+    "participants": 10,
+    "details": "Christian Church event including preaching, worship, prayer, and other related activities for church assembly"
+  },
+  {
+    "status": "approved",
+    "number": "2024-72",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10312",
+    "eventSponsor": "11th annual Sacramento Century Challenge",
+    "locationOnCapitolGrounds": "West Side, Traffic Circle",
+    "startDateTime": "9/28/2024 7:00 AM",
+    "setUpDateTime": "9/28/2024 6:00 AM",
+    "endDateTime": "9/28/2024 9:00 PM",
+    "participants": 1000,
+    "details": "A bike ride and post ride festival on September 28, 2024. We have the permit confirmed from the City of Sacramento for Capitol Mall from 8th to 9th Streets. This is a fundraiser for the Sacramento Children's Home Crisis Nursery."
   },
   {
     "status": "approved",
