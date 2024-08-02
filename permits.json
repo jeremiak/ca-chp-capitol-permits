@@ -10421,11 +10421,11 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11031",
     "eventSponsor": "Jewish Community Lobby Day",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "8/5/2024 12:00 PM",
+    "startDateTime": "8/5/2024 11:30 AM",
     "setUpDateTime": "8/5/2024 11:00 AM",
-    "endDateTime": "8/5/2024 5:00 PM",
+    "endDateTime": "8/5/2024 1:30 PM",
     "participants": 100,
-    "details": "The Jewish Community will be in Sacramento on August 5th to meet with legislators to encourage their support for the community's top priorities. We would like to use the West Side of the State Capitol as a gathering and event space for the day."
+    "details": "The Jewish Community will be in Sacramento on August 5th to meet with legislators to encourage their support for the community's top priorities."
   },
   {
     "status": "approved",
@@ -10661,14 +10661,14 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11064",
     "eventSponsor": "Recruitment photoshoot ",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "9/20/2024 3:30 PM",
-    "setUpDateTime": "9/20/2024 6:00 AM",
-    "endDateTime": "9/20/2024 3:30 PM",
+    "startDateTime": "9/20/2024 3:00 PM",
+    "setUpDateTime": "9/20/2024 3:00 PM",
+    "endDateTime": "9/20/2024 6:00 PM",
     "participants": 6,
     "details": "Recruitment photoshoot featuring a Lifeguard Unit (Truck) and State Parks Peace Officer cruiser."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-710",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11065",
     "eventSponsor": "SB 1103 press conference Southwest Side",
@@ -10680,16 +10680,16 @@
     "details": "This will be a press conference held to promote SB 1103 (Menjivar).  This will be on the southwest side across from the LOB."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-711",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11066",
     "eventSponsor": "wedding ceremony",
-    "locationOnCapitolGrounds": "Area 1, Area 22, Area 27, Area 33",
+    "locationOnCapitolGrounds": "Area 1, Area 5",
     "startDateTime": "8/11/2024 4:15 PM",
     "setUpDateTime": "8/11/2024 4:00 PM",
     "endDateTime": "8/11/2024 6:00 PM",
     "participants": 7,
-    "details": "and photo taking"
+    "details": "Wedding and photo taking"
   },
   {
     "status": "pending",
@@ -10701,17 +10701,17 @@
     "setUpDateTime": "9/26/2024 6:00 PM",
     "endDateTime": "9/26/2024 9:45 PM",
     "participants": 20,
-    "details": "See Us Now and Safe House Project, along with hundreds of Team Protectors partners across the country are shinning a light on America's broken foster care system by lighting key buildings and landmarks blue In honor of Missing & Trafficked Foster Children Awareness Week, September 22 - 28, 2024. We are requesting the west side of the California State Capitol be lit blue on our designated National Blue Out America day, Thursday, September 26th.   Our goal is build public awareness and bring key legislative change within the foster care system."
+    "details": "See Us Now and Safe House Project, along with hundreds of Team Protectors partners across the country are shinning a light on America's broken foster care system by lighting key buildings and landmarks blue In honor of Missing & Trafficked Foster Children Awareness Week, September 22 - 28, 2024.  Our goal is build public awareness and bring key legislative change within the foster care system."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-713",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11068",
-    "eventSponsor": "Quintana-Saragosa Public Affairs",
-    "locationOnCapitolGrounds": "Area 22",
-    "startDateTime": "8/3/2024 12:00 PM",
-    "setUpDateTime": "8/3/2024 6:00 AM",
-    "endDateTime": "8/3/2024 2:00 PM",
+    "eventSponsor": "Quintana-Saragosa Public Affairs- Southwest Side",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/5/2024 4:30 PM",
+    "setUpDateTime": "8/5/2024 4:30 PM",
+    "endDateTime": "8/5/2024 6:00 PM",
     "participants": 5,
     "details": "Shots and filming state Capitol"
   },
