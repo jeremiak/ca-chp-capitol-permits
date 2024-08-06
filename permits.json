@@ -6510,8 +6510,8 @@
     "eventSponsor": "Disc Golf Day",
     "locationOnCapitolGrounds": "Northwest Lawn Under Trees",
     "startDateTime": "8/6/2024 10:00 AM",
-    "setUpDateTime": "8/6/2024 9:15 AM",
-    "endDateTime": "8/6/2024 1:00 PM",
+    "setUpDateTime": "8/6/2024 8:00 AM",
+    "endDateTime": "8/6/2024 1:30 PM",
     "participants": 50,
     "details": "Disc throwing demonstrations and hands-on practice sessions with a limited, no more than, 25-foot distance. There will be an assigned organizer responsible for crowd control and ensuring discs do not travel more than a 25-foot distance from the spot of throwing. Information booths by selects companies in the disc golf industry will be set up to provide education information."
   },
@@ -7906,6 +7906,18 @@
     "endDateTime": "4/23/2024 12:45 PM",
     "participants": 30,
     "details": "Press conference with the mayors of California's 13 largest cities.  This will be on the southwest corner closer to the Capitol."
+  },
+  {
+    "status": "approved",
+    "number": "2024-459",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10766",
+    "eventSponsor": "The Kiesz Wedding",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "10/5/2024 12:00 PM",
+    "setUpDateTime": "10/5/2024 11:00 AM",
+    "endDateTime": "10/5/2024 3:00 PM",
+    "participants": 35,
+    "details": "Wedding"
   },
   {
     "status": "approved",
@@ -10697,14 +10709,14 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11067",
     "eventSponsor": "See Us Now",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "9/26/2024 6:30 PM",
+    "startDateTime": "9/26/2024 7:00 PM",
     "setUpDateTime": "9/26/2024 6:00 PM",
-    "endDateTime": "9/26/2024 9:45 PM",
+    "endDateTime": "9/26/2024 10:00 PM",
     "participants": 20,
     "details": "See Us Now and Safe House Project, along with hundreds of Team Protectors partners across the country are shinning a light on America's broken foster care system by lighting key buildings and landmarks blue In honor of Missing & Trafficked Foster Children Awareness Week, September 22 - 28, 2024.  Our goal is build public awareness and bring key legislative change within the foster care system."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-713",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11069",
     "eventSponsor": "California Family Council- Southwest Side",
@@ -10714,6 +10726,30 @@
     "endDateTime": "8/12/2024 11:30 AM",
     "participants": 30,
     "details": "Press Conference on Women's Prison Conditions.  This will be on the Southwest Corner across from the LOB on the N Street side of the West."
+  },
+  {
+    "status": "pending",
+    "number": "2024-714",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11070",
+    "eventSponsor": "United Farm Workers",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/24/2024 4:00 AM",
+    "setUpDateTime": "8/24/2024 4:00 AM",
+    "endDateTime": "8/24/2024 4:00 AM",
+    "participants": 50,
+    "details": "Press conference on farm worker's experience on heat. We would have legislators, workers, and members of the media in attendance."
+  },
+  {
+    "status": "pending",
+    "number": "2024-715",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11071",
+    "eventSponsor": "Rally for a bill- Southwest Side",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/5/2024 10:00 AM",
+    "setUpDateTime": "9/5/2024 9:30 AM",
+    "endDateTime": "9/5/2024 1:00 PM",
+    "participants": 40,
+    "details": "Rally for Assemblymember Alvarez's bill.  This will be on the southwest side."
   },
   {
     "status": "approved",
@@ -10726,6 +10762,18 @@
     "endDateTime": "9/28/2024 9:00 PM",
     "participants": 1000,
     "details": "A bike ride and post ride festival on September 28, 2024. We have the permit confirmed from the City of Sacramento for Capitol Mall from 8th to 9th Streets. This is a fundraiser for the Sacramento Children's Home Crisis Nursery."
+  },
+  {
+    "status": "approved",
+    "number": "2024-73",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10313",
+    "eventSponsor": "Walk-N-Roll for Spina Bifida",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/5/2024 9:00 AM",
+    "setUpDateTime": "10/5/2024 6:00 AM",
+    "endDateTime": "10/5/2024 2:00 PM",
+    "participants": 300,
+    "details": "Walk-N-Roll for Spina Bifida 1 mile fundraiser."
   },
   {
     "status": "approved",
