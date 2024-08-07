@@ -4373,7 +4373,7 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10448",
     "eventSponsor": "National EMS Memorial Bike Ride",
     "locationOnCapitolGrounds": "West Coast",
-    "startDateTime": "9/19/2024 9:00 AM",
+    "startDateTime": "9/19/2024 9:30 AM",
     "setUpDateTime": "9/19/2024 7:30 AM",
     "endDateTime": "9/19/2024 11:30 AM",
     "participants": 50,
@@ -10632,13 +10632,13 @@
     "details": "Christian Church event including preaching, worship, prayer, and other related activities for church assembly"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-705",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11060",
     "eventSponsor": "Recovery Housing Rally ",
     "locationOnCapitolGrounds": "Area 27",
     "startDateTime": "8/13/2024 10:15 AM",
-    "setUpDateTime": "8/13/2024 10:00 AM",
+    "setUpDateTime": "8/13/2024 9:30 AM",
     "endDateTime": "8/13/2024 10:45 AM",
     "participants": 100,
     "details": "Recovery Housing rally in support of AB 2893"
@@ -10671,10 +10671,10 @@
     "status": "pending",
     "number": "2024-709",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11064",
-    "eventSponsor": "Recruitment photoshoot ",
+    "eventSponsor": "Recruitment photoshoot State Parks Lifeguards",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "9/20/2024 3:00 PM",
-    "setUpDateTime": "9/20/2024 3:00 PM",
+    "startDateTime": "9/20/2024 12:00 PM",
+    "setUpDateTime": "9/20/2024 12:00 PM",
     "endDateTime": "9/20/2024 6:00 PM",
     "participants": 6,
     "details": "Recruitment photoshoot featuring a Lifeguard Unit (Truck) and State Parks Peace Officer cruiser."
@@ -10733,9 +10733,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11070",
     "eventSponsor": "United Farm Workers",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "8/24/2024 4:00 AM",
-    "setUpDateTime": "8/24/2024 4:00 AM",
-    "endDateTime": "8/24/2024 4:00 AM",
+    "startDateTime": "8/12/2024 2:00 PM",
+    "setUpDateTime": "8/12/2024 1:30 PM",
+    "endDateTime": "8/12/2024 6:00 PM",
     "participants": 50,
     "details": "Press conference on farm worker's experience on heat. We would have legislators, workers, and members of the media in attendance."
   },
@@ -10750,6 +10750,42 @@
     "endDateTime": "9/5/2024 1:00 PM",
     "participants": 40,
     "details": "Rally for Assemblymember Alvarez's bill.  This will be on the southwest side."
+  },
+  {
+    "status": "approved",
+    "number": "2024-716",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11073",
+    "eventSponsor": "Support for Bangla Hindus",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/9/2024 7:00 PM",
+    "setUpDateTime": "8/9/2024 6:30 PM",
+    "endDateTime": "8/9/2024 8:30 PM",
+    "participants": 30,
+    "details": "This event will be a peaceful protest to show solidarity with Hindus in Bangladesh and against the ongoing violence against Hindus in Bangladesh."
+  },
+  {
+    "status": "pending",
+    "number": "2024-717",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11074",
+    "eventSponsor": "Muwekma Tribe Travel of Truth",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/9/2024 12:00 PM",
+    "setUpDateTime": "8/9/2024 11:00 AM",
+    "endDateTime": "8/9/2024 2:00 PM",
+    "participants": 75,
+    "details": "Chairwoman Charlene Nijmeh will be delivering remarks on the steps of the Capitol calling on Governor Newsom to lead on the issue of reaffirming wrongly unrecognized and terminated tribes."
+  },
+  {
+    "status": "pending",
+    "number": "2024-718",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11075",
+    "eventSponsor": "Office of Assemblywoman Sharon Quirk-Silva",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "8/9/2024 12:00 PM",
+    "setUpDateTime": "8/9/2024 11:00 AM",
+    "endDateTime": "8/9/2024 1:00 PM",
+    "participants": 50,
+    "details": "Press Conference for Assembly Housing Bills going to floor votes in the Senate"
   },
   {
     "status": "approved",
@@ -10774,6 +10810,18 @@
     "endDateTime": "10/5/2024 2:00 PM",
     "participants": 300,
     "details": "Walk-N-Roll for Spina Bifida 1 mile fundraiser."
+  },
+  {
+    "status": "approved",
+    "number": "2024-75",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10319",
+    "eventSponsor": "California Freethought Day 2024",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/6/2024 11:00 AM",
+    "setUpDateTime": "10/6/2024 7:30 AM",
+    "endDateTime": "10/6/2024 5:30 PM",
+    "participants": 400,
+    "details": "An annual celebration of freedom of speech and thought, civic engagement, enthusiasm for science, social justice, and the separation of church and state. This will be our twenty-third year."
   },
   {
     "status": "approved",
