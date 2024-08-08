@@ -7020,7 +7020,7 @@
     "details": "This press briefing will center on SB 268, which aims to classify the rape of an intoxicated individual as a violent felony. Aligned with National Sexual Assault Awareness Month, Senator Marie Alvarado-Gil and fellow members of the California Legislature, alongside several notable speakers, are slated to speak at the press conference."
   },
   {
-    "status": "approved",
+    "status": "pending",
     "number": "2024-378",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10678",
     "eventSponsor": "Lambert Hass Wedding",
@@ -8292,7 +8292,7 @@
     "details": "Honor Guard and flag folding for USMC Sergeant Wayne A. Guerin"
   },
   {
-    "status": "approved",
+    "status": "pending",
     "number": "2024-492",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10802",
     "eventSponsor": "76th Karen Martyrs Day Anniversary ",
@@ -8300,7 +8300,7 @@
     "startDateTime": "8/10/2024 2:00 PM",
     "setUpDateTime": "8/10/2024 1:00 PM",
     "endDateTime": "8/10/2024 6:00 PM",
-    "participants": 100,
+    "participants": 110,
     "details": "The California Karen Youth Connection will present the 76th Anniversary of Karen Martyrs' Day which is a celebration of Karen heroes and civilian who sacrificed their lives to fight for Karen Independence in Burma. This event is a formal ceremony to commemorate the brave leaders who gave their lives to protect the country."
   },
   {
@@ -10368,14 +10368,14 @@
     "details": "Senator Susan Rubio press conference west steps"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-676",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11025",
     "eventSponsor": "SB 1340 Rally- West Steps",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "8/13/2024 10:00 AM",
-    "setUpDateTime": "8/13/2024 7:00 AM",
-    "endDateTime": "8/13/2024 12:00 PM",
+    "setUpDateTime": "8/12/2024 2:00 PM",
+    "endDateTime": "8/13/2024 3:00 PM",
     "participants": 150,
     "details": "This will be a gathering of advocates. There will be a 3 speakers speaking for 5-10 minutes each."
   },
@@ -10510,6 +10510,18 @@
     "endDateTime": "8/17/2024 5:00 PM",
     "participants": 50,
     "details": "Prayer event with live music and resources for parents.  11am start.  Probably end closer to 3 or earlier"
+  },
+  {
+    "status": "approved",
+    "number": "2024-689",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11040",
+    "eventSponsor": "Christians United for Israel",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/7/2024 11:00 AM",
+    "setUpDateTime": "10/7/2024 9:00 AM",
+    "endDateTime": "10/7/2024 7:30 PM",
+    "participants": 100,
+    "details": "display of hostage pictures and posters calling for their release if they have not been returned.  If returned a solemn remembrance of the October 7, 2023 events in Israel. a display that passer by could learn and remember."
   },
   {
     "status": "approved",
@@ -10668,7 +10680,7 @@
     "details": "The California Coalition for Youth will have a youth homelessness address with information, testimonies, and words from invited leadership and guest."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-709",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11064",
     "eventSponsor": "Recruitment photoshoot State Parks Lifeguards",
@@ -10728,16 +10740,16 @@
     "details": "Press Conference on Women's Prison Conditions.  This will be on the Southwest Corner across from the LOB on the N Street side of the West."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-714",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11070",
-    "eventSponsor": "United Farm Workers",
+    "eventSponsor": "United Farm Workers- Southwest Side",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "8/12/2024 2:00 PM",
-    "setUpDateTime": "8/12/2024 1:30 PM",
-    "endDateTime": "8/12/2024 6:00 PM",
+    "startDateTime": "8/12/2024 12:45 PM",
+    "setUpDateTime": "8/12/2024 12:00 PM",
+    "endDateTime": "8/12/2024 1:45 PM",
     "participants": 50,
-    "details": "Press conference on farm worker's experience on heat. We would have legislators, workers, and members of the media in attendance."
+    "details": "Press conference on farm worker's experience on heat. We would have legislators, workers, and members of the media in attendance. This will be on the Southwest Side."
   },
   {
     "status": "pending",
@@ -10764,14 +10776,14 @@
     "details": "This event will be a peaceful protest to show solidarity with Hindus in Bangladesh and against the ongoing violence against Hindus in Bangladesh."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-717",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11074",
     "eventSponsor": "Muwekma Tribe Travel of Truth",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "8/9/2024 12:00 PM",
-    "setUpDateTime": "8/9/2024 11:00 AM",
-    "endDateTime": "8/9/2024 2:00 PM",
+    "startDateTime": "8/8/2024 12:00 PM",
+    "setUpDateTime": "8/8/2024 11:00 AM",
+    "endDateTime": "8/8/2024 2:00 PM",
     "participants": 75,
     "details": "Chairwoman Charlene Nijmeh will be delivering remarks on the steps of the Capitol calling on Governor Newsom to lead on the issue of reaffirming wrongly unrecognized and terminated tribes."
   },
@@ -10789,6 +10801,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-719",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11076",
+    "eventSponsor": "Stop PGE",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/27/2024 12:00 PM",
+    "setUpDateTime": "8/27/2024 12:00 PM",
+    "endDateTime": "8/27/2024 5:00 PM",
+    "participants": 50,
+    "details": "Peaceful rally to express our concern with PG&E's rising utility cost"
+  },
+  {
+    "status": "approved",
     "number": "2024-72",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10312",
     "eventSponsor": "11th annual Sacramento Century Challenge",
@@ -10798,6 +10822,18 @@
     "endDateTime": "9/28/2024 9:00 PM",
     "participants": 1000,
     "details": "A bike ride and post ride festival on September 28, 2024. We have the permit confirmed from the City of Sacramento for Capitol Mall from 8th to 9th Streets. This is a fundraiser for the Sacramento Children's Home Crisis Nursery."
+  },
+  {
+    "status": "pending",
+    "number": "2024-720",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11077",
+    "eventSponsor": "Medgar Evers GOTV Rally",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/28/2024 4:00 PM",
+    "setUpDateTime": "8/28/2024 3:00 PM",
+    "endDateTime": "8/28/2024 6:00 PM",
+    "participants": 300,
+    "details": "Voter registration and education event"
   },
   {
     "status": "approved",
