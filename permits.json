@@ -10836,6 +10836,18 @@
     "details": "Voter registration and education event"
   },
   {
+    "status": "pending",
+    "number": "2024-721",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11078",
+    "eventSponsor": "Team Building",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/11/2024 10:30 AM",
+    "setUpDateTime": "8/11/2024 9:30 AM",
+    "endDateTime": "8/11/2024 12:00 PM",
+    "participants": 60,
+    "details": "Office team building with root beer floats."
+  },
+  {
     "status": "approved",
     "number": "2024-73",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10313",
