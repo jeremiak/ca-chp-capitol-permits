@@ -7020,7 +7020,7 @@
     "details": "This press briefing will center on SB 268, which aims to classify the rape of an intoxicated individual as a violent felony. Aligned with National Sexual Assault Awareness Month, Senator Marie Alvarado-Gil and fellow members of the California Legislature, alongside several notable speakers, are slated to speak at the press conference."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-378",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10678",
     "eventSponsor": "Lambert Hass Wedding",
@@ -8292,7 +8292,7 @@
     "details": "Honor Guard and flag folding for USMC Sergeant Wayne A. Guerin"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-492",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10802",
     "eventSponsor": "76th Karen Martyrs Day Anniversary ",
@@ -10368,7 +10368,7 @@
     "details": "Senator Susan Rubio press conference west steps"
   },
   {
-    "status": "approved",
+    "status": "pending",
     "number": "2024-676",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11025",
     "eventSponsor": "SB 1340 Rally- West Steps",
@@ -10376,7 +10376,7 @@
     "startDateTime": "8/13/2024 10:00 AM",
     "setUpDateTime": "8/12/2024 2:00 PM",
     "endDateTime": "8/13/2024 3:00 PM",
-    "participants": 150,
+    "participants": 155,
     "details": "This will be a gathering of advocates. There will be a 3 speakers speaking for 5-10 minutes each."
   },
   {
@@ -10836,16 +10836,40 @@
     "details": "Voter registration and education event"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-721",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11078",
     "eventSponsor": "Team Building",
-    "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "8/11/2024 10:30 AM",
-    "setUpDateTime": "8/11/2024 9:30 AM",
-    "endDateTime": "8/11/2024 12:00 PM",
-    "participants": 60,
+    "locationOnCapitolGrounds": "Southwest Corner 10th and N",
+    "startDateTime": "9/11/2024 10:30 AM",
+    "setUpDateTime": "9/11/2024 9:30 AM",
+    "endDateTime": "9/11/2024 12:00 PM",
+    "participants": 40,
     "details": "Office team building with root beer floats."
+  },
+  {
+    "status": "pending",
+    "number": "2024-722",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11081",
+    "eventSponsor": "SB 227 Safety Net For All Rally",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "8/13/2024 9:00 AM",
+    "setUpDateTime": "8/13/2024 6:00 AM",
+    "endDateTime": "8/13/2024 4:00 PM",
+    "participants": 100,
+    "details": "Rally in support of SB 227, Safety Net for All. This event will bring together advocates from all over California, legislators and speakers to support unemployment insurance to all excluded workers."
+  },
+  {
+    "status": "pending",
+    "number": "2024-723",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11082",
+    "eventSponsor": "Senator Josh Becker ",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "8/14/2024 11:00 AM",
+    "setUpDateTime": "8/14/2024 10:00 AM",
+    "endDateTime": "8/14/2024 12:30 PM",
+    "participants": 50,
+    "details": "Press Conference in support of SB 537"
   },
   {
     "status": "approved",
