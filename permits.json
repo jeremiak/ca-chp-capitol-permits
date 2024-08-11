@@ -4297,6 +4297,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-144",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10437",
+    "eventSponsor": "ACPD NDEAM Job and Resources Fair",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/10/2024 10:00 AM",
+    "setUpDateTime": "10/10/2024 8:00 AM",
+    "endDateTime": "10/10/2024 4:00 PM",
+    "participants": 100,
+    "details": "ACPD NDEAM EVENT - 45 State agencies with tables and chairs for recruitment and job awareness"
+  },
+  {
+    "status": "approved",
     "number": "2024-146",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10440",
     "eventSponsor": "Association of Independent California Colleges and Universities (AICCU) Southwest Side",
@@ -10870,6 +10882,42 @@
     "endDateTime": "8/14/2024 12:30 PM",
     "participants": 50,
     "details": "Press Conference in support of SB 537"
+  },
+  {
+    "status": "pending",
+    "number": "2024-724",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11083",
+    "eventSponsor": "Kingdom Roar Presents, Rapping the Kingdom",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/25/2024 12:00 PM",
+    "setUpDateTime": "8/25/2024 11:30 AM",
+    "endDateTime": "8/25/2024 2:00 PM",
+    "participants": 100,
+    "details": "A collection of Christian Rappers and Worship Dancers will be doing music and dance in fellowship."
+  },
+  {
+    "status": "pending",
+    "number": "2024-725",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11084",
+    "eventSponsor": "The Reading of Luke Chapters 1-3 The birth of Jesus",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "8/13/2024 12:00 PM",
+    "setUpDateTime": "8/13/2024 11:00 AM",
+    "endDateTime": "8/13/2024 3:00 PM",
+    "participants": 30,
+    "details": "Come and join us in reading about the birth of Jesus. We will have light snacks and refreshments."
+  },
+  {
+    "status": "pending",
+    "number": "2024-726",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11085",
+    "eventSponsor": "Supporters of Imran Khan, Pakistan",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "9/27/2024 4:00 PM",
+    "setUpDateTime": "9/27/2024 3:00 PM",
+    "endDateTime": "9/27/2024 7:00 PM",
+    "participants": 50,
+    "details": "Rally, speeches to raise awareness about the human Rights crisis, situation of rule of law and constitution in Pakistan by the current fascist Military regime."
   },
   {
     "status": "approved",
