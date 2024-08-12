@@ -4117,6 +4117,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-124",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10406",
+    "eventSponsor": "California Firefighters Memorial Ceremony",
+    "locationOnCapitolGrounds": "West Side, Area 1, Area 5, Area 22, Area 27, Area 33, Area 34",
+    "startDateTime": "10/12/2024 8:00 AM",
+    "setUpDateTime": "10/11/2024 9:00 AM",
+    "endDateTime": "10/12/2024 9:45 PM",
+    "participants": 1000,
+    "details": "Annual Ceremony Honoring fallen firefighters from California at the California Firefighters Memorial Wall"
+  },
+  {
+    "status": "approved",
     "number": "2024-125",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10408",
     "eventSponsor": "Coalition for Humane Immigrant Rights CHIRLA",
@@ -10918,6 +10930,18 @@
     "endDateTime": "9/27/2024 7:00 PM",
     "participants": 50,
     "details": "Rally, speeches to raise awareness about the human Rights crisis, situation of rule of law and constitution in Pakistan by the current fascist Military regime."
+  },
+  {
+    "status": "approved",
+    "number": "2024-728",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11087",
+    "eventSponsor": "Yes on 36",
+    "locationOnCapitolGrounds": "Time for Common Sense on Safety- Southwest Side",
+    "startDateTime": "8/14/2024 10:00 AM",
+    "setUpDateTime": "8/14/2024 9:00 AM",
+    "endDateTime": "8/14/2024 11:00 AM",
+    "participants": 30,
+    "details": "Press Conference-Yes on 36 - Time for Common Sense on Safety"
   },
   {
     "status": "approved",
