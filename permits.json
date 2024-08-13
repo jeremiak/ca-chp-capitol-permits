@@ -5017,6 +5017,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-209",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10505",
+    "eventSponsor": "Rick & Kim Wedding",
+    "locationOnCapitolGrounds": "Area 1, Area 5",
+    "startDateTime": "10/12/2024 1:00 PM",
+    "setUpDateTime": "10/12/2024 12:00 PM",
+    "endDateTime": "10/12/2024 8:00 PM",
+    "participants": 20,
+    "details": "Wedding"
+  },
+  {
+    "status": "approved",
     "number": "2024-21",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9983",
     "eventSponsor": "Garcia Wedding ",
@@ -10392,13 +10404,13 @@
     "details": "Senator Susan Rubio press conference west steps"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-676",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11025",
     "eventSponsor": "SB 1340 Rally- West Steps",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "8/13/2024 10:00 AM",
-    "setUpDateTime": "8/12/2024 2:00 PM",
+    "setUpDateTime": "8/13/2024 4:30 AM",
     "endDateTime": "8/13/2024 3:00 PM",
     "participants": 155,
     "details": "This will be a gathering of advocates. There will be a 3 speakers speaking for 5-10 minutes each."
@@ -10872,28 +10884,28 @@
     "details": "Office team building with root beer floats."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-722",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11081",
     "eventSponsor": "SB 227 Safety Net For All Rally",
-    "locationOnCapitolGrounds": "Other",
-    "startDateTime": "8/13/2024 9:00 AM",
-    "setUpDateTime": "8/13/2024 6:00 AM",
-    "endDateTime": "8/13/2024 4:00 PM",
-    "participants": 100,
+    "locationOnCapitolGrounds": "Southwest side ",
+    "startDateTime": "8/13/2024 12:30 PM",
+    "setUpDateTime": "8/13/2024 12:15 PM",
+    "endDateTime": "8/13/2024 3:00 PM",
+    "participants": 50,
     "details": "Rally in support of SB 227, Safety Net for All. This event will bring together advocates from all over California, legislators and speakers to support unemployment insurance to all excluded workers."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-723",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11082",
-    "eventSponsor": "Senator Josh Becker ",
-    "locationOnCapitolGrounds": "Other",
-    "startDateTime": "8/14/2024 11:00 AM",
-    "setUpDateTime": "8/14/2024 10:00 AM",
-    "endDateTime": "8/14/2024 12:30 PM",
+    "eventSponsor": "Press conference for SB 537 Mexican Repatriation of 1930",
+    "locationOnCapitolGrounds": "Southwest corner",
+    "startDateTime": "8/14/2024 8:00 AM",
+    "setUpDateTime": "8/14/2024 7:30 AM",
+    "endDateTime": "8/14/2024 8:45 AM",
     "participants": 50,
-    "details": "Press Conference in support of SB 537"
+    "details": "Senator Becker press conference in support of SB 537"
   },
   {
     "status": "pending",
@@ -10944,6 +10956,18 @@
     "details": "Press Conference-Yes on 36 - Time for Common Sense on Safety"
   },
   {
+    "status": "pending",
+    "number": "2024-729",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11088",
+    "eventSponsor": "AB 1858 Press Conference",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "9/5/2024 11:00 AM",
+    "setUpDateTime": "9/5/2024 11:00 AM",
+    "endDateTime": "9/5/2024 1:00 PM",
+    "participants": 30,
+    "details": "Press conference for AB 1858."
+  },
+  {
     "status": "approved",
     "number": "2024-73",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10313",
@@ -10954,6 +10978,42 @@
     "endDateTime": "10/5/2024 2:00 PM",
     "participants": 300,
     "details": "Walk-N-Roll for Spina Bifida 1 mile fundraiser."
+  },
+  {
+    "status": "pending",
+    "number": "2024-730",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11089",
+    "eventSponsor": "Stop the Tunnels Press Conference with Congressman Harder",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/28/2024 10:30 AM",
+    "setUpDateTime": "8/28/2024 10:00 AM",
+    "endDateTime": "8/28/2024 11:00 AM",
+    "participants": 15,
+    "details": "This will be a brief press conference advocating against the Delta Tunnels project including participants from California's 9th Congressional District. We expect at least one major outlet to cover the event, but unclear at this time if several outlets will be present."
+  },
+  {
+    "status": "pending",
+    "number": "2024-731",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11090",
+    "eventSponsor": "One Million Homes by 2030",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/15/2024 9:00 AM",
+    "setUpDateTime": "8/15/2024 7:00 AM",
+    "endDateTime": "8/15/2024 5:00 PM",
+    "participants": 250,
+    "details": "Artivism, Rally and Press Conference"
+  },
+  {
+    "status": "pending",
+    "number": "2024-732",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11091",
+    "eventSponsor": "One Million Homes by 2030",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/26/2024 9:00 AM",
+    "setUpDateTime": "9/26/2024 6:00 AM",
+    "endDateTime": "9/26/2024 5:00 PM",
+    "participants": 250,
+    "details": "Artivism, Rally and Press Conference"
   },
   {
     "status": "approved",
@@ -11026,6 +11086,18 @@
     "endDateTime": "4/13/2024 6:30 PM",
     "participants": 65,
     "details": "Personal wedding in the World Peace Rose Garden with seating arranged between the North West white arch entry way and the Vietnam Memorial. Expecting chairs to be setup about 1-2 hours before walking ceremony and cleaned up immediately following conclusion of ceremony."
+  },
+  {
+    "status": "approved",
+    "number": "2024-80",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10327",
+    "eventSponsor": "You are a living soul.",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/12/2024 12:00 PM",
+    "setUpDateTime": "10/12/2024 11:00 AM",
+    "endDateTime": "10/12/2024 5:00 PM",
+    "participants": 75,
+    "details": "When God created man he breathed life into him so, he would be come a living soul. This is an outdoor conference about spiritual warfare. Dancing and music will be at the intermission."
   },
   {
     "status": "approved",
