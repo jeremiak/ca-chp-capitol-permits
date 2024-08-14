@@ -5172,16 +5172,16 @@
     "details": "Assembly Republicans Presser at the Department of Labor- 800 Capitol Mall."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-221",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10517",
     "eventSponsor": "Sharing Parents",
     "locationOnCapitolGrounds": "Area 1",
-    "startDateTime": "2/29/2024 4:00 AM",
-    "setUpDateTime": "2/29/2024 4:00 AM",
-    "endDateTime": "2/29/2024 4:00 AM",
+    "startDateTime": "10/13/2024 3:30 PM",
+    "setUpDateTime": "10/13/2024 1:30 PM",
+    "endDateTime": "10/13/2024 6:00 PM",
     "participants": 150,
-    "details": "annual October Memorial for pregnancy and infant loss"
+    "details": "Annual October Memorial for pregnancy and infant loss"
   },
   {
     "status": "approved",
@@ -10697,9 +10697,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11061",
     "eventSponsor": "Make Polluters Pay Rally- Southwest Side",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "8/20/2024 9:00 AM",
-    "setUpDateTime": "8/20/2024 8:30 AM",
-    "endDateTime": "8/20/2024 10:00 AM",
+    "startDateTime": "8/26/2024 12:00 PM",
+    "setUpDateTime": "8/26/2024 10:00 AM",
+    "endDateTime": "8/26/2024 3:00 PM",
     "participants": 25,
     "details": "Rally and press conference in support of a crucial legislative package to hold polluters accountable for their damage to our health, climate, and finances."
   },
@@ -10932,14 +10932,14 @@
     "details": "Come and join us in reading about the birth of Jesus. We will have light snacks and refreshments."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-726",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11085",
     "eventSponsor": "Supporters of Imran Khan, Pakistan",
-    "locationOnCapitolGrounds": "Area 1",
-    "startDateTime": "9/27/2024 4:00 PM",
-    "setUpDateTime": "9/27/2024 3:00 PM",
-    "endDateTime": "9/27/2024 7:00 PM",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/27/2024 8:00 PM",
+    "setUpDateTime": "9/27/2024 8:00 PM",
+    "endDateTime": "9/27/2024 9:00 PM",
     "participants": 50,
     "details": "Rally, speeches to raise awareness about the human Rights crisis, situation of rule of law and constitution in Pakistan by the current fascist Military regime."
   },
@@ -10956,14 +10956,14 @@
     "details": "Press Conference-Yes on 36 - Time for Common Sense on Safety"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-729",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11088",
     "eventSponsor": "AB 1858 Press Conference",
-    "locationOnCapitolGrounds": "Other",
-    "startDateTime": "9/5/2024 11:00 AM",
-    "setUpDateTime": "9/5/2024 11:00 AM",
-    "endDateTime": "9/5/2024 1:00 PM",
+    "locationOnCapitolGrounds": "Northwest Side",
+    "startDateTime": "9/5/2024 10:00 AM",
+    "setUpDateTime": "9/5/2024 9:00 AM",
+    "endDateTime": "9/5/2024 11:00 AM",
     "participants": 30,
     "details": "Press conference for AB 1858."
   },
@@ -10980,7 +10980,7 @@
     "details": "Walk-N-Roll for Spina Bifida 1 mile fundraiser."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-730",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11089",
     "eventSponsor": "Stop the Tunnels Press Conference with Congressman Harder",
@@ -11014,6 +11014,42 @@
     "endDateTime": "9/26/2024 5:00 PM",
     "participants": 250,
     "details": "Artivism, Rally and Press Conference"
+  },
+  {
+    "status": "approved",
+    "number": "2024-733",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11092",
+    "eventSponsor": "Medical Debt Press Conference",
+    "locationOnCapitolGrounds": "Northwest",
+    "startDateTime": "8/15/2024 8:00 AM",
+    "setUpDateTime": "8/15/2024 8:00 AM",
+    "endDateTime": "8/15/2024 9:00 AM",
+    "participants": 30,
+    "details": "Senator Monique Limon will host a rally and press conference to show support for her legislation to remove medical debt from credit reports."
+  },
+  {
+    "status": "pending",
+    "number": "2024-734",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11093",
+    "eventSponsor": "Wedding",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "8/16/2024 10:00 AM",
+    "setUpDateTime": "8/16/2024 6:00 AM",
+    "endDateTime": "8/16/2024 10:00 AM",
+    "participants": 10,
+    "details": "Small Wedding, Eloping"
+  },
+  {
+    "status": "pending",
+    "number": "2024-735",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11095",
+    "eventSponsor": "Ag Day 2025",
+    "locationOnCapitolGrounds": "West Side, Other",
+    "startDateTime": "8/16/2024 6:00 AM",
+    "setUpDateTime": "8/16/2024 6:00 AM",
+    "endDateTime": "8/16/2024 5:00 PM",
+    "participants": 1000,
+    "details": "The Capitol grounds will come alive with fresh food, farm animals, and exhibits.  This is California's agricultural community's annual opportunity to showcase the bounty that our state's farmers, ranchers, and farmworkers produce."
   },
   {
     "status": "approved",
