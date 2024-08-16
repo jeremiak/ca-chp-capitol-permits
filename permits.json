@@ -11076,6 +11076,30 @@
     "details": "Filming and photo shoot of with audio, lighting and small power generator. Two people behind camera, two people in front of camera"
   },
   {
+    "status": "pending",
+    "number": "2024-738",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11101",
+    "eventSponsor": "MIST AND FIST PRESS CONFERENCE",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "8/18/2024 9:15 AM",
+    "setUpDateTime": "8/18/2024 8:45 AM",
+    "endDateTime": "8/18/2024 10:00 AM",
+    "participants": 5,
+    "details": "Press conference to discuss the importance of Senator Stern's MIST SB 1400 bill and Senator Menjivar's FIST SB 1323 bill."
+  },
+  {
+    "status": "pending",
+    "number": "2024-739",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11102",
+    "eventSponsor": "Western States Petroleum Association",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/18/2024 12:00 PM",
+    "setUpDateTime": "8/18/2024 11:00 AM",
+    "endDateTime": "8/18/2024 2:00 PM",
+    "participants": 50,
+    "details": "Press conference"
+  },
+  {
     "status": "approved",
     "number": "2024-75",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10319",
