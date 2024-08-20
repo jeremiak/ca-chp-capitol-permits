@@ -4453,6 +4453,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-159",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10453",
+    "eventSponsor": "AFSP 2024 Sacramento Out of the Darkness Walk",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/19/2024 9:00 AM",
+    "setUpDateTime": "10/19/2024 6:00 AM",
+    "endDateTime": "10/19/2024 2:00 PM",
+    "participants": 1500,
+    "details": "The Sacramento Out of the Darkness Community Walk is a journey of remembrance, hope and support. It unites our communities and provides an opportunity to acknowledge the ways in which suicide and mental health conditions have affected our lives and the lives of those we love and care about."
+  },
+  {
+    "status": "approved",
     "number": "2024-16",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9948",
     "eventSponsor": "Head Start California",
@@ -6526,6 +6538,18 @@
     "endDateTime": "5/8/2024 7:00 PM",
     "participants": 100,
     "details": "Welcome back reception, honoring 40 acres conservation league"
+  },
+  {
+    "status": "approved",
+    "number": "2024-335",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10633",
+    "eventSponsor": "Larson Wedding",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "10/19/2024 2:00 PM",
+    "setUpDateTime": "10/19/2024 1:00 PM",
+    "endDateTime": "10/19/2024 4:00 PM",
+    "participants": 60,
+    "details": "Small wedding ceremony. There will be walking down the aisle to light music, exchanging of vows and rings. With pictures afterwards."
   },
   {
     "status": "approved",
@@ -10429,6 +10453,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-678",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11027",
+    "eventSponsor": "Alex and Yulia Wedding",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/19/2024 3:00 PM",
+    "setUpDateTime": "10/19/2024 2:00 PM",
+    "endDateTime": "10/19/2024 5:30 PM",
+    "participants": 100,
+    "details": "We want to hold a wedding ceremony on the West Side of the CA Capitol. The bridal party and the guests would be in the center on the grass or on the side on the grass by the trees. We are waiting for the recommendation from our photographer. There will be no food, no alcohol present."
+  },
+  {
+    "status": "approved",
     "number": "2024-679",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11028",
     "eventSponsor": "First 5 CA",
@@ -11182,6 +11218,18 @@
     "endDateTime": "9/17/2024 3:00 PM",
     "participants": 28,
     "details": "small wedding ceremony to be held on  Tuesday September 17, 2024. in the rose garden under the arch way."
+  },
+  {
+    "status": "pending",
+    "number": "2024-746",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11110",
+    "eventSponsor": "The Right to Exist",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/23/2024 6:00 AM",
+    "setUpDateTime": "8/23/2024 6:00 AM",
+    "endDateTime": "8/23/2024 4:00 PM",
+    "participants": 2,
+    "details": "Drone filming of the California State Capitol."
   },
   {
     "status": "approved",
