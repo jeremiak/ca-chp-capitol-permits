@@ -10920,7 +10920,7 @@
     "details": "A bike ride and post ride festival on September 28, 2024. We have the permit confirmed from the City of Sacramento for Capitol Mall from 8th to 9th Streets. This is a fundraiser for the Sacramento Children's Home Crisis Nursery."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-720",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11077",
     "eventSponsor": "Medgar Evers GOTV Rally",
@@ -11237,9 +11237,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11110",
     "eventSponsor": "The Right to Exist",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "8/23/2024 6:00 AM",
-    "setUpDateTime": "8/23/2024 6:00 AM",
-    "endDateTime": "8/23/2024 4:00 PM",
+    "startDateTime": "8/23/2024 8:30 AM",
+    "setUpDateTime": "8/23/2024 8:30 AM",
+    "endDateTime": "8/23/2024 10:00 AM",
     "participants": 2,
     "details": "Drone filming of the California State Capitol."
   },
@@ -11257,6 +11257,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-749",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11118",
+    "eventSponsor": "UBC",
+    "locationOnCapitolGrounds": "West Side, Area 1, Area 5, Area 22, Area 27, Area 33, Area 34",
+    "startDateTime": "8/26/2024 4:00 PM",
+    "setUpDateTime": "8/26/2024 4:00 PM",
+    "endDateTime": "8/26/2024 5:00 PM",
+    "participants": 3,
+    "details": "Filming B-roll of the Capitol building from outside"
+  },
+  {
+    "status": "approved",
     "number": "2024-75",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10319",
     "eventSponsor": "California Freethought Day 2024",
@@ -11266,6 +11278,78 @@
     "endDateTime": "10/6/2024 5:30 PM",
     "participants": 400,
     "details": "An annual celebration of freedom of speech and thought, civic engagement, enthusiasm for science, social justice, and the separation of church and state. This will be our twenty-third year."
+  },
+  {
+    "status": "approved",
+    "number": "2024-750",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11119",
+    "eventSponsor": "Capitol Commission",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/9/2024 9:00 AM",
+    "setUpDateTime": "9/9/2024 9:00 AM",
+    "endDateTime": "9/9/2024 9:30 AM",
+    "participants": 60,
+    "details": "Group Photo on or near the West Steps. (We would like to take some group photos in front of the beautiful Capitol building and share a few words together and then enter the Capitol to view the inside. If another group is present we will position ourselves at a distance so as to not interfere with them."
+  },
+  {
+    "status": "pending",
+    "number": "2024-751",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11120",
+    "eventSponsor": "Press Conference for SB 1053",
+    "locationOnCapitolGrounds": "Area 27",
+    "startDateTime": "8/25/2024 9:00 AM",
+    "setUpDateTime": "8/25/2024 8:45 AM",
+    "endDateTime": "8/25/2024 9:30 AM",
+    "participants": 40,
+    "details": "This is a press conference with legislators who support legislation to ban plastic bags from being provided at grocery store checkouts and will include dozens of activists."
+  },
+  {
+    "status": "pending",
+    "number": "2024-752",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11121",
+    "eventSponsor": "Press Conference on Gun Violence Prevention Bills",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/29/2024 9:00 AM",
+    "setUpDateTime": "8/29/2024 8:45 AM",
+    "endDateTime": "8/29/2024 9:30 AM",
+    "participants": 20,
+    "details": "Press conference by legislators calling for the passage of gun violence legislation."
+  },
+  {
+    "status": "pending",
+    "number": "2024-753",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11122",
+    "eventSponsor": "YIMBYs for Harris",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "8/25/2024 12:45 PM",
+    "setUpDateTime": "8/25/2024 12:15 PM",
+    "endDateTime": "8/25/2024 1:00 PM",
+    "participants": 10,
+    "details": "Short video recording (using iPhone) of 5-10 Members"
+  },
+  {
+    "status": "pending",
+    "number": "2024-754",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11123",
+    "eventSponsor": "Yes on Proposition 6 Campaign Kickoff",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "9/3/2024 10:00 AM",
+    "setUpDateTime": "9/3/2024 6:00 AM",
+    "endDateTime": "9/3/2024 12:30 PM",
+    "participants": 75,
+    "details": "Press conference with around 6 speakers addressing the press and contingency in attendance."
+  },
+  {
+    "status": "pending",
+    "number": "2024-755",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11124",
+    "eventSponsor": "Heavenly Culture, World Peace, Restoration of Light",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "8/22/2024 3:00 PM",
+    "setUpDateTime": "8/25/2024 2:00 PM",
+    "endDateTime": "8/22/2024 9:00 PM",
+    "participants": 100,
+    "details": "We plan to host a gathering of leaders from religious, government, nonprofit, and educational sectors and local youth to unite in the pursuit of world peace. We plan to have a singing performance, a time for speakers to share words about peace, and a time to sign a peace pledge and take photos."
   },
   {
     "status": "approved",
