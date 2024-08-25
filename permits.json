@@ -9841,6 +9841,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-621",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10959",
+    "eventSponsor": "Rally in support of Ukraine by Sunflower Society",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/24/2024 6:00 PM",
+    "setUpDateTime": "10/24/2024 5:30 PM",
+    "endDateTime": "10/24/2024 9:45 PM",
+    "participants": 150,
+    "details": "Solidarity Rally in support of Ukraine by Sunflower Society"
+  },
+  {
+    "status": "approved",
     "number": "2024-623",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10961",
     "eventSponsor": "Sen. Gonzalez Press Conference",
