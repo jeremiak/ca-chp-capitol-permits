@@ -4177,6 +4177,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-130",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10415",
+    "eventSponsor": "World Dadhiki Week Food Celebration ",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "10/25/2024 11:30 AM",
+    "setUpDateTime": "10/25/2024 6:00 AM",
+    "endDateTime": "10/25/2024 9:30 PM",
+    "participants": 100,
+    "details": "Fashion Show with Food and celebration"
+  },
+  {
+    "status": "approved",
     "number": "2024-131",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10416",
     "eventSponsor": "2024 California State Capitol Juneteenth Celebration ",
@@ -7465,6 +7477,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-414",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10717",
+    "eventSponsor": "Ironman Welcome Ceremony",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/25/2024 5:00 PM",
+    "setUpDateTime": "10/25/2024 12:00 PM",
+    "endDateTime": "10/25/2024 9:00 PM",
+    "participants": 1500,
+    "details": "Ironman Welcome Ceremony."
+  },
+  {
+    "status": "approved",
     "number": "2024-415",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10718",
     "eventSponsor": "Christians United for Israel",
@@ -7846,6 +7870,18 @@
     "endDateTime": "4/17/2024 4:00 PM",
     "participants": 150,
     "details": "Press conference for a SEIU sponsored bill, AB 2364 (Luz Rivas).  Press conference."
+  },
+  {
+    "status": "approved",
+    "number": "2024-449",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10756",
+    "eventSponsor": "Salvation Army Youth Band",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/25/2024 11:30 AM",
+    "setUpDateTime": "10/25/2024 10:30 AM",
+    "endDateTime": "10/25/2024 12:30 PM",
+    "participants": 40,
+    "details": "Band performance by the Salvation Youth Army Band"
   },
   {
     "status": "approved",
