@@ -3997,6 +3997,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-109",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10389",
+    "eventSponsor": "Golden Harvest Parade- Set UP",
+    "locationOnCapitolGrounds": "West Side, Traffic Circle, Other",
+    "startDateTime": "10/26/2024 8:00 AM",
+    "setUpDateTime": "10/26/2024 6:00 AM",
+    "endDateTime": "10/26/2024 6:00 PM",
+    "participants": 500,
+    "details": "Golden Harvest Parade and Festival.  Actual parade is later in the afternoon."
+  },
+  {
+    "status": "approved",
     "number": "2024-110",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10390",
     "eventSponsor": "First 5 Association Advocacy Day Press Event",
@@ -6924,13 +6936,13 @@
     "details": "Film shoot for our gala video featuring a former client. We will get shots of the person outside the capitol."
   },
   {
-    "status": "approved",
+    "status": "pending",
     "number": "2024-365",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10663",
     "eventSponsor": "California WIC Association",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "9/24/2024 10:00 AM",
-    "setUpDateTime": "9/24/2024 6:00 AM",
+    "setUpDateTime": "9/24/2024 4:30 AM",
     "endDateTime": "9/24/2024 4:30 PM",
     "participants": 150,
     "details": "Celebration of the 50th Anniversary of the WIC program."
@@ -7246,6 +7258,18 @@
     "endDateTime": "4/26/2024 12:30 PM",
     "participants": 12,
     "details": "Quick Wedding ceremony"
+  },
+  {
+    "status": "approved",
+    "number": "2024-391",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10691",
+    "eventSponsor": "IRONMAN California",
+    "locationOnCapitolGrounds": "Run Course ",
+    "startDateTime": "10/27/2024 9:00 AM",
+    "setUpDateTime": "10/27/2024 4:00 AM",
+    "endDateTime": "10/28/2024 4:00 AM",
+    "participants": 2300,
+    "details": "We will utilize a portion of the Capitol Grounds for our run course as well as an aid station. Athletes would enter Capitol Grounds from N Street onto 13th Street. They would make a right turn at the Fire Fighters Memorial and run to Capitol Ave. Athletes would make a U-turn and run back up to 13th Street and make a right to L Street. Athletes  would exit the Capitol Grounds at L Street and 13th Street"
   },
   {
     "status": "approved",
@@ -11292,7 +11316,7 @@
     "details": "Drone filming of the California State Capitol."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-747",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11111",
     "eventSponsor": "Grow World Tour",
@@ -11400,6 +11424,54 @@
     "details": "We plan to host a gathering of leaders from religious, government, nonprofit, and educational sectors and local youth to unite in the pursuit of world peace. We plan to have a singing performance, a time for speakers to share words about peace, and a time to sign a peace pledge and take photos."
   },
   {
+    "status": "pending",
+    "number": "2024-756",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11128",
+    "eventSponsor": "California Secretary of State",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/17/2024 11:30 AM",
+    "setUpDateTime": "9/17/2024 10:30 AM",
+    "endDateTime": "9/17/2024 1:30 PM",
+    "participants": 50,
+    "details": "To celebrate National Voter Registration Day, the California Secretary of State's office is hosting a voter education and registration drive. We will have voter education materials and will be able to answer questions about the upcoming general election."
+  },
+  {
+    "status": "pending",
+    "number": "2024-757",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11129",
+    "eventSponsor": "CQA Professional Headshots ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/6/2024 10:30 AM",
+    "setUpDateTime": "9/6/2024 10:15 AM",
+    "endDateTime": "9/6/2024 12:00 PM",
+    "participants": 15,
+    "details": "Professional headshots in front of the Capitol for CQA members"
+  },
+  {
+    "status": "pending",
+    "number": "2024-758",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11130",
+    "eventSponsor": "Wedding of Savannah and Alex Rivera ",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "10/26/2024 4:15 PM",
+    "setUpDateTime": "10/26/2024 3:45 PM",
+    "endDateTime": "10/26/2024 5:30 PM",
+    "participants": 15,
+    "details": "Small wedding with only immediate family and 2 friends. No need for chairs or set up just a quick small ceremony."
+  },
+  {
+    "status": "pending",
+    "number": "2024-759",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11131",
+    "eventSponsor": "Wedding ceremony  Telmo and Lucy",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "10/20/2024 1:30 PM",
+    "setUpDateTime": "10/20/2024 1:00 PM",
+    "endDateTime": "10/20/2024 3:00 PM",
+    "participants": 20,
+    "details": "Wedding ceremony Telmo and Lucy"
+  },
+  {
     "status": "approved",
     "number": "2024-76",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10321",
@@ -11410,6 +11482,18 @@
     "endDateTime": "3/6/2024 6:00 PM",
     "participants": 300,
     "details": "Annual Hydrogen Village event to showcase hydrogen electric vehicles both, light, medium, heavy-duty, along with trailers, forklifts and banner displays."
+  },
+  {
+    "status": "pending",
+    "number": "2024-761",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11133",
+    "eventSponsor": "MyFaithVotes",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/12/2024 9:00 AM",
+    "setUpDateTime": "10/12/2024 8:00 AM",
+    "endDateTime": "10/12/2024 11:00 AM",
+    "participants": 150,
+    "details": "A Prayer Walk around the West Side of the Capitol. We will invite other Churches and Nonprofits to the event."
   },
   {
     "status": "approved",
