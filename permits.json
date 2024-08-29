@@ -11409,7 +11409,7 @@
     "setUpDateTime": "9/3/2024 10:30 AM",
     "endDateTime": "9/3/2024 1:00 PM",
     "participants": 75,
-    "details": "Press conference with around 6 speakers addressing the press and contingency in attendance."
+    "details": "Press conference with around 6 speakers addressing the press and contingency in attendance.  This will be on the Southwest Side closer to N Street."
   },
   {
     "status": "pending",
@@ -11494,6 +11494,54 @@
     "endDateTime": "10/12/2024 11:00 AM",
     "participants": 150,
     "details": "A Prayer Walk around the West Side of the Capitol. We will invite other Churches and Nonprofits to the event."
+  },
+  {
+    "status": "approved",
+    "number": "2024-762",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11134",
+    "eventSponsor": "New California State",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/23/2024 3:00 PM",
+    "setUpDateTime": "9/23/2024 2:30 PM",
+    "endDateTime": "9/23/2024 5:30 PM",
+    "participants": 100,
+    "details": "Educational, informational"
+  },
+  {
+    "status": "pending",
+    "number": "2024-763",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11135",
+    "eventSponsor": "Office of Assemblymember Haney",
+    "locationOnCapitolGrounds": "West Side, Area 22, Area 27",
+    "startDateTime": "9/4/2024 2:00 PM",
+    "setUpDateTime": "9/4/2024 1:45 PM",
+    "endDateTime": "9/4/2024 2:45 PM",
+    "participants": 20,
+    "details": "Press conference on AB 1976 urging the Governor to sign the bill."
+  },
+  {
+    "status": "pending",
+    "number": "2024-764",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11136",
+    "eventSponsor": "California Catholic Conference",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "8/31/2024 12:00 PM",
+    "setUpDateTime": "8/31/2024 11:00 AM",
+    "endDateTime": "8/31/2024 2:00 PM",
+    "participants": 50,
+    "details": "Catholic Advocacy Day.  Leaders will gather to have lunch outside the capitol and photo ops. Prefer any part of West Side and can share with other groups. Lunch after the 1210 pm mass at the Cathedral."
+  },
+  {
+    "status": "pending",
+    "number": "2024-765",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11137",
+    "eventSponsor": "Small Intimate Wedding",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "9/28/2024 12:45 PM",
+    "setUpDateTime": "9/28/2024 12:00 PM",
+    "endDateTime": "9/28/2024 2:45 PM",
+    "participants": 20,
+    "details": "We are wanting to do our small wedding here. It's kind of an elopement style with just our immediate family members. We're also just planning to take most of the time for pictures. We might have about 20 chairs set up for our family to sit but that is it."
   },
   {
     "status": "approved",
