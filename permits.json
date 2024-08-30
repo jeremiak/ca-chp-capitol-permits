@@ -4645,6 +4645,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-172",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10468",
+    "eventSponsor": "Diwali",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/29/2024 5:00 PM",
+    "setUpDateTime": "10/29/2024 4:45 PM",
+    "endDateTime": "11/3/2024 6:00 AM",
+    "participants": 9,
+    "details": "Prayers with lighting battery operated candles to shed light in all aspects of darkness."
+  },
+  {
+    "status": "approved",
     "number": "2024-173",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10469",
     "eventSponsor": "Oseguera Wedding",
@@ -10080,16 +10092,16 @@
     "details": "Protecting California's children and eradicating sex trafficking by stopping the sellers and buyers!"
   },
   {
-    "status": "approved",
+    "status": "pending",
     "number": "2024-637",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10978",
-    "eventSponsor": "Parents Against CPS Corruption ",
+    "eventSponsor": "Parents Against Court Corruption ",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "9/26/2024 10:00 AM",
-    "setUpDateTime": "9/26/2024 8:00 AM",
-    "endDateTime": "9/26/2024 5:00 PM",
+    "startDateTime": "10/15/2024 12:00 PM",
+    "setUpDateTime": "10/15/2024 10:00 AM",
+    "endDateTime": "10/15/2024 4:00 PM",
     "participants": 200,
-    "details": "Family Campaign vs. Family Court & CPS"
+    "details": "Open mic with persons affected by CPS and the Corrupt Court System."
   },
   {
     "status": "approved",
@@ -10374,7 +10386,7 @@
     "eventSponsor": "US Army Change of Command",
     "locationOnCapitolGrounds": "Area 27, Area 34",
     "startDateTime": "8/30/2024 11:00 AM",
-    "setUpDateTime": "8/30/2024 9:00 AM",
+    "setUpDateTime": "8/30/2024 8:00 AM",
     "endDateTime": "8/30/2024 12:30 PM",
     "participants": 60,
     "details": "We are conducting a change of command for the outgoing and incoming commander for Capital Recruiting Company situated here in Sacramento. We will possibly be hosting Lieutenant Colonel Christopher Sadoski and possibly Colonel Lee Wallace."
@@ -10923,13 +10935,13 @@
     "status": "approved",
     "number": "2024-715",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11071",
-    "eventSponsor": "Rally for a bill- Southwest Side",
+    "eventSponsor": "Rally for AB2586- West Steps",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "9/5/2024 10:00 AM",
-    "setUpDateTime": "9/5/2024 9:30 AM",
+    "startDateTime": "9/5/2024 12:00 PM",
+    "setUpDateTime": "9/5/2024 11:00 AM",
     "endDateTime": "9/5/2024 1:00 PM",
-    "participants": 40,
-    "details": "Rally for Assemblymember Alvarez's bill.  This will be on the southwest side."
+    "participants": 100,
+    "details": "Rally for AB2586.  This bill would allow undocumented students the opportunity to work at higher education institutions."
   },
   {
     "status": "approved",
@@ -11189,7 +11201,7 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11099",
     "eventSponsor": "UC Davis School of Law 1L Class Photo",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "9/18/2024 6:00 PM",
+    "startDateTime": "9/18/2024 5:00 PM",
     "setUpDateTime": "9/18/2024 4:00 PM",
     "endDateTime": "9/18/2024 6:00 PM",
     "participants": 200,
@@ -11424,19 +11436,19 @@
     "details": "We plan to host a gathering of leaders from religious, government, nonprofit, and educational sectors and local youth to unite in the pursuit of world peace. We plan to have a singing performance, a time for speakers to share words about peace, and a time to sign a peace pledge and take photos."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-756",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11128",
-    "eventSponsor": "California Secretary of State",
+    "eventSponsor": "California Secretary of State Voter Registration- Southwest Side",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "9/17/2024 11:30 AM",
     "setUpDateTime": "9/17/2024 10:30 AM",
     "endDateTime": "9/17/2024 1:30 PM",
     "participants": 50,
-    "details": "To celebrate National Voter Registration Day, the California Secretary of State's office is hosting a voter education and registration drive. We will have voter education materials and will be able to answer questions about the upcoming general election."
+    "details": "To celebrate National Voter Registration Day, the California Secretary of State's office is hosting a voter education and registration drive. We will have voter education materials and will be able to answer questions about the upcoming general election.  This will be on the Southwest Side."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-757",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11129",
     "eventSponsor": "CQA Professional Headshots ",
@@ -11448,7 +11460,7 @@
     "details": "Professional headshots in front of the Capitol for CQA members"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-758",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11130",
     "eventSponsor": "Wedding of Savannah and Alex Rivera ",
@@ -11460,7 +11472,7 @@
     "details": "Small wedding with only immediate family and 2 friends. No need for chairs or set up just a quick small ceremony."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-759",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11131",
     "eventSponsor": "Wedding ceremony  Telmo and Lucy",
@@ -11508,11 +11520,11 @@
     "details": "Educational, informational"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-763",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11135",
     "eventSponsor": "Office of Assemblymember Haney",
-    "locationOnCapitolGrounds": "West Side, Area 22, Area 27",
+    "locationOnCapitolGrounds": "Area 27",
     "startDateTime": "9/4/2024 2:00 PM",
     "setUpDateTime": "9/4/2024 1:45 PM",
     "endDateTime": "9/4/2024 2:45 PM",
@@ -11532,7 +11544,7 @@
     "details": "Catholic Advocacy Day.  Leaders will gather to have lunch outside the capitol and photo ops. Prefer any part of West Side and can share with other groups. Lunch after the 1210 pm mass at the Cathedral."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-765",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11137",
     "eventSponsor": "Small Intimate Wedding",
@@ -11542,6 +11554,42 @@
     "endDateTime": "9/28/2024 2:45 PM",
     "participants": 20,
     "details": "We are wanting to do our small wedding here. It's kind of an elopement style with just our immediate family members. We're also just planning to take most of the time for pictures. We might have about 20 chairs set up for our family to sit but that is it."
+  },
+  {
+    "status": "approved",
+    "number": "2024-766",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11138",
+    "eventSponsor": "Justice for Andres Chavez",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/3/2024 11:00 AM",
+    "setUpDateTime": "10/3/2024 11:00 AM",
+    "endDateTime": "10/3/2024 3:00 PM",
+    "participants": 25,
+    "details": "We  are just trying to get awareness out about violent  crimes committed by minors and  how it affects the families. Peaceful event with Andres Family and friends"
+  },
+  {
+    "status": "approved",
+    "number": "2024-767",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11139",
+    "eventSponsor": "Nor Cal Carpenters",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/18/2024 11:00 AM",
+    "setUpDateTime": "9/18/2024 10:00 AM",
+    "endDateTime": "9/18/2024 3:00 PM",
+    "participants": 100,
+    "details": "Rally for some bills on the Governors desk"
+  },
+  {
+    "status": "pending",
+    "number": "2024-768",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11141",
+    "eventSponsor": "Strategy 6",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/6/2024 6:00 PM",
+    "setUpDateTime": "9/6/2024 5:45 PM",
+    "endDateTime": "9/6/2024 8:30 PM",
+    "participants": 50,
+    "details": "Rally in support of political prisoners in Russia and Belarus, and against the war."
   },
   {
     "status": "approved",
