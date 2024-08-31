@@ -11289,7 +11289,7 @@
     "setUpDateTime": "8/31/2024 10:00 AM",
     "endDateTime": "8/31/2024 1:00 PM",
     "participants": 30,
-    "details": "The Commissioning Ceremony for Caleb Wallentine as a Marine Corps Officer. Son of Doria Wallentine, Legisaltive Director for Assembly Member Megan Dahle."
+    "details": "The Commissioning Ceremony for Caleb Wallentine as a Marine Corps Officer."
   },
   {
     "status": "approved",
@@ -11580,7 +11580,7 @@
     "details": "Rally for some bills on the Governors desk"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-768",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11141",
     "eventSponsor": "Strategy 6",
@@ -11590,6 +11590,18 @@
     "endDateTime": "9/6/2024 8:30 PM",
     "participants": 50,
     "details": "Rally in support of political prisoners in Russia and Belarus, and against the war."
+  },
+  {
+    "status": "approved",
+    "number": "2024-769",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11142",
+    "eventSponsor": "Filming of Delores Huerta to contextualize her life and legacy as a labor leader and civil rights activist.",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/11/2024 8:30 AM",
+    "setUpDateTime": "9/11/2024 8:00 AM",
+    "endDateTime": "9/11/2024 11:30 AM",
+    "participants": 6,
+    "details": "We'd like to film Dolores Huerta in front of the State Capitol to contextualize her life and legacy as a labor leaders and civil rights activist."
   },
   {
     "status": "approved",
