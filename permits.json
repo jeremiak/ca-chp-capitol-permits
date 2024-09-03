@@ -6360,14 +6360,14 @@
     "details": "Disc throwing demonstrations and hands-on practice sessions with a limited, no more than, 25-foot throwing distance. There will be an assigned organizer responsible for crowd control and ensuring discs do not reach more than a 25-foot distance from the spot of throwing. Informational booths hosted by select companies within the disc golf industry will be set up to provide educational information."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-318",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10615",
     "eventSponsor": "Samuels Wedding Photoshoot",
-    "locationOnCapitolGrounds": "West Side, Area 1, Area 5, Area 22",
-    "startDateTime": "2/19/2024 1:00 PM",
-    "setUpDateTime": "2/19/2024 1:00 PM",
-    "endDateTime": "2/20/2024 6:00 AM",
+    "locationOnCapitolGrounds": "Area 1, Area 5, Area 22",
+    "startDateTime": "11/2/2024 12:00 PM",
+    "setUpDateTime": "11/2/2024 12:00 PM",
+    "endDateTime": "11/2/2024 3:30 PM",
     "participants": 15,
     "details": "Wedding photoshoot with bride & groom and wedding party"
   },
@@ -9060,6 +9060,18 @@
     "details": "Event for supporters of Alexei Navalny. On May 16, exactly three months ago, Putin killed Alexei Navalny. We will meet to remember a good man Alexei Navalny. People will stand with posters and talk about what is happening in Russia now, and how to stop all this horror."
   },
   {
+    "status": "approved",
+    "number": "2024-546",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10869",
+    "eventSponsor": "Briaziel Wedding",
+    "locationOnCapitolGrounds": "Area 27",
+    "startDateTime": "11/2/2024 4:15 PM",
+    "setUpDateTime": "11/2/2024 4:00 PM",
+    "endDateTime": "11/2/2024 5:15 PM",
+    "participants": 16,
+    "details": "Wedding vows and photos. #1 pick for permit requests"
+  },
+  {
     "status": "pending",
     "number": "2024-547",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10870",
@@ -10450,6 +10462,18 @@
     "endDateTime": "3/24/2024 9:45 PM",
     "participants": 150,
     "details": "Rally in support of Ukraine"
+  },
+  {
+    "status": "approved",
+    "number": "2024-670",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11016",
+    "eventSponsor": "National Womens March and Rally",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "11/2/2024 9:00 AM",
+    "setUpDateTime": "11/2/2024 7:00 AM",
+    "endDateTime": "11/2/2024 7:00 PM",
+    "participants": 250,
+    "details": "Women's Rally."
   },
   {
     "status": "pending",
