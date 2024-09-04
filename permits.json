@@ -9665,9 +9665,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10281",
     "eventSponsor": "Recovery Happens",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "9/4/2024 6:00 AM",
+    "startDateTime": "9/4/2024 9:00 AM",
     "setUpDateTime": "9/3/2024 8:00 AM",
-    "endDateTime": "9/4/2024 6:00 AM",
+    "endDateTime": "9/4/2024 8:00 PM",
     "participants": 1000,
     "details": "Every September since 1992, CCAPP sponsors National Recovery Month at the California State Capital where thousands gather to increase awareness and understanding of mental health and substance use disorders and celebrate the people who recover."
   },
@@ -11393,10 +11393,10 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11119",
     "eventSponsor": "Capitol Commission",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "9/9/2024 9:00 AM",
-    "setUpDateTime": "9/9/2024 9:00 AM",
-    "endDateTime": "9/9/2024 9:30 AM",
-    "participants": 60,
+    "startDateTime": "9/9/2024 8:30 AM",
+    "setUpDateTime": "9/9/2024 8:30 AM",
+    "endDateTime": "9/9/2024 9:15 AM",
+    "participants": 50,
     "details": "Group Photo on or near the West Steps. (We would like to take some group photos in front of the beautiful Capitol building and share a few words together and then enter the Capitol to view the inside. If another group is present we will position ourselves at a distance so as to not interfere with them."
   },
   {
@@ -11640,7 +11640,7 @@
     "details": "We will be having a small wedding ceremony the next day and want to rehearse the ceremony."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-771",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11145",
     "eventSponsor": "Peaceful Protest in Demand for Justice",
@@ -11652,7 +11652,7 @@
     "details": "On 9th of Aug, 2024, a 31-years-old junior doctor was raped and murdered, while on duty, at R. G. Kar Medical College and Hospital, at Kolkata, India. Instead of bringing the criminal under justice, the hospital administration, police, government and politicians have been trying to cover up the crime. It has triggered widespread outcry across the globe for immediate justice. On 8th of September, Non-Resident-Indians across 35+ cities across the globe are joining together to protest against this heinous crime and demanding for swift justice. This peaceful protest in front of Capitol building at Sacramento will be joined by local residents, and the mode of protest will be demonstration with banners, slogans and chorus songs."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-772",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11146",
     "eventSponsor": "New California State",
@@ -11662,6 +11662,42 @@
     "endDateTime": "9/30/2024 3:00 PM",
     "participants": 100,
     "details": "Educational event Community Services"
+  },
+  {
+    "status": "approved",
+    "number": "2024-773",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11148",
+    "eventSponsor": "For The People Pioneers Of Street Art Culture",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/13/2024 7:30 PM",
+    "setUpDateTime": "10/13/2024 7:00 PM",
+    "endDateTime": "10/13/2024 9:45 PM",
+    "participants": 100,
+    "details": "Digital Art installation event projecting local, national and international artists work at the state capitol building"
+  },
+  {
+    "status": "pending",
+    "number": "2024-775",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11150",
+    "eventSponsor": "Presser on Leg",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/10/2024 7:00 AM",
+    "setUpDateTime": "9/10/2024 6:00 AM",
+    "endDateTime": "9/10/2024 1:00 PM",
+    "participants": 30,
+    "details": "Presser on Legislative Activity"
+  },
+  {
+    "status": "pending",
+    "number": "2024-776",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11151",
+    "eventSponsor": "SEIU Local 1000",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "9/18/2024 10:00 AM",
+    "setUpDateTime": "9/18/2024 9:00 AM",
+    "endDateTime": "9/18/2024 2:00 PM",
+    "participants": 75,
+    "details": "The event is being held by SEIU Local 1000, this is the Union for State Employees in California. We are going to be having a member appreciation event with food and beverages provided. We will set up at least 3 or 4 tents to help organize the event and coordinate it properly and safely."
   },
   {
     "status": "approved",
