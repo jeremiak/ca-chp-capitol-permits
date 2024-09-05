@@ -11676,7 +11676,7 @@
     "details": "Digital Art installation event projecting local, national and international artists work at the state capitol building"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-775",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11150",
     "eventSponsor": "Presser on Leg",
@@ -11701,6 +11701,42 @@
   },
   {
     "status": "approved",
+    "number": "2024-777",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11152",
+    "eventSponsor": "Traffic Safety Booth",
+    "locationOnCapitolGrounds": "northwest ",
+    "startDateTime": "9/5/2024 2:30 PM",
+    "setUpDateTime": "9/5/2024 2:30 PM",
+    "endDateTime": "9/5/2024 6:30 PM",
+    "participants": 4,
+    "details": "Will be providing traffic safety information to the public on various issues."
+  },
+  {
+    "status": "approved",
+    "number": "2024-778",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11153",
+    "eventSponsor": "Traffic Safety Booth",
+    "locationOnCapitolGrounds": "northwest",
+    "startDateTime": "9/10/2024 2:30 PM",
+    "setUpDateTime": "9/10/2024 2:30 PM",
+    "endDateTime": "9/10/2024 8:30 PM",
+    "participants": 4,
+    "details": "Will be providing traffic safety information to the public on various issues."
+  },
+  {
+    "status": "approved",
+    "number": "2024-779",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11154",
+    "eventSponsor": "Traffic Safety Booth",
+    "locationOnCapitolGrounds": "northwest",
+    "startDateTime": "9/12/2024 2:30 PM",
+    "setUpDateTime": "9/12/2024 2:30 PM",
+    "endDateTime": "9/12/2024 6:30 PM",
+    "participants": 4,
+    "details": "Will be providing traffic safety information to the public on various issues."
+  },
+  {
+    "status": "approved",
     "number": "2024-78",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10325",
     "eventSponsor": "Livival at The Capital",
@@ -11710,6 +11746,78 @@
     "endDateTime": "4/6/2024 5:00 PM",
     "participants": 75,
     "details": "Christian concert and speaking event. Theme will be about the cross and what it means for the speakers. Poetry and dancing will be part of this event as well."
+  },
+  {
+    "status": "approved",
+    "number": "2024-780",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11155",
+    "eventSponsor": "Traffic Safety Booth",
+    "locationOnCapitolGrounds": "northwest",
+    "startDateTime": "9/16/2024 2:30 PM",
+    "setUpDateTime": "9/16/2024 2:30 PM",
+    "endDateTime": "9/16/2024 6:30 PM",
+    "participants": 4,
+    "details": "Will be providing traffic safety information to the public on various issues."
+  },
+  {
+    "status": "approved",
+    "number": "2024-781",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11156",
+    "eventSponsor": "Traffic Safety Booth",
+    "locationOnCapitolGrounds": "northwest",
+    "startDateTime": "9/19/2024 2:30 PM",
+    "setUpDateTime": "9/19/2024 2:30 PM",
+    "endDateTime": "9/19/2024 6:30 PM",
+    "participants": 4,
+    "details": "Will be providing traffic safety information to the public on various issues."
+  },
+  {
+    "status": "approved",
+    "number": "2024-782",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11157",
+    "eventSponsor": "Traffic Safety Booth",
+    "locationOnCapitolGrounds": "northwest",
+    "startDateTime": "9/23/2024 2:30 PM",
+    "setUpDateTime": "9/23/2024 2:30 PM",
+    "endDateTime": "9/23/2024 6:30 PM",
+    "participants": 4,
+    "details": "Will be providing traffic safety information to the public on various issues."
+  },
+  {
+    "status": "approved",
+    "number": "2024-783",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11158",
+    "eventSponsor": "Traffic Safety Booth",
+    "locationOnCapitolGrounds": "northwest",
+    "startDateTime": "9/30/2024 2:30 PM",
+    "setUpDateTime": "9/30/2024 2:30 PM",
+    "endDateTime": "9/30/2024 6:30 PM",
+    "participants": 4,
+    "details": "Will be providing traffic safety information to the public on various issues."
+  },
+  {
+    "status": "approved",
+    "number": "2024-784",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11159",
+    "eventSponsor": "State Capitol Tree Delivery ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/30/2024 7:00 AM",
+    "setUpDateTime": "10/30/2024 7:00 AM",
+    "endDateTime": "11/2/2024 5:00 PM",
+    "participants": 15,
+    "details": "Tree delivery and setup on the west side."
+  },
+  {
+    "status": "pending",
+    "number": "2024-785",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11161",
+    "eventSponsor": "Rally for Independent Nail Technicians Rights   ",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/14/2024 11:00 AM",
+    "setUpDateTime": "10/14/2024 10:00 AM",
+    "endDateTime": "10/14/2024 1:00 PM",
+    "participants": 150,
+    "details": "We are licensed manicurists rallying to be allowed to continue legally working as independent contractors in California."
   },
   {
     "status": "approved",
