@@ -11452,10 +11452,10 @@
     "number": "2024-755",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11124",
     "eventSponsor": "Heavenly Culture, World Peace, Restoration of Light",
-    "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "8/22/2024 3:00 PM",
-    "setUpDateTime": "8/25/2024 2:00 PM",
-    "endDateTime": "8/22/2024 9:00 PM",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "9/22/2024 2:00 PM",
+    "setUpDateTime": "9/22/2024 2:00 PM",
+    "endDateTime": "9/22/2024 2:00 PM",
     "participants": 100,
     "details": "We plan to host a gathering of leaders from religious, government, nonprofit, and educational sectors and local youth to unite in the pursuit of world peace. We plan to have a singing performance, a time for speakers to share words about peace, and a time to sign a peace pledge and take photos."
   },
@@ -11818,6 +11818,42 @@
     "endDateTime": "10/14/2024 1:00 PM",
     "participants": 150,
     "details": "We are licensed manicurists rallying to be allowed to continue legally working as independent contractors in California."
+  },
+  {
+    "status": "pending",
+    "number": "2024-786",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11162",
+    "eventSponsor": "Native American Heritage Month Education Day",
+    "locationOnCapitolGrounds": "Area 22",
+    "startDateTime": "11/8/2024 9:30 AM",
+    "setUpDateTime": "11/8/2024 6:00 AM",
+    "endDateTime": "11/8/2024 5:00 PM",
+    "participants": 250,
+    "details": "There will be a couple of Elementary School classes at monument for a lesson. There is a possibility of event being held there, further contact with CHP will be made with official plan."
+  },
+  {
+    "status": "pending",
+    "number": "2024-787",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11164",
+    "eventSponsor": "California Department of Transportation",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/23/2024 4:00 PM",
+    "setUpDateTime": "10/23/2024 3:30 PM",
+    "endDateTime": "10/23/2024 4:30 PM",
+    "participants": 40,
+    "details": "Photo shoot"
+  },
+  {
+    "status": "pending",
+    "number": "2024-788",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11166",
+    "eventSponsor": "Private picnic in the park",
+    "locationOnCapitolGrounds": "Area 1, Area 5",
+    "startDateTime": "9/14/2024 12:00 PM",
+    "setUpDateTime": "9/14/2024 11:00 AM",
+    "endDateTime": "9/14/2024 4:00 PM",
+    "participants": 8,
+    "details": "We will have a small picnic with one low table, rugs and pillows. We will also have a small round table with two chairs."
   },
   {
     "status": "approved",
