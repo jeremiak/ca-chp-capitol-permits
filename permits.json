@@ -6433,6 +6433,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-323",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10620",
+    "eventSponsor": "Inaugural Native American Heritage Month Parade and Native American Monument Commemoration Event",
+    "locationOnCapitolGrounds": "West Side, Traffic Circle, Area 1, Area 5, Area 22, Area 27, Area 33, Area 34",
+    "startDateTime": "11/9/2024 11:00 AM",
+    "setUpDateTime": "11/9/2024 6:00 AM",
+    "endDateTime": "11/9/2024 6:00 PM",
+    "participants": 1500,
+    "details": "This will be a mile walk in honor of Native American Heritage Month to show continued support for Native Americans and their accomplishments. As well as the continued fight for the issues facing the Nation's first people."
+  },
+  {
+    "status": "approved",
     "number": "2024-324",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10621",
     "eventSponsor": "Assembly Republican Caucus- West Steps",
@@ -11688,11 +11700,11 @@
     "details": "Presser on Legislative Activity"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-776",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11151",
     "eventSponsor": "SEIU Local 1000",
-    "locationOnCapitolGrounds": "Other",
+    "locationOnCapitolGrounds": "East lawn of EDD",
     "startDateTime": "9/18/2024 10:00 AM",
     "setUpDateTime": "9/18/2024 9:00 AM",
     "endDateTime": "9/18/2024 2:00 PM",
@@ -11799,11 +11811,11 @@
     "status": "approved",
     "number": "2024-784",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11159",
-    "eventSponsor": "State Capitol Tree Delivery ",
+    "eventSponsor": "State Capitol Tree Delivery and Setup",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "10/30/2024 7:00 AM",
     "setUpDateTime": "10/30/2024 7:00 AM",
-    "endDateTime": "11/2/2024 5:00 PM",
+    "endDateTime": "12/2/2024 5:00 PM",
     "participants": 15,
     "details": "Tree delivery and setup on the west side."
   },
@@ -11820,7 +11832,7 @@
     "details": "We are licensed manicurists rallying to be allowed to continue legally working as independent contractors in California."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-786",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11162",
     "eventSponsor": "Native American Heritage Month Education Day",
@@ -11844,16 +11856,28 @@
     "details": "Photo shoot"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-788",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11166",
     "eventSponsor": "Private picnic in the park",
-    "locationOnCapitolGrounds": "Area 1, Area 5",
+    "locationOnCapitolGrounds": "Area 5",
     "startDateTime": "9/14/2024 12:00 PM",
     "setUpDateTime": "9/14/2024 11:00 AM",
     "endDateTime": "9/14/2024 4:00 PM",
     "participants": 8,
     "details": "We will have a small picnic with one low table, rugs and pillows. We will also have a small round table with two chairs."
+  },
+  {
+    "status": "approved",
+    "number": "2024-789",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11167",
+    "eventSponsor": "Strategy 6",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/6/2024 6:00 PM",
+    "setUpDateTime": "10/6/2024 6:00 PM",
+    "endDateTime": "10/6/2024 8:00 PM",
+    "participants": 50,
+    "details": "Rally in support of political prisoners in Russia and Belarus, and against the war."
   },
   {
     "status": "approved",
@@ -11866,6 +11890,66 @@
     "endDateTime": "7/7/2024 4:00 PM",
     "participants": 50,
     "details": "Christian concert and speaking event. Theme will be about salvation and God's love. Poetry and dancing will be part of this event as well."
+  },
+  {
+    "status": "pending",
+    "number": "2024-790",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11169",
+    "eventSponsor": "Green Party of Sacramento County",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/5/2024 3:00 PM",
+    "setUpDateTime": "10/5/2024 2:30 PM",
+    "endDateTime": "10/5/2024 6:00 PM",
+    "participants": 300,
+    "details": "A solidarity demonstration marking the one year anniversary of the Genocide in Gaza."
+  },
+  {
+    "status": "pending",
+    "number": "2024-792",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11171",
+    "eventSponsor": "Clemency Coalition Rally",
+    "locationOnCapitolGrounds": "Area 22",
+    "startDateTime": "9/12/2024 10:00 AM",
+    "setUpDateTime": "9/12/2024 9:00 AM",
+    "endDateTime": "9/12/2024 3:00 PM",
+    "participants": 150,
+    "details": "The clemency Coalition Rally and Lobby Day is a peaceful advocacy event aimed at raising public awareness and urging California legislators to support clemency for individuals who have demonstrated rehabilitation and are deserving of a second chance. The event will begin with a rally on the Capitol steps, where coalition representatives, impacted individuals, and community leaders will deliver speeches advocating for justice reform and clemency. The rally is expected to attract approximately 150 participants, including community members, advocacy organizations, and directly impacted individuals. Following the rally, participants will engage in scheduled meetings with legislators to present our coalitions message, discuss individual clemency cases, and advocate for policy changes that promote justice and rehabilitation. This event is organized by the Asian Prisoner Support Committee in partnership with other community organizations dedicated to criminal justice reform. Our goal is to promote the importance of clemency as a tool for justice and rehabilitation in California, while ensuring that our actions comply with all city and state regulations."
+  },
+  {
+    "status": "pending",
+    "number": "2024-794",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11175",
+    "eventSponsor": "Advocacy Day for Terry Pettis",
+    "locationOnCapitolGrounds": "The Wright Cause Urban Youth Conservation ",
+    "startDateTime": "10/5/2024 11:00 AM",
+    "setUpDateTime": "10/5/2024 10:30 AM",
+    "endDateTime": "10/5/2024 1:00 PM",
+    "participants": 20,
+    "details": "We want to bring to your attention the case of Terry Pettis. He as sentenced to life without parole at the age of 19. We are going to support the approval of his commutation application"
+  },
+  {
+    "status": "pending",
+    "number": "2024-795",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11176",
+    "eventSponsor": "Marriage Ceremony ",
+    "locationOnCapitolGrounds": "Area 22",
+    "startDateTime": "10/5/2024 1:00 PM",
+    "setUpDateTime": "10/5/2024 11:00 AM",
+    "endDateTime": "10/5/2024 3:00 PM",
+    "participants": 30,
+    "details": "Marriage Ceremony with own officiant."
+  },
+  {
+    "status": "pending",
+    "number": "2024-796",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11177",
+    "eventSponsor": "moving the conversation forward",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/30/2024 7:45 AM",
+    "setUpDateTime": "9/30/2024 7:30 AM",
+    "endDateTime": "9/30/2024 7:00 PM",
+    "participants": 2,
+    "details": "I would like to put a table to the side of the stairs that would not block anyone from walking. The sign would say something very close to Lets talk about why supporting Palestine is important. If thats not ok I would like to just hold a sign that says free Palestine"
   },
   {
     "status": "approved",
