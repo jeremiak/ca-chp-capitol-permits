@@ -11460,14 +11460,14 @@
     "details": "Press conference with around 6 speakers addressing the press and contingency in attendance.  This will be on the Southwest Side closer to N Street."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-755",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11124",
     "eventSponsor": "Heavenly Culture, World Peace, Restoration of Light",
-    "locationOnCapitolGrounds": "Other",
-    "startDateTime": "9/22/2024 2:00 PM",
-    "setUpDateTime": "9/22/2024 2:00 PM",
-    "endDateTime": "9/22/2024 2:00 PM",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/22/2024 6:30 PM",
+    "setUpDateTime": "9/22/2024 6:00 PM",
+    "endDateTime": "9/22/2024 8:30 PM",
     "participants": 100,
     "details": "We plan to host a gathering of leaders from religious, government, nonprofit, and educational sectors and local youth to unite in the pursuit of world peace. We plan to have a singing performance, a time for speakers to share words about peace, and a time to sign a peace pledge and take photos."
   },
@@ -11916,7 +11916,7 @@
     "details": "The clemency Coalition Rally and Lobby Day is a peaceful advocacy event aimed at raising public awareness and urging California legislators to support clemency for individuals who have demonstrated rehabilitation and are deserving of a second chance. The event will begin with a rally on the Capitol steps, where coalition representatives, impacted individuals, and community leaders will deliver speeches advocating for justice reform and clemency. The rally is expected to attract approximately 150 participants, including community members, advocacy organizations, and directly impacted individuals. Following the rally, participants will engage in scheduled meetings with legislators to present our coalitions message, discuss individual clemency cases, and advocate for policy changes that promote justice and rehabilitation. This event is organized by the Asian Prisoner Support Committee in partnership with other community organizations dedicated to criminal justice reform. Our goal is to promote the importance of clemency as a tool for justice and rehabilitation in California, while ensuring that our actions comply with all city and state regulations."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-794",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11175",
     "eventSponsor": "Advocacy Day for Terry Pettis",
@@ -11928,7 +11928,7 @@
     "details": "We want to bring to your attention the case of Terry Pettis. He as sentenced to life without parole at the age of 19. We are going to support the approval of his commutation application"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-795",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11176",
     "eventSponsor": "Marriage Ceremony ",
