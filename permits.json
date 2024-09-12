@@ -4321,6 +4321,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-141",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10434",
+    "eventSponsor": "Veterans Day and Classic Car and Parade.",
+    "locationOnCapitolGrounds": "West Side, Traffic Circle, Area 1, Area 5, Area 22, Area 27, Area 33, Area 34",
+    "startDateTime": "11/11/2024 11:00 AM",
+    "setUpDateTime": "11/11/2024 8:00 AM",
+    "endDateTime": "11/11/2024 4:00 PM",
+    "participants": 600,
+    "details": "Veterans Day Parade"
+  },
+  {
+    "status": "approved",
     "number": "2024-143",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10436",
     "eventSponsor": "\"Our Best Praise Tour\"",
@@ -11945,11 +11957,23 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11177",
     "eventSponsor": "moving the conversation forward",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "9/30/2024 7:45 AM",
-    "setUpDateTime": "9/30/2024 7:30 AM",
-    "endDateTime": "9/30/2024 7:00 PM",
+    "startDateTime": "10/8/2024 10:00 AM",
+    "setUpDateTime": "10/8/2024 10:00 AM",
+    "endDateTime": "10/8/2024 1:00 PM",
     "participants": 2,
     "details": "I would like to put a table to the side of the stairs that would not block anyone from walking. The sign would say something very close to Lets talk about why supporting Palestine is important. If thats not ok I would like to just hold a sign that says free Palestine"
+  },
+  {
+    "status": "pending",
+    "number": "2024-797",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11183",
+    "eventSponsor": "He is You",
+    "locationOnCapitolGrounds": "Alexei Navalny Memorial Evening",
+    "startDateTime": "9/16/2024 7:00 PM",
+    "setUpDateTime": "9/16/2024 6:45 PM",
+    "endDateTime": "9/16/2024 8:00 PM",
+    "participants": 50,
+    "details": "Alexei Navalny Memorial Evening. These meetings are dedicated to remembering Alexei Navalny, a good person and a leader of the Russian opposition. Participants will stand with posters and discuss the current situation in Russia, as well as ways to stop the ongoing atrocities in Russia and Ukraine.There will also be a microphone and one small speaker."
   },
   {
     "status": "approved",
