@@ -6972,7 +6972,7 @@
     "details": "Film shoot for our gala video featuring a former client. We will get shots of the person outside the capitol."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-365",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10663",
     "eventSponsor": "California WIC Association",
@@ -8422,6 +8422,18 @@
     "endDateTime": "5/11/2024 12:00 PM",
     "participants": 25,
     "details": "A march from nearby St. John's Lutheran Church and rally at the Capitol for Women and Children's Rights and Worldwide Peace."
+  },
+  {
+    "status": "approved",
+    "number": "2024-489",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10799",
+    "eventSponsor": "United Revival",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "11/16/2024 2:00 PM",
+    "setUpDateTime": "11/16/2024 7:00 AM",
+    "endDateTime": "11/16/2024 8:00 PM",
+    "participants": 1000,
+    "details": "Worship and prayer to gather local churches and communities. Setup a 20x30 ft stage and amplified sound.  Event from 2pm-6pm."
   },
   {
     "status": "pending",
@@ -10131,7 +10143,7 @@
     "status": "pending",
     "number": "2024-637",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10978",
-    "eventSponsor": "Parents Against Court Corruption ",
+    "eventSponsor": "Parents Against CPS Corruption PACC",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "10/15/2024 12:00 PM",
     "setUpDateTime": "10/15/2024 10:00 AM",
@@ -10297,6 +10309,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-652",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10995",
+    "eventSponsor": "CHP Cadet Run",
+    "locationOnCapitolGrounds": "West Side, Traffic Circle",
+    "startDateTime": "11/13/2024 6:15 AM",
+    "setUpDateTime": "11/13/2024 5:30 AM",
+    "endDateTime": "11/13/2024 7:30 AM",
+    "participants": 200,
+    "details": "CHP Cadet Run culminating over 6 months of training at the Peace Officer Memorial and West Steps."
+  },
+  {
+    "status": "approved",
     "number": "2024-653",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10999",
     "eventSponsor": "Office of Assemblymember Haney- Northwest Side",
@@ -10438,6 +10462,18 @@
     "endDateTime": "8/3/2024 9:00 PM",
     "participants": 50,
     "details": "An outdoor concert, with Christian music, featuring a choir and other music items. An event from the Seventh-day Adventist Church"
+  },
+  {
+    "status": "approved",
+    "number": "2024-665",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11011",
+    "eventSponsor": "NAMI California Advocacy day",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "11/14/2024 9:30 AM",
+    "setUpDateTime": "11/14/2024 7:30 AM",
+    "endDateTime": "11/14/2024 12:30 PM",
+    "participants": 250,
+    "details": "supporters of NAMICA will gather for a rally in front of West Capitol steps before meeting with legislatures in swing space."
   },
   {
     "status": "approved",
@@ -11929,6 +11965,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-793",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11174",
+    "eventSponsor": "Clemency Coalition Lobby Day",
+    "locationOnCapitolGrounds": "Area 22",
+    "startDateTime": "11/13/2024 8:00 AM",
+    "setUpDateTime": "11/13/2024 7:00 AM",
+    "endDateTime": "11/13/2024 3:00 PM",
+    "participants": 150,
+    "details": "The Clemency Coalition Rally and Lobby Day is a peaceful advocacy event aimed at raising public awareness and urging California legislators to support clemency for individuals who have demonstrated rehabilitation and are deserving of a second chance. The event will begin with a rally on the Capitol steps, where coalition representatives, impacted individuals, and community leaders will deliver speeches advocating for justice reform and clemency. The rally is expected to attract 150 participants, including community members, advocacy organizations, and directly impacted people. Following the rally, participants will engage in scheduled meetings with legislators to present our coalition's message, discuss individual clemency cases, and advocate for policy changes that promote justice and rehabilitation. This event is organized by the Asian Prisoner Support Committee in partnership with other community organizations dedicated to criminal justice reform. Our goal is to promote the importance of clemency as a tool for justice and rehabilitation in California, while ensuring that our actions comply with all city and state regulations."
+  },
+  {
+    "status": "approved",
     "number": "2024-794",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11175",
     "eventSponsor": "Advocacy Day for Terry Pettis",
@@ -11976,6 +12024,18 @@
     "details": "Alexei Navalny Memorial Evening. These meetings are dedicated to remembering Alexei Navalny, a good person and a leader of the Russian opposition. Participants will stand with posters and discuss the current situation in Russia, as well as ways to stop the ongoing atrocities in Russia and Ukraine.There will also be a microphone and one small speaker."
   },
   {
+    "status": "pending",
+    "number": "2024-799",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11188",
+    "eventSponsor": "World Peace Day",
+    "locationOnCapitolGrounds": "Sacramento Team Kennedy Volunteers",
+    "startDateTime": "9/22/2024 11:30 AM",
+    "setUpDateTime": "9/22/2024 11:30 AM",
+    "endDateTime": "9/22/2024 11:30 AM",
+    "participants": 35,
+    "details": "Peaceful display of signage to prevent the endless wars"
+  },
+  {
     "status": "approved",
     "number": "2024-8",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/9905",
@@ -11998,6 +12058,18 @@
     "endDateTime": "10/12/2024 5:00 PM",
     "participants": 75,
     "details": "When God created man he breathed life into him so, he would be come a living soul. This is an outdoor conference about spiritual warfare. Dancing and music will be at the intermission."
+  },
+  {
+    "status": "pending",
+    "number": "2024-800",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11189",
+    "eventSponsor": "Wedding",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "9/19/2024 12:00 PM",
+    "setUpDateTime": "9/19/2024 11:00 AM",
+    "endDateTime": "9/19/2024 3:00 PM",
+    "participants": 250,
+    "details": "Wedding ceremony and photo shoot of bride and groom"
   },
   {
     "status": "approved",
