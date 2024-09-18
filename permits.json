@@ -10897,6 +10897,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-704",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11059",
+    "eventSponsor": "Yeshua House Of Israel Church ",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "11/17/2024 4:00 PM",
+    "setUpDateTime": "11/17/2024 3:30 PM",
+    "endDateTime": "11/17/2024 6:00 PM",
+    "participants": 9,
+    "details": "Church event including preaching, worship, prayer and various related church activities"
+  },
+  {
+    "status": "approved",
     "number": "2024-705",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11060",
     "eventSponsor": "Recovery Housing Rally ",
@@ -12024,14 +12036,14 @@
     "details": "Alexei Navalny Memorial Evening. These meetings are dedicated to remembering Alexei Navalny, a good person and a leader of the Russian opposition. Participants will stand with posters and discuss the current situation in Russia, as well as ways to stop the ongoing atrocities in Russia and Ukraine.There will also be a microphone and one small speaker."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-799",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11188",
     "eventSponsor": "World Peace Day",
     "locationOnCapitolGrounds": "Sacramento Team Kennedy Volunteers",
-    "startDateTime": "9/22/2024 11:30 AM",
+    "startDateTime": "9/22/2024 12:00 PM",
     "setUpDateTime": "9/22/2024 11:30 AM",
-    "endDateTime": "9/22/2024 11:30 AM",
+    "endDateTime": "9/22/2024 5:00 PM",
     "participants": 35,
     "details": "Peaceful display of signage to prevent the endless wars"
   },
