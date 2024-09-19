@@ -11904,7 +11904,7 @@
     "details": "There will be a couple of Elementary School classes at monument for a lesson. There is a possibility of event being held there, further contact with CHP will be made with official plan."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-787",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11164",
     "eventSponsor": "California Department of Transportation",
@@ -12082,6 +12082,30 @@
     "endDateTime": "9/19/2024 3:00 PM",
     "participants": 250,
     "details": "Wedding ceremony and photo shoot of bride and groom"
+  },
+  {
+    "status": "pending",
+    "number": "2024-801",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11192",
+    "eventSponsor": "McGeorge School of Law",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "9/21/2024 5:00 PM",
+    "setUpDateTime": "9/21/2024 5:00 PM",
+    "endDateTime": "9/21/2024 6:00 PM",
+    "participants": 5,
+    "details": "Hi, I would like to inquire for permission to take some images at the California State Capitol Building. my intention is to take some images outdoors in front of the building with a few law students to showcase the strength of our government law programs."
+  },
+  {
+    "status": "pending",
+    "number": "2024-802",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11196",
+    "eventSponsor": "CLCAF Latino Heritage Month Potluck",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "10/14/2024 12:00 PM",
+    "setUpDateTime": "10/14/2024 10:00 AM",
+    "endDateTime": "10/14/2024 2:30 PM",
+    "participants": 40,
+    "details": "The California Latino Capitol Association Foundation would like to host a potluck style event for members. The event would consist of food from different Latin American countries, buffet style, to celebrate Latino Heritage Month."
   },
   {
     "status": "approved",
