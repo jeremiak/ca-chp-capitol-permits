@@ -12096,16 +12096,52 @@
     "details": "Hi, I would like to inquire for permission to take some images at the California State Capitol Building. my intention is to take some images outdoors in front of the building with a few law students to showcase the strength of our government law programs."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-802",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11196",
     "eventSponsor": "CLCAF Latino Heritage Month Potluck",
-    "locationOnCapitolGrounds": "Other",
+    "locationOnCapitolGrounds": "West Side",
     "startDateTime": "10/14/2024 12:00 PM",
     "setUpDateTime": "10/14/2024 10:00 AM",
     "endDateTime": "10/14/2024 2:30 PM",
     "participants": 40,
     "details": "The California Latino Capitol Association Foundation would like to host a potluck style event for members. The event would consist of food from different Latin American countries, buffet style, to celebrate Latino Heritage Month."
+  },
+  {
+    "status": "approved",
+    "number": "2024-803",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11197",
+    "eventSponsor": "Scaffold Delivery",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "9/23/2024 7:00 AM",
+    "setUpDateTime": "9/23/2024 7:00 AM",
+    "endDateTime": "9/23/2024 9:00 AM",
+    "participants": 10,
+    "details": "Delivering scaffolding through the west doors."
+  },
+  {
+    "status": "pending",
+    "number": "2024-804",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11198",
+    "eventSponsor": "Parents Against CPS Corruption (PACC)",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/15/2024 11:00 AM",
+    "setUpDateTime": "10/15/2024 9:00 AM",
+    "endDateTime": "10/15/2024 5:00 PM",
+    "participants": 200,
+    "details": "A Rally in support of parents effected by and fighting against the CPS system."
+  },
+  {
+    "status": "pending",
+    "number": "2024-805",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11199",
+    "eventSponsor": "Cool Insurance Agency LLC",
+    "locationOnCapitolGrounds": "Area 27",
+    "startDateTime": "9/30/2024 11:30 AM",
+    "setUpDateTime": "9/30/2024 11:00 AM",
+    "endDateTime": "9/30/2024 1:00 PM",
+    "participants": 2,
+    "details": "Have a table set up to discuss retirement planning for state workers"
   },
   {
     "status": "approved",
