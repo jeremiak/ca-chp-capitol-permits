@@ -8515,7 +8515,7 @@
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "9/25/2024 10:00 AM",
     "setUpDateTime": "9/25/2024 8:00 AM",
-    "endDateTime": "9/25/2024 2:00 PM",
+    "endDateTime": "9/25/2024 3:00 PM",
     "participants": 200,
     "details": "The Open Enrollment Benefits Fair supports the annual Open Enrollment season. During the fair, state employees will have the opportunity to meet with benefit program vendors and CalPERS health plan carriers to gather benefit information and ask questions."
   },
@@ -10755,13 +10755,13 @@
     "status": "approved",
     "number": "2024-689",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11040",
-    "eventSponsor": "Christians United for Israel",
-    "locationOnCapitolGrounds": "West Side",
+    "eventSponsor": "Prayer Vigil",
+    "locationOnCapitolGrounds": "Jewish Federation ",
     "startDateTime": "10/7/2024 11:00 AM",
     "setUpDateTime": "10/7/2024 9:00 AM",
-    "endDateTime": "10/7/2024 7:30 PM",
+    "endDateTime": "10/7/2024 8:00 PM",
     "participants": 100,
-    "details": "display of hostage pictures and posters calling for their release if they have not been returned.  If returned a solemn remembrance of the October 7, 2023 events in Israel. a display that passer by could learn and remember."
+    "details": "Display of hostage pictures and posters calling for their release if they have not been returned.  If returned a solemn remembrance of the October 7, 2023 events in Israel. a display that passer by could learn and remember."
   },
   {
     "status": "approved",
@@ -12084,14 +12084,14 @@
     "details": "Wedding ceremony and photo shoot of bride and groom"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-801",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11192",
     "eventSponsor": "McGeorge School of Law",
     "locationOnCapitolGrounds": "Area 1",
-    "startDateTime": "9/21/2024 5:00 PM",
-    "setUpDateTime": "9/21/2024 5:00 PM",
-    "endDateTime": "9/21/2024 6:00 PM",
+    "startDateTime": "9/27/2024 5:00 PM",
+    "setUpDateTime": "9/27/2024 5:00 PM",
+    "endDateTime": "9/27/2024 6:00 PM",
     "participants": 5,
     "details": "Hi, I would like to inquire for permission to take some images at the California State Capitol Building. my intention is to take some images outdoors in front of the building with a few law students to showcase the strength of our government law programs."
   },
