@@ -10801,6 +10801,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-694",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11047",
+    "eventSponsor": "Barrett-Hatch Wedding",
+    "locationOnCapitolGrounds": "Area 5",
+    "startDateTime": "11/23/2024 5:30 PM",
+    "setUpDateTime": "11/23/2024 3:30 PM",
+    "endDateTime": "11/23/2024 6:30 PM",
+    "participants": 50,
+    "details": "Small intimate wedding ceremony in Capitol cactus garden."
+  },
+  {
+    "status": "approved",
     "number": "2024-695",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11048",
     "eventSponsor": "Strategy 6 supporting polictical prisoners in jail who speak out against the Russia and Belarus War",
@@ -12168,6 +12180,30 @@
     "details": "A group of people will gather to demand immediate stop in systematic genocide of Hazara ethnic group in Afghanistan."
   },
   {
+    "status": "pending",
+    "number": "2024-808",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11202",
+    "eventSponsor": "All Staff Photo",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/14/2024 3:45 PM",
+    "setUpDateTime": "10/14/2024 3:15 PM",
+    "endDateTime": "10/14/2024 4:15 PM",
+    "participants": 300,
+    "details": "All Staff Photo for the Department of Finance on the West Steps"
+  },
+  {
+    "status": "pending",
+    "number": "2024-809",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11203",
+    "eventSponsor": "Turner Wedding",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "11/15/2024 1:00 PM",
+    "setUpDateTime": "11/15/2024 11:45 AM",
+    "endDateTime": "11/15/2024 2:00 PM",
+    "participants": 20,
+    "details": "Elopement- Intimate Wedding"
+  },
+  {
     "status": "approved",
     "number": "2024-81",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10328",
@@ -12178,6 +12214,18 @@
     "endDateTime": "9/27/2024 9:00 PM",
     "participants": 100,
     "details": "A gathering of California Native community members to honor and celebrate California Indian Day. There will be two California Dance groups dancing in recognition of the day."
+  },
+  {
+    "status": "pending",
+    "number": "2024-810",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11204",
+    "eventSponsor": "Small Business Against ABX2-1",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "9/26/2024 9:30 AM",
+    "setUpDateTime": "9/26/2024 8:30 AM",
+    "endDateTime": "9/26/2024 10:45 AM",
+    "participants": 30,
+    "details": "Press conference hosted by California Fuels and Convenience Alliance with other small and ethnic business leaders voicing their concerns about the special session on fuel and energy, and ABX2-1."
   },
   {
     "status": "approved",
