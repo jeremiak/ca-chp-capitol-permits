@@ -7568,8 +7568,8 @@
     "startDateTime": "9/25/2024 4:30 PM",
     "setUpDateTime": "9/25/2024 4:00 PM",
     "endDateTime": "9/25/2024 9:45 PM",
-    "participants": 150,
-    "details": "Event held for homicide survivors and their families to remember victims and spread awareness. There will be A reading of names and speakers talking about their experience as A homicide survivor. There will also be tables or booths for other organizations to share resources."
+    "participants": 100,
+    "details": "Event held for homicide survivors and their families to remember victims and spread awareness. There will be A reading of names and speakers talking about their experience as A homicide survivor. There will also be tables or booths for other organizations to share resources.  Actual event is 6pm-8pm."
   },
   {
     "status": "approved",
@@ -9973,6 +9973,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-622",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10960",
+    "eventSponsor": "Rally in support of Ukraine by Sunflower Society",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "11/24/2024 6:00 PM",
+    "setUpDateTime": "11/24/2024 5:30 PM",
+    "endDateTime": "11/24/2024 9:45 PM",
+    "participants": 150,
+    "details": "Solidarity Rally in support of Ukraine organized by the Sunflower Society of Sacramento"
+  },
+  {
+    "status": "approved",
     "number": "2024-623",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10961",
     "eventSponsor": "Sen. Gonzalez Press Conference",
@@ -11256,7 +11268,7 @@
     "details": "Artivism, Rally and Press Conference"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-732",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11091",
     "eventSponsor": "One Million Homes by 2030",
@@ -11964,7 +11976,7 @@
     "details": "Christian concert and speaking event. Theme will be about salvation and God's love. Poetry and dancing will be part of this event as well."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-790",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11169",
     "eventSponsor": "Green Party of Sacramento County",
@@ -12132,7 +12144,7 @@
     "details": "Delivering scaffolding through the west doors."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-804",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11198",
     "eventSponsor": "Parents Against CPS Corruption (PACC)",
@@ -12144,7 +12156,7 @@
     "details": "A Rally in support of parents effected by and fighting against the CPS system."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-805",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11199",
     "eventSponsor": "Cool Insurance Agency LLC",
@@ -12168,19 +12180,19 @@
     "details": "Jakara Movement its holding a 24 day, 350 mile, march beginning October 9th in Bakersfield that will conclude in Sacramento on November 1st. We are requesting to reserve the West Side Capitol Grounds as the final stop of this march. On November 1, the marchers will be walking from the West Sacramento Gurdwara (2301 Evergreen Ave - West Sacramento, CA)"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-807",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11201",
     "eventSponsor": "Demonstration to Stop Hazara Genocide",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "9/29/2024 4:00 PM",
-    "setUpDateTime": "9/29/2024 3:30 PM",
+    "setUpDateTime": "9/29/2024 3:00 PM",
     "endDateTime": "9/29/2024 7:15 PM",
     "participants": 300,
     "details": "A group of people will gather to demand immediate stop in systematic genocide of Hazara ethnic group in Afghanistan."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-808",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11202",
     "eventSponsor": "All Staff Photo",
@@ -12192,7 +12204,7 @@
     "details": "All Staff Photo for the Department of Finance on the West Steps"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-809",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11203",
     "eventSponsor": "Turner Wedding",
@@ -12216,7 +12228,7 @@
     "details": "A gathering of California Native community members to honor and celebrate California Indian Day. There will be two California Dance groups dancing in recognition of the day."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-810",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11204",
     "eventSponsor": "Small Business Against ABX2-1",
@@ -12226,6 +12238,30 @@
     "endDateTime": "9/26/2024 10:45 AM",
     "participants": 30,
     "details": "Press conference hosted by California Fuels and Convenience Alliance with other small and ethnic business leaders voicing their concerns about the special session on fuel and energy, and ABX2-1."
+  },
+  {
+    "status": "pending",
+    "number": "2024-811",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11209",
+    "eventSponsor": "Team Fun in the Sun",
+    "locationOnCapitolGrounds": "CDE Professional Leaning Support Division",
+    "startDateTime": "10/22/2024 10:30 AM",
+    "setUpDateTime": "10/22/2024 9:00 AM",
+    "endDateTime": "10/22/2024 1:00 PM",
+    "participants": 35,
+    "details": "The Professional Learning Support Division, of the California Department of Education, will be hosting a team building meeting. It will include activities such as Bean bag Toss, Tic Tac Toe, Jenga, table games and a coolie decorating contest. We will also be serving pizza for lunch."
+  },
+  {
+    "status": "pending",
+    "number": "2024-812",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11210",
+    "eventSponsor": "Report release",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "9/27/2024 10:00 AM",
+    "setUpDateTime": "9/27/2024 9:30 AM",
+    "endDateTime": "9/27/2024 12:00 PM",
+    "participants": 20,
+    "details": "Report release tax shelters for oil and gas"
   },
   {
     "status": "approved",
