@@ -8433,7 +8433,7 @@
     "setUpDateTime": "11/16/2024 7:00 AM",
     "endDateTime": "11/16/2024 8:00 PM",
     "participants": 1000,
-    "details": "Worship and prayer to gather local churches and communities. Setup a 20x30 ft stage and amplified sound.  Event from 2pm-6pm."
+    "details": "Worship and prayer to gather local churches and communities.  Event from 2pm-6pm."
   },
   {
     "status": "pending",
@@ -11209,6 +11209,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-727",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11086",
+    "eventSponsor": "Cardwell Lindsay Wedding",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "11/30/2024 3:30 PM",
+    "setUpDateTime": "11/30/2024 3:00 PM",
+    "endDateTime": "11/30/2024 4:00 PM",
+    "participants": 15,
+    "details": "Small wedding"
+  },
+  {
+    "status": "approved",
     "number": "2024-728",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11087",
     "eventSponsor": "Yes on 36",
@@ -11892,14 +11904,14 @@
     "details": "Will be providing traffic safety information to the public on various issues."
   },
   {
-    "status": "approved",
+    "status": "pending",
     "number": "2024-784",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11159",
     "eventSponsor": "State Capitol Tree Delivery and Setup",
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "10/30/2024 7:00 AM",
     "setUpDateTime": "10/30/2024 7:00 AM",
-    "endDateTime": "12/2/2024 5:00 PM",
+    "endDateTime": "11/1/2024 1:00 PM",
     "participants": 15,
     "details": "Tree delivery and setup on the west side."
   },
@@ -11979,10 +11991,10 @@
     "status": "approved",
     "number": "2024-790",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11169",
-    "eventSponsor": "Green Party of Sacramento County",
+    "eventSponsor": "One Year of Genocide One Year of Our Resistance",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "10/5/2024 3:00 PM",
-    "setUpDateTime": "10/5/2024 2:30 PM",
+    "startDateTime": "10/5/2024 2:00 PM",
+    "setUpDateTime": "10/5/2024 1:30 PM",
     "endDateTime": "10/5/2024 6:00 PM",
     "participants": 300,
     "details": "A solidarity demonstration marking the one year anniversary of the Genocide in Gaza."
@@ -12266,14 +12278,14 @@
   {
     "status": "pending",
     "number": "2024-813",
-    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11212",
-    "eventSponsor": "Wedd",
-    "locationOnCapitolGrounds": "Area 22",
-    "startDateTime": "9/28/2024 10:00 AM",
-    "setUpDateTime": "9/28/2024 10:00 AM",
-    "endDateTime": "5/24/2025 1:30 PM",
-    "participants": 20,
-    "details": "I just want to have a small beautiful wedding"
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11217",
+    "eventSponsor": "American Heart Association Heart at the Capitol Day",
+    "locationOnCapitolGrounds": "Other",
+    "startDateTime": "10/3/2024 7:00 AM",
+    "setUpDateTime": "10/3/2024 6:00 AM",
+    "endDateTime": "10/3/2024 4:00 PM",
+    "participants": 150,
+    "details": "Volunteer from across the state will be joining us to learn about our legislative priorities and attending meetings with their lawmakers to discuss legislation relating to heart health."
   },
   {
     "status": "approved",
