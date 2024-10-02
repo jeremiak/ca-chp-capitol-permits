@@ -11904,14 +11904,14 @@
     "details": "Will be providing traffic safety information to the public on various issues."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-784",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11159",
     "eventSponsor": "State Capitol Tree Delivery and Setup",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "10/30/2024 7:00 AM",
-    "setUpDateTime": "10/30/2024 7:00 AM",
-    "endDateTime": "11/1/2024 1:00 PM",
+    "startDateTime": "10/30/2024 10:00 AM",
+    "setUpDateTime": "10/29/2024 6:00 AM",
+    "endDateTime": "11/1/2024 8:00 PM",
     "participants": 15,
     "details": "Tree delivery and setup on the west side."
   },
@@ -12184,7 +12184,7 @@
     "number": "2024-806",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11200",
     "eventSponsor": "Jakara Movement",
-    "locationOnCapitolGrounds": "Other",
+    "locationOnCapitolGrounds": "West Side",
     "startDateTime": "11/1/2024 10:00 AM",
     "setUpDateTime": "11/1/2024 8:00 AM",
     "endDateTime": "11/1/2024 1:15 PM",
@@ -12264,10 +12264,10 @@
     "details": "The Professional Learning Support Division, of the California Department of Education, will be hosting a team building meeting. It will include activities such as Bean bag Toss, Tic Tac Toe, Jenga, table games and a coolie decorating contest. We will also be serving pizza for lunch."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-812",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11215",
-    "eventSponsor": "Wedding",
+    "eventSponsor": "Brim Wedding",
     "locationOnCapitolGrounds": "Area 1",
     "startDateTime": "11/1/2024 2:00 PM",
     "setUpDateTime": "11/1/2024 1:45 PM",
@@ -12286,6 +12286,30 @@
     "endDateTime": "10/3/2024 4:00 PM",
     "participants": 150,
     "details": "Volunteer from across the state will be joining us to learn about our legislative priorities and attending meetings with their lawmakers to discuss legislation relating to heart health."
+  },
+  {
+    "status": "pending",
+    "number": "2024-814",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11219",
+    "eventSponsor": "Seminar Outreach",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "10/3/2024 5:45 PM",
+    "setUpDateTime": "10/3/2024 4:30 PM",
+    "endDateTime": "10/3/2024 6:45 PM",
+    "participants": 40,
+    "details": "Gathering to have a mini-lecture on the significance of sharing education opportunities"
+  },
+  {
+    "status": "pending",
+    "number": "2024-815",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11220",
+    "eventSponsor": "Gao Wedding",
+    "locationOnCapitolGrounds": "Area 1",
+    "startDateTime": "11/23/2024 3:00 PM",
+    "setUpDateTime": "11/23/2024 12:30 PM",
+    "endDateTime": "11/23/2024 6:30 PM",
+    "participants": 20,
+    "details": "Small wedding"
   },
   {
     "status": "approved",
