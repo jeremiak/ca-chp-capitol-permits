@@ -12293,9 +12293,9 @@
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11219",
     "eventSponsor": "Seminar Outreach",
     "locationOnCapitolGrounds": "West Side",
-    "startDateTime": "10/3/2024 5:45 PM",
-    "setUpDateTime": "10/3/2024 4:30 PM",
-    "endDateTime": "10/3/2024 6:45 PM",
+    "startDateTime": "10/31/2024 4:00 AM",
+    "setUpDateTime": "10/31/2024 4:00 AM",
+    "endDateTime": "10/31/2024 4:00 AM",
     "participants": 40,
     "details": "Gathering to have a mini-lecture on the significance of sharing education opportunities"
   },
@@ -12310,6 +12310,18 @@
     "endDateTime": "11/23/2024 6:30 PM",
     "participants": 20,
     "details": "Small wedding"
+  },
+  {
+    "status": "pending",
+    "number": "2024-816",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11223",
+    "eventSponsor": "Yes on Prop 4 Press Conference",
+    "locationOnCapitolGrounds": "Area 22",
+    "startDateTime": "10/24/2024 10:30 AM",
+    "setUpDateTime": "10/24/2024 9:45 AM",
+    "endDateTime": "10/24/2024 11:30 AM",
+    "participants": 25,
+    "details": "Press conference for yes on Proposition 4 campaign"
   },
   {
     "status": "approved",
