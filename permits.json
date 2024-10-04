@@ -12252,7 +12252,7 @@
     "details": "Press conference hosted by California Fuels and Convenience Alliance with other small and ethnic business leaders voicing their concerns about the special session on fuel and energy, and ABX2-1."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-811",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11209",
     "eventSponsor": "Team Fun in the Sun",
@@ -12261,7 +12261,7 @@
     "setUpDateTime": "10/22/2024 9:00 AM",
     "endDateTime": "10/22/2024 1:00 PM",
     "participants": 35,
-    "details": "The Professional Learning Support Division, of the California Department of Education, will be hosting a team building meeting. It will include activities such as Bean bag Toss, Tic Tac Toe, Jenga, table games and a coolie decorating contest. We will also be serving pizza for lunch."
+    "details": "The Professional Learning Support Division, of the California Department of Education, will be hosting a team building meeting.  We will also be serving pizza for lunch."
   },
   {
     "status": "approved",
@@ -12300,7 +12300,7 @@
     "details": "Gathering to have a mini-lecture on the significance of sharing education opportunities"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-815",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11220",
     "eventSponsor": "Gao Wedding",
@@ -12312,7 +12312,7 @@
     "details": "Small wedding"
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-816",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11223",
     "eventSponsor": "Yes on Prop 4 Press Conference",
@@ -12322,6 +12322,18 @@
     "endDateTime": "10/24/2024 11:30 AM",
     "participants": 25,
     "details": "Press conference for yes on Proposition 4 campaign"
+  },
+  {
+    "status": "approved",
+    "number": "2024-817",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11224",
+    "eventSponsor": "He is You",
+    "locationOnCapitolGrounds": "Alexei Navalny Memorial Evening",
+    "startDateTime": "10/16/2024 6:00 PM",
+    "setUpDateTime": "10/16/2024 5:45 PM",
+    "endDateTime": "10/16/2024 7:15 PM",
+    "participants": 50,
+    "details": "Alexei Navalny Memorial Evening. These meetings are dedicated to remembering Alexei Navalny, a good person and a leader of the Russian opposition. Participants will stand with posters and discuss the current situation in Russia, as well as ways to stop the ongoing atrocities in Russia and Ukraine. There will also be a microphone and one small speaker."
   },
   {
     "status": "approved",
