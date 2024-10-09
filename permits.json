@@ -12372,6 +12372,18 @@
     "details": "The City of Trees Parade is a spectacular showcase celebrating Sacramento's art, music, and culture. Approximately 1,000 paraders will stage on 10th street and on the grassy areas of the Capitol West Steps before we roll down Capitol Mall into old Sacramento. A couple of large vehicles will remain on 10th Street to break down over night."
   },
   {
+    "status": "pending",
+    "number": "2024-820",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11235",
+    "eventSponsor": "Any Man Ministry Prayer",
+    "locationOnCapitolGrounds": "Area 1, Area 34",
+    "startDateTime": "10/19/2024 8:30 AM",
+    "setUpDateTime": "10/19/2024 8:00 AM",
+    "endDateTime": "10/19/2024 9:30 AM",
+    "participants": 30,
+    "details": "A gathering for the men of Center of Praise Ministries to come together in prayer."
+  },
+  {
     "status": "approved",
     "number": "2024-84",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10342",
