@@ -10117,6 +10117,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-632",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10972",
+    "eventSponsor": "Wreaths Across America",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "12/9/2024 12:00 PM",
+    "setUpDateTime": "12/9/2024 11:00 AM",
+    "endDateTime": "12/9/2024 1:30 PM",
+    "participants": 50,
+    "details": "Wreaths across America.  At every State Capitol we gather in honor of our Veterans."
+  },
+  {
+    "status": "approved",
     "number": "2024-633",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10973",
     "eventSponsor": "TimeDone Day",
@@ -12223,7 +12235,7 @@
     "locationOnCapitolGrounds": "West Side",
     "startDateTime": "10/14/2024 3:45 PM",
     "setUpDateTime": "10/14/2024 3:15 PM",
-    "endDateTime": "10/14/2024 4:15 PM",
+    "endDateTime": "10/14/2024 5:00 PM",
     "participants": 300,
     "details": "All Staff Photo for the Department of Finance on the West Steps"
   },
@@ -12372,11 +12384,11 @@
     "details": "The City of Trees Parade is a spectacular showcase celebrating Sacramento's art, music, and culture. Approximately 1,000 paraders will stage on 10th street and on the grassy areas of the Capitol West Steps before we roll down Capitol Mall into old Sacramento. A couple of large vehicles will remain on 10th Street to break down over night."
   },
   {
-    "status": "pending",
+    "status": "approved",
     "number": "2024-820",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11235",
     "eventSponsor": "Any Man Ministry Prayer",
-    "locationOnCapitolGrounds": "Area 1, Area 34",
+    "locationOnCapitolGrounds": "Area 1",
     "startDateTime": "10/19/2024 8:30 AM",
     "setUpDateTime": "10/19/2024 8:00 AM",
     "endDateTime": "10/19/2024 9:30 AM",
