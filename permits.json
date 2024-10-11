@@ -12396,6 +12396,30 @@
     "details": "A gathering for the men of Center of Praise Ministries to come together in prayer."
   },
   {
+    "status": "pending",
+    "number": "2024-822",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11240",
+    "eventSponsor": "SB 989 Press Conference",
+    "locationOnCapitolGrounds": "Sen. Ashby and Sacramento Family Justice Center",
+    "startDateTime": "10/24/2024 10:15 AM",
+    "setUpDateTime": "10/24/2024 9:00 AM",
+    "endDateTime": "10/24/2024 11:30 AM",
+    "participants": 5,
+    "details": "Press conference to celebrate the passage of SB 989. We would like to be on the lawn- not the capital steps."
+  },
+  {
+    "status": "pending",
+    "number": "2024-823",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11242",
+    "eventSponsor": "Weber Wedding",
+    "locationOnCapitolGrounds": "Area 34",
+    "startDateTime": "10/13/2024 12:00 PM",
+    "setUpDateTime": "10/13/2024 7:00 AM",
+    "endDateTime": "10/13/2024 4:00 PM",
+    "participants": 30,
+    "details": "Simple Wedding."
+  },
+  {
     "status": "approved",
     "number": "2024-84",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10342",
