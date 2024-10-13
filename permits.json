@@ -12361,6 +12361,18 @@
   },
   {
     "status": "approved",
+    "number": "2024-818",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11226",
+    "eventSponsor": "Capital Fellows Class Photo- Sacramento State",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "12/12/2024 8:45 AM",
+    "setUpDateTime": "12/12/2024 8:45 AM",
+    "endDateTime": "12/12/2024 10:00 AM",
+    "participants": 75,
+    "details": "Class photos for the 2024-2025 cohort of Capital Fellows."
+  },
+  {
+    "status": "approved",
     "number": "2024-819",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11232",
     "eventSponsor": "Art Installation  Students for Justice in Palestine",
@@ -12418,6 +12430,18 @@
     "endDateTime": "10/13/2024 4:00 PM",
     "participants": 30,
     "details": "Simple Wedding."
+  },
+  {
+    "status": "pending",
+    "number": "2024-824",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11244",
+    "eventSponsor": "Photography- Engagement session",
+    "locationOnCapitolGrounds": "West Side",
+    "startDateTime": "11/17/2024 4:00 PM",
+    "setUpDateTime": "11/17/2024 4:00 PM",
+    "endDateTime": "11/17/2024 5:00 PM",
+    "participants": 3,
+    "details": "I am a photographer and I am doing a photography engagement session with a couple."
   },
   {
     "status": "approved",
