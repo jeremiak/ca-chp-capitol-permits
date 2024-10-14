@@ -12444,6 +12444,30 @@
     "details": "I am a photographer and I am doing a photography engagement session with a couple."
   },
   {
+    "status": "pending",
+    "number": "2024-825",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11245",
+    "eventSponsor": "Wedding of Sky and Tristan Bradford-Hill",
+    "locationOnCapitolGrounds": "Area 1, Area 5",
+    "startDateTime": "10/26/2024 10:45 AM",
+    "setUpDateTime": "10/26/2024 10:30 AM",
+    "endDateTime": "10/26/2024 1:00 PM",
+    "participants": 15,
+    "details": "Small wedding ceremony with a few guests. No set up or chairs needed."
+  },
+  {
+    "status": "pending",
+    "number": "2024-826",
+    "url": "https://capitolpermits.chp.ca.gov/Event/Detail/11246",
+    "eventSponsor": "O'Kelly elopement ceremony ",
+    "locationOnCapitolGrounds": "Area 5",
+    "startDateTime": "11/1/2024 12:00 PM",
+    "setUpDateTime": "11/1/2024 11:30 AM",
+    "endDateTime": "11/1/2024 12:00 PM",
+    "participants": 20,
+    "details": "Elopement ceremony"
+  },
+  {
     "status": "approved",
     "number": "2024-84",
     "url": "https://capitolpermits.chp.ca.gov/Event/Detail/10342",
